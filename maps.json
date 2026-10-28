@@ -1,5 +1,32 @@
 [
 {
+"id": "tlr9-irf7-pd",
+"title": "TLR9 to type I interferon",
+"topic": "TLR9 to type I interferon",
+"group": "ExposomeMap",
+"kind": null,
+"tag": "draft",
+"tab": null,
+"image": "files/tlr9-irf7-pd.svg",
+"width": 2030.0,
+"height": 1588.0,
+"scale": 1,
+"annotation": "data/tlr9-irf7-pd.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/tlr9-irf7-pd.graphml"
+},
+{
+"label": "SVG",
+"url": "files/tlr9-irf7-pd.svg"
+}
+],
+"data": "data/tlr9-irf7-pd-text.json",
+"hasText": true
+},
+{
 "id": "metal-redox",
 "title": "Metal Fenton chemistry",
 "topic": "Metal Fenton chemistry",
