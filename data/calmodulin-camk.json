@@ -1,0 +1,548 @@
+{
+"nodes": [
+{
+"label": "CAMK2A",
+"class": "Macromolecule",
+"box": [
+145.0,
+165.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Calcium/calmodulin-dependent protein kinase type II subunit alpha"
+],
+[
+"Function",
+"Calcium/calmodulin-dependent protein kinase that functions autonomously after Ca(2+)/calmodulin-binding and autophosphorylation, and is involved in various processes, such as synaptic plasticity, neurotransmitter release and long-term potentiation. Member of the NMDAR signaling complex in excitatory synapses, it regulates NMDAR-dependent potentiation of the AMPAR and therefore excitatory synaptic transmission."
+],
+[
+"Location",
+"Synapse, Postsynaptic density, Cell projection, dendritic spine, Cell projection, dendrite"
+],
+[
+"HGNC",
+"HGNC:1460"
+],
+[
+"HGNC symbol",
+"CAMK2A"
+],
+[
+"Previous symbols",
+"CAMKA"
+],
+[
+"Alias symbols",
+"KIAA0968, CaMKIINalpha, CaMKIIα"
+],
+[
+"Entrez",
+"815"
+],
+[
+"Ensembl",
+"ENSG00000070808"
+],
+[
+"RefSeq",
+"NM_015981"
+],
+[
+"UniProt",
+"Q9UQM7"
+]
+]
+},
+{
+"label": "CALM3",
+"class": "Macromolecule",
+"box": [
+15.0,
+115.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Calmodulin-3"
+],
+[
+"Function",
+"Calmodulin acts as part of a calcium signal transduction pathway by mediating the control of a large number of enzymes, ion channels, aquaporins and other proteins through calcium-binding. Calcium-binding is required for the activation of calmodulin."
+],
+[
+"Location",
+"Cytoplasm, cytoskeleton, spindle, Cytoplasm, cytoskeleton, spindle pole, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome"
+],
+[
+"HGNC",
+"HGNC:1449"
+],
+[
+"HGNC symbol",
+"CALM3"
+],
+[
+"Alias symbols",
+"PHKD, PHKD3"
+],
+[
+"Entrez",
+"808"
+],
+[
+"Ensembl",
+"ENSG00000160014"
+],
+[
+"RefSeq",
+"NM_001329921"
+],
+[
+"UniProt",
+"P0DP25"
+]
+]
+},
+{
+"label": "CALM2",
+"class": "Macromolecule",
+"box": [
+15.0,
+65.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Calmodulin-2"
+],
+[
+"Function",
+"Calmodulin acts as part of a calcium signal transduction pathway by mediating the control of a large number of enzymes, ion channels, aquaporins and other proteins through calcium-binding. Calcium-binding is required for the activation of calmodulin."
+],
+[
+"Location",
+"Cytoplasm, cytoskeleton, spindle, Cytoplasm, cytoskeleton, spindle pole, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome"
+],
+[
+"HGNC",
+"HGNC:1445"
+],
+[
+"HGNC symbol",
+"CALM2"
+],
+[
+"Alias symbols",
+"PHKD, PHKD2, CAMII"
+],
+[
+"Entrez",
+"805"
+],
+[
+"Ensembl",
+"ENSG00000143933"
+],
+[
+"RefSeq",
+"NM_001743"
+],
+[
+"UniProt",
+"P0DP24"
+]
+]
+},
+{
+"label": "CALM1",
+"class": "Macromolecule",
+"box": [
+15.0,
+15.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Calmodulin-1"
+],
+[
+"Function",
+"Calmodulin acts as part of a calcium signal transduction pathway by mediating the control of a large number of enzymes, ion channels, aquaporins and other proteins through calcium-binding. Calcium-binding is required for the activation of calmodulin."
+],
+[
+"Location",
+"Cytoplasm, cytoskeleton, spindle, Cytoplasm, cytoskeleton, spindle pole, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cell projection, cilium, flagellum"
+],
+[
+"HGNC",
+"HGNC:1442"
+],
+[
+"HGNC symbol",
+"CALM1"
+],
+[
+"Previous symbols",
+"CALML2"
+],
+[
+"Alias symbols",
+"CAMI, PHKD, DD132, PHKD1"
+],
+[
+"Entrez",
+"801"
+],
+[
+"Ensembl",
+"ENSG00000198668"
+],
+[
+"RefSeq",
+"NM_001363669"
+],
+[
+"UniProt",
+"P0DP23"
+]
+]
+},
+{
+"label": "CAMK2B",
+"class": "Macromolecule",
+"box": [
+245.0,
+185.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Calcium/calmodulin-dependent protein kinase type II subunit beta"
+],
+[
+"Function",
+"Calcium/calmodulin-dependent protein kinase that functions autonomously after Ca(2+)/calmodulin-binding and autophosphorylation, and is involved in dendritic spine and synapse formation, neuronal plasticity and regulation of sarcoplasmic reticulum Ca(2+) transport in skeletal muscle. In neurons, plays an essential structural role in the reorganization of the actin cytoskeleton during plasticity by binding and bundling actin filaments in a kinase-independent manner."
+],
+[
+"Location",
+"Cytoplasm, cytoskeleton, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Sarcoplasmic reticulum membrane, Synapse"
+],
+[
+"HGNC",
+"HGNC:1461"
+],
+[
+"HGNC symbol",
+"CAMK2B"
+],
+[
+"Previous symbols",
+"CAMKB"
+],
+[
+"Alias symbols",
+"CAM2, CAMK2, CaMKIIβ"
+],
+[
+"Entrez",
+"816"
+],
+[
+"Ensembl",
+"ENSG00000058404"
+],
+[
+"RefSeq",
+"NM_172084"
+],
+[
+"UniProt",
+"Q13554"
+]
+]
+},
+{
+"label": "CAMK2D",
+"class": "Macromolecule",
+"box": [
+345.0,
+205.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Calcium/calmodulin-dependent protein kinase type II subunit delta"
+],
+[
+"Function",
+"Calcium/calmodulin-dependent protein kinase involved in the regulation of Ca(2+) homeostatis and excitation-contraction coupling (ECC) in heart by targeting ion channels, transporters and accessory proteins involved in Ca(2+) influx into the myocyte, Ca(2+) release from the sarcoplasmic reticulum (SR), SR Ca(2+) uptake and Na(+) and K(+) channel transport. Targets also transcription factors and signaling molecules to regulate heart function."
+],
+[
+"Location",
+"Cell membrane, sarcolemma, Sarcoplasmic reticulum membrane"
+],
+[
+"HGNC",
+"HGNC:1462"
+],
+[
+"HGNC symbol",
+"CAMK2D"
+],
+[
+"Previous symbols",
+"CAMKD"
+],
+[
+"Entrez",
+"817"
+],
+[
+"Ensembl",
+"ENSG00000145349"
+],
+[
+"RefSeq",
+"NM_001221"
+],
+[
+"UniProt",
+"Q13557"
+]
+]
+},
+{
+"label": "CAMK2G",
+"class": "Macromolecule",
+"box": [
+445.0,
+225.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Calcium/calmodulin-dependent protein kinase type II subunit gamma"
+],
+[
+"Function",
+"Calcium/calmodulin-dependent protein kinase that functions autonomously after Ca(2+)/calmodulin-binding and autophosphorylation, and is involved in sarcoplasmic reticulum Ca(2+) transport in skeletal muscle and may function in dendritic spine and synapse formation and neuronal plasticity. In slow-twitch muscles, is involved in regulation of sarcoplasmic reticulum (SR) Ca(2+) transport and in fast-twitch muscle participates in the control of Ca(2+) release from the SR through phosphorylation of the ryanodine receptor-coupling factor triadin."
+],
+[
+"Location",
+"Sarcoplasmic reticulum membrane"
+],
+[
+"HGNC",
+"HGNC:1463"
+],
+[
+"HGNC symbol",
+"CAMK2G"
+],
+[
+"Previous symbols",
+"CAMKG"
+],
+[
+"Entrez",
+"818"
+],
+[
+"Ensembl",
+"ENSG00000148660"
+],
+[
+"RefSeq",
+"NM_172169"
+],
+[
+"UniProt",
+"Q13555"
+]
+]
+},
+{
+"label": "CAMKK1",
+"class": "Macromolecule",
+"box": [
+545.0,
+280.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Calcium/calmodulin-dependent protein kinase kinase 1"
+],
+[
+"Alternative names",
+"CaM-kinase IV kinase; Calcium/calmodulin-dependent protein kinase kinase alpha"
+],
+[
+"Function",
+"Calcium/calmodulin-dependent protein kinase that belongs to a proposed calcium-triggered signaling cascade involved in a number of cellular processes. Phosphorylates CAMK1, CAMK1D, CAMK1G and CAMK4."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:1469"
+],
+[
+"HGNC symbol",
+"CAMKK1"
+],
+[
+"Alias symbols",
+"DKFZp761M0423, CAMKKA, MGC34095"
+],
+[
+"Entrez",
+"84254"
+],
+[
+"Ensembl",
+"ENSG00000004660"
+],
+[
+"RefSeq",
+"NM_032294, NM_172206, NM_172207"
+],
+[
+"UniProt",
+"Q8N5S9"
+]
+]
+},
+{
+"label": "CAMK4",
+"class": "Macromolecule",
+"box": [
+769.0,
+270.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Calcium/calmodulin-dependent protein kinase type IV"
+],
+[
+"Alternative names",
+"CaM kinase-GR"
+],
+[
+"Function",
+"Calcium/calmodulin-dependent protein kinase that operates in the calcium-triggered CaMKK-CaMK4 signaling cascade and regulates, mainly by phosphorylation, the activity of several transcription activators, such as CREB1, MEF2D, JUN and RORA, which play pivotal roles in immune response, inflammation, and memory consolidation. In the thymus, regulates the CD4(+)/CD8(+) double positive thymocytes selection threshold during T-cell ontogeny."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:1464"
+],
+[
+"HGNC symbol",
+"CAMK4"
+],
+[
+"Alias symbols",
+"CaMK-GR, CaMKIV"
+],
+[
+"Entrez",
+"814"
+],
+[
+"Ensembl",
+"ENSG00000152495"
+],
+[
+"RefSeq",
+"NM_001744"
+],
+[
+"UniProt",
+"Q16566"
+]
+]
+},
+{
+"label": "CAMKK2",
+"class": "Macromolecule",
+"box": [
+645.0,
+305.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Calcium/calmodulin-dependent protein kinase kinase 2"
+],
+[
+"Alternative names",
+"Calcium/calmodulin-dependent protein kinase kinase beta"
+],
+[
+"Function",
+"Calcium/calmodulin-dependent protein kinase belonging to a proposed calcium-triggered signaling cascade involved in a number of cellular processes. Isoform 1, isoform 2 and isoform 3 phosphorylate CAMK1 and CAMK4."
+],
+[
+"Location",
+"Nucleus, Cytoplasm, Cell projection, neuron projection"
+],
+[
+"HGNC",
+"HGNC:1470"
+],
+[
+"HGNC symbol",
+"CAMKK2"
+],
+[
+"Alias symbols",
+"CAMKK, KIAA0787, CAMKKB, MGC15254"
+],
+[
+"Entrez",
+"10645"
+],
+[
+"Ensembl",
+"ENSG00000110931"
+],
+[
+"RefSeq",
+"NM_172226"
+],
+[
+"UniProt",
+"Q96RR4"
+]
+]
+}
+]
+}

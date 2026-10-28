@@ -1,0 +1,4856 @@
+{
+"nodes": [
+{
+"label": "CYCS",
+"class": "Macromolecule",
+"box": [
+66.0,
+385.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cytochrome c"
+],
+[
+"Function",
+"Electron carrier protein. The oxidized form of the cytochrome c heme group can accept an electron from the heme group of the cytochrome c1 subunit of cytochrome reductase."
+],
+[
+"Location",
+"Mitochondrion intermembrane space"
+],
+[
+"HGNC",
+"HGNC:19986"
+],
+[
+"HGNC symbol",
+"CYCS"
+],
+[
+"Alias symbols",
+"HCS, CYC"
+],
+[
+"Entrez",
+"54205"
+],
+[
+"Ensembl",
+"ENSG00000172115"
+],
+[
+"RefSeq",
+"NM_018947"
+],
+[
+"UniProt",
+"P99999"
+]
+]
+},
+{
+"label": "O2-",
+"class": "SimpleChemical",
+"box": [
+43.5,
+295.5,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"superoxide"
+],
+[
+"Synonyms",
+"(O2)(.-); Dioxid(1-); Hyperoxid; O2(-); O2(.-); O2-; O2.-; Superoxide anion; dioxidanidyl; dioxide(.1-); dioxide(1-); hiperoxido; hyperoxide; superoxide anion radical; superoxide radical; superoxide radical anion; superoxido; superoxyde"
+],
+[
+"Formula",
+"O2"
+],
+[
+"ChEBI",
+"CHEBI:18421"
+],
+[
+"KEGG",
+"C00704"
+],
+[
+"HMDB",
+"HMDB0002168"
+],
+[
+"InChI",
+"InChI=1S/HO2/c1-2/h1H/p-1"
+],
+[
+"InChIKey",
+"OUUQCZGPVNCOIJ-UHFFFAOYSA-M"
+]
+]
+},
+{
+"label": "H+",
+"class": "SimpleChemical",
+"box": [
+113.5,
+235.5,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"hydron"
+],
+[
+"Synonyms",
+"H(+); H+; hydrogen(1+)"
+],
+[
+"Definition",
+"The general name for the hydrogen nucleus, to be used without regard to the hydrogen nuclear mass (either for hydrogen in its natural abundance or where it is not desired to distinguish between the isotopes)."
+],
+[
+"Formula",
+"H"
+],
+[
+"ChEBI",
+"CHEBI:15378"
+],
+[
+"KEGG",
+"C00080"
+],
+[
+"InChI",
+"InChI=1S/p+1"
+],
+[
+"InChIKey",
+"GPRLSGONYQIRFK-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "SOD1",
+"class": "Macromolecule",
+"box": [
+175.5,
+195.5,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Superoxide dismutase [Cu-Zn]"
+],
+[
+"Alternative names",
+"Hydrogen sulfide oxidase; Superoxide dismutase 1"
+],
+[
+"Function",
+"Destroys radicals which are normally produced within the cells and which are toxic to biological systems. Catalyzes the oxidation of hydrogen sulfide (H2S) to sulfate, playing an important role in detoxifying H2S and limiting the accumulation of reactive sulfur species (RSS) such as persulfides and polysulfides"
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:11179"
+],
+[
+"HGNC symbol",
+"SOD1"
+],
+[
+"Previous symbols",
+"ALS, ALS1"
+],
+[
+"Alias symbols",
+"IPOA"
+],
+[
+"Entrez",
+"6647"
+],
+[
+"Ensembl",
+"ENSG00000142168"
+],
+[
+"RefSeq",
+"NM_000454"
+],
+[
+"UniProt",
+"P00441"
+]
+]
+},
+{
+"label": "SOD1",
+"class": "Macromolecule",
+"box": [
+506.0,
+495.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Superoxide dismutase [Cu-Zn]"
+],
+[
+"Alternative names",
+"Hydrogen sulfide oxidase; Superoxide dismutase 1"
+],
+[
+"Function",
+"Destroys radicals which are normally produced within the cells and which are toxic to biological systems. Catalyzes the oxidation of hydrogen sulfide (H2S) to sulfate, playing an important role in detoxifying H2S and limiting the accumulation of reactive sulfur species (RSS) such as persulfides and polysulfides"
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:11179"
+],
+[
+"HGNC symbol",
+"SOD1"
+],
+[
+"Previous symbols",
+"ALS, ALS1"
+],
+[
+"Alias symbols",
+"IPOA"
+],
+[
+"Entrez",
+"6647"
+],
+[
+"Ensembl",
+"ENSG00000142168"
+],
+[
+"RefSeq",
+"NM_000454"
+],
+[
+"UniProt",
+"P00441"
+]
+]
+},
+{
+"label": "CCS",
+"class": "Macromolecule",
+"box": [
+552.5,
+418.5,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Copper chaperone for superoxide dismutase"
+],
+[
+"Alternative names",
+"Superoxide dismutase copper chaperone"
+],
+[
+"Function",
+"Delivers copper to copper zinc superoxide dismutase (SOD1)"
+],
+[
+"Location",
+"Cytoplasm, cytosol"
+],
+[
+"HGNC",
+"HGNC:1613"
+],
+[
+"HGNC symbol",
+"CCS"
+],
+[
+"Entrez",
+"9973"
+],
+[
+"Ensembl",
+"ENSG00000173992"
+],
+[
+"RefSeq",
+"NM_005125"
+],
+[
+"UniProt",
+"O14618"
+]
+]
+},
+{
+"label": "CCS",
+"class": "Macromolecule",
+"box": [
+652.5,
+418.5,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Copper chaperone for superoxide dismutase"
+],
+[
+"Alternative names",
+"Superoxide dismutase copper chaperone"
+],
+[
+"Function",
+"Delivers copper to copper zinc superoxide dismutase (SOD1)"
+],
+[
+"Location",
+"Cytoplasm, cytosol"
+],
+[
+"HGNC",
+"HGNC:1613"
+],
+[
+"HGNC symbol",
+"CCS"
+],
+[
+"Entrez",
+"9973"
+],
+[
+"Ensembl",
+"ENSG00000173992"
+],
+[
+"RefSeq",
+"NM_005125"
+],
+[
+"UniProt",
+"O14618"
+]
+]
+},
+{
+"label": "SOD1",
+"class": "Macromolecule",
+"box": [
+706.0,
+495.0,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Superoxide dismutase [Cu-Zn]"
+],
+[
+"Alternative names",
+"Hydrogen sulfide oxidase; Superoxide dismutase 1"
+],
+[
+"Function",
+"Destroys radicals which are normally produced within the cells and which are toxic to biological systems. Catalyzes the oxidation of hydrogen sulfide (H2S) to sulfate, playing an important role in detoxifying H2S and limiting the accumulation of reactive sulfur species (RSS) such as persulfides and polysulfides"
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:11179"
+],
+[
+"HGNC symbol",
+"SOD1"
+],
+[
+"Previous symbols",
+"ALS, ALS1"
+],
+[
+"Alias symbols",
+"IPOA"
+],
+[
+"Entrez",
+"6647"
+],
+[
+"Ensembl",
+"ENSG00000142168"
+],
+[
+"RefSeq",
+"NM_000454"
+],
+[
+"UniProt",
+"P00441"
+]
+]
+},
+{
+"label": "CYCS",
+"class": "Macromolecule",
+"box": [
+296.0,
+385.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cytochrome c"
+],
+[
+"Function",
+"Electron carrier protein. The oxidized form of the cytochrome c heme group can accept an electron from the heme group of the cytochrome c1 subunit of cytochrome reductase."
+],
+[
+"Location",
+"Mitochondrion intermembrane space"
+],
+[
+"HGNC",
+"HGNC:19986"
+],
+[
+"HGNC symbol",
+"CYCS"
+],
+[
+"Alias symbols",
+"HCS, CYC"
+],
+[
+"Entrez",
+"54205"
+],
+[
+"Ensembl",
+"ENSG00000172115"
+],
+[
+"RefSeq",
+"NM_018947"
+],
+[
+"UniProt",
+"P99999"
+]
+]
+},
+{
+"label": "O2",
+"class": "SimpleChemical",
+"box": [
+343.5,
+295.5,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"dioxygen"
+],
+[
+"Synonyms",
+"Disauerstoff; E 948; E-948; E948; O(2); O2; OXYGEN MOLECULE; Oxygen; [OO]; dioxygene; molecular oxygen"
+],
+[
+"Formula",
+"O2"
+],
+[
+"ChEBI",
+"CHEBI:15379"
+],
+[
+"KEGG",
+"C00007"
+],
+[
+"HMDB",
+"HMDB0001377"
+],
+[
+"InChI",
+"InChI=1S/O2/c1-2"
+],
+[
+"InChIKey",
+"MYMOFIZGZYHOMD-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "H2O2",
+"class": "SimpleChemical",
+"box": [
+283.5,
+235.5,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"hydrogen peroxide"
+],
+[
+"Synonyms",
+"H(2)O(2); H2O2; HOOH; Oxydol; [OH(OH)]; bis(hydridooxygen)(O--O); dihydrogen dioxide; dihydrogen peroxide; dihydrogen(peroxide); dioxidane; perhydrol"
+],
+[
+"Definition",
+"An inorganic peroxide consisting of two hydroxy groups joined by a covalent oxygen-oxygen single bond."
+],
+[
+"Formula",
+"H2O2"
+],
+[
+"ChEBI",
+"CHEBI:16240"
+],
+[
+"KEGG",
+"C00027"
+],
+[
+"HMDB",
+"HMDB0003125"
+],
+[
+"InChI",
+"InChI=1S/H2O2/c1-2/h1-2H"
+],
+[
+"InChIKey",
+"MHAJPDPJQMAIIY-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "GPX8",
+"class": "Macromolecule",
+"box": [
+226.0,
+525.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Protein peroxidase GPX8"
+],
+[
+"Function",
+"Acts as an endoplasmic reticulum (ER) thiol peroxidase that maintains ER redox homeostasis and protects the cytosol from ER-derived H(2)O(2). Functions in a redox relay with ERO1A, using ERO1A-generated H(2)O(2) to drive PDI oxidation, linking peroxide detoxification to productive disulfide formation."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane"
+],
+[
+"HGNC",
+"HGNC:33100"
+],
+[
+"HGNC symbol",
+"GPX8"
+],
+[
+"Alias symbols",
+"UNQ847, EPLA847"
+],
+[
+"Entrez",
+"493869"
+],
+[
+"Ensembl",
+"ENSG00000164294"
+],
+[
+"RefSeq",
+"NM_001008397"
+],
+[
+"UniProt",
+"Q8TED1"
+]
+]
+},
+{
+"label": "GPX7",
+"class": "Macromolecule",
+"box": [
+126.0,
+525.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Protein peroxidase GPX7"
+],
+[
+"Alternative names",
+"CL683"
+],
+[
+"Function",
+"Acts as an endoplasmic reticulum (ER) thiol peroxidase that maintains ER redox homeostasis and supports oxidative protein folding. Rapidly reacts with hydrogen peroxide to form sulfenylated/disulfide intermediates and oxidizes protein disulfide isomerase (PDI) family members, promoting disulfide-bond formation."
+],
+[
+"Location",
+"Endoplasmic reticulum"
+],
+[
+"HGNC",
+"HGNC:4559"
+],
+[
+"HGNC symbol",
+"GPX7"
+],
+[
+"Alias symbols",
+"FLJ14777, GPX6, NPGPx"
+],
+[
+"Entrez",
+"2882"
+],
+[
+"Ensembl",
+"ENSG00000116157"
+],
+[
+"RefSeq",
+"NM_015696"
+],
+[
+"UniProt",
+"Q96SL4"
+]
+]
+},
+{
+"label": "H2O2",
+"class": "SimpleChemical",
+"box": [
+123.0,
+622.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"hydrogen peroxide"
+],
+[
+"Synonyms",
+"H(2)O(2); H2O2; HOOH; Oxydol; [OH(OH)]; bis(hydridooxygen)(O--O); dihydrogen dioxide; dihydrogen peroxide; dihydrogen(peroxide); dioxidane; perhydrol"
+],
+[
+"Definition",
+"An inorganic peroxide consisting of two hydroxy groups joined by a covalent oxygen-oxygen single bond."
+],
+[
+"Formula",
+"H2O2"
+],
+[
+"ChEBI",
+"CHEBI:16240"
+],
+[
+"KEGG",
+"C00027"
+],
+[
+"HMDB",
+"HMDB0003125"
+],
+[
+"InChI",
+"InChI=1S/H2O2/c1-2/h1-2H"
+],
+[
+"InChIKey",
+"MHAJPDPJQMAIIY-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "H2O",
+"class": "SimpleChemical",
+"box": [
+263.0,
+622.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"water"
+],
+[
+"Synonyms",
+"BOUND WATER; H(2)O; H2O; HOH; Wasser; [OH2]; acqua; agua; aqua; dihydridooxygen; dihydrogen oxide; eau; hydrogen hydroxide; oxidane"
+],
+[
+"Definition",
+"An oxygen hydride consisting of an oxygen atom that is covalently bonded to two hydrogen atoms"
+],
+[
+"Formula",
+"H2O"
+],
+[
+"ChEBI",
+"CHEBI:15377"
+],
+[
+"KEGG",
+"C00001"
+],
+[
+"HMDB",
+"HMDB0002111"
+],
+[
+"InChI",
+"InChI=1S/H2O/h1H2"
+],
+[
+"InChIKey",
+"XLYOFNOQVPJJNP-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "H+",
+"class": "SimpleChemical",
+"box": [
+750.5,
+618.5,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"hydron"
+],
+[
+"Synonyms",
+"H(+); H+; hydrogen(1+)"
+],
+[
+"Definition",
+"The general name for the hydrogen nucleus, to be used without regard to the hydrogen nuclear mass (either for hydrogen in its natural abundance or where it is not desired to distinguish between the isotopes)."
+],
+[
+"Formula",
+"H"
+],
+[
+"ChEBI",
+"CHEBI:15378"
+],
+[
+"KEGG",
+"C00080"
+],
+[
+"InChI",
+"InChI=1S/p+1"
+],
+[
+"InChIKey",
+"GPRLSGONYQIRFK-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "NADP+",
+"class": "SimpleChemical",
+"box": [
+750.5,
+678.5,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"NADP(+)"
+],
+[
+"Synonyms",
+"2'-O-phosphonoadenosine 5'-{3-[1-(3-carbamoylpyridinio)-1,4-anhydro-D-ribitol-5-yl] dihydrogen diphosphate}; NADP; NADP+; Nicotinamide adenine dinucleotide phosphate; TPN; Triphosphopyridine nucleotide; beta-Nicotinamide adenine dinucleotide phosphate; oxidized nicotinamide-adenine dinucleotide phosphate"
+],
+[
+"Formula",
+"C21H29N7O17P3"
+],
+[
+"ChEBI",
+"CHEBI:18009"
+],
+[
+"KEGG",
+"C00006"
+],
+[
+"InChI",
+"InChI=1S/C21H28N7O17P3/c22-17-12-19(25-7-24-17)28(8-26-12)21-16(44-46(33,34)35)14(30)11(43-21)6-41-48(38,39)45-47(36,37)40-5-10-13(29)15(31)20(42-10)27-3-1-2-9(4-27)18(23)32/h1-4,7-8,10-11,13-16,20-21,29-31H,5-6H2,(H7-,22,23,24,25,32,33,34,35,36,37,38,39)/p+1/t10-,11-,13-,14-,15-,16-,20-,21-/m1/s1"
+],
+[
+"InChIKey",
+"XJLXINKUBYWONI-NNYOXOHSSA-O"
+]
+]
+},
+{
+"label": "CYBB",
+"class": "Macromolecule",
+"box": [
+646.0,
+709.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"NADPH oxidase 2"
+],
+[
+"Alternative names",
+"CGD91-phox; Cytochrome b(558) subunit beta; Cytochrome b-245 heavy chain; Heme-binding membrane glycoprotein gp91phox; Neutrophil cytochrome b 91 kDa polypeptide; Superoxide-generating NADPH oxidase heavy chain subunit; gp91-1; gp91-phox; p22 phagocyte B-cytochrome"
+],
+[
+"Function",
+"Catalytic subunit of the phagocyte NADPH oxidase complex that mediates the transfer of electrons from cytosolic NADPH to O2 to produce the superoxide anion (O2(-)). In the activated complex, electrons are first transferred from NADPH to flavin adenine dinucleotide (FAD) and subsequently transferred via two heme molecules to molecular oxygen, producing superoxide through an outer-sphere reaction (Probable)."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:2578"
+],
+[
+"HGNC symbol",
+"CYBB"
+],
+[
+"Previous symbols",
+"CGD"
+],
+[
+"Alias symbols",
+"GP91-PHOX, NOX2, GP91PHOX, p91-PHOX"
+],
+[
+"Entrez",
+"1536"
+],
+[
+"Ensembl",
+"ENSG00000165168"
+],
+[
+"RefSeq",
+"NM_000397"
+],
+[
+"UniProt",
+"P04839"
+]
+]
+},
+{
+"label": "H2O2",
+"class": "SimpleChemical",
+"box": [
+871.0,
+602.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"hydrogen peroxide"
+],
+[
+"Synonyms",
+"H(2)O(2); H2O2; HOOH; Oxydol; [OH(OH)]; bis(hydridooxygen)(O--O); dihydrogen dioxide; dihydrogen peroxide; dihydrogen(peroxide); dioxidane; perhydrol"
+],
+[
+"Definition",
+"An inorganic peroxide consisting of two hydroxy groups joined by a covalent oxygen-oxygen single bond."
+],
+[
+"Formula",
+"H2O2"
+],
+[
+"ChEBI",
+"CHEBI:16240"
+],
+[
+"KEGG",
+"C00027"
+],
+[
+"HMDB",
+"HMDB0003125"
+],
+[
+"InChI",
+"InChI=1S/H2O2/c1-2/h1-2H"
+],
+[
+"InChIKey",
+"MHAJPDPJQMAIIY-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "O2-",
+"class": "SimpleChemical",
+"box": [
+871.0,
+382.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"superoxide"
+],
+[
+"Synonyms",
+"(O2)(.-); Dioxid(1-); Hyperoxid; O2(-); O2(.-); O2-; O2.-; Superoxide anion; dioxidanidyl; dioxide(.1-); dioxide(1-); hiperoxido; hyperoxide; superoxide anion radical; superoxide radical; superoxide radical anion; superoxido; superoxyde"
+],
+[
+"Formula",
+"O2"
+],
+[
+"ChEBI",
+"CHEBI:18421"
+],
+[
+"KEGG",
+"C00704"
+],
+[
+"HMDB",
+"HMDB0002168"
+],
+[
+"InChI",
+"InChI=1S/HO2/c1-2/h1H/p-1"
+],
+[
+"InChIKey",
+"OUUQCZGPVNCOIJ-UHFFFAOYSA-M"
+]
+]
+},
+{
+"label": "NO",
+"class": "SimpleChemical",
+"box": [
+901.0,
+312.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"nobelium atom"
+],
+[
+"Synonyms",
+"102No; No; Nobelium; Unb; nobelio; unnilbium"
+],
+[
+"Formula",
+"No"
+],
+[
+"ChEBI",
+"CHEBI:33396"
+],
+[
+"InChI",
+"InChI=1S/No"
+],
+[
+"InChIKey",
+"ORQBXQOJMQIAOY-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "P4HB",
+"class": "Macromolecule",
+"box": [
+296.0,
+695.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Protein disulfide-isomerase"
+],
+[
+"Alternative names",
+"Cellular thyroid hormone-binding protein; Prolyl 4-hydroxylase subunit beta; p55"
+],
+[
+"Function",
+"This multifunctional protein catalyzes the formation, breakage and rearrangement of disulfide bonds. At the cell surface, seems to act as a reductase that cleaves disulfide bonds of proteins attached to the cell."
+],
+[
+"Location",
+"Endoplasmic reticulum, Endoplasmic reticulum lumen, Melanosome, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:8548"
+],
+[
+"HGNC symbol",
+"P4HB"
+],
+[
+"Previous symbols",
+"PO4DB, ERBA2L"
+],
+[
+"Alias symbols",
+"PDIA1, PROHB, DSI, GIT, PDI, PO4HB, P4Hbeta"
+],
+[
+"Entrez",
+"5034"
+],
+[
+"Ensembl",
+"ENSG00000185624"
+],
+[
+"RefSeq",
+"NM_000918"
+],
+[
+"UniProt",
+"P07237"
+]
+]
+},
+{
+"label": "P4HB",
+"class": "Macromolecule",
+"box": [
+56.0,
+695.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Protein disulfide-isomerase"
+],
+[
+"Alternative names",
+"Cellular thyroid hormone-binding protein; Prolyl 4-hydroxylase subunit beta; p55"
+],
+[
+"Function",
+"This multifunctional protein catalyzes the formation, breakage and rearrangement of disulfide bonds. At the cell surface, seems to act as a reductase that cleaves disulfide bonds of proteins attached to the cell."
+],
+[
+"Location",
+"Endoplasmic reticulum, Endoplasmic reticulum lumen, Melanosome, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:8548"
+],
+[
+"HGNC symbol",
+"P4HB"
+],
+[
+"Previous symbols",
+"PO4DB, ERBA2L"
+],
+[
+"Alias symbols",
+"PDIA1, PROHB, DSI, GIT, PDI, PO4HB, P4Hbeta"
+],
+[
+"Entrez",
+"5034"
+],
+[
+"Ensembl",
+"ENSG00000185624"
+],
+[
+"RefSeq",
+"NM_000918"
+],
+[
+"UniProt",
+"P07237"
+]
+]
+},
+{
+"label": "NOX5",
+"class": "Macromolecule",
+"box": [
+644.0,
+825.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"NADPH oxidase 5"
+],
+[
+"Function",
+"Calcium-dependent NADPH oxidase that catalyzes the generation of superoxide from molecular oxygen utilizing NADPH as an electron donor. Also synthesizes NAADP from its reduced NAADPH form which promotes Ca(2+) signaling during T cell activation."
+],
+[
+"Location",
+"Endoplasmic reticulum, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:14874"
+],
+[
+"HGNC symbol",
+"NOX5"
+],
+[
+"Alias symbols",
+"NOX5A, NOX5B"
+],
+[
+"Entrez",
+"79400"
+],
+[
+"Ensembl",
+"ENSG00000255346"
+],
+[
+"RefSeq",
+"NM_024505"
+],
+[
+"UniProt",
+"Q96PH1"
+]
+]
+},
+{
+"label": "NOX4",
+"class": "Macromolecule",
+"box": [
+645.0,
+767.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"NADPH oxidase 4"
+],
+[
+"Alternative names",
+"Kidney oxidase-1; Kidney superoxide-producing NADPH oxidase; Renal NAD(P)H-oxidase"
+],
+[
+"Function",
+"NADPH oxidase that catalyzes predominantly the reduction of oxygen to H2O2. Can also catalyze to a smaller extent, the reduction of oxygen to superoxide."
+],
+[
+"Location",
+"Cytoplasm, Endoplasmic reticulum membrane, Cell membrane, Cell junction, focal adhesion, Nucleus, Nucleus, nucleolus, Cytoplasm, perinuclear region"
+],
+[
+"HGNC",
+"HGNC:7891"
+],
+[
+"HGNC symbol",
+"NOX4"
+],
+[
+"Alias symbols",
+"KOX-1, KOX"
+],
+[
+"Entrez",
+"50507"
+],
+[
+"Ensembl",
+"ENSG00000086991"
+],
+[
+"RefSeq",
+"NM_016931"
+],
+[
+"UniProt",
+"Q9NPH5"
+]
+]
+},
+{
+"label": "O2",
+"class": "SimpleChemical",
+"box": [
+751.0,
+802.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"dioxygen"
+],
+[
+"Synonyms",
+"Disauerstoff; E 948; E-948; E948; O(2); O2; OXYGEN MOLECULE; Oxygen; [OO]; dioxygene; molecular oxygen"
+],
+[
+"Formula",
+"O2"
+],
+[
+"ChEBI",
+"CHEBI:15379"
+],
+[
+"KEGG",
+"C00007"
+],
+[
+"HMDB",
+"HMDB0001377"
+],
+[
+"InChI",
+"InChI=1S/O2/c1-2"
+],
+[
+"InChIKey",
+"MYMOFIZGZYHOMD-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "O2",
+"class": "SimpleChemical",
+"box": [
+941.0,
+552.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"dioxygen"
+],
+[
+"Synonyms",
+"Disauerstoff; E 948; E-948; E948; O(2); O2; OXYGEN MOLECULE; Oxygen; [OO]; dioxygene; molecular oxygen"
+],
+[
+"Formula",
+"O2"
+],
+[
+"ChEBI",
+"CHEBI:15379"
+],
+[
+"KEGG",
+"C00007"
+],
+[
+"HMDB",
+"HMDB0001377"
+],
+[
+"InChI",
+"InChI=1S/O2/c1-2"
+],
+[
+"InChIKey",
+"MYMOFIZGZYHOMD-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "H+",
+"class": "SimpleChemical",
+"box": [
+941.0,
+442.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"hydron"
+],
+[
+"Synonyms",
+"H(+); H+; hydrogen(1+)"
+],
+[
+"Definition",
+"The general name for the hydrogen nucleus, to be used without regard to the hydrogen nuclear mass (either for hydrogen in its natural abundance or where it is not desired to distinguish between the isotopes)."
+],
+[
+"Formula",
+"H"
+],
+[
+"ChEBI",
+"CHEBI:15378"
+],
+[
+"KEGG",
+"C00080"
+],
+[
+"InChI",
+"InChI=1S/p+1"
+],
+[
+"InChIKey",
+"GPRLSGONYQIRFK-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "Zn2+",
+"class": "SimpleChemical",
+"box": [
+1153.0,
+62.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"zinc atom"
+],
+[
+"Synonyms",
+"30Zn; Zink; Zn; Zn(II); Zn2+; cinc; zinc; zincum"
+],
+[
+"Formula",
+"Zn"
+],
+[
+"ChEBI",
+"CHEBI:27363"
+],
+[
+"KEGG",
+"C00038"
+],
+[
+"InChI",
+"InChI=1S/Zn"
+],
+[
+"InChIKey",
+"HCHKCACWOHOZIP-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "NUDT2",
+"class": "Macromolecule",
+"box": [
+176.0,
+845.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Bis(5'-nucleosyl)-tetraphosphatase [asymmetrical]"
+],
+[
+"Alternative names",
+"Diadenosine 5',5'''-P1,P4-tetraphosphate asymmetrical hydrolase; Nucleoside diphosphate-linked moiety X motif 2"
+],
+[
+"Function",
+"Catalyzes the asymmetric hydrolysis of diadenosine 5',5'''-P1,P4-tetraphosphate (Ap4A) to yield AMP and ATP. Exhibits decapping activity towards FAD-capped RNAs and dpCoA-capped RNAs in vitro"
+],
+[
+"HGNC",
+"HGNC:8049"
+],
+[
+"HGNC symbol",
+"NUDT2"
+],
+[
+"Previous symbols",
+"APAH1"
+],
+[
+"Entrez",
+"318"
+],
+[
+"Ensembl",
+"ENSG00000164978"
+],
+[
+"RefSeq",
+"NM_001161"
+],
+[
+"UniProt",
+"P50583"
+]
+]
+},
+{
+"label": "H+",
+"class": "SimpleChemical",
+"box": [
+811.0,
+942.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"hydron"
+],
+[
+"Synonyms",
+"H(+); H+; hydrogen(1+)"
+],
+[
+"Definition",
+"The general name for the hydrogen nucleus, to be used without regard to the hydrogen nuclear mass (either for hydrogen in its natural abundance or where it is not desired to distinguish between the isotopes)."
+],
+[
+"Formula",
+"H"
+],
+[
+"ChEBI",
+"CHEBI:15378"
+],
+[
+"KEGG",
+"C00080"
+],
+[
+"InChI",
+"InChI=1S/p+1"
+],
+[
+"InChIKey",
+"GPRLSGONYQIRFK-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "O2-",
+"class": "SimpleChemical",
+"box": [
+731.0,
+942.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"superoxide"
+],
+[
+"Synonyms",
+"(O2)(.-); Dioxid(1-); Hyperoxid; O2(-); O2(.-); O2-; O2.-; Superoxide anion; dioxidanidyl; dioxide(.1-); dioxide(1-); hiperoxido; hyperoxide; superoxide anion radical; superoxide radical; superoxide radical anion; superoxido; superoxyde"
+],
+[
+"Formula",
+"O2"
+],
+[
+"ChEBI",
+"CHEBI:18421"
+],
+[
+"KEGG",
+"C00704"
+],
+[
+"HMDB",
+"HMDB0002168"
+],
+[
+"InChI",
+"InChI=1S/HO2/c1-2/h1H/p-1"
+],
+[
+"InChIKey",
+"OUUQCZGPVNCOIJ-UHFFFAOYSA-M"
+]
+]
+},
+{
+"label": "NO",
+"class": "SimpleChemical",
+"box": [
+651.0,
+942.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"nobelium atom"
+],
+[
+"Synonyms",
+"102No; No; Nobelium; Unb; nobelio; unnilbium"
+],
+[
+"Formula",
+"No"
+],
+[
+"ChEBI",
+"CHEBI:33396"
+],
+[
+"InChI",
+"InChI=1S/No"
+],
+[
+"InChIKey",
+"ORQBXQOJMQIAOY-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "AQP8",
+"class": "Macromolecule",
+"box": [
+945.0,
+846.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Aquaporin-8"
+],
+[
+"Function",
+"Channel that allows the facilitated permeation of water and uncharged molecules, such as hydrogen peroxide and the neutral form of ammonia (NH3), through cellular membranes such as plasma membrane, inner mitochondrial membrane and endoplasmic reticulum membrane of several tissues. The transport of the ammonia neutral form induces a parallel transport of proton, at alkaline pH when the concentration of ammonia is high."
+],
+[
+"Location",
+"Cell membrane, Mitochondrion inner membrane, Apical cell membrane, Basolateral cell membrane, Smooth endoplasmic reticulum membrane"
+],
+[
+"HGNC",
+"HGNC:642"
+],
+[
+"HGNC symbol",
+"AQP8"
+],
+[
+"Entrez",
+"343"
+],
+[
+"Ensembl",
+"ENSG00000103375"
+],
+[
+"RefSeq",
+"NM_001169"
+],
+[
+"UniProt",
+"O94778"
+]
+]
+},
+{
+"label": "GPX2",
+"class": "Macromolecule",
+"box": [
+1085.0,
+896.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Glutathione peroxidase 2"
+],
+[
+"Alternative names",
+"Gastrointestinal glutathione peroxidase; Glutathione peroxidase-gastrointestinal; Glutathione peroxidase-related protein 2; Phospholipid hydroperoxide glutathione peroxidase GPX2"
+],
+[
+"Function",
+"Catalyzes the reduction of hydroperoxides in a glutathione-dependent manner thus regulating cellular redox homeostasis. Can reduce small soluble hydroperoxides such as H2O2, cumene hydroperoxide and tert-butyl hydroperoxide, as well as several fatty acid-derived hydroperoxides."
+],
+[
+"Location",
+"Cytoplasm, cytosol"
+],
+[
+"HGNC",
+"HGNC:4554"
+],
+[
+"HGNC symbol",
+"GPX2"
+],
+[
+"Alias symbols",
+"GSHPX-GI"
+],
+[
+"Entrez",
+"2877"
+],
+[
+"Ensembl",
+"ENSG00000176153"
+],
+[
+"RefSeq",
+"NM_002083"
+],
+[
+"UniProt",
+"P18283"
+]
+]
+},
+{
+"label": "GPX1",
+"class": "Macromolecule",
+"box": [
+1085.0,
+826.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Glutathione peroxidase 1"
+],
+[
+"Alternative names",
+"Cellular glutathione peroxidase; Phospholipid-hydroperoxide glutathione peroxidase GPX1"
+],
+[
+"Function",
+"Catalyzes the reduction of hydroperoxides in a glutathione-dependent manner thus regulating cellular redox homeostasis. Can reduce small soluble hydroperoxides such as H2O2, cumene hydroperoxide and tert-butyl hydroperoxide, as well as several fatty acid-derived hydroperoxides."
+],
+[
+"Location",
+"Cytoplasm, Mitochondrion"
+],
+[
+"HGNC",
+"HGNC:4553"
+],
+[
+"HGNC symbol",
+"GPX1"
+],
+[
+"Entrez",
+"2876"
+],
+[
+"Ensembl",
+"ENSG00000233276"
+],
+[
+"RefSeq",
+"NM_000581"
+],
+[
+"UniProt",
+"P07203"
+]
+]
+},
+{
+"label": "NADPH",
+"class": "SimpleChemical",
+"box": [
+811.0,
+832.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"NADPH"
+],
+[
+"Synonyms",
+"2'-O-phosphonoadenosine 5'-{3-[1-(3-carbamoyl-1,4-dihydropyridin-1-yl)-1,4-anhydro-D-ribitol-5-yl] dihydrogen diphosphate}; NADPH DIHYDRO-NICOTINAMIDE-ADENINE-DINUCLEOTIDE PHOSPHATE; Reduced nicotinamide adenine dinucleotide phosphate; TPNH; dihydronicotinamide-adenine dinucleotide phosphate; reduced nicotinamide-adenine dinucleotide phosphate"
+],
+[
+"Definition",
+"The reduced form of NADP+; used in anabolic reactions, such as lipid and nucleic acid synthesis, which require NADPH as a reducing agent."
+],
+[
+"Formula",
+"C21H30N7O17P3"
+],
+[
+"ChEBI",
+"CHEBI:16474"
+],
+[
+"KEGG",
+"C00005"
+],
+[
+"HMDB",
+"HMDB0000221"
+],
+[
+"InChI",
+"InChI=1S/C21H30N7O17P3/c22-17-12-19(25-7-24-17)28(8-26-12)21-16(44-46(33,34)35)14(30)11(43-21)6-41-48(38,39)45-47(36,37)40-5-10-13(29)15(31)20(42-10)27-3-1-2-9(4-27)18(23)32/h1,3-4,7-8,10-11,13-16,20-21,29-31H,2,5-6H2,(H2,23,32)(H,36,37)(H,38,39)(H2,22,24,25)(H2,33,34,35)/t10-,11-,13-,14-,15-,16-,20-,21-/m1/s1"
+],
+[
+"InChIKey",
+"ACFIXJIJDZMPPO-NNYOXOHSSA-N"
+]
+]
+},
+{
+"label": "TXN",
+"class": "Macromolecule",
+"box": [
+1103.5,
+571.5,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Thioredoxin"
+],
+[
+"Alternative names",
+"ATL-derived factor; Surface-associated sulphydryl protein"
+],
+[
+"Function",
+"Participates in various redox reactions through the reversible oxidation of its active center dithiol to a disulfide and catalyzes dithiol-disulfide exchange reactions. Plays a role in the reversible S-nitrosylation of cysteine residues in target proteins, and thereby contributes to the response to intracellular nitric oxide."
+],
+[
+"Location",
+"Nucleus, Cytoplasm, Secreted"
+],
+[
+"HGNC",
+"HGNC:12435"
+],
+[
+"HGNC symbol",
+"TXN"
+],
+[
+"Alias symbols",
+"TRX, Trx80, TXN1"
+],
+[
+"Entrez",
+"7295"
+],
+[
+"Ensembl",
+"ENSG00000136810"
+],
+[
+"RefSeq",
+"NM_001244938"
+],
+[
+"UniProt",
+"P10599"
+]
+]
+},
+{
+"label": "PRDX6",
+"class": "Macromolecule",
+"box": [
+1084.0,
+975.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Peroxiredoxin-5, mitochondrial"
+],
+[
+"Alternative names",
+"Alu corepressor 1; Antioxidant enzyme B166; Liver tissue 2D-page spot 71B; PLP; Peroxiredoxin V; Peroxisomal antioxidant enzyme; TPx type VI; Thioredoxin peroxidase PMP20; Thioredoxin-dependent peroxiredoxin 5"
+],
+[
+"Function",
+"Thiol-specific peroxidase that catalyzes the reduction of hydrogen peroxide and organic hydroperoxides to water and alcohols, respectively. Plays a role in cell protection against oxidative stress by detoxifying peroxides and as sensor of hydrogen peroxide-mediated signaling events"
+],
+[
+"Location",
+"Mitochondrion, Cytoplasm, Peroxisome matrix"
+],
+[
+"HGNC",
+"HGNC:9355"
+],
+[
+"HGNC symbol",
+"PRDX5"
+],
+[
+"Alias symbols",
+"ACR1, AOEB166, MGC142285, PRXV, PMP20, B166, PRDX6, PLP, SBBI10, MGC117264, MGC142283"
+],
+[
+"Entrez",
+"25824"
+],
+[
+"Ensembl",
+"ENSG00000126432"
+],
+[
+"RefSeq",
+"NM_181651"
+],
+[
+"UniProt",
+"P30044"
+]
+]
+},
+{
+"label": "SOD3",
+"class": "Macromolecule",
+"box": [
+1136.0,
+135.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Extracellular superoxide dismutase [Cu-Zn]"
+],
+[
+"Function",
+"Secreted antioxidant enzyme that acts as the primary scavenger of superoxide radicals in the extracellular space, converting them to hydrogen peroxide and thereby protecting tissues from oxidative damage. Also preserves nitric oxide bioavailability by preventing the formation of harmful peroxynitrite."
+],
+[
+"Location",
+"Secreted, extracellular space, Golgi apparatus, trans-Golgi network, Vesicle"
+],
+[
+"HGNC",
+"HGNC:11181"
+],
+[
+"HGNC symbol",
+"SOD3"
+],
+[
+"Alias symbols",
+"EC-SOD"
+],
+[
+"Entrez",
+"6649"
+],
+[
+"Ensembl",
+"ENSG00000109610"
+],
+[
+"RefSeq",
+"NM_003102"
+],
+[
+"UniProt",
+"P08294"
+]
+]
+},
+{
+"label": "H2O",
+"class": "SimpleChemical",
+"box": [
+1153.0,
+202.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"water"
+],
+[
+"Synonyms",
+"BOUND WATER; H(2)O; H2O; HOH; Wasser; [OH2]; acqua; agua; aqua; dihydridooxygen; dihydrogen oxide; eau; hydrogen hydroxide; oxidane"
+],
+[
+"Definition",
+"An oxygen hydride consisting of an oxygen atom that is covalently bonded to two hydrogen atoms"
+],
+[
+"Formula",
+"H2O"
+],
+[
+"ChEBI",
+"CHEBI:15377"
+],
+[
+"KEGG",
+"C00001"
+],
+[
+"HMDB",
+"HMDB0002111"
+],
+[
+"InChI",
+"InChI=1S/H2O/h1H2"
+],
+[
+"InChIKey",
+"XLYOFNOQVPJJNP-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "GMP",
+"class": "SimpleChemical",
+"box": [
+293.0,
+912.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"guanosine 5'-monophosphate"
+],
+[
+"Synonyms",
+"5'-GMP; 5'-guanylic acid; GMP; Guanosine 5'-phosphate; Guanosine monophosphate; Guanylic acid; [(2R,3S,4R,5R)-5-(2-amino-6-oxo-1,6-dihydro-9H-purin-9-yl)-3,4-dihydroxytetrahydrofuran-2-yl]methyl dihydrogen phosphate; guanosine-5'-monophosphate; pG"
+],
+[
+"Definition",
+"A purine ribonucleoside 5'-monophosphate having guanine as the nucleobase."
+],
+[
+"Formula",
+"C10H14N5O8P"
+],
+[
+"ChEBI",
+"CHEBI:17345"
+],
+[
+"KEGG",
+"C00144"
+],
+[
+"HMDB",
+"HMDB0001397"
+],
+[
+"InChI",
+"InChI=1S/C10H14N5O8P/c11-10-13-7-4(8(18)14-10)12-2-15(7)9-6(17)5(16)3(23-9)1-22-24(19,20)21/h2-3,5-6,9,16-17H,1H2,(H2,19,20,21)(H3,11,13,14,18)/t3-,5-,6-,9-/m1/s1"
+],
+[
+"InChIKey",
+"RQFCJASXJCIDSX-UUOKFMHZSA-N"
+]
+]
+},
+{
+"label": "GP4G",
+"class": "SimpleChemical",
+"box": [
+93.0,
+912.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"P(1),P(4)-bis(5'-guanosyl) tetraphosphate"
+],
+[
+"Synonyms",
+"(ppG)2; Bis(5'-guanosyl) tetraphosphate; Diguanosine tetraphosphate; G(5')p4(5')G; GP4G; GppppG; P(1),P(4)-bis(5'-guanosyl) tetrahydrogen tetraphosphate; P1,P4-Bis(5'-guanosyl) tetraphosphate; bis(guanylyl) diphosphate; guanosine(5')tetraphospho(5')guanosine"
+],
+[
+"Definition",
+"A purine ribonucleoside 5'-tetraphosphate compound having 5'-guanosyl residues at the P1- and P4-positions."
+],
+[
+"Formula",
+"C20H28N10O21P4"
+],
+[
+"ChEBI",
+"CHEBI:15883"
+],
+[
+"KEGG",
+"C01261"
+],
+[
+"InChI",
+"InChI=1S/C20H28N10O21P4/c21-19-25-13-7(15(35)27-19)23-3-29(13)17-11(33)9(31)5(47-17)1-45-52(37,38)49-54(41,42)51-55(43,44)50-53(39,40)46-2-6-10(32)12(34)18(48-6)30-4-24-8-14(30)26-20(22)28-16(8)36/h3-6,9-12,17-18,31-34H,1-2H2,(H,37,38)(H,39,40)(H,41,42)(H,43,44)(H3,21,25,27,35)(H3,22,26,28,36)/t5-,6-,9-,10-,11-,12-,17-,18-/m1/s1"
+],
+[
+"InChIKey",
+"OLGWXCQXRSSQPO-MHARETSRSA-N"
+]
+]
+},
+{
+"label": "SOD2",
+"class": "Macromolecule",
+"box": [
+705.0,
+1006.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Superoxide dismutase [Mn], mitochondrial"
+],
+[
+"Function",
+"Destroys superoxide anion radicals which are normally produced within the cells and which are toxic to biological systems"
+],
+[
+"Location",
+"Mitochondrion matrix"
+],
+[
+"HGNC",
+"HGNC:11180"
+],
+[
+"HGNC symbol",
+"SOD2"
+],
+[
+"Alias symbols",
+"GC1, IPOB, MnSOD, GClnc1, lncRNA-GC1"
+],
+[
+"Entrez",
+"6648"
+],
+[
+"Ensembl",
+"ENSG00000291237"
+],
+[
+"RefSeq",
+"NM_000636"
+],
+[
+"UniProt",
+"P04179"
+]
+]
+},
+{
+"label": "GSTP1",
+"class": "Macromolecule",
+"box": [
+1084.0,
+1045.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Glutathione S-transferase P"
+],
+[
+"Alternative names",
+"GST class-pi; GSTP1-1"
+],
+[
+"Function",
+"Catalyzes conjugation of reduced glutathione to a wide number of exogenous and endogenous hydrophobic electrophiles. Involved in the formation of glutathione conjugates of both prostaglandin A2 (PGA2) and prostaglandin J2 (PGJ2)."
+],
+[
+"Location",
+"Cytoplasm, Mitochondrion, Nucleus"
+],
+[
+"HGNC",
+"HGNC:4638"
+],
+[
+"HGNC symbol",
+"GSTP1"
+],
+[
+"Previous symbols",
+"FAEES3, GST3"
+],
+[
+"Alias symbols",
+"GSTP"
+],
+[
+"Entrez",
+"2950"
+],
+[
+"Ensembl",
+"ENSG00000084207"
+],
+[
+"RefSeq",
+"NM_000852"
+],
+[
+"UniProt",
+"P09211"
+]
+]
+},
+{
+"label": "PRDX1",
+"class": "Macromolecule",
+"box": [
+1171.0,
+682.0,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Peroxiredoxin-1"
+],
+[
+"Alternative names",
+"Natural killer cell-enhancing factor A; Proliferation-associated gene protein; Thioredoxin peroxidase 2; Thioredoxin-dependent peroxide reductase 2; Thioredoxin-dependent peroxiredoxin 1"
+],
+[
+"Function",
+"Thiol-specific peroxidase that catalyzes the reduction of hydrogen peroxide and organic hydroperoxides to water and alcohols, respectively. Plays a role in cell protection against oxidative stress by detoxifying peroxides and as sensor of hydrogen peroxide-mediated signaling events."
+],
+[
+"Location",
+"Cytoplasm, Melanosome"
+],
+[
+"HGNC",
+"HGNC:9352"
+],
+[
+"HGNC symbol",
+"PRDX1"
+],
+[
+"Previous symbols",
+"PAGA"
+],
+[
+"Alias symbols",
+"NKEFA"
+],
+[
+"Entrez",
+"5052"
+],
+[
+"Ensembl",
+"ENSG00000117450"
+],
+[
+"RefSeq",
+"NM_181697"
+],
+[
+"UniProt",
+"Q06830"
+]
+]
+},
+{
+"label": "NADP+",
+"class": "SimpleChemical",
+"box": [
+1210.5,
+498.5,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"NADP(+)"
+],
+[
+"Synonyms",
+"2'-O-phosphonoadenosine 5'-{3-[1-(3-carbamoylpyridinio)-1,4-anhydro-D-ribitol-5-yl] dihydrogen diphosphate}; NADP; NADP+; Nicotinamide adenine dinucleotide phosphate; TPN; Triphosphopyridine nucleotide; beta-Nicotinamide adenine dinucleotide phosphate; oxidized nicotinamide-adenine dinucleotide phosphate"
+],
+[
+"Formula",
+"C21H29N7O17P3"
+],
+[
+"ChEBI",
+"CHEBI:18009"
+],
+[
+"KEGG",
+"C00006"
+],
+[
+"InChI",
+"InChI=1S/C21H28N7O17P3/c22-17-12-19(25-7-24-17)28(8-26-12)21-16(44-46(33,34)35)14(30)11(43-21)6-41-48(38,39)45-47(36,37)40-5-10-13(29)15(31)20(42-10)27-3-1-2-9(4-27)18(23)32/h1-4,7-8,10-11,13-16,20-21,29-31H,5-6H2,(H7-,22,23,24,25,32,33,34,35,36,37,38,39)/p+1/t10-,11-,13-,14-,15-,16-,20-,21-/m1/s1"
+],
+[
+"InChIKey",
+"XJLXINKUBYWONI-NNYOXOHSSA-O"
+]
+]
+},
+{
+"label": "ATOX1",
+"class": "Macromolecule",
+"box": [
+1196.0,
+15.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Copper transport protein ATOX1"
+],
+[
+"Alternative names",
+"Metal transport protein ATX1"
+],
+[
+"Function",
+"Multifunctional copper-sensing protein that operates both as a cytosolic copper chaperone and as a copper-dependent transcription factor. Essential for maintaining cellular copper homeostasis and linking copper distribution to redox balance, signal transduction, and gene regulation."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Nucleus"
+],
+[
+"HGNC",
+"HGNC:798"
+],
+[
+"HGNC symbol",
+"ATOX1"
+],
+[
+"Alias symbols",
+"HAH1"
+],
+[
+"Entrez",
+"475"
+],
+[
+"Ensembl",
+"ENSG00000177556"
+],
+[
+"RefSeq",
+"NM_004045"
+],
+[
+"UniProt",
+"O00244"
+]
+]
+},
+{
+"label": "ATP",
+"class": "SimpleChemical",
+"box": [
+1153.0,
+262.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"ATP"
+],
+[
+"Synonyms",
+"ADENOSINE-5'-TRIPHOSPHATE; Adenosine 5'-triphosphate; Adenosine triphosphate; H4atp; adenosine 5'-(tetrahydrogen triphosphate)"
+],
+[
+"Definition",
+"An adenosine 5'-phosphate in which the 5'-phosphate is a triphosphate group. It is involved in the transportation of chemical energy during metabolic pathways."
+],
+[
+"Formula",
+"C10H16N5O13P3"
+],
+[
+"ChEBI",
+"CHEBI:15422"
+],
+[
+"KEGG",
+"C00002"
+],
+[
+"HMDB",
+"HMDB0000538"
+],
+[
+"InChI",
+"InChI=1S/C10H16N5O13P3/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(26-10)1-25-30(21,22)28-31(23,24)27-29(18,19)20/h2-4,6-7,10,16-17H,1H2,(H,21,22)(H,23,24)(H2,11,12,13)(H2,18,19,20)/t4-,6-,7-,10-/m1/s1"
+],
+[
+"InChIKey",
+"ZKHQWZAMYRWXGA-KQYNXXCUSA-N"
+]
+]
+},
+{
+"label": "GTP",
+"class": "SimpleChemical",
+"box": [
+293.0,
+992.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"GTP"
+],
+[
+"Synonyms",
+"5'-GTP; GUANOSINE-5'-TRIPHOSPHATE; Guanosine 5'-triphosphate; H4gtp; guanosine 5'-(tetrahydrogen triphosphate); guanosine 5'-triphosphoric acid; guanosine triphosphate"
+],
+[
+"Formula",
+"C10H16N5O14P3"
+],
+[
+"ChEBI",
+"CHEBI:15996"
+],
+[
+"KEGG",
+"C00044"
+],
+[
+"InChI",
+"InChI=1S/C10H16N5O14P3/c11-10-13-7-4(8(18)14-10)12-2-15(7)9-6(17)5(16)3(27-9)1-26-31(22,23)29-32(24,25)28-30(19,20)21/h2-3,5-6,9,16-17H,1H2,(H,22,23)(H,24,25)(H2,19,20,21)(H3,11,13,14,18)/t3-,5-,6-,9-/m1/s1"
+],
+[
+"InChIKey",
+"XKMLYUALXHKNFT-UUOKFMHZSA-N"
+]
+]
+},
+{
+"label": "H2O",
+"class": "SimpleChemical",
+"box": [
+103.0,
+992.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"water"
+],
+[
+"Synonyms",
+"BOUND WATER; H(2)O; H2O; HOH; Wasser; [OH2]; acqua; agua; aqua; dihydridooxygen; dihydrogen oxide; eau; hydrogen hydroxide; oxidane"
+],
+[
+"Definition",
+"An oxygen hydride consisting of an oxygen atom that is covalently bonded to two hydrogen atoms"
+],
+[
+"Formula",
+"H2O"
+],
+[
+"ChEBI",
+"CHEBI:15377"
+],
+[
+"KEGG",
+"C00001"
+],
+[
+"HMDB",
+"HMDB0002111"
+],
+[
+"InChI",
+"InChI=1S/H2O/h1H2"
+],
+[
+"InChIKey",
+"XLYOFNOQVPJJNP-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "O2",
+"class": "SimpleChemical",
+"box": [
+721.0,
+1082.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"dioxygen"
+],
+[
+"Synonyms",
+"Disauerstoff; E 948; E-948; E948; O(2); O2; OXYGEN MOLECULE; Oxygen; [OO]; dioxygene; molecular oxygen"
+],
+[
+"Formula",
+"O2"
+],
+[
+"ChEBI",
+"CHEBI:15379"
+],
+[
+"KEGG",
+"C00007"
+],
+[
+"HMDB",
+"HMDB0001377"
+],
+[
+"InChI",
+"InChI=1S/O2/c1-2"
+],
+[
+"InChIKey",
+"MYMOFIZGZYHOMD-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "H2O2",
+"class": "SimpleChemical",
+"box": [
+871.0,
+1082.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"hydrogen peroxide"
+],
+[
+"Synonyms",
+"H(2)O(2); H2O2; HOOH; Oxydol; [OH(OH)]; bis(hydridooxygen)(O--O); dihydrogen dioxide; dihydrogen peroxide; dihydrogen(peroxide); dioxidane; perhydrol"
+],
+[
+"Definition",
+"An inorganic peroxide consisting of two hydroxy groups joined by a covalent oxygen-oxygen single bond."
+],
+[
+"Formula",
+"H2O2"
+],
+[
+"ChEBI",
+"CHEBI:16240"
+],
+[
+"KEGG",
+"C00027"
+],
+[
+"HMDB",
+"HMDB0003125"
+],
+[
+"InChI",
+"InChI=1S/H2O2/c1-2/h1-2H"
+],
+[
+"InChIKey",
+"MHAJPDPJQMAIIY-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "H2O",
+"class": "SimpleChemical",
+"box": [
+1231.0,
+1002.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"water"
+],
+[
+"Synonyms",
+"BOUND WATER; H(2)O; H2O; HOH; Wasser; [OH2]; acqua; agua; aqua; dihydridooxygen; dihydrogen oxide; eau; hydrogen hydroxide; oxidane"
+],
+[
+"Definition",
+"An oxygen hydride consisting of an oxygen atom that is covalently bonded to two hydrogen atoms"
+],
+[
+"Formula",
+"H2O"
+],
+[
+"ChEBI",
+"CHEBI:15377"
+],
+[
+"KEGG",
+"C00001"
+],
+[
+"HMDB",
+"HMDB0002111"
+],
+[
+"InChI",
+"InChI=1S/H2O/h1H2"
+],
+[
+"InChIKey",
+"XLYOFNOQVPJJNP-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "GSSG",
+"class": "SimpleChemical",
+"box": [
+1291.0,
+1052.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"glutathione disulfide"
+],
+[
+"Synonyms",
+"(2S,2'S)-5,5'-[disulfanediylbis({(2R)-3-[(carboxymethyl)amino]-3-oxopropane-1,2-diyl}imino)]bis(2-amino-5-oxopentanoic acid); GSSG; OXIDIZED GLUTATHIONE DISULFIDE; Oxidized glutathione; Oxiglutatione; glutathione disulphide; oxidised glutathione"
+],
+[
+"Formula",
+"C20H32N6O12S2"
+],
+[
+"ChEBI",
+"CHEBI:17858"
+],
+[
+"KEGG",
+"C00127"
+],
+[
+"InChI",
+"InChI=1S/C20H32N6O12S2/c21-9(19(35)36)1-3-13(27)25-11(17(33)23-5-15(29)30)7-39-40-8-12(18(34)24-6-16(31)32)26-14(28)4-2-10(22)20(37)38/h9-12H,1-8,21-22H2,(H,23,33)(H,24,34)(H,25,27)(H,26,28)(H,29,30)(H,31,32)(H,35,36)(H,37,38)/t9-,10-,11-,12-/m0/s1"
+],
+[
+"InChIKey",
+"YPZRWBKMTBYPTK-BJDJZHNGSA-N"
+]
+]
+},
+{
+"label": "GSH",
+"class": "SimpleChemical",
+"box": [
+1291.0,
+782.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"glutathione"
+],
+[
+"Synonyms",
+"5-L-Glutamyl-L-cysteinylglycine; GSH; Glutathione-SH; L-gamma-glutamyl-L-cysteinylglycine; N-(N-gamma-L-Glutamyl-L-cysteinyl)glycine; Reduced glutathione; gamma-L-Glutamyl-L-cysteinyl-glycine"
+],
+[
+"Definition",
+"A tripeptide compound consisting of glutamic acid attached via its side chain to the N-terminus of cysteinylglycine."
+],
+[
+"Formula",
+"C10H17N3O6S"
+],
+[
+"ChEBI",
+"CHEBI:16856"
+],
+[
+"KEGG",
+"C00051"
+],
+[
+"HMDB",
+"HMDB0000125"
+],
+[
+"InChI",
+"InChI=1S/C10H17N3O6S/c11-5(10(18)19)1-2-7(14)13-6(4-20)9(17)12-3-8(15)16/h5-6,20H,1-4,11H2,(H,12,17)(H,13,14)(H,15,16)(H,18,19)/t5-,6-/m0/s1"
+],
+[
+"InChIKey",
+"RWSXRVCMGQZWBV-WDSKDSINSA-N"
+]
+]
+},
+{
+"label": "TXNRD1",
+"class": "Macromolecule",
+"box": [
+1271.0,
+442.0,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Thioredoxin reductase 1, cytoplasmic"
+],
+[
+"Alternative names",
+"Gene associated with retinoic and interferon-induced mortality 12 protein; KM-102-derived reductase-like factor; Peroxidase TXNRD1; Thioredoxin reductase TR1"
+],
+[
+"Function",
+"Reduces disulfide protein thioredoxin (Trx) to its dithiol-containing form. Homodimeric flavoprotein involved in the regulation of cellular redox reactions, growth and differentiation."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:12437"
+],
+[
+"HGNC symbol",
+"TXNRD1"
+],
+[
+"Alias symbols",
+"TXNR, GRIM-12, Trxr1, TXNR1"
+],
+[
+"Entrez",
+"7296"
+],
+[
+"Ensembl",
+"ENSG00000198431"
+],
+[
+"RefSeq",
+"NM_003330"
+],
+[
+"UniProt",
+"Q16881"
+]
+]
+},
+{
+"label": "PRDX2",
+"class": "Macromolecule",
+"box": [
+1271.0,
+682.0,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Peroxiredoxin-2"
+],
+[
+"Alternative names",
+"Natural killer cell-enhancing factor B; PRP; Thiol-specific antioxidant protein; Thioredoxin peroxidase 1; Thioredoxin-dependent peroxide reductase 1; Thioredoxin-dependent peroxiredoxin 2"
+],
+[
+"Function",
+"Thiol-specific peroxidase that catalyzes the reduction of hydrogen peroxide and organic hydroperoxides to water and alcohols, respectively. Plays a role in cell protection against oxidative stress by detoxifying peroxides and as sensor of hydrogen peroxide-mediated signaling events."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:9353"
+],
+[
+"HGNC symbol",
+"PRDX2"
+],
+[
+"Previous symbols",
+"TDPX1"
+],
+[
+"Alias symbols",
+"PRP, NKEFB, TSA, PRXII, PRX2, MGC4104"
+],
+[
+"Entrez",
+"7001"
+],
+[
+"Ensembl",
+"ENSG00000167815"
+],
+[
+"RefSeq",
+"NM_005809"
+],
+[
+"UniProt",
+"P32119"
+]
+]
+},
+{
+"label": "ATP7A",
+"class": "Macromolecule",
+"box": [
+1286.0,
+45.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Copper-transporting ATPase 1"
+],
+[
+"Alternative names",
+"Copper pump 1; Menkes disease-associated protein"
+],
+[
+"Function",
+"ATP-driven copper (Cu(+)) ion pump that plays an important role in intracellular copper ion homeostasis. Within a catalytic cycle, acquires Cu(+) ion from donor protein on the cytoplasmic side of the membrane and delivers it to acceptor protein on the lumenal side."
+],
+[
+"Location",
+"Golgi apparatus, trans-Golgi network membrane, Cell membrane, Melanosome membrane, Early endosome membrane, Cell projection, axon, Cell projection, dendrite, Postsynaptic density, Cytoplasm, cytosol, Endoplasmic reticulum"
+],
+[
+"HGNC",
+"HGNC:869"
+],
+[
+"HGNC symbol",
+"ATP7A"
+],
+[
+"Previous symbols",
+"MNK"
+],
+[
+"Entrez",
+"538"
+],
+[
+"Ensembl",
+"ENSG00000165240"
+],
+[
+"RefSeq",
+"NM_000052"
+],
+[
+"UniProt",
+"Q04656"
+]
+]
+},
+{
+"label": "TXN2",
+"class": "Macromolecule",
+"box": [
+288.5,
+1149.5,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Thioredoxin, mitochondrial"
+],
+[
+"Alternative names",
+"Thioredoxin-2"
+],
+[
+"Function",
+"Important for the control of mitochondrial reactive oxygen species homeostasis, apoptosis regulation and cell viability Is involved in various redox reactions including the reduction of protein disulfide bonds, through the reversible oxidation of its active center dithiol to a disulfide"
+],
+[
+"Location",
+"Mitochondrion"
+],
+[
+"HGNC",
+"HGNC:17772"
+],
+[
+"HGNC symbol",
+"TXN2"
+],
+[
+"Alias symbols",
+"MT-TRX"
+],
+[
+"Entrez",
+"25828"
+],
+[
+"Ensembl",
+"ENSG00000100348"
+],
+[
+"RefSeq",
+"NM_012473"
+],
+[
+"UniProt",
+"Q99757"
+]
+]
+},
+{
+"label": "NADP+",
+"class": "SimpleChemical",
+"box": [
+140.5,
+1148.5,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"NADP(+)"
+],
+[
+"Synonyms",
+"2'-O-phosphonoadenosine 5'-{3-[1-(3-carbamoylpyridinio)-1,4-anhydro-D-ribitol-5-yl] dihydrogen diphosphate}; NADP; NADP+; Nicotinamide adenine dinucleotide phosphate; TPN; Triphosphopyridine nucleotide; beta-Nicotinamide adenine dinucleotide phosphate; oxidized nicotinamide-adenine dinucleotide phosphate"
+],
+[
+"Formula",
+"C21H29N7O17P3"
+],
+[
+"ChEBI",
+"CHEBI:18009"
+],
+[
+"KEGG",
+"C00006"
+],
+[
+"InChI",
+"InChI=1S/C21H28N7O17P3/c22-17-12-19(25-7-24-17)28(8-26-12)21-16(44-46(33,34)35)14(30)11(43-21)6-41-48(38,39)45-47(36,37)40-5-10-13(29)15(31)20(42-10)27-3-1-2-9(4-27)18(23)32/h1-4,7-8,10-11,13-16,20-21,29-31H,5-6H2,(H7-,22,23,24,25,32,33,34,35,36,37,38,39)/p+1/t10-,11-,13-,14-,15-,16-,20-,21-/m1/s1"
+],
+[
+"InChIKey",
+"XJLXINKUBYWONI-NNYOXOHSSA-O"
+]
+]
+},
+{
+"label": "H2O",
+"class": "SimpleChemical",
+"box": [
+1381.0,
+312.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"water"
+],
+[
+"Synonyms",
+"BOUND WATER; H(2)O; H2O; HOH; Wasser; [OH2]; acqua; agua; aqua; dihydridooxygen; dihydrogen oxide; eau; hydrogen hydroxide; oxidane"
+],
+[
+"Definition",
+"An oxygen hydride consisting of an oxygen atom that is covalently bonded to two hydrogen atoms"
+],
+[
+"Formula",
+"H2O"
+],
+[
+"ChEBI",
+"CHEBI:15377"
+],
+[
+"KEGG",
+"C00001"
+],
+[
+"HMDB",
+"HMDB0002111"
+],
+[
+"InChI",
+"InChI=1S/H2O/h1H2"
+],
+[
+"InChIKey",
+"XLYOFNOQVPJJNP-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "PRDX5",
+"class": "Macromolecule",
+"box": [
+1371.0,
+682.0,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Peroxiredoxin-5, mitochondrial"
+],
+[
+"Alternative names",
+"Alu corepressor 1; Antioxidant enzyme B166; Liver tissue 2D-page spot 71B; PLP; Peroxiredoxin V; Peroxisomal antioxidant enzyme; TPx type VI; Thioredoxin peroxidase PMP20; Thioredoxin-dependent peroxiredoxin 5"
+],
+[
+"Function",
+"Thiol-specific peroxidase that catalyzes the reduction of hydrogen peroxide and organic hydroperoxides to water and alcohols, respectively. Plays a role in cell protection against oxidative stress by detoxifying peroxides and as sensor of hydrogen peroxide-mediated signaling events"
+],
+[
+"Location",
+"Mitochondrion, Cytoplasm, Peroxisome matrix"
+],
+[
+"HGNC",
+"HGNC:9355"
+],
+[
+"HGNC symbol",
+"PRDX5"
+],
+[
+"Alias symbols",
+"ACR1, AOEB166, MGC142285, PRXV, PMP20, B166, PRDX6, PLP, SBBI10, MGC117264, MGC142283"
+],
+[
+"Entrez",
+"25824"
+],
+[
+"Ensembl",
+"ENSG00000126432"
+],
+[
+"RefSeq",
+"NM_181651"
+],
+[
+"UniProt",
+"P30044"
+]
+]
+},
+{
+"label": "H2O",
+"class": "SimpleChemical",
+"box": [
+1380.5,
+628.5,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"water"
+],
+[
+"Synonyms",
+"BOUND WATER; H(2)O; H2O; HOH; Wasser; [OH2]; acqua; agua; aqua; dihydridooxygen; dihydrogen oxide; eau; hydrogen hydroxide; oxidane"
+],
+[
+"Definition",
+"An oxygen hydride consisting of an oxygen atom that is covalently bonded to two hydrogen atoms"
+],
+[
+"Formula",
+"H2O"
+],
+[
+"ChEBI",
+"CHEBI:15377"
+],
+[
+"KEGG",
+"C00001"
+],
+[
+"HMDB",
+"HMDB0002111"
+],
+[
+"InChI",
+"InChI=1S/H2O/h1H2"
+],
+[
+"InChIKey",
+"XLYOFNOQVPJJNP-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "H+",
+"class": "SimpleChemical",
+"box": [
+1320.5,
+498.5,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"hydron"
+],
+[
+"Synonyms",
+"H(+); H+; hydrogen(1+)"
+],
+[
+"Definition",
+"The general name for the hydrogen nucleus, to be used without regard to the hydrogen nuclear mass (either for hydrogen in its natural abundance or where it is not desired to distinguish between the isotopes)."
+],
+[
+"Formula",
+"H"
+],
+[
+"ChEBI",
+"CHEBI:15378"
+],
+[
+"KEGG",
+"C00080"
+],
+[
+"InChI",
+"InChI=1S/p+1"
+],
+[
+"InChIKey",
+"GPRLSGONYQIRFK-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "NADPH",
+"class": "SimpleChemical",
+"box": [
+1380.5,
+498.5,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"NADPH"
+],
+[
+"Synonyms",
+"2'-O-phosphonoadenosine 5'-{3-[1-(3-carbamoyl-1,4-dihydropyridin-1-yl)-1,4-anhydro-D-ribitol-5-yl] dihydrogen diphosphate}; NADPH DIHYDRO-NICOTINAMIDE-ADENINE-DINUCLEOTIDE PHOSPHATE; Reduced nicotinamide adenine dinucleotide phosphate; TPNH; dihydronicotinamide-adenine dinucleotide phosphate; reduced nicotinamide-adenine dinucleotide phosphate"
+],
+[
+"Definition",
+"The reduced form of NADP+; used in anabolic reactions, such as lipid and nucleic acid synthesis, which require NADPH as a reducing agent."
+],
+[
+"Formula",
+"C21H30N7O17P3"
+],
+[
+"ChEBI",
+"CHEBI:16474"
+],
+[
+"KEGG",
+"C00005"
+],
+[
+"HMDB",
+"HMDB0000221"
+],
+[
+"InChI",
+"InChI=1S/C21H30N7O17P3/c22-17-12-19(25-7-24-17)28(8-26-12)21-16(44-46(33,34)35)14(30)11(43-21)6-41-48(38,39)45-47(36,37)40-5-10-13(29)15(31)20(42-10)27-3-1-2-9(4-27)18(23)32/h1,3-4,7-8,10-11,13-16,20-21,29-31H,2,5-6H2,(H2,23,32)(H,36,37)(H,38,39)(H2,22,24,25)(H2,33,34,35)/t10-,11-,13-,14-,15-,16-,20-,21-/m1/s1"
+],
+[
+"InChIKey",
+"ACFIXJIJDZMPPO-NNYOXOHSSA-N"
+]
+]
+},
+{
+"label": "ATOX1",
+"class": "Macromolecule",
+"box": [
+1376.0,
+15.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Copper transport protein ATOX1"
+],
+[
+"Alternative names",
+"Metal transport protein ATX1"
+],
+[
+"Function",
+"Multifunctional copper-sensing protein that operates both as a cytosolic copper chaperone and as a copper-dependent transcription factor. Essential for maintaining cellular copper homeostasis and linking copper distribution to redox balance, signal transduction, and gene regulation."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Nucleus"
+],
+[
+"HGNC",
+"HGNC:798"
+],
+[
+"HGNC symbol",
+"ATOX1"
+],
+[
+"Alias symbols",
+"HAH1"
+],
+[
+"Entrez",
+"475"
+],
+[
+"Ensembl",
+"ENSG00000177556"
+],
+[
+"RefSeq",
+"NM_004045"
+],
+[
+"UniProt",
+"O00244"
+]
+]
+},
+{
+"label": "NADPH",
+"class": "SimpleChemical",
+"box": [
+1441.0,
+1052.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"NADPH"
+],
+[
+"Synonyms",
+"2'-O-phosphonoadenosine 5'-{3-[1-(3-carbamoyl-1,4-dihydropyridin-1-yl)-1,4-anhydro-D-ribitol-5-yl] dihydrogen diphosphate}; NADPH DIHYDRO-NICOTINAMIDE-ADENINE-DINUCLEOTIDE PHOSPHATE; Reduced nicotinamide adenine dinucleotide phosphate; TPNH; dihydronicotinamide-adenine dinucleotide phosphate; reduced nicotinamide-adenine dinucleotide phosphate"
+],
+[
+"Definition",
+"The reduced form of NADP+; used in anabolic reactions, such as lipid and nucleic acid synthesis, which require NADPH as a reducing agent."
+],
+[
+"Formula",
+"C21H30N7O17P3"
+],
+[
+"ChEBI",
+"CHEBI:16474"
+],
+[
+"KEGG",
+"C00005"
+],
+[
+"HMDB",
+"HMDB0000221"
+],
+[
+"InChI",
+"InChI=1S/C21H30N7O17P3/c22-17-12-19(25-7-24-17)28(8-26-12)21-16(44-46(33,34)35)14(30)11(43-21)6-41-48(38,39)45-47(36,37)40-5-10-13(29)15(31)20(42-10)27-3-1-2-9(4-27)18(23)32/h1,3-4,7-8,10-11,13-16,20-21,29-31H,2,5-6H2,(H2,23,32)(H,36,37)(H,38,39)(H2,22,24,25)(H2,33,34,35)/t10-,11-,13-,14-,15-,16-,20-,21-/m1/s1"
+],
+[
+"InChIKey",
+"ACFIXJIJDZMPPO-NNYOXOHSSA-N"
+]
+]
+},
+{
+"label": "NADP+",
+"class": "SimpleChemical",
+"box": [
+1441.0,
+782.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"NADP(+)"
+],
+[
+"Synonyms",
+"2'-O-phosphonoadenosine 5'-{3-[1-(3-carbamoylpyridinio)-1,4-anhydro-D-ribitol-5-yl] dihydrogen diphosphate}; NADP; NADP+; Nicotinamide adenine dinucleotide phosphate; TPN; Triphosphopyridine nucleotide; beta-Nicotinamide adenine dinucleotide phosphate; oxidized nicotinamide-adenine dinucleotide phosphate"
+],
+[
+"Formula",
+"C21H29N7O17P3"
+],
+[
+"ChEBI",
+"CHEBI:18009"
+],
+[
+"KEGG",
+"C00006"
+],
+[
+"InChI",
+"InChI=1S/C21H28N7O17P3/c22-17-12-19(25-7-24-17)28(8-26-12)21-16(44-46(33,34)35)14(30)11(43-21)6-41-48(38,39)45-47(36,37)40-5-10-13(29)15(31)20(42-10)27-3-1-2-9(4-27)18(23)32/h1-4,7-8,10-11,13-16,20-21,29-31H,5-6H2,(H7-,22,23,24,25,32,33,34,35,36,37,38,39)/p+1/t10-,11-,13-,14-,15-,16-,20-,21-/m1/s1"
+],
+[
+"InChIKey",
+"XJLXINKUBYWONI-NNYOXOHSSA-O"
+]
+]
+},
+{
+"label": "TXN",
+"class": "Macromolecule",
+"box": [
+1443.5,
+571.5,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Thioredoxin"
+],
+[
+"Alternative names",
+"ATL-derived factor; Surface-associated sulphydryl protein"
+],
+[
+"Function",
+"Participates in various redox reactions through the reversible oxidation of its active center dithiol to a disulfide and catalyzes dithiol-disulfide exchange reactions. Plays a role in the reversible S-nitrosylation of cysteine residues in target proteins, and thereby contributes to the response to intracellular nitric oxide."
+],
+[
+"Location",
+"Nucleus, Cytoplasm, Secreted"
+],
+[
+"HGNC",
+"HGNC:12435"
+],
+[
+"HGNC symbol",
+"TXN"
+],
+[
+"Alias symbols",
+"TRX, Trx80, TXN1"
+],
+[
+"Entrez",
+"7295"
+],
+[
+"Ensembl",
+"ENSG00000136810"
+],
+[
+"RefSeq",
+"NM_001244938"
+],
+[
+"UniProt",
+"P10599"
+]
+]
+},
+{
+"label": "ADP",
+"class": "SimpleChemical",
+"box": [
+1453.0,
+52.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"ADP"
+],
+[
+"Synonyms",
+"5'-adenylphosphoric acid; ADENOSINE-5'-DIPHOSPHATE; Adenosine 5'-diphosphate; H3adp; adenosine 5'-(trihydrogen diphosphate)"
+],
+[
+"Definition",
+"A purine ribonucleoside 5'-diphosphate having adenine as the nucleobase."
+],
+[
+"Formula",
+"C10H15N5O10P2"
+],
+[
+"ChEBI",
+"CHEBI:16761"
+],
+[
+"KEGG",
+"C00008"
+],
+[
+"InChI",
+"InChI=1S/C10H15N5O10P2/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(24-10)1-23-27(21,22)25-26(18,19)20/h2-4,6-7,10,16-17H,1H2,(H,21,22)(H2,11,12,13)(H2,18,19,20)/t4-,6-,7-,10-/m1/s1"
+],
+[
+"InChIKey",
+"XTWYTFMLZFPYCI-KQYNXXCUSA-N"
+]
+]
+},
+{
+"label": "SOD3",
+"class": "Macromolecule",
+"box": [
+1433.5,
+134.4,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Extracellular superoxide dismutase [Cu-Zn]"
+],
+[
+"Function",
+"Secreted antioxidant enzyme that acts as the primary scavenger of superoxide radicals in the extracellular space, converting them to hydrogen peroxide and thereby protecting tissues from oxidative damage. Also preserves nitric oxide bioavailability by preventing the formation of harmful peroxynitrite."
+],
+[
+"Location",
+"Secreted, extracellular space, Golgi apparatus, trans-Golgi network, Vesicle"
+],
+[
+"HGNC",
+"HGNC:11181"
+],
+[
+"HGNC symbol",
+"SOD3"
+],
+[
+"Alias symbols",
+"EC-SOD"
+],
+[
+"Entrez",
+"6649"
+],
+[
+"Ensembl",
+"ENSG00000109610"
+],
+[
+"RefSeq",
+"NM_003102"
+],
+[
+"UniProt",
+"P08294"
+]
+]
+},
+{
+"label": "GSH",
+"class": "SimpleChemical",
+"box": [
+1111.0,
+1202.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"glutathione"
+],
+[
+"Synonyms",
+"5-L-Glutamyl-L-cysteinylglycine; GSH; Glutathione-SH; L-gamma-glutamyl-L-cysteinylglycine; N-(N-gamma-L-Glutamyl-L-cysteinyl)glycine; Reduced glutathione; gamma-L-Glutamyl-L-cysteinyl-glycine"
+],
+[
+"Definition",
+"A tripeptide compound consisting of glutamic acid attached via its side chain to the N-terminus of cysteinylglycine."
+],
+[
+"Formula",
+"C10H17N3O6S"
+],
+[
+"ChEBI",
+"CHEBI:16856"
+],
+[
+"KEGG",
+"C00051"
+],
+[
+"HMDB",
+"HMDB0000125"
+],
+[
+"InChI",
+"InChI=1S/C10H17N3O6S/c11-5(10(18)19)1-2-7(14)13-6(4-20)9(17)12-3-8(15)16/h5-6,20H,1-4,11H2,(H,12,17)(H,13,14)(H,15,16)(H,18,19)/t5-,6-/m0/s1"
+],
+[
+"InChIKey",
+"RWSXRVCMGQZWBV-WDSKDSINSA-N"
+]
+]
+},
+{
+"label": "PRDX5",
+"class": "Macromolecule",
+"box": [
+674.0,
+1255.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Peroxiredoxin-5, mitochondrial"
+],
+[
+"Alternative names",
+"Alu corepressor 1; Antioxidant enzyme B166; Liver tissue 2D-page spot 71B; PLP; Peroxiredoxin V; Peroxisomal antioxidant enzyme; TPx type VI; Thioredoxin peroxidase PMP20; Thioredoxin-dependent peroxiredoxin 5"
+],
+[
+"Function",
+"Thiol-specific peroxidase that catalyzes the reduction of hydrogen peroxide and organic hydroperoxides to water and alcohols, respectively. Plays a role in cell protection against oxidative stress by detoxifying peroxides and as sensor of hydrogen peroxide-mediated signaling events"
+],
+[
+"Location",
+"Mitochondrion, Cytoplasm, Peroxisome matrix"
+],
+[
+"HGNC",
+"HGNC:9355"
+],
+[
+"HGNC symbol",
+"PRDX5"
+],
+[
+"Alias symbols",
+"ACR1, AOEB166, MGC142285, PRXV, PMP20, B166, PRDX6, PLP, SBBI10, MGC117264, MGC142283"
+],
+[
+"Entrez",
+"25824"
+],
+[
+"Ensembl",
+"ENSG00000126432"
+],
+[
+"RefSeq",
+"NM_181651"
+],
+[
+"UniProt",
+"P30044"
+]
+]
+},
+{
+"label": "PRDX5",
+"class": "Macromolecule",
+"box": [
+420.5,
+1258.5,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Peroxiredoxin-5, mitochondrial"
+],
+[
+"Alternative names",
+"Alu corepressor 1; Antioxidant enzyme B166; Liver tissue 2D-page spot 71B; PLP; Peroxiredoxin V; Peroxisomal antioxidant enzyme; TPx type VI; Thioredoxin peroxidase PMP20; Thioredoxin-dependent peroxiredoxin 5"
+],
+[
+"Function",
+"Thiol-specific peroxidase that catalyzes the reduction of hydrogen peroxide and organic hydroperoxides to water and alcohols, respectively. Plays a role in cell protection against oxidative stress by detoxifying peroxides and as sensor of hydrogen peroxide-mediated signaling events"
+],
+[
+"Location",
+"Mitochondrion, Cytoplasm, Peroxisome matrix"
+],
+[
+"HGNC",
+"HGNC:9355"
+],
+[
+"HGNC symbol",
+"PRDX5"
+],
+[
+"Alias symbols",
+"ACR1, AOEB166, MGC142285, PRXV, PMP20, B166, PRDX6, PLP, SBBI10, MGC117264, MGC142283"
+],
+[
+"Entrez",
+"25824"
+],
+[
+"Ensembl",
+"ENSG00000126432"
+],
+[
+"RefSeq",
+"NM_181651"
+],
+[
+"UniProt",
+"P30044"
+]
+]
+},
+{
+"label": "GSR",
+"class": "Macromolecule",
+"box": [
+1541.0,
+922.0,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Glutathione reductase, mitochondrial"
+],
+[
+"Function",
+"Catalyzes the reduction of glutathione disulfide (GSSG) to reduced glutathione (GSH). Constitutes the major mechanism to maintain a high GSH:GSSG ratio in the cytosol"
+],
+[
+"Location",
+"Mitochondrion, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:4623"
+],
+[
+"HGNC symbol",
+"GSR"
+],
+[
+"Alias symbols",
+"GRase"
+],
+[
+"Entrez",
+"2936"
+],
+[
+"Ensembl",
+"ENSG00000104687"
+],
+[
+"RefSeq",
+"NM_000637"
+],
+[
+"UniProt",
+"P00390"
+]
+]
+},
+{
+"label": "H+",
+"class": "SimpleChemical",
+"box": [
+1521.0,
+1002.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"hydron"
+],
+[
+"Synonyms",
+"H(+); H+; hydrogen(1+)"
+],
+[
+"Definition",
+"The general name for the hydrogen nucleus, to be used without regard to the hydrogen nuclear mass (either for hydrogen in its natural abundance or where it is not desired to distinguish between the isotopes)."
+],
+[
+"Formula",
+"H"
+],
+[
+"ChEBI",
+"CHEBI:15378"
+],
+[
+"KEGG",
+"C00080"
+],
+[
+"InChI",
+"InChI=1S/p+1"
+],
+[
+"InChIKey",
+"GPRLSGONYQIRFK-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "TXNRD2",
+"class": "Macromolecule",
+"box": [
+15.5,
+1290.5,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Thioredoxin reductase 2, mitochondrial"
+],
+[
+"Alternative names",
+"Selenoprotein Z; TR-beta; Thioredoxin reductase TR3"
+],
+[
+"Function",
+"Involved in the control of reactive oxygen species levels and the regulation of mitochondrial redox homeostasis. Maintains thioredoxin in a reduced state."
+],
+[
+"Location",
+"Mitochondrion"
+],
+[
+"HGNC",
+"HGNC:18155"
+],
+[
+"HGNC symbol",
+"TXNRD2"
+],
+[
+"Alias symbols",
+"TR, TRXR2, TR3, SELZ, TXNR2"
+],
+[
+"Entrez",
+"10587"
+],
+[
+"Ensembl",
+"ENSG00000184470"
+],
+[
+"RefSeq",
+"NM_006440"
+],
+[
+"UniProt",
+"Q9NNW7"
+]
+]
+},
+{
+"label": "GPX1",
+"class": "Macromolecule",
+"box": [
+1205.0,
+1316.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Glutathione peroxidase 1"
+],
+[
+"Alternative names",
+"Cellular glutathione peroxidase; Phospholipid-hydroperoxide glutathione peroxidase GPX1"
+],
+[
+"Function",
+"Catalyzes the reduction of hydroperoxides in a glutathione-dependent manner thus regulating cellular redox homeostasis. Can reduce small soluble hydroperoxides such as H2O2, cumene hydroperoxide and tert-butyl hydroperoxide, as well as several fatty acid-derived hydroperoxides."
+],
+[
+"Location",
+"Cytoplasm, Mitochondrion"
+],
+[
+"HGNC",
+"HGNC:4553"
+],
+[
+"HGNC symbol",
+"GPX1"
+],
+[
+"Entrez",
+"2876"
+],
+[
+"Ensembl",
+"ENSG00000233276"
+],
+[
+"RefSeq",
+"NM_000581"
+],
+[
+"UniProt",
+"P07203"
+]
+]
+},
+{
+"label": "PRDX3",
+"class": "Macromolecule",
+"box": [
+420.5,
+1318.5,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Thioredoxin-dependent peroxide reductase, mitochondrial"
+],
+[
+"Alternative names",
+"Antioxidant protein 1; HBC189; Peroxiredoxin III; Peroxiredoxin-3; Protein MER5 homolog; Thioredoxin-dependent peroxiredoxin 3"
+],
+[
+"Function",
+"Thiol-specific peroxidase that catalyzes the reduction of hydrogen peroxide and organic hydroperoxides to water and alcohols, respectively. Plays a role in cell protection against oxidative stress by detoxifying peroxides."
+],
+[
+"Location",
+"Mitochondrion, Cytoplasm, Early endosome"
+],
+[
+"HGNC",
+"HGNC:9354"
+],
+[
+"HGNC symbol",
+"PRDX3"
+],
+[
+"Previous symbols",
+"AOP1"
+],
+[
+"Alias symbols",
+"MER5, AOP-1, SP-22"
+],
+[
+"Entrez",
+"10935"
+],
+[
+"Ensembl",
+"ENSG00000165672"
+],
+[
+"RefSeq",
+"NM_006793"
+],
+[
+"UniProt",
+"P30048"
+]
+]
+},
+{
+"label": "CAT",
+"class": "Macromolecule",
+"box": [
+965.0,
+1316.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Catalase"
+],
+[
+"Function",
+"Catalyzes the degradation of hydrogen peroxide (H(2)O(2)) generated by peroxisomal oxidases to water and oxygen, thereby protecting cells from the toxic effects of hydrogen peroxide. Promotes growth of cells including T-cells, B-cells, myeloid leukemia cells, melanoma cells, mastocytoma cells and normal and transformed fibroblast cells"
+],
+[
+"Location",
+"Peroxisome matrix"
+],
+[
+"HGNC",
+"HGNC:1516"
+],
+[
+"HGNC symbol",
+"CAT"
+],
+[
+"Entrez",
+"847"
+],
+[
+"Ensembl",
+"ENSG00000121691"
+],
+[
+"RefSeq",
+"NM_001752"
+],
+[
+"UniProt",
+"P04040"
+]
+]
+},
+{
+"label": "GPX6",
+"class": "Macromolecule",
+"box": [
+1616.0,
+415.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Protein peroxidase GPX7"
+],
+[
+"Alternative names",
+"CL683"
+],
+[
+"Function",
+"Acts as an endoplasmic reticulum (ER) thiol peroxidase that maintains ER redox homeostasis and supports oxidative protein folding. Rapidly reacts with hydrogen peroxide to form sulfenylated/disulfide intermediates and oxidizes protein disulfide isomerase (PDI) family members, promoting disulfide-bond formation."
+],
+[
+"Location",
+"Endoplasmic reticulum"
+],
+[
+"HGNC",
+"HGNC:4559"
+],
+[
+"HGNC symbol",
+"GPX7"
+],
+[
+"Alias symbols",
+"FLJ14777, GPX6, NPGPx"
+],
+[
+"Entrez",
+"2882"
+],
+[
+"Ensembl",
+"ENSG00000116157"
+],
+[
+"RefSeq",
+"NM_015696"
+],
+[
+"UniProt",
+"Q96SL4"
+]
+]
+},
+{
+"label": "GPX5",
+"class": "Macromolecule",
+"box": [
+1616.0,
+355.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Epididymal secretory glutathione peroxidase"
+],
+[
+"Alternative names",
+"Epididymis-specific glutathione peroxidase-like protein; Glutathione peroxidase 5"
+],
+[
+"Function",
+"Protects cells and enzymes from oxidative damage, by catalyzing the reduction of hydrogen peroxide, lipid peroxides and organic hydroperoxide, by glutathione. May constitute a glutathione peroxidase-like protective system against peroxide damage in sperm membrane lipids"
+],
+[
+"Location",
+"Secreted"
+],
+[
+"HGNC",
+"HGNC:4557"
+],
+[
+"HGNC symbol",
+"GPX5"
+],
+[
+"Entrez",
+"2880"
+],
+[
+"Ensembl",
+"ENSG00000224586"
+],
+[
+"RefSeq",
+"NM_001509"
+],
+[
+"UniProt",
+"O75715"
+]
+]
+},
+{
+"label": "SOD3",
+"class": "Macromolecule",
+"box": [
+1603.0,
+134.4,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Extracellular superoxide dismutase [Cu-Zn]"
+],
+[
+"Function",
+"Secreted antioxidant enzyme that acts as the primary scavenger of superoxide radicals in the extracellular space, converting them to hydrogen peroxide and thereby protecting tissues from oxidative damage. Also preserves nitric oxide bioavailability by preventing the formation of harmful peroxynitrite."
+],
+[
+"Location",
+"Secreted, extracellular space, Golgi apparatus, trans-Golgi network, Vesicle"
+],
+[
+"HGNC",
+"HGNC:11181"
+],
+[
+"HGNC symbol",
+"SOD3"
+],
+[
+"Alias symbols",
+"EC-SOD"
+],
+[
+"Entrez",
+"6649"
+],
+[
+"Ensembl",
+"ENSG00000109610"
+],
+[
+"RefSeq",
+"NM_003102"
+],
+[
+"UniProt",
+"P08294"
+]
+]
+},
+{
+"label": "H2O",
+"class": "SimpleChemical",
+"box": [
+1181.0,
+1392.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"water"
+],
+[
+"Synonyms",
+"BOUND WATER; H(2)O; H2O; HOH; Wasser; [OH2]; acqua; agua; aqua; dihydridooxygen; dihydrogen oxide; eau; hydrogen hydroxide; oxidane"
+],
+[
+"Definition",
+"An oxygen hydride consisting of an oxygen atom that is covalently bonded to two hydrogen atoms"
+],
+[
+"Formula",
+"H2O"
+],
+[
+"ChEBI",
+"CHEBI:15377"
+],
+[
+"KEGG",
+"C00001"
+],
+[
+"HMDB",
+"HMDB0002111"
+],
+[
+"InChI",
+"InChI=1S/H2O/h1H2"
+],
+[
+"InChIKey",
+"XLYOFNOQVPJJNP-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "H2O",
+"class": "SimpleChemical",
+"box": [
+359.0,
+1373.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"water"
+],
+[
+"Synonyms",
+"BOUND WATER; H(2)O; H2O; HOH; Wasser; [OH2]; acqua; agua; aqua; dihydridooxygen; dihydrogen oxide; eau; hydrogen hydroxide; oxidane"
+],
+[
+"Definition",
+"An oxygen hydride consisting of an oxygen atom that is covalently bonded to two hydrogen atoms"
+],
+[
+"Formula",
+"H2O"
+],
+[
+"ChEBI",
+"CHEBI:15377"
+],
+[
+"KEGG",
+"C00001"
+],
+[
+"HMDB",
+"HMDB0002111"
+],
+[
+"InChI",
+"InChI=1S/H2O/h1H2"
+],
+[
+"InChIKey",
+"XLYOFNOQVPJJNP-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "H+",
+"class": "SimpleChemical",
+"box": [
+70.5,
+1378.5,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"hydron"
+],
+[
+"Synonyms",
+"H(+); H+; hydrogen(1+)"
+],
+[
+"Definition",
+"The general name for the hydrogen nucleus, to be used without regard to the hydrogen nuclear mass (either for hydrogen in its natural abundance or where it is not desired to distinguish between the isotopes)."
+],
+[
+"Formula",
+"H"
+],
+[
+"ChEBI",
+"CHEBI:15378"
+],
+[
+"KEGG",
+"C00080"
+],
+[
+"InChI",
+"InChI=1S/p+1"
+],
+[
+"InChIKey",
+"GPRLSGONYQIRFK-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "O2",
+"class": "SimpleChemical",
+"box": [
+941.0,
+1392.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"dioxygen"
+],
+[
+"Synonyms",
+"Disauerstoff; E 948; E-948; E948; O(2); O2; OXYGEN MOLECULE; Oxygen; [OO]; dioxygene; molecular oxygen"
+],
+[
+"Formula",
+"O2"
+],
+[
+"ChEBI",
+"CHEBI:15379"
+],
+[
+"KEGG",
+"C00007"
+],
+[
+"HMDB",
+"HMDB0001377"
+],
+[
+"InChI",
+"InChI=1S/O2/c1-2"
+],
+[
+"InChIKey",
+"MYMOFIZGZYHOMD-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "GSSG",
+"class": "SimpleChemical",
+"box": [
+1111.0,
+1422.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"glutathione disulfide"
+],
+[
+"Synonyms",
+"(2S,2'S)-5,5'-[disulfanediylbis({(2R)-3-[(carboxymethyl)amino]-3-oxopropane-1,2-diyl}imino)]bis(2-amino-5-oxopentanoic acid); GSSG; OXIDIZED GLUTATHIONE DISULFIDE; Oxidized glutathione; Oxiglutatione; glutathione disulphide; oxidised glutathione"
+],
+[
+"Formula",
+"C20H32N6O12S2"
+],
+[
+"ChEBI",
+"CHEBI:17858"
+],
+[
+"KEGG",
+"C00127"
+],
+[
+"InChI",
+"InChI=1S/C20H32N6O12S2/c21-9(19(35)36)1-3-13(27)25-11(17(33)23-5-15(29)30)7-39-40-8-12(18(34)24-6-16(31)32)26-14(28)4-2-10(22)20(37)38/h9-12H,1-8,21-22H2,(H,23,33)(H,24,34)(H,25,27)(H,26,28)(H,29,30)(H,31,32)(H,35,36)(H,37,38)/t9-,10-,11-,12-/m0/s1"
+],
+[
+"InChIKey",
+"YPZRWBKMTBYPTK-BJDJZHNGSA-N"
+]
+]
+},
+{
+"label": "H2O",
+"class": "SimpleChemical",
+"box": [
+591.0,
+1422.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"water"
+],
+[
+"Synonyms",
+"BOUND WATER; H(2)O; H2O; HOH; Wasser; [OH2]; acqua; agua; aqua; dihydridooxygen; dihydrogen oxide; eau; hydrogen hydroxide; oxidane"
+],
+[
+"Definition",
+"An oxygen hydride consisting of an oxygen atom that is covalently bonded to two hydrogen atoms"
+],
+[
+"Formula",
+"H2O"
+],
+[
+"ChEBI",
+"CHEBI:15377"
+],
+[
+"KEGG",
+"C00001"
+],
+[
+"HMDB",
+"HMDB0002111"
+],
+[
+"InChI",
+"InChI=1S/H2O/h1H2"
+],
+[
+"InChIKey",
+"XLYOFNOQVPJJNP-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "NADPH",
+"class": "SimpleChemical",
+"box": [
+140.5,
+1418.5,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"NADPH"
+],
+[
+"Synonyms",
+"2'-O-phosphonoadenosine 5'-{3-[1-(3-carbamoyl-1,4-dihydropyridin-1-yl)-1,4-anhydro-D-ribitol-5-yl] dihydrogen diphosphate}; NADPH DIHYDRO-NICOTINAMIDE-ADENINE-DINUCLEOTIDE PHOSPHATE; Reduced nicotinamide adenine dinucleotide phosphate; TPNH; dihydronicotinamide-adenine dinucleotide phosphate; reduced nicotinamide-adenine dinucleotide phosphate"
+],
+[
+"Definition",
+"The reduced form of NADP+; used in anabolic reactions, such as lipid and nucleic acid synthesis, which require NADPH as a reducing agent."
+],
+[
+"Formula",
+"C21H30N7O17P3"
+],
+[
+"ChEBI",
+"CHEBI:16474"
+],
+[
+"KEGG",
+"C00005"
+],
+[
+"HMDB",
+"HMDB0000221"
+],
+[
+"InChI",
+"InChI=1S/C21H30N7O17P3/c22-17-12-19(25-7-24-17)28(8-26-12)21-16(44-46(33,34)35)14(30)11(43-21)6-41-48(38,39)45-47(36,37)40-5-10-13(29)15(31)20(42-10)27-3-1-2-9(4-27)18(23)32/h1,3-4,7-8,10-11,13-16,20-21,29-31H,2,5-6H2,(H2,23,32)(H,36,37)(H,38,39)(H2,22,24,25)(H2,33,34,35)/t10-,11-,13-,14-,15-,16-,20-,21-/m1/s1"
+],
+[
+"InChIKey",
+"ACFIXJIJDZMPPO-NNYOXOHSSA-N"
+]
+]
+},
+{
+"label": "H2O",
+"class": "SimpleChemical",
+"box": [
+871.0,
+1422.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"water"
+],
+[
+"Synonyms",
+"BOUND WATER; H(2)O; H2O; HOH; Wasser; [OH2]; acqua; agua; aqua; dihydridooxygen; dihydrogen oxide; eau; hydrogen hydroxide; oxidane"
+],
+[
+"Definition",
+"An oxygen hydride consisting of an oxygen atom that is covalently bonded to two hydrogen atoms"
+],
+[
+"Formula",
+"H2O"
+],
+[
+"ChEBI",
+"CHEBI:15377"
+],
+[
+"KEGG",
+"C00001"
+],
+[
+"HMDB",
+"HMDB0002111"
+],
+[
+"InChI",
+"InChI=1S/H2O/h1H2"
+],
+[
+"InChIKey",
+"XLYOFNOQVPJJNP-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "TXN2",
+"class": "Macromolecule",
+"box": [
+288.5,
+1430.5,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Thioredoxin, mitochondrial"
+],
+[
+"Alternative names",
+"Thioredoxin-2"
+],
+[
+"Function",
+"Important for the control of mitochondrial reactive oxygen species homeostasis, apoptosis regulation and cell viability Is involved in various redox reactions including the reduction of protein disulfide bonds, through the reversible oxidation of its active center dithiol to a disulfide"
+],
+[
+"Location",
+"Mitochondrion"
+],
+[
+"HGNC",
+"HGNC:17772"
+],
+[
+"HGNC symbol",
+"TXN2"
+],
+[
+"Alias symbols",
+"MT-TRX"
+],
+[
+"Entrez",
+"25828"
+],
+[
+"Ensembl",
+"ENSG00000100348"
+],
+[
+"RefSeq",
+"NM_012473"
+],
+[
+"UniProt",
+"Q99757"
+]
+]
+},
+{
+"label": "H2O",
+"class": "SimpleChemical",
+"box": [
+1823.0,
+552.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"water"
+],
+[
+"Synonyms",
+"BOUND WATER; H(2)O; H2O; HOH; Wasser; [OH2]; acqua; agua; aqua; dihydridooxygen; dihydrogen oxide; eau; hydrogen hydroxide; oxidane"
+],
+[
+"Definition",
+"An oxygen hydride consisting of an oxygen atom that is covalently bonded to two hydrogen atoms"
+],
+[
+"Formula",
+"H2O"
+],
+[
+"ChEBI",
+"CHEBI:15377"
+],
+[
+"KEGG",
+"C00001"
+],
+[
+"HMDB",
+"HMDB0002111"
+],
+[
+"InChI",
+"InChI=1S/H2O/h1H2"
+],
+[
+"InChIKey",
+"XLYOFNOQVPJJNP-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "GSSG",
+"class": "SimpleChemical",
+"box": [
+1823.0,
+462.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"glutathione disulfide"
+],
+[
+"Synonyms",
+"(2S,2'S)-5,5'-[disulfanediylbis({(2R)-3-[(carboxymethyl)amino]-3-oxopropane-1,2-diyl}imino)]bis(2-amino-5-oxopentanoic acid); GSSG; OXIDIZED GLUTATHIONE DISULFIDE; Oxidized glutathione; Oxiglutatione; glutathione disulphide; oxidised glutathione"
+],
+[
+"Formula",
+"C20H32N6O12S2"
+],
+[
+"ChEBI",
+"CHEBI:17858"
+],
+[
+"KEGG",
+"C00127"
+],
+[
+"InChI",
+"InChI=1S/C20H32N6O12S2/c21-9(19(35)36)1-3-13(27)25-11(17(33)23-5-15(29)30)7-39-40-8-12(18(34)24-6-16(31)32)26-14(28)4-2-10(22)20(37)38/h9-12H,1-8,21-22H2,(H,23,33)(H,24,34)(H,25,27)(H,26,28)(H,29,30)(H,31,32)(H,35,36)(H,37,38)/t9-,10-,11-,12-/m0/s1"
+],
+[
+"InChIKey",
+"YPZRWBKMTBYPTK-BJDJZHNGSA-N"
+]
+]
+},
+{
+"label": "GSH",
+"class": "SimpleChemical",
+"box": [
+1823.0,
+302.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"glutathione"
+],
+[
+"Synonyms",
+"5-L-Glutamyl-L-cysteinylglycine; GSH; Glutathione-SH; L-gamma-glutamyl-L-cysteinylglycine; N-(N-gamma-L-Glutamyl-L-cysteinyl)glycine; Reduced glutathione; gamma-L-Glutamyl-L-cysteinyl-glycine"
+],
+[
+"Definition",
+"A tripeptide compound consisting of glutamic acid attached via its side chain to the N-terminus of cysteinylglycine."
+],
+[
+"Formula",
+"C10H17N3O6S"
+],
+[
+"ChEBI",
+"CHEBI:16856"
+],
+[
+"KEGG",
+"C00051"
+],
+[
+"HMDB",
+"HMDB0000125"
+],
+[
+"InChI",
+"InChI=1S/C10H17N3O6S/c11-5(10(18)19)1-2-7(14)13-6(4-20)9(17)12-3-8(15)16/h5-6,20H,1-4,11H2,(H,12,17)(H,13,14)(H,15,16)(H,18,19)/t5-,6-/m0/s1"
+],
+[
+"InChIKey",
+"RWSXRVCMGQZWBV-WDSKDSINSA-N"
+]
+]
+},
+{
+"label": "H2O2",
+"class": "SimpleChemical",
+"box": [
+1823.0,
+212.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"hydrogen peroxide"
+],
+[
+"Synonyms",
+"H(2)O(2); H2O2; HOOH; Oxydol; [OH(OH)]; bis(hydridooxygen)(O--O); dihydrogen dioxide; dihydrogen peroxide; dihydrogen(peroxide); dioxidane; perhydrol"
+],
+[
+"Definition",
+"An inorganic peroxide consisting of two hydroxy groups joined by a covalent oxygen-oxygen single bond."
+],
+[
+"Formula",
+"H2O2"
+],
+[
+"ChEBI",
+"CHEBI:16240"
+],
+[
+"KEGG",
+"C00027"
+],
+[
+"HMDB",
+"HMDB0003125"
+],
+[
+"InChI",
+"InChI=1S/H2O2/c1-2/h1-2H"
+],
+[
+"InChIKey",
+"MHAJPDPJQMAIIY-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "O2.-",
+"class": "SimpleChemical",
+"box": [
+1823.5,
+52.5,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"superoxide"
+],
+[
+"Synonyms",
+"(O2)(.-); Dioxid(1-); Hyperoxid; O2(-); O2(.-); O2-; O2.-; Superoxide anion; dioxidanidyl; dioxide(.1-); dioxide(1-); hiperoxido; hyperoxide; superoxide anion radical; superoxide radical; superoxide radical anion; superoxido; superoxyde"
+],
+[
+"Formula",
+"O2"
+],
+[
+"ChEBI",
+"CHEBI:18421"
+],
+[
+"KEGG",
+"C00704"
+],
+[
+"HMDB",
+"HMDB0002168"
+],
+[
+"InChI",
+"InChI=1S/HO2/c1-2/h1H/p-1"
+],
+[
+"InChIKey",
+"OUUQCZGPVNCOIJ-UHFFFAOYSA-M"
+]
+]
+}
+]
+}

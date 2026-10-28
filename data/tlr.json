@@ -1,0 +1,1180 @@
+{
+"nodes": [
+{
+"label": "TLR2",
+"class": "Macromolecule",
+"box": [
+649.0,
+155.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Toll-like receptor 2"
+],
+[
+"Alternative names",
+"Toll/interleukin-1 receptor-like protein 4"
+],
+[
+"Function",
+"Cooperates with LY96 to mediate the innate immune response to bacterial lipoproteins and other microbial cell wall components. Cooperates with TLR1 or TLR6 to mediate the innate immune response to bacterial lipoproteins or lipopeptides."
+],
+[
+"Location",
+"Membrane, Cytoplasmic vesicle, phagosome membrane, Membrane raft"
+],
+[
+"HGNC",
+"HGNC:11848"
+],
+[
+"HGNC symbol",
+"TLR2"
+],
+[
+"Alias symbols",
+"TIL4, CD282"
+],
+[
+"Entrez",
+"7097"
+],
+[
+"Ensembl",
+"ENSG00000137462"
+],
+[
+"RefSeq",
+"NM_001318787"
+],
+[
+"UniProt",
+"O60603"
+]
+]
+},
+{
+"label": "TLR6",
+"class": "Macromolecule",
+"box": [
+649.0,
+205.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Toll-like receptor 6"
+],
+[
+"Function",
+"Participates in the innate immune response to Gram-positive bacteria and fungi. Specifically recognizes diacylated and, to a lesser extent, triacylated lipopeptides."
+],
+[
+"Location",
+"Cell membrane, Cytoplasmic vesicle, phagosome membrane, Membrane raft, Golgi apparatus"
+],
+[
+"HGNC",
+"HGNC:16711"
+],
+[
+"HGNC symbol",
+"TLR6"
+],
+[
+"Alias symbols",
+"CD286"
+],
+[
+"Entrez",
+"10333"
+],
+[
+"Ensembl",
+"ENSG00000174130"
+],
+[
+"RefSeq",
+"NM_001394553"
+],
+[
+"UniProt",
+"Q9Y2C9"
+]
+]
+},
+{
+"label": "TLR2",
+"class": "Macromolecule",
+"box": [
+649.0,
+25.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Toll-like receptor 2"
+],
+[
+"Alternative names",
+"Toll/interleukin-1 receptor-like protein 4"
+],
+[
+"Function",
+"Cooperates with LY96 to mediate the innate immune response to bacterial lipoproteins and other microbial cell wall components. Cooperates with TLR1 or TLR6 to mediate the innate immune response to bacterial lipoproteins or lipopeptides."
+],
+[
+"Location",
+"Membrane, Cytoplasmic vesicle, phagosome membrane, Membrane raft"
+],
+[
+"HGNC",
+"HGNC:11848"
+],
+[
+"HGNC symbol",
+"TLR2"
+],
+[
+"Alias symbols",
+"TIL4, CD282"
+],
+[
+"Entrez",
+"7097"
+],
+[
+"Ensembl",
+"ENSG00000137462"
+],
+[
+"RefSeq",
+"NM_001318787"
+],
+[
+"UniProt",
+"O60603"
+]
+]
+},
+{
+"label": "TLR1",
+"class": "Macromolecule",
+"box": [
+649.0,
+75.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Toll-like receptor 1"
+],
+[
+"Alternative names",
+"Toll/interleukin-1 receptor-like protein"
+],
+[
+"Function",
+"Participates in the innate immune response to microbial agents. Specifically recognizes diacylated and triacylated lipopeptides."
+],
+[
+"Location",
+"Cell membrane, Cytoplasmic vesicle, phagosome membrane, Membrane raft, Golgi apparatus"
+],
+[
+"HGNC",
+"HGNC:11847"
+],
+[
+"HGNC symbol",
+"TLR1"
+],
+[
+"Alias symbols",
+"rsc786, KIAA0012, CD281"
+],
+[
+"Entrez",
+"7096"
+],
+[
+"Ensembl",
+"ENSG00000174125"
+],
+[
+"RefSeq",
+"NM_003263"
+],
+[
+"UniProt",
+"Q15399"
+]
+]
+},
+{
+"label": "TLR4",
+"class": "Macromolecule",
+"box": [
+649.0,
+315.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Toll-like receptor 4"
+],
+[
+"Alternative names",
+"hToll"
+],
+[
+"Function",
+"Transmembrane receptor that functions as a pattern recognition receptor recognizing pathogen- and damage-associated molecular patterns (PAMPs and DAMPs) to induce innate immune responses via downstream signaling pathways. At the plasma membrane, cooperates with LY96 to mediate the innate immune response to bacterial lipopolysaccharide (LPS)."
+],
+[
+"Location",
+"Cell membrane, Early endosome, Cell projection, ruffle"
+],
+[
+"HGNC",
+"HGNC:11850"
+],
+[
+"HGNC symbol",
+"TLR4"
+],
+[
+"Alias symbols",
+"hToll, CD284, TLR-4, ARMD10"
+],
+[
+"Entrez",
+"7099"
+],
+[
+"Ensembl",
+"ENSG00000136869"
+],
+[
+"RefSeq",
+"NM_138554"
+],
+[
+"UniProt",
+"O00206"
+]
+]
+},
+{
+"label": "LY96",
+"class": "Macromolecule",
+"box": [
+649.0,
+365.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Lymphocyte antigen 96"
+],
+[
+"Alternative names",
+"ESOP-1; Protein MD-2"
+],
+[
+"Function",
+"Binds bacterial lipopolysaccharide (LPS). Cooperates with TLR4 in the innate immune response to bacterial lipopolysaccharide (LPS), and with TLR2 in the response to cell wall components from Gram-positive and Gram-negative bacteria."
+],
+[
+"Location",
+"Secreted, extracellular space, Secreted"
+],
+[
+"HGNC",
+"HGNC:17156"
+],
+[
+"HGNC symbol",
+"LY96"
+],
+[
+"Alias symbols",
+"MD-2"
+],
+[
+"Entrez",
+"23643"
+],
+[
+"Ensembl",
+"ENSG00000154589"
+],
+[
+"RefSeq",
+"NM_015364"
+],
+[
+"UniProt",
+"Q9Y6Y9"
+]
+]
+},
+{
+"label": "FOS",
+"class": "Macromolecule",
+"box": [
+2024.0,
+290.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Protein c-Fos"
+],
+[
+"Alternative names",
+"Cellular oncogene fos; Fos proto-oncogene, AP-1 transcription factor subunit; G0/G1 switch regulatory protein 7; Proto-oncogene c-Fos; Transcription factor AP-1 subunit c-Fos"
+],
+[
+"Function",
+"Nuclear phosphoprotein which forms a tight but non-covalently linked complex with the JUN/AP-1 transcription factor. In the heterodimer, FOS and JUN/AP-1 basic regions each seems to interact with symmetrical DNA half sites."
+],
+[
+"Location",
+"Nucleus, Endoplasmic reticulum, Cytoplasm, cytosol"
+],
+[
+"HGNC",
+"HGNC:3796"
+],
+[
+"HGNC symbol",
+"FOS"
+],
+[
+"Alias symbols",
+"c-fos, AP-1"
+],
+[
+"Entrez",
+"2353"
+],
+[
+"Ensembl",
+"ENSG00000170345"
+],
+[
+"RefSeq",
+"NM_005252"
+],
+[
+"UniProt",
+"P01100"
+]
+]
+},
+{
+"label": "JUN",
+"class": "Macromolecule",
+"box": [
+2114.0,
+290.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Transcription factor Jun"
+],
+[
+"Alternative names",
+"Activator protein 1; Proto-oncogene c-Jun; Transcription factor AP-1 subunit Jun; V-jun avian sarcoma virus 17 oncogene homolog; p39"
+],
+[
+"Function",
+"Transcription factor that recognizes and binds to the AP-1 consensus motif 5'-TGA[GC]TCA-3'. Heterodimerizes with proteins of the FOS family to form an AP-1 transcription complex, thereby enhancing its DNA binding activity to the AP-1 consensus sequence 5'-TGA[GC]TCA-3' and enhancing its transcriptional activity."
+],
+[
+"Location",
+"Nucleus"
+],
+[
+"HGNC",
+"HGNC:6204"
+],
+[
+"HGNC symbol",
+"JUN"
+],
+[
+"Alias symbols",
+"c-Jun, AP-1"
+],
+[
+"Entrez",
+"3725"
+],
+[
+"Ensembl",
+"ENSG00000177606"
+],
+[
+"RefSeq",
+"NM_002228"
+],
+[
+"UniProt",
+"P05412"
+]
+]
+},
+{
+"label": "TIRAP",
+"class": "Macromolecule",
+"box": [
+779.0,
+185.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Toll/interleukin-1 receptor domain-containing adapter protein"
+],
+[
+"Alternative names",
+"Adaptor protein Wyatt; MyD88 adapter-like protein"
+],
+[
+"Function",
+"Adapter involved in TLR2, TLR4 and RAGE signaling pathways in the innate immune response. Acts via IRAK2 and TRAF-6, leading to the activation of NF-kappa-B, MAPK1, MAPK3 and JNK, and resulting in cytokine secretion and the inflammatory response."
+],
+[
+"Location",
+"Cytoplasm, Cell membrane, Membrane"
+],
+[
+"HGNC",
+"HGNC:17192"
+],
+[
+"HGNC symbol",
+"TIRAP"
+],
+[
+"Alias symbols",
+"Mal, wyatt"
+],
+[
+"Entrez",
+"114609"
+],
+[
+"Ensembl",
+"ENSG00000150455"
+],
+[
+"RefSeq",
+"NM_148910"
+],
+[
+"UniProt",
+"P58753"
+]
+]
+},
+{
+"label": "MYD88",
+"class": "Macromolecule",
+"box": [
+899.0,
+185.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Myeloid differentiation primary response protein MyD88"
+],
+[
+"Function",
+"Adapter protein involved in the Toll-like receptor and IL-1 receptor signaling pathway in the innate immune response. Acts via IRAK1, IRAK2, IRF7 and TRAF6, leading to NF-kappa-B activation, cytokine secretion and the inflammatory response."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:7562"
+],
+[
+"HGNC symbol",
+"MYD88"
+],
+[
+"Entrez",
+"4615"
+],
+[
+"Ensembl",
+"ENSG00000172936"
+],
+[
+"RefSeq",
+"NM_002468"
+],
+[
+"UniProt",
+"Q99836"
+]
+]
+},
+{
+"label": "IRAK1",
+"class": "Macromolecule",
+"box": [
+1139.0,
+185.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Interleukin-1 receptor-associated kinase 1"
+],
+[
+"Function",
+"Serine/threonine-protein kinase that plays a critical role in initiating innate immune response against foreign pathogens. Involved in Toll-like receptor (TLR) and IL-1R signaling pathways."
+],
+[
+"Location",
+"Cytoplasm, Nucleus, Lipid droplet"
+],
+[
+"HGNC",
+"HGNC:6112"
+],
+[
+"HGNC symbol",
+"IRAK1"
+],
+[
+"Alias symbols",
+"IRAK, pelle"
+],
+[
+"Entrez",
+"3654"
+],
+[
+"Ensembl",
+"ENSG00000184216"
+],
+[
+"RefSeq",
+"NM_001025242"
+],
+[
+"UniProt",
+"P51617"
+]
+]
+},
+{
+"label": "IRAK4",
+"class": "Macromolecule",
+"box": [
+1019.0,
+185.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Interleukin-1 receptor-associated kinase 4"
+],
+[
+"Alternative names",
+"Renal carcinoma antigen NY-REN-64"
+],
+[
+"Function",
+"Serine/threonine-protein kinase that plays a critical role in initiating innate immune response against foreign pathogens. Involved in Toll-like receptor (TLR) and IL-1R signaling pathways."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:17967"
+],
+[
+"HGNC symbol",
+"IRAK4"
+],
+[
+"Alias symbols",
+"NY-REN-64"
+],
+[
+"Entrez",
+"51135"
+],
+[
+"Ensembl",
+"ENSG00000198001"
+],
+[
+"RefSeq",
+"NM_001114182"
+],
+[
+"UniProt",
+"Q9NWZ3"
+]
+]
+},
+{
+"label": "TRAF1",
+"class": "Macromolecule",
+"box": [
+1259.0,
+185.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"TNF receptor-associated factor 1"
+],
+[
+"Alternative names",
+"Epstein-Barr virus-induced protein 6"
+],
+[
+"Function",
+"Adapter molecule that is involved in multiple signaling pathways including the NF-kappa-B and MAPK pathways and thus influences inflammatory and apoptotic responses. Plays a critical role in regulating T-cell activation both through restricting the costimulation-independent activation of NIK in activated T-cells and by promoting the TNFRSF9-induced classical NF-kappa-B pathway."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:12031"
+],
+[
+"HGNC symbol",
+"TRAF1"
+],
+[
+"Alias symbols",
+"EBI6"
+],
+[
+"Entrez",
+"7185"
+],
+[
+"Ensembl",
+"ENSG00000056558"
+],
+[
+"RefSeq",
+"NM_005658"
+],
+[
+"UniProt",
+"Q13077"
+]
+]
+},
+{
+"label": "TAB2",
+"class": "Macromolecule",
+"box": [
+1379.0,
+155.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"TGF-beta-activated kinase 1 and MAP3K7-binding protein 2"
+],
+[
+"Alternative names",
+"Mitogen-activated protein kinase kinase kinase 7-interacting protein 2; TAK1-binding protein 2; TGF-beta-activated kinase 1-binding protein 2"
+],
+[
+"Function",
+"Adapter required to activate the JNK and NF-kappa-B signaling pathways through the specific recognition of 'Lys-63'-linked polyubiquitin chains by its RanBP2-type zinc finger (NZF). Acts as an adapter linking MAP3K7/TAK1 and TRAF6 to 'Lys-63'-linked polyubiquitin chains."
+],
+[
+"Location",
+"Membrane, Endosome membrane, Lysosome membrane, Cytoplasm, cytosol"
+],
+[
+"HGNC",
+"HGNC:17075"
+],
+[
+"HGNC symbol",
+"TAB2"
+],
+[
+"Previous symbols",
+"MAP3K7IP2"
+],
+[
+"Alias symbols",
+"KIAA0733"
+],
+[
+"Entrez",
+"23118"
+],
+[
+"Ensembl",
+"ENSG00000055208"
+],
+[
+"RefSeq",
+"NM_001292034"
+],
+[
+"UniProt",
+"Q9NYJ8"
+]
+]
+},
+{
+"label": "TAB3",
+"class": "Macromolecule",
+"box": [
+1379.0,
+215.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"TGF-beta-activated kinase 1 and MAP3K7-binding protein 3"
+],
+[
+"Alternative names",
+"Mitogen-activated protein kinase kinase kinase 7-interacting protein 3; NF-kappa-B-activating protein 1; TAK1-binding protein 3; TGF-beta-activated kinase 1-binding protein 3"
+],
+[
+"Function",
+"Adapter required to activate the JNK and NF-kappa-B signaling pathways through the specific recognition of 'Lys-63'-linked polyubiquitin chains by its RanBP2-type zinc finger (NZF). Acts as an adapter linking MAP3K7/TAK1 and TRAF6 to 'Lys-63'-linked polyubiquitin chains."
+],
+[
+"HGNC",
+"HGNC:30681"
+],
+[
+"HGNC symbol",
+"TAB3"
+],
+[
+"Previous symbols",
+"MAP3K7IP3"
+],
+[
+"Entrez",
+"257397"
+],
+[
+"Ensembl",
+"ENSG00000157625"
+],
+[
+"RefSeq",
+"NM_152787"
+],
+[
+"UniProt",
+"Q8N5C8"
+]
+]
+},
+{
+"label": "MAP3K7",
+"class": "Macromolecule",
+"box": [
+1499.0,
+185.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase kinase kinase 7"
+],
+[
+"Alternative names",
+"Transforming growth factor-beta-activated kinase 1"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. Plays an important role in the cascades of cellular responses evoked by changes in the environment."
+],
+[
+"Location",
+"Cytoplasm, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:6859"
+],
+[
+"HGNC symbol",
+"MAP3K7"
+],
+[
+"Previous symbols",
+"TAK1"
+],
+[
+"Alias symbols",
+"MEKK7"
+],
+[
+"Entrez",
+"6885"
+],
+[
+"Ensembl",
+"ENSG00000135341"
+],
+[
+"RefSeq",
+"NM_145331"
+],
+[
+"UniProt",
+"O43318"
+]
+]
+},
+{
+"label": "MAP2K4",
+"class": "Macromolecule",
+"box": [
+1629.0,
+225.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Dual specificity mitogen-activated protein kinase kinase 4"
+],
+[
+"Alternative names",
+"JNK-activating kinase 1; MAPK/ERK kinase 4; SAPK/ERK kinase 1; Stress-activated protein kinase kinase 1; c-Jun N-terminal kinase kinase 1"
+],
+[
+"Function",
+"Dual specificity protein kinase which acts as an essential component of the MAP kinase signal transduction pathway. Essential component of the stress-activated protein kinase/c-Jun N-terminal kinase (SAP/JNK) signaling pathway."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:6844"
+],
+[
+"HGNC symbol",
+"MAP2K4"
+],
+[
+"Previous symbols",
+"SERK1"
+],
+[
+"Alias symbols",
+"MEK4, JNKK1, PRKMK4, MKK4, MAPKK4, SAPKK1, SKK1, JNKK, SEK1"
+],
+[
+"Entrez",
+"6416"
+],
+[
+"Ensembl",
+"ENSG00000065559"
+],
+[
+"RefSeq",
+"NM_001281435"
+],
+[
+"UniProt",
+"P45985"
+]
+]
+},
+{
+"label": "MAP2K7",
+"class": "Macromolecule",
+"box": [
+1629.0,
+275.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Dual specificity mitogen-activated protein kinase kinase 7"
+],
+[
+"Alternative names",
+"JNK-activating kinase 2; MAPK/ERK kinase 7; Stress-activated protein kinase kinase 4; c-Jun N-terminal kinase kinase 2"
+],
+[
+"Function",
+"Dual specificity protein kinase which acts as an essential component of the MAP kinase signal transduction pathway. Essential component of the stress-activated protein kinase/c-Jun N-terminal kinase (SAP/JNK) signaling pathway."
+],
+[
+"Location",
+"Nucleus, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:6847"
+],
+[
+"HGNC symbol",
+"MAP2K7"
+],
+[
+"Previous symbols",
+"PRKMK7"
+],
+[
+"Alias symbols",
+"MKK7, Jnkk2, SAPKK4"
+],
+[
+"Entrez",
+"5609"
+],
+[
+"Ensembl",
+"ENSG00000076984"
+],
+[
+"RefSeq",
+"NM_001297555"
+],
+[
+"UniProt",
+"O14733"
+]
+]
+},
+{
+"label": "MAPK8",
+"class": "Macromolecule",
+"box": [
+1759.0,
+315.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 8"
+],
+[
+"Alternative names",
+"JNK-46; Stress-activated protein kinase 1c; Stress-activated protein kinase JNK1; c-Jun N-terminal kinase 1"
+],
+[
+"Function",
+"Serine/threonine-protein kinase involved in various processes such as cell proliferation, differentiation, migration, transformation and programmed cell death. Extracellular stimuli such as pro-inflammatory cytokines or physical stress stimulate the stress-activated protein kinase/c-Jun N-terminal kinase (SAP/JNK) signaling pathway."
+],
+[
+"Location",
+"Cytoplasm, Nucleus, Synapse"
+],
+[
+"HGNC",
+"HGNC:6881"
+],
+[
+"HGNC symbol",
+"MAPK8"
+],
+[
+"Previous symbols",
+"PRKM8"
+],
+[
+"Alias symbols",
+"JNK, JNK1, SAPK1"
+],
+[
+"Entrez",
+"5599"
+],
+[
+"Ensembl",
+"ENSG00000107643"
+],
+[
+"RefSeq",
+"NM_001278547"
+],
+[
+"UniProt",
+"P45983"
+]
+]
+},
+{
+"label": "MAPK9",
+"class": "Macromolecule",
+"box": [
+1859.0,
+345.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 9"
+],
+[
+"Alternative names",
+"JNK-55; Stress-activated protein kinase 1a; Stress-activated protein kinase JNK2; c-Jun N-terminal kinase 2"
+],
+[
+"Function",
+"Serine/threonine-protein kinase involved in various processes such as cell proliferation, differentiation, migration, transformation and programmed cell death. Extracellular stimuli such as pro-inflammatory cytokines or physical stress stimulate the stress-activated protein kinase/c-Jun N-terminal kinase (SAP/JNK) signaling pathway."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:6886"
+],
+[
+"HGNC symbol",
+"MAPK9"
+],
+[
+"Previous symbols",
+"PRKM9"
+],
+[
+"Alias symbols",
+"JNK2, p54a, SAPK"
+],
+[
+"Entrez",
+"5601"
+],
+[
+"Ensembl",
+"ENSG00000050748"
+],
+[
+"RefSeq",
+"NM_001135044"
+],
+[
+"UniProt",
+"P45984"
+]
+]
+},
+{
+"label": "CD14",
+"class": "Macromolecule",
+"box": [
+649.0,
+465.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Monocyte differentiation antigen CD14"
+],
+[
+"Alternative names",
+"My23 antigen; Myeloid cell-specific leucine-rich glycoprotein"
+],
+[
+"Function",
+"Coreceptor for bacterial lipopolysaccharide. In concert with LBP, binds to monomeric lipopolysaccharide and delivers it to the LY96/TLR4 complex, thereby mediating the innate immune response to bacterial lipopolysaccharide (LPS)."
+],
+[
+"Location",
+"Cell membrane, Secreted, Membrane raft, Golgi apparatus"
+],
+[
+"HGNC",
+"HGNC:1628"
+],
+[
+"HGNC symbol",
+"CD14"
+],
+[
+"Entrez",
+"929"
+],
+[
+"Ensembl",
+"ENSG00000170458"
+],
+[
+"RefSeq",
+"NM_000591"
+],
+[
+"UniProt",
+"P08571"
+]
+]
+}
+]
+}

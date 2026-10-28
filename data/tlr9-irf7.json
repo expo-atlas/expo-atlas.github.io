@@ -1,0 +1,496 @@
+{
+"nodes": [
+{
+"label": "TLR9",
+"class": "Macromolecule",
+"box": [
+183.0,
+23.0,
+84.0,
+44.0
+],
+"props": [
+[
+"Full name",
+"Toll-like receptor 9"
+],
+[
+"Function",
+"Key component of innate and adaptive immunity. TLRs (Toll-like receptors) control host immune response against pathogens through recognition of molecular patterns specific to microorganisms."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Early endosome membrane, Lysosome, Cytoplasmic vesicle, phagosome, Golgi apparatus membrane"
+],
+[
+"HGNC",
+"HGNC:15633"
+],
+[
+"HGNC symbol",
+"TLR9"
+],
+[
+"Alias symbols",
+"CD289"
+],
+[
+"Entrez",
+"54106"
+],
+[
+"Ensembl",
+"ENSG00000239732"
+],
+[
+"RefSeq",
+"NM_017442"
+],
+[
+"UniProt",
+"Q9NR96"
+]
+]
+},
+{
+"label": "MYD88",
+"class": "Macromolecule",
+"box": [
+15.0,
+145.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Myeloid differentiation primary response protein MyD88"
+],
+[
+"Function",
+"Adapter protein involved in the Toll-like receptor and IL-1 receptor signaling pathway in the innate immune response. Acts via IRAK1, IRAK2, IRF7 and TRAF6, leading to NF-kappa-B activation, cytokine secretion and the inflammatory response."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:7562"
+],
+[
+"HGNC symbol",
+"MYD88"
+],
+[
+"Entrez",
+"4615"
+],
+[
+"Ensembl",
+"ENSG00000172936"
+],
+[
+"RefSeq",
+"NM_002468"
+],
+[
+"UniProt",
+"Q99836"
+]
+]
+},
+{
+"label": "IRAK4",
+"class": "Macromolecule",
+"box": [
+635.0,
+145.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Interleukin-1 receptor-associated kinase 4"
+],
+[
+"Alternative names",
+"Renal carcinoma antigen NY-REN-64"
+],
+[
+"Function",
+"Serine/threonine-protein kinase that plays a critical role in initiating innate immune response against foreign pathogens. Involved in Toll-like receptor (TLR) and IL-1R signaling pathways."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:17967"
+],
+[
+"HGNC symbol",
+"IRAK4"
+],
+[
+"Alias symbols",
+"NY-REN-64"
+],
+[
+"Entrez",
+"51135"
+],
+[
+"Ensembl",
+"ENSG00000198001"
+],
+[
+"RefSeq",
+"NM_001114182"
+],
+[
+"UniProt",
+"Q9NWZ3"
+]
+]
+},
+{
+"label": "IRAK1",
+"class": "Macromolecule",
+"box": [
+755.0,
+145.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Interleukin-1 receptor-associated kinase 1"
+],
+[
+"Function",
+"Serine/threonine-protein kinase that plays a critical role in initiating innate immune response against foreign pathogens. Involved in Toll-like receptor (TLR) and IL-1R signaling pathways."
+],
+[
+"Location",
+"Cytoplasm, Nucleus, Lipid droplet"
+],
+[
+"HGNC",
+"HGNC:6112"
+],
+[
+"HGNC symbol",
+"IRAK1"
+],
+[
+"Alias symbols",
+"IRAK, pelle"
+],
+[
+"Entrez",
+"3654"
+],
+[
+"Ensembl",
+"ENSG00000184216"
+],
+[
+"RefSeq",
+"NM_001025242"
+],
+[
+"UniProt",
+"P51617"
+]
+]
+},
+{
+"label": "IRF7",
+"class": "Macromolecule",
+"box": [
+995.0,
+145.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Interferon regulatory factor 7"
+],
+[
+"Function",
+"Key transcriptional regulator of type I interferon (IFN)-dependent immune responses and plays a critical role in the innate immune response against DNA and RNA viruses. Regulates the transcription of type I IFN genes (IFN-alpha and IFN-beta) and IFN-stimulated genes (ISG) by binding to an interferon-stimulated response element (ISRE) in their promoters."
+],
+[
+"Location",
+"Nucleus, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:6122"
+],
+[
+"HGNC symbol",
+"IRF7"
+],
+[
+"Entrez",
+"3665"
+],
+[
+"Ensembl",
+"ENSG00000185507"
+],
+[
+"RefSeq",
+"NM_001572"
+],
+[
+"UniProt",
+"Q92985"
+]
+]
+},
+{
+"label": "TRAF3",
+"class": "Macromolecule",
+"box": [
+875.0,
+145.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"TNF receptor-associated factor 3"
+],
+[
+"Alternative names",
+"CD40 receptor-associated factor 1; CD40-binding protein; LMP1-associated protein 1; RING-type E3 ubiquitin transferase TRAF3"
+],
+[
+"Function",
+"Cytoplasmic E3 ubiquitin ligase that regulates various signaling pathways, such as the NF-kappa-B, mitogen-activated protein kinase (MAPK) and interferon regulatory factor (IRF) pathways, and thus controls a lot of biological processes in both immune and non-immune cell types. In TLR and RLR signaling pathways, acts as an E3 ubiquitin ligase promoting the synthesis of 'Lys-63'-linked polyubiquitin chains on several substrates such as ASC that lead to the activation of the type I interferon response or the inflammasome."
+],
+[
+"Location",
+"Cytoplasm, Endosome, Mitochondrion"
+],
+[
+"HGNC",
+"HGNC:12033"
+],
+[
+"HGNC symbol",
+"TRAF3"
+],
+[
+"Alias symbols",
+"CAP-1, CD40bp, CRAF1, LAP1, RNF118"
+],
+[
+"Entrez",
+"7187"
+],
+[
+"Ensembl",
+"ENSG00000131323"
+],
+[
+"RefSeq",
+"NM_145725"
+],
+[
+"UniProt",
+"Q13114"
+]
+]
+},
+{
+"label": "IFNB1",
+"class": "NucleicAcidFeature",
+"box": [
+1485.0,
+135.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Interferon beta"
+],
+[
+"Alternative names",
+"Fibroblast interferon"
+],
+[
+"Function",
+"Type I interferon cytokine that plays a key role in the innate immune response to infection, developing tumors and other inflammatory stimuli. Signals via binding to high-affinity (IFNAR2) and low-affinity (IFNAR1) heterodimeric receptor, activating the canonical Jak-STAT signaling pathway resulting in transcriptional activation or repression of interferon-regulated genes that encode the effectors of the interferon response, such as antiviral proteins, regulators of cell proliferation and differentiation, and immunoregulatory proteins."
+],
+[
+"Location",
+"Secreted"
+],
+[
+"HGNC",
+"HGNC:5434"
+],
+[
+"HGNC symbol",
+"IFNB1"
+],
+[
+"Previous symbols",
+"IFNB"
+],
+[
+"Alias symbols",
+"IFB, IFF"
+],
+[
+"Entrez",
+"3456"
+],
+[
+"Ensembl",
+"ENSG00000171855"
+],
+[
+"RefSeq",
+"NM_002176"
+],
+[
+"UniProt",
+"P01574"
+]
+]
+},
+{
+"label": "IFNB1",
+"class": "NucleicAcidFeature",
+"box": [
+1615.0,
+135.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Interferon beta"
+],
+[
+"Alternative names",
+"Fibroblast interferon"
+],
+[
+"Function",
+"Type I interferon cytokine that plays a key role in the innate immune response to infection, developing tumors and other inflammatory stimuli. Signals via binding to high-affinity (IFNAR2) and low-affinity (IFNAR1) heterodimeric receptor, activating the canonical Jak-STAT signaling pathway resulting in transcriptional activation or repression of interferon-regulated genes that encode the effectors of the interferon response, such as antiviral proteins, regulators of cell proliferation and differentiation, and immunoregulatory proteins."
+],
+[
+"Location",
+"Secreted"
+],
+[
+"HGNC",
+"HGNC:5434"
+],
+[
+"HGNC symbol",
+"IFNB1"
+],
+[
+"Previous symbols",
+"IFNB"
+],
+[
+"Alias symbols",
+"IFB, IFF"
+],
+[
+"Entrez",
+"3456"
+],
+[
+"Ensembl",
+"ENSG00000171855"
+],
+[
+"RefSeq",
+"NM_002176"
+],
+[
+"UniProt",
+"P01574"
+]
+]
+},
+{
+"label": "IFNB1",
+"class": "Macromolecule",
+"box": [
+1745.0,
+135.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Interferon beta"
+],
+[
+"Alternative names",
+"Fibroblast interferon"
+],
+[
+"Function",
+"Type I interferon cytokine that plays a key role in the innate immune response to infection, developing tumors and other inflammatory stimuli. Signals via binding to high-affinity (IFNAR2) and low-affinity (IFNAR1) heterodimeric receptor, activating the canonical Jak-STAT signaling pathway resulting in transcriptional activation or repression of interferon-regulated genes that encode the effectors of the interferon response, such as antiviral proteins, regulators of cell proliferation and differentiation, and immunoregulatory proteins."
+],
+[
+"Location",
+"Secreted"
+],
+[
+"HGNC",
+"HGNC:5434"
+],
+[
+"HGNC symbol",
+"IFNB1"
+],
+[
+"Previous symbols",
+"IFNB"
+],
+[
+"Alias symbols",
+"IFB, IFF"
+],
+[
+"Entrez",
+"3456"
+],
+[
+"Ensembl",
+"ENSG00000171855"
+],
+[
+"RefSeq",
+"NM_002176"
+],
+[
+"UniProt",
+"P01574"
+]
+]
+}
+]
+}

@@ -1,1 +1,326 @@
-[]
+[
+{
+"id": "metal-redox",
+"title": "Metal Fenton chemistry",
+"topic": "Metal Fenton chemistry",
+"group": "ExposomeMap",
+"kind": null,
+"tag": "draft",
+"tab": null,
+"image": "files/metal-redox.svg",
+"width": 1947.0,
+"height": 686.0,
+"scale": 1,
+"annotation": "data/metal-redox.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/metal-redox.graphml"
+},
+{
+"label": "SVG",
+"url": "files/metal-redox.svg"
+}
+],
+"data": "data/metal-redox-text.json",
+"hasText": true
+},
+{
+"id": "scavenger-uptake",
+"title": "Particle uptake and NLRP3",
+"topic": "Particle uptake and NLRP3",
+"group": "ExposomeMap",
+"kind": null,
+"tag": "draft",
+"tab": null,
+"image": "files/scavenger-uptake.svg",
+"width": 2198.0,
+"height": 1112.0,
+"scale": 1,
+"annotation": "data/scavenger-uptake.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/scavenger-uptake.graphml"
+},
+{
+"label": "SVG",
+"url": "files/scavenger-uptake.svg"
+}
+],
+"data": "data/scavenger-uptake-text.json",
+"hasText": true
+},
+{
+"id": "scavenger-signalling",
+"title": "Scavenger receptor signalling",
+"topic": "Scavenger receptor signalling",
+"group": "ExposomeMap",
+"kind": null,
+"tag": "draft",
+"tab": null,
+"image": "files/scavenger-signalling.svg",
+"width": 1288.0,
+"height": 1332.0,
+"scale": 1,
+"annotation": "data/scavenger-signalling.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/scavenger-signalling.graphml"
+},
+{
+"label": "SVG",
+"url": "files/scavenger-signalling.svg"
+}
+],
+"data": "data/scavenger-signalling-text.json",
+"hasText": true
+},
+{
+"id": "tlr",
+"title": "TLR2 and TLR4",
+"topic": "TLR2 and TLR4",
+"group": "ExposomeMap",
+"kind": null,
+"tag": "draft",
+"tab": null,
+"image": "files/tlr.svg",
+"width": 2219.0,
+"height": 520.0,
+"scale": 1,
+"annotation": "data/tlr.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/tlr.graphml"
+},
+{
+"label": "SVG",
+"url": "files/tlr.svg"
+}
+],
+"data": "data/tlr-text.json",
+"hasText": true
+},
+{
+"id": "tlr9-irf7",
+"title": "TLR9 and IRF7",
+"topic": "TLR9 and IRF7",
+"group": "ExposomeMap",
+"kind": null,
+"tag": "draft",
+"tab": null,
+"image": "files/tlr9-irf7.svg",
+"width": 1840.0,
+"height": 200.0,
+"scale": 1,
+"annotation": "data/tlr9-irf7.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/tlr9-irf7.graphml"
+},
+{
+"label": "SVG",
+"url": "files/tlr9-irf7.svg"
+}
+],
+"data": "data/tlr9-irf7-text.json",
+"hasText": true
+},
+{
+"id": "mapk",
+"title": "MAP kinase cascades",
+"topic": "MAP kinase cascades",
+"group": "ExposomeMap",
+"kind": null,
+"tag": "draft",
+"tab": null,
+"image": "files/mapk.svg",
+"width": 1020.0,
+"height": 607.0,
+"scale": 1,
+"annotation": "data/mapk.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/mapk.graphml"
+},
+{
+"label": "SVG",
+"url": "files/mapk.svg"
+}
+],
+"data": "data/mapk-text.json",
+"hasText": true
+},
+{
+"id": "pi3k-plc-pkc",
+"title": "PI3K, PLCγ and PKC",
+"topic": "PI3K, PLCγ and PKC",
+"group": "ExposomeMap",
+"kind": null,
+"tag": "draft",
+"tab": null,
+"image": "files/pi3k-plc-pkc.svg",
+"width": 692.0,
+"height": 621.0,
+"scale": 1,
+"annotation": "data/pi3k-plc-pkc.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/pi3k-plc-pkc.graphml"
+},
+{
+"label": "SVG",
+"url": "files/pi3k-plc-pkc.svg"
+}
+],
+"data": "data/pi3k-plc-pkc-text.json",
+"hasText": true
+},
+{
+"id": "nfkb",
+"title": "IKK and NF-κB",
+"topic": "IKK and NF-κB",
+"group": "ExposomeMap",
+"kind": null,
+"tag": "draft",
+"tab": null,
+"image": "files/nfkb.svg",
+"width": 1125.0,
+"height": 756.0,
+"scale": 1,
+"annotation": "data/nfkb.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/nfkb.graphml"
+},
+{
+"label": "SVG",
+"url": "files/nfkb.svg"
+}
+],
+"data": "data/nfkb-text.json",
+"hasText": true
+},
+{
+"id": "trp-calcium",
+"title": "TRP channels and Ca2+",
+"topic": "TRP channels and Ca2+",
+"group": "ExposomeMap",
+"kind": null,
+"tag": "draft",
+"tab": null,
+"image": "files/trp-calcium.svg",
+"width": 1558.0,
+"height": 773.0,
+"scale": 1,
+"annotation": "data/trp-calcium.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/trp-calcium.graphml"
+},
+{
+"label": "SVG",
+"url": "files/trp-calcium.svg"
+}
+],
+"data": "data/trp-calcium-text.json",
+"hasText": true
+},
+{
+"id": "calmodulin-camk",
+"title": "Calmodulin and CaM kinases",
+"topic": "Calmodulin and CaM kinases",
+"group": "ExposomeMap",
+"kind": null,
+"tag": "draft",
+"tab": null,
+"image": "files/calmodulin-camk.svg",
+"width": 965.0,
+"height": 371.0,
+"scale": 1,
+"annotation": "data/calmodulin-camk.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/calmodulin-camk.graphml"
+},
+{
+"label": "SVG",
+"url": "files/calmodulin-camk.svg"
+}
+],
+"data": "data/calmodulin-camk-text.json",
+"hasText": true
+},
+{
+"id": "ahr",
+"title": "AHR and its targets",
+"topic": "AHR and its targets",
+"group": "ExposomeMap",
+"kind": null,
+"tag": "draft",
+"tab": null,
+"image": "files/ahr.svg",
+"width": 3239.0,
+"height": 463.0,
+"scale": 1,
+"annotation": "data/ahr.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/ahr.graphml"
+},
+{
+"label": "SVG",
+"url": "files/ahr.svg"
+}
+],
+"data": "data/ahr-text.json",
+"hasText": true
+},
+{
+"id": "ros-detox",
+"title": "ROS detoxification",
+"topic": "ROS detoxification",
+"group": "ExposomeMap",
+"kind": null,
+"tag": "draft",
+"tab": null,
+"image": "files/ros-detox.svg",
+"width": 1931.0,
+"height": 1495.0,
+"scale": 1,
+"annotation": "data/ros-detox.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/ros-detox.graphml"
+},
+{
+"label": "SVG",
+"url": "files/ros-detox.svg"
+}
+],
+"data": "data/ros-detox-text.json",
+"hasText": true
+}
+]

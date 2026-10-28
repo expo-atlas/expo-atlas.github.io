@@ -1,0 +1,932 @@
+{
+"nodes": [
+{
+"label": "MARCO",
+"class": "Macromolecule",
+"box": [
+758.0,
+49.5,
+84.0,
+47.0
+],
+"props": [
+[
+"Full name",
+"Macrophage receptor MARCO"
+],
+[
+"Alternative names",
+"Macrophage receptor with collagenous structure; Scavenger receptor class A member 2"
+],
+[
+"Function",
+"Pattern recognition receptor (PRR) which binds Gram-positive and Gram-negative bacteria. Also plays a role in binding of unopsonized particles by alveolar macrophages."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:6895"
+],
+[
+"HGNC symbol",
+"MARCO"
+],
+[
+"Alias symbols",
+"SCARA2, SR-A6"
+],
+[
+"Entrez",
+"8685"
+],
+[
+"Ensembl",
+"ENSG00000019169"
+],
+[
+"RefSeq",
+"NM_006770"
+],
+[
+"UniProt",
+"Q9UEW3"
+]
+]
+},
+{
+"label": "MSR1",
+"class": "Macromolecule",
+"box": [
+758.0,
+244.5,
+84.0,
+47.0
+],
+"props": [
+[
+"Full name",
+"Macrophage scavenger receptor types I and II"
+],
+[
+"Alternative names",
+"Macrophage acetylated LDL receptor I and II; Scavenger receptor class A member 1"
+],
+[
+"Function",
+"Membrane receptor that mediates the binding, endocytosis and phagocytosis of a broad range of ligands. Recognizes and internalizes modified forms of low-density lipoproteins including acetylated LDL (AcLDL) and oxidized LDL (OxLDL), thereby promoting cholesterol uptake and contributing to foam cell formation during atherogenesis."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:7376"
+],
+[
+"HGNC symbol",
+"MSR1"
+],
+[
+"Alias symbols",
+"SCARA1, CD204, SR-AI, SR-AII, SR-AIII, SR-A"
+],
+[
+"Entrez",
+"4481"
+],
+[
+"Ensembl",
+"ENSG00000038945"
+],
+[
+"RefSeq",
+"NM_001363744"
+],
+[
+"UniProt",
+"P21757"
+]
+]
+},
+{
+"label": "SCARB1",
+"class": "Macromolecule",
+"box": [
+753.0,
+676.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Scavenger receptor class B member 1"
+],
+[
+"Alternative names",
+"CD36 and LIMPII analogous 1; CD36 antigen-like 1; Collagen type I receptor, thrombospondin receptor-like 1; SR-BI"
+],
+[
+"Function",
+"Receptor for different ligands such as phospholipids, cholesterol ester, lipoproteins, phosphatidylserine and apoptotic cells. Receptor for HDL, mediating selective uptake of cholesteryl ether and HDL-dependent cholesterol efflux."
+],
+[
+"Location",
+"Cell membrane, Membrane, caveola"
+],
+[
+"HGNC",
+"HGNC:1664"
+],
+[
+"HGNC symbol",
+"SCARB1"
+],
+[
+"Previous symbols",
+"CD36L1"
+],
+[
+"Alias symbols",
+"SRB1, CLA-1, CLA1, SR-BI"
+],
+[
+"Entrez",
+"949"
+],
+[
+"Ensembl",
+"ENSG00000073060"
+],
+[
+"RefSeq",
+"NM_005505"
+],
+[
+"UniProt",
+"Q8WTV0"
+]
+]
+},
+{
+"label": "CD36",
+"class": "Macromolecule",
+"box": [
+753.0,
+786.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Platelet glycoprotein 4"
+],
+[
+"Alternative names",
+"Fatty acid translocase; Glycoprotein IIIb; Leukocyte differentiation antigen CD36; PAS IV; PAS-4; Platelet collagen receptor; Platelet glycoprotein IV; Thrombospondin receptor"
+],
+[
+"Function",
+"Multifunctional glycoprotein that acts as a receptor for a broad range of ligands. Ligands can be of proteinaceous nature like thrombospondin, fibronectin, collagen or amyloid-beta as well as of lipidic nature such as oxidized low-density lipoprotein (oxLDL), anionic phospholipids, long- and very long-chain fatty acids and bacterial diacylated lipopeptides."
+],
+[
+"Location",
+"Cell membrane, Membrane raft, Golgi apparatus, Apical cell membrane"
+],
+[
+"HGNC",
+"HGNC:1663"
+],
+[
+"HGNC symbol",
+"CD36"
+],
+[
+"Alias symbols",
+"SCARB3, GPIV, FAT, GP4, GP3B, GPIIIB"
+],
+[
+"Entrez",
+"948"
+],
+[
+"Ensembl",
+"ENSG00000135218"
+],
+[
+"RefSeq",
+"NM_001001547"
+],
+[
+"UniProt",
+"P16671"
+]
+]
+},
+{
+"label": "TIMD4",
+"class": "Macromolecule",
+"box": [
+753.0,
+576.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"T-cell immunoglobulin and mucin domain-containing protein 4"
+],
+[
+"Alternative names",
+"T-cell immunoglobulin mucin receptor 4; T-cell membrane protein 4"
+],
+[
+"Function",
+"Phosphatidylserine receptor that plays different role in immune response including phagocytosis of apoptotic cells and T-cell regulation. Involved in efferocytosis, the process by which apoptotic cells are removed by phagocytic cells by promoting the engulfment of apoptotic cells or exogenous particles."
+],
+[
+"Location",
+"Cell membrane, Secreted, extracellular exosome"
+],
+[
+"HGNC",
+"HGNC:25132"
+],
+[
+"HGNC symbol",
+"TIMD4"
+],
+[
+"Alias symbols",
+"TIM4"
+],
+[
+"Entrez",
+"91937"
+],
+[
+"Ensembl",
+"ENSG00000145850"
+],
+[
+"RefSeq",
+"NM_138379"
+],
+[
+"UniProt",
+"Q96H15"
+]
+]
+},
+{
+"label": "FYN",
+"class": "Macromolecule",
+"box": [
+923.0,
+726.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Tyrosine-protein kinase Fyn"
+],
+[
+"Alternative names",
+"Proto-oncogene Syn; Proto-oncogene c-Fyn; Src-like kinase; p59-Fyn"
+],
+[
+"Function",
+"Non-receptor tyrosine-protein kinase that plays a role in many biological processes including regulation of cell growth and survival, cell adhesion, integrin-mediated signaling, cytoskeletal remodeling, cell motility, immune response and axon guidance. Inactive FYN is phosphorylated on its C-terminal tail within the catalytic domain."
+],
+[
+"Location",
+"Cytoplasm, Nucleus, Cell membrane, Perikaryon"
+],
+[
+"HGNC",
+"HGNC:4037"
+],
+[
+"HGNC symbol",
+"FYN"
+],
+[
+"Alias symbols",
+"SYN, SLK, MGC45350"
+],
+[
+"Entrez",
+"2534"
+],
+[
+"Ensembl",
+"ENSG00000010810"
+],
+[
+"RefSeq",
+"NM_001370529"
+],
+[
+"UniProt",
+"P06241"
+]
+]
+},
+{
+"label": "LYN",
+"class": "Macromolecule",
+"box": [
+923.0,
+776.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Tyrosine-protein kinase Lyn"
+],
+[
+"Alternative names",
+"Lck/Yes-related novel protein tyrosine kinase; V-yes-1 Yamaguchi sarcoma viral related oncogene homolog; p53Lyn; p56Lyn"
+],
+[
+"Function",
+"Non-receptor tyrosine-protein kinase that transmits signals from cell surface receptors and plays an important role in the regulation of innate and adaptive immune responses, hematopoiesis, responses to growth factors and cytokines, integrin signaling, but also responses to DNA damage and genotoxic agents. Functions primarily as negative regulator, but can also function as activator, depending on the context."
+],
+[
+"Location",
+"Cell membrane, Nucleus, Cytoplasm, Cytoplasm, perinuclear region, Golgi apparatus, Membrane"
+],
+[
+"HGNC",
+"HGNC:6735"
+],
+[
+"HGNC symbol",
+"LYN"
+],
+[
+"Alias symbols",
+"JTK8"
+],
+[
+"Entrez",
+"4067"
+],
+[
+"Ensembl",
+"ENSG00000254087"
+],
+[
+"RefSeq",
+"NM_002350"
+],
+[
+"UniProt",
+"P07948"
+]
+]
+},
+{
+"label": "YES1",
+"class": "Macromolecule",
+"box": [
+923.0,
+826.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Tyrosine-protein kinase Yes"
+],
+[
+"Alternative names",
+"Proto-oncogene c-Yes; p61-Yes"
+],
+[
+"Function",
+"Non-receptor protein tyrosine kinase that is involved in the regulation of cell growth and survival, apoptosis, cell-cell adhesion, cytoskeleton remodeling, and differentiation. Stimulation by receptor tyrosine kinases (RTKs) including EGFR, PDGFR, CSF1R and FGFR leads to recruitment of YES1 to the phosphorylated receptor, and activation and phosphorylation of downstream substrates."
+],
+[
+"Location",
+"Cell membrane, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, cytosol, Cell junction"
+],
+[
+"HGNC",
+"HGNC:12841"
+],
+[
+"HGNC symbol",
+"YES1"
+],
+[
+"Alias symbols",
+"Yes, c-yes, HsT441"
+],
+[
+"Entrez",
+"7525"
+],
+[
+"Ensembl",
+"ENSG00000176105"
+],
+[
+"RefSeq",
+"NM_005433"
+],
+[
+"UniProt",
+"P07947"
+]
+]
+},
+{
+"label": "SYK",
+"class": "Macromolecule",
+"box": [
+1013.0,
+666.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Tyrosine-protein kinase SYK"
+],
+[
+"Alternative names",
+"Spleen tyrosine kinase; p72-Syk"
+],
+[
+"Function",
+"Non-receptor tyrosine kinase which mediates signal transduction downstream of a variety of transmembrane receptors including classical immunoreceptors like the B-cell receptor (BCR). Regulates several biological processes including innate and adaptive immunity, cell adhesion, osteoclast maturation, platelet activation and vascular development."
+],
+[
+"Location",
+"Cell membrane, Cytoplasm, cytosol"
+],
+[
+"HGNC",
+"HGNC:11491"
+],
+[
+"HGNC symbol",
+"SYK"
+],
+[
+"Entrez",
+"6850"
+],
+[
+"Ensembl",
+"ENSG00000165025"
+],
+[
+"RefSeq",
+"NM_001135052"
+],
+[
+"UniProt",
+"P43405"
+]
+]
+},
+{
+"label": "CYBB",
+"class": "Macromolecule",
+"box": [
+753.0,
+1256.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"NADPH oxidase 2"
+],
+[
+"Alternative names",
+"CGD91-phox; Cytochrome b(558) subunit beta; Cytochrome b-245 heavy chain; Heme-binding membrane glycoprotein gp91phox; Neutrophil cytochrome b 91 kDa polypeptide; Superoxide-generating NADPH oxidase heavy chain subunit; gp91-1; gp91-phox; p22 phagocyte B-cytochrome"
+],
+[
+"Function",
+"Catalytic subunit of the phagocyte NADPH oxidase complex that mediates the transfer of electrons from cytosolic NADPH to O2 to produce the superoxide anion (O2(-)). In the activated complex, electrons are first transferred from NADPH to flavin adenine dinucleotide (FAD) and subsequently transferred via two heme molecules to molecular oxygen, producing superoxide through an outer-sphere reaction (Probable)."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:2578"
+],
+[
+"HGNC symbol",
+"CYBB"
+],
+[
+"Previous symbols",
+"CGD"
+],
+[
+"Alias symbols",
+"GP91-PHOX, NOX2, GP91PHOX, p91-PHOX"
+],
+[
+"Entrez",
+"1536"
+],
+[
+"Ensembl",
+"ENSG00000165168"
+],
+[
+"RefSeq",
+"NM_000397"
+],
+[
+"UniProt",
+"P04839"
+]
+]
+},
+{
+"label": "O2-",
+"class": "SimpleChemical",
+"box": [
+900.0,
+1253.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"superoxide"
+],
+[
+"Synonyms",
+"(O2)(.-); Dioxid(1-); Hyperoxid; O2(-); O2(.-); O2-; O2.-; Superoxide anion; dioxidanidyl; dioxide(.1-); dioxide(1-); hiperoxido; hyperoxide; superoxide anion radical; superoxide radical; superoxide radical anion; superoxido; superoxyde"
+],
+[
+"Formula",
+"O2"
+],
+[
+"ChEBI",
+"CHEBI:18421"
+],
+[
+"KEGG",
+"C00704"
+],
+[
+"HMDB",
+"HMDB0002168"
+],
+[
+"InChI",
+"InChI=1S/HO2/c1-2/h1H/p-1"
+],
+[
+"InChIKey",
+"OUUQCZGPVNCOIJ-UHFFFAOYSA-M"
+]
+]
+},
+{
+"label": "H2O2",
+"class": "SimpleChemical",
+"box": [
+1020.0,
+1253.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"hydrogen peroxide"
+],
+[
+"Synonyms",
+"H(2)O(2); H2O2; HOOH; Oxydol; [OH(OH)]; bis(hydridooxygen)(O--O); dihydrogen dioxide; dihydrogen peroxide; dihydrogen(peroxide); dioxidane; perhydrol"
+],
+[
+"Definition",
+"An inorganic peroxide consisting of two hydroxy groups joined by a covalent oxygen-oxygen single bond."
+],
+[
+"Formula",
+"H2O2"
+],
+[
+"ChEBI",
+"CHEBI:16240"
+],
+[
+"KEGG",
+"C00027"
+],
+[
+"HMDB",
+"HMDB0003125"
+],
+[
+"InChI",
+"InChI=1S/H2O2/c1-2/h1-2H"
+],
+[
+"InChIKey",
+"MHAJPDPJQMAIIY-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "LAT",
+"class": "Macromolecule",
+"box": [
+1063.0,
+906.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Linker for activation of T-cells family member 1"
+],
+[
+"Alternative names",
+"36 kDa phosphotyrosine adapter protein; p36-38"
+],
+[
+"Function",
+"Required for TCR (T-cell antigen receptor)- and pre-TCR-mediated signaling, both in mature T-cells and during their development. Involved in FCGR3 (low affinity immunoglobulin gamma Fc region receptor III)-mediated signaling in natural killer cells and FCER1 (high affinity immunoglobulin epsilon receptor)-mediated signaling in mast cells."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:18874"
+],
+[
+"HGNC symbol",
+"LAT"
+],
+[
+"Alias symbols",
+"LAT1"
+],
+[
+"Entrez",
+"27040"
+],
+[
+"Ensembl",
+"ENSG00000213658"
+],
+[
+"RefSeq",
+"NM_001014987"
+],
+[
+"UniProt",
+"O43561"
+]
+]
+},
+{
+"label": "Malonic dialdehyde",
+"class": "SimpleChemical",
+"box": [
+755.0,
+343.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"malonaldehyde"
+],
+[
+"Synonyms",
+"1,3-Propanedial; 1,3-Propanedialdehyde; 1,3-Propanedione; MDA; MDD; Malondialdehyde; Malonic aldehyde; Malonic dialdehyde; Malonodialdehyde; Malonyldialdehyde; propanedial"
+],
+[
+"Definition",
+"A dialdehyde that is propane substituted by two oxo groups at the terminal carbon atoms respectively. A biomarker of oxidative damage to lipids caused by smoking, it exists in vivo mainly in the enol form."
+],
+[
+"Formula",
+"C3H4O2"
+],
+[
+"ChEBI",
+"CHEBI:566274"
+],
+[
+"KEGG",
+"C19440"
+],
+[
+"InChI",
+"InChI=1S/C3H4O2/c4-2-1-3-5/h2-3H,1H2"
+],
+[
+"InChIKey",
+"WSMYVTOQOOLQHP-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "OLR1",
+"class": "Macromolecule",
+"box": [
+753.0,
+1016.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Oxidized low-density lipoprotein receptor 1"
+],
+[
+"Alternative names",
+"C-type lectin domain family 8 member A; Lectin-like oxidized LDL receptor 1; Lectin-type oxidized LDL receptor 1"
+],
+[
+"Function",
+"Receptor that mediates the recognition, internalization and degradation of oxidatively modified low density lipoprotein (oxLDL) by vascular endothelial cells. OxLDL is a marker of atherosclerosis that induces vascular endothelial cell activation and dysfunction, resulting in pro-inflammatory responses, pro-oxidative conditions and apoptosis."
+],
+[
+"Location",
+"Cell membrane, Membrane raft, Secreted"
+],
+[
+"HGNC",
+"HGNC:8133"
+],
+[
+"HGNC symbol",
+"OLR1"
+],
+[
+"Alias symbols",
+"LOX-1, SCARE1, CLEC8A"
+],
+[
+"Entrez",
+"4973"
+],
+[
+"Ensembl",
+"ENSG00000173391"
+],
+[
+"RefSeq",
+"NM_002543"
+],
+[
+"UniProt",
+"P78380"
+]
+]
+},
+{
+"label": "RAC1",
+"class": "Macromolecule",
+"box": [
+913.0,
+1056.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Ras-related C3 botulinum toxin substrate 1"
+],
+[
+"Alternative names",
+"Cell migration-inducing gene 5 protein; Ras-like protein TC25; p21-Rac1"
+],
+[
+"Function",
+"Plasma membrane-associated small GTPase which cycles between active GTP-bound and inactive GDP-bound states. In its active state, binds to a variety of effector proteins to regulate cellular responses such as secretory processes, phagocytosis of apoptotic cells, epithelial cell polarization, neurons adhesion, migration and differentiation, and growth-factor induced formation of membrane ruffles."
+],
+[
+"Location",
+"Cell membrane, Melanosome, Cytoplasm, Cell projection, lamellipodium, Cell projection, dendrite, Synapse, Nucleus, Cell projection, ruffle membrane"
+],
+[
+"HGNC",
+"HGNC:9801"
+],
+[
+"HGNC symbol",
+"RAC1"
+],
+[
+"Alias symbols",
+"TC-25, p21-Rac1, Rac-1"
+],
+[
+"Entrez",
+"5879"
+],
+[
+"Ensembl",
+"ENSG00000136238"
+],
+[
+"RefSeq",
+"NM_018890"
+],
+[
+"UniProt",
+"P63000"
+]
+]
+},
+{
+"label": "SRC",
+"class": "Macromolecule",
+"box": [
+913.0,
+996.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Proto-oncogene tyrosine-protein kinase Src"
+],
+[
+"Alternative names",
+"Proto-oncogene c-Src; pp60c-src"
+],
+[
+"Function",
+"Non-receptor protein tyrosine kinase which is activated following engagement of many different classes of cellular receptors including immune response receptors, integrins and other adhesion receptors, receptor protein tyrosine kinases, G protein-coupled receptors as well as cytokine receptors. Participates in signaling pathways that control a diverse spectrum of biological activities including gene transcription, immune response, cell adhesion, cell cycle progression, apoptosis, migration, and transformation."
+],
+[
+"Location",
+"Cell membrane, Mitochondrion inner membrane, Nucleus, Cytoplasm, cytoskeleton, Cytoplasm, perinuclear region, Cell junction, focal adhesion, Cell junction"
+],
+[
+"HGNC",
+"HGNC:11283"
+],
+[
+"HGNC symbol",
+"SRC"
+],
+[
+"Previous symbols",
+"SRC1"
+],
+[
+"Alias symbols",
+"ASV, c-src"
+],
+[
+"Entrez",
+"6714"
+],
+[
+"Ensembl",
+"ENSG00000197122"
+],
+[
+"RefSeq",
+"NM_005417"
+],
+[
+"UniProt",
+"P12931"
+]
+]
+}
+]
+}

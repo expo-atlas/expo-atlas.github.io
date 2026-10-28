@@ -1,0 +1,552 @@
+{
+"nodes": [
+{
+"label": "MARCO",
+"class": "Macromolecule",
+"box": [
+758.0,
+49.5,
+84.0,
+47.0
+],
+"props": [
+[
+"Full name",
+"Macrophage receptor MARCO"
+],
+[
+"Alternative names",
+"Macrophage receptor with collagenous structure; Scavenger receptor class A member 2"
+],
+[
+"Function",
+"Pattern recognition receptor (PRR) which binds Gram-positive and Gram-negative bacteria. Also plays a role in binding of unopsonized particles by alveolar macrophages."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:6895"
+],
+[
+"HGNC symbol",
+"MARCO"
+],
+[
+"Alias symbols",
+"SCARA2, SR-A6"
+],
+[
+"Entrez",
+"8685"
+],
+[
+"Ensembl",
+"ENSG00000019169"
+],
+[
+"RefSeq",
+"NM_006770"
+],
+[
+"UniProt",
+"Q9UEW3"
+]
+]
+},
+{
+"label": "MSR1",
+"class": "Macromolecule",
+"box": [
+758.0,
+244.5,
+84.0,
+47.0
+],
+"props": [
+[
+"Full name",
+"Macrophage scavenger receptor types I and II"
+],
+[
+"Alternative names",
+"Macrophage acetylated LDL receptor I and II; Scavenger receptor class A member 1"
+],
+[
+"Function",
+"Membrane receptor that mediates the binding, endocytosis and phagocytosis of a broad range of ligands. Recognizes and internalizes modified forms of low-density lipoproteins including acetylated LDL (AcLDL) and oxidized LDL (OxLDL), thereby promoting cholesterol uptake and contributing to foam cell formation during atherogenesis."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:7376"
+],
+[
+"HGNC symbol",
+"MSR1"
+],
+[
+"Alias symbols",
+"SCARA1, CD204, SR-AI, SR-AII, SR-AIII, SR-A"
+],
+[
+"Entrez",
+"4481"
+],
+[
+"Ensembl",
+"ENSG00000038945"
+],
+[
+"RefSeq",
+"NM_001363744"
+],
+[
+"UniProt",
+"P21757"
+]
+]
+},
+{
+"label": "CD36",
+"class": "Macromolecule",
+"box": [
+753.0,
+786.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Platelet glycoprotein 4"
+],
+[
+"Alternative names",
+"Fatty acid translocase; Glycoprotein IIIb; Leukocyte differentiation antigen CD36; PAS IV; PAS-4; Platelet collagen receptor; Platelet glycoprotein IV; Thrombospondin receptor"
+],
+[
+"Function",
+"Multifunctional glycoprotein that acts as a receptor for a broad range of ligands. Ligands can be of proteinaceous nature like thrombospondin, fibronectin, collagen or amyloid-beta as well as of lipidic nature such as oxidized low-density lipoprotein (oxLDL), anionic phospholipids, long- and very long-chain fatty acids and bacterial diacylated lipopeptides."
+],
+[
+"Location",
+"Cell membrane, Membrane raft, Golgi apparatus, Apical cell membrane"
+],
+[
+"HGNC",
+"HGNC:1663"
+],
+[
+"HGNC symbol",
+"CD36"
+],
+[
+"Alias symbols",
+"SCARB3, GPIV, FAT, GP4, GP3B, GPIIIB"
+],
+[
+"Entrez",
+"948"
+],
+[
+"Ensembl",
+"ENSG00000135218"
+],
+[
+"RefSeq",
+"NM_001001547"
+],
+[
+"UniProt",
+"P16671"
+]
+]
+},
+{
+"label": "TIMD4",
+"class": "Macromolecule",
+"box": [
+753.0,
+576.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"T-cell immunoglobulin and mucin domain-containing protein 4"
+],
+[
+"Alternative names",
+"T-cell immunoglobulin mucin receptor 4; T-cell membrane protein 4"
+],
+[
+"Function",
+"Phosphatidylserine receptor that plays different role in immune response including phagocytosis of apoptotic cells and T-cell regulation. Involved in efferocytosis, the process by which apoptotic cells are removed by phagocytic cells by promoting the engulfment of apoptotic cells or exogenous particles."
+],
+[
+"Location",
+"Cell membrane, Secreted, extracellular exosome"
+],
+[
+"HGNC",
+"HGNC:25132"
+],
+[
+"HGNC symbol",
+"TIMD4"
+],
+[
+"Alias symbols",
+"TIM4"
+],
+[
+"Entrez",
+"91937"
+],
+[
+"Ensembl",
+"ENSG00000145850"
+],
+[
+"RefSeq",
+"NM_138379"
+],
+[
+"UniProt",
+"Q96H15"
+]
+]
+},
+{
+"label": "H2O2",
+"class": "SimpleChemical",
+"box": [
+1021.0,
+393.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"hydrogen peroxide"
+],
+[
+"Synonyms",
+"H(2)O(2); H2O2; HOOH; Oxydol; [OH(OH)]; bis(hydridooxygen)(O--O); dihydrogen dioxide; dihydrogen peroxide; dihydrogen(peroxide); dioxidane; perhydrol"
+],
+[
+"Definition",
+"An inorganic peroxide consisting of two hydroxy groups joined by a covalent oxygen-oxygen single bond."
+],
+[
+"Formula",
+"H2O2"
+],
+[
+"ChEBI",
+"CHEBI:16240"
+],
+[
+"KEGG",
+"C00027"
+],
+[
+"HMDB",
+"HMDB0003125"
+],
+[
+"InChI",
+"InChI=1S/H2O2/c1-2/h1-2H"
+],
+[
+"InChIKey",
+"MHAJPDPJQMAIIY-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "Malonic dialdehyde",
+"class": "SimpleChemical",
+"box": [
+755.0,
+343.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"malonaldehyde"
+],
+[
+"Synonyms",
+"1,3-Propanedial; 1,3-Propanedialdehyde; 1,3-Propanedione; MDA; MDD; Malondialdehyde; Malonic aldehyde; Malonic dialdehyde; Malonodialdehyde; Malonyldialdehyde; propanedial"
+],
+[
+"Definition",
+"A dialdehyde that is propane substituted by two oxo groups at the terminal carbon atoms respectively. A biomarker of oxidative damage to lipids caused by smoking, it exists in vivo mainly in the enol form."
+],
+[
+"Formula",
+"C3H4O2"
+],
+[
+"ChEBI",
+"CHEBI:566274"
+],
+[
+"KEGG",
+"C19440"
+],
+[
+"InChI",
+"InChI=1S/C3H4O2/c4-2-1-3-5/h2-3H,1H2"
+],
+[
+"InChIKey",
+"WSMYVTOQOOLQHP-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "NLRP3",
+"class": "Macromolecule",
+"box": [
+1863.0,
+16.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"NACHT, LRR and PYD domains-containing protein 3"
+],
+[
+"Alternative names",
+"Angiotensin/vasopressin receptor AII/AVP-like; Caterpiller protein 1.1; Cold-induced autoinflammatory syndrome 1 protein; Cryopyrin; PYRIN-containing APAF1-like protein 1"
+],
+[
+"Function",
+"Sensor component of the NLRP3 inflammasome, which mediates inflammasome activation in response to defects in membrane integrity, leading to secretion of inflammatory cytokines IL1B and IL18 and pyroptosis. In response to pathogens and other damage-associated signals that affect the integrity of membranes, initiates the formation of the inflammasome polymeric complex composed of NLRP3, CASP1 and PYCARD/ASC."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Inflammasome, Cytoplasm, cytoskeleton, microtubule organizing center, Golgi apparatus membrane, Endoplasmic reticulum, Mitochondrion, Secreted, Nucleus"
+],
+[
+"HGNC",
+"HGNC:16400"
+],
+[
+"HGNC symbol",
+"NLRP3"
+],
+[
+"Previous symbols",
+"C1orf7, CIAS1, DFNA34"
+],
+[
+"Alias symbols",
+"AGTAVPRL, AII, AVP, FCAS, FCU, NALP3, PYPAF1, MWS, CLR1.1"
+],
+[
+"Entrez",
+"114548"
+],
+[
+"Ensembl",
+"ENSG00000162711"
+],
+[
+"RefSeq",
+"NM_004895"
+],
+[
+"UniProt",
+"Q96P20"
+]
+]
+},
+{
+"label": "CASP1",
+"class": "Macromolecule",
+"box": [
+1983.0,
+16.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Caspase-1"
+],
+[
+"Alternative names",
+"Interleukin-1 beta convertase; Interleukin-1 beta-converting enzyme; p45"
+],
+[
+"Function",
+"Thiol protease involved in a variety of inflammatory processes by proteolytically cleaving other proteins, such as the precursors of the inflammatory cytokines interleukin-1 beta (IL1B) and interleukin 18 (IL18) as well as the pyroptosis inducer Gasdermin-D (GSDMD), into active mature peptides. Plays a key role in cell immunity as an inflammatory response initiator: once activated through formation of an inflammasome complex, it initiates a pro-inflammatory response through the cleavage of the two inflammatory cytokines IL1B and IL18, releasing the mature cytokines which are involved in a variety of inflammatory processes."
+],
+[
+"Location",
+"Cytoplasm, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:1499"
+],
+[
+"HGNC symbol",
+"CASP1"
+],
+[
+"Previous symbols",
+"IL1BC"
+],
+[
+"Alias symbols",
+"ICE"
+],
+[
+"Entrez",
+"834"
+],
+[
+"Ensembl",
+"ENSG00000137752"
+],
+[
+"RefSeq",
+"NM_033292"
+],
+[
+"UniProt",
+"P29466"
+]
+]
+},
+{
+"label": "IL1B",
+"class": "Macromolecule",
+"box": [
+2103.0,
+16.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Interleukin-1 beta"
+],
+[
+"Alternative names",
+"Catabolin"
+],
+[
+"Function",
+"Potent pro-inflammatory cytokine. Initially discovered as the major endogenous pyrogen, induces prostaglandin synthesis, neutrophil influx and activation, T-cell activation and cytokine production, B-cell activation and antibody production, and fibroblast proliferation and collagen production."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Secreted, Lysosome, Secreted, extracellular exosome"
+],
+[
+"HGNC",
+"HGNC:5992"
+],
+[
+"HGNC symbol",
+"IL1B"
+],
+[
+"Alias symbols",
+"IL1F2, IL-1B, IL1-BETA"
+],
+[
+"Entrez",
+"3553"
+],
+[
+"Ensembl",
+"ENSG00000125538"
+],
+[
+"RefSeq",
+"NM_000576"
+],
+[
+"UniProt",
+"P01584"
+]
+]
+},
+{
+"label": "OLR1",
+"class": "Macromolecule",
+"box": [
+753.0,
+1016.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Oxidized low-density lipoprotein receptor 1"
+],
+[
+"Alternative names",
+"C-type lectin domain family 8 member A; Lectin-like oxidized LDL receptor 1; Lectin-type oxidized LDL receptor 1"
+],
+[
+"Function",
+"Receptor that mediates the recognition, internalization and degradation of oxidatively modified low density lipoprotein (oxLDL) by vascular endothelial cells. OxLDL is a marker of atherosclerosis that induces vascular endothelial cell activation and dysfunction, resulting in pro-inflammatory responses, pro-oxidative conditions and apoptosis."
+],
+[
+"Location",
+"Cell membrane, Membrane raft, Secreted"
+],
+[
+"HGNC",
+"HGNC:8133"
+],
+[
+"HGNC symbol",
+"OLR1"
+],
+[
+"Alias symbols",
+"LOX-1, SCARE1, CLEC8A"
+],
+[
+"Entrez",
+"4973"
+],
+[
+"Ensembl",
+"ENSG00000173391"
+],
+[
+"RefSeq",
+"NM_002543"
+],
+[
+"UniProt",
+"P78380"
+]
+]
+}
+]
+}

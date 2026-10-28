@@ -1,0 +1,1232 @@
+{
+"nodes": [
+{
+"label": "AHR",
+"class": "Macromolecule",
+"box": [
+1617.0,
+267.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Aryl hydrocarbon receptor"
+],
+[
+"Alternative names",
+"Class E basic helix-loop-helix protein 76"
+],
+[
+"Function",
+"Ligand-activated transcription factor that enables cells to adapt to changing conditions by sensing compounds from the environment, diet, microbiome and cellular metabolism, and which plays important roles in development, immunity and cancer. Upon ligand binding, translocates into the nucleus, where it heterodimerizes with ARNT and induces transcription by binding to xenobiotic response elements (XRE)."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:348"
+],
+[
+"HGNC symbol",
+"AHR"
+],
+[
+"Alias symbols",
+"bHLHe76"
+],
+[
+"Entrez",
+"196"
+],
+[
+"Ensembl",
+"ENSG00000106546"
+],
+[
+"RefSeq",
+"NM_001621"
+],
+[
+"UniProt",
+"P35869"
+]
+]
+},
+{
+"label": "PTGES3",
+"class": "Macromolecule",
+"box": [
+1567.0,
+217.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Prostaglandin E synthase 3"
+],
+[
+"Alternative names",
+"Cytosolic prostaglandin E2 synthase; Hsp90 co-chaperone; Progesterone receptor complex p23; Telomerase-binding protein p23"
+],
+[
+"Function",
+"Cytosolic prostaglandin synthase that catalyzes the oxidoreduction of prostaglandin endoperoxide H2 (PGH2) to prostaglandin E2 (PGE2). Molecular chaperone that localizes to genomic response elements in a hormone-dependent manner and disrupts receptor-mediated transcriptional activation, by promoting disassembly of transcriptional regulatory complexes."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:16049"
+],
+[
+"HGNC symbol",
+"PTGES3"
+],
+[
+"Alias symbols",
+"p23, TEBP, cPGES"
+],
+[
+"Entrez",
+"10728"
+],
+[
+"Ensembl",
+"ENSG00000110958"
+],
+[
+"RefSeq",
+"NM_006601"
+],
+[
+"UniProt",
+"Q15185"
+]
+]
+},
+{
+"label": "AIP",
+"class": "Macromolecule",
+"box": [
+1617.0,
+317.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"AH receptor-interacting protein"
+],
+[
+"Alternative names",
+"Aryl-hydrocarbon receptor-interacting protein; HBV X-associated protein 2; Immunophilin homolog ARA9"
+],
+[
+"Function",
+"May play a positive role in AHR-mediated (aromatic hydrocarbon receptor) signaling, possibly by influencing its receptivity for ligand and/or its nuclear targeting"
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:358"
+],
+[
+"HGNC symbol",
+"AIP"
+],
+[
+"Alias symbols",
+"XAP2, ARA9, FKBP16, FKBP37"
+],
+[
+"Entrez",
+"9049"
+],
+[
+"Ensembl",
+"ENSG00000110711"
+],
+[
+"RefSeq",
+"NM_001302959"
+],
+[
+"UniProt",
+"O00170"
+]
+]
+},
+{
+"label": "HSP90AB1",
+"class": "Macromolecule",
+"box": [
+1664.0,
+214.0,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Heat shock protein HSP 90-beta"
+],
+[
+"Alternative names",
+"Heat shock 84 kDa; Heat shock protein family C member 3"
+],
+[
+"Function",
+"Molecular chaperone that promotes the maturation, structural maintenance and proper regulation of specific target proteins involved for instance in cell cycle control and signal transduction. Undergoes a functional cycle linked to its ATPase activity."
+],
+[
+"Location",
+"Cytoplasm, Melanosome, Nucleus, Secreted, Cell membrane, Dynein axonemal particle, Cell surface"
+],
+[
+"HGNC",
+"HGNC:5258"
+],
+[
+"HGNC symbol",
+"HSP90AB1"
+],
+[
+"Previous symbols",
+"HSPC2, HSPCB"
+],
+[
+"Entrez",
+"3326"
+],
+[
+"Ensembl",
+"ENSG00000096384"
+],
+[
+"RefSeq",
+"NM_007355"
+],
+[
+"UniProt",
+"P08238"
+]
+]
+},
+{
+"label": "ARNT",
+"class": "Macromolecule",
+"box": [
+2017.0,
+287.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Aryl hydrocarbon receptor nuclear translocator"
+],
+[
+"Alternative names",
+"Class E basic helix-loop-helix protein 2; Dioxin receptor, nuclear translocator; Hypoxia-inducible factor 1-beta"
+],
+[
+"Function",
+"Transcription factor that functions as an obligate heterodimerization partner for several basic helix-loop-helix PER-ARNT-SIM (bHLH-PAS) proteins. Forms heterodimers with the aryl hydrocarbon receptor (AHR) to mediate the transcriptional response to xenobiotics by binding xenobiotic response elements (XREs) or dioxin response elements (DREs) in target gene promoters."
+],
+[
+"Location",
+"Nucleus"
+],
+[
+"HGNC",
+"HGNC:700"
+],
+[
+"HGNC symbol",
+"ARNT"
+],
+[
+"Alias symbols",
+"HIF1B, HIF-1beta, bHLHe2, ARNT1"
+],
+[
+"Entrez",
+"405"
+],
+[
+"Ensembl",
+"ENSG00000143437"
+],
+[
+"RefSeq",
+"NM_001197325"
+],
+[
+"UniProt",
+"P27540"
+]
+]
+},
+{
+"label": "AHR",
+"class": "Macromolecule",
+"box": [
+2017.0,
+237.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Aryl hydrocarbon receptor"
+],
+[
+"Alternative names",
+"Class E basic helix-loop-helix protein 76"
+],
+[
+"Function",
+"Ligand-activated transcription factor that enables cells to adapt to changing conditions by sensing compounds from the environment, diet, microbiome and cellular metabolism, and which plays important roles in development, immunity and cancer. Upon ligand binding, translocates into the nucleus, where it heterodimerizes with ARNT and induces transcription by binding to xenobiotic response elements (XRE)."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:348"
+],
+[
+"HGNC symbol",
+"AHR"
+],
+[
+"Alias symbols",
+"bHLHe76"
+],
+[
+"Entrez",
+"196"
+],
+[
+"Ensembl",
+"ENSG00000106546"
+],
+[
+"RefSeq",
+"NM_001621"
+],
+[
+"UniProt",
+"P35869"
+]
+]
+},
+{
+"label": "CYP1A1",
+"class": "NucleicAcidFeature",
+"box": [
+2517.0,
+177.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cytochrome P450 1A1"
+],
+[
+"Alternative names",
+"Cytochrome P450 form 6; Cytochrome P450-C; Cytochrome P450-P1; Hydroperoxy icosatetraenoate dehydratase"
+],
+[
+"Function",
+"A cytochrome P450 monooxygenase involved in the metabolism of various endogenous substrates, including fatty acids, steroid hormones and vitamins. Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (NADPH--hemoprotein reductase)."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Mitochondrion inner membrane, Microsome membrane, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:2595"
+],
+[
+"HGNC symbol",
+"CYP1A1"
+],
+[
+"Previous symbols",
+"CYP1"
+],
+[
+"Alias symbols",
+"P450DX, P1-450, P450-C, CP11"
+],
+[
+"Entrez",
+"1543"
+],
+[
+"Ensembl",
+"ENSG00000140465"
+],
+[
+"RefSeq",
+"NM_000499"
+],
+[
+"UniProt",
+"P04798"
+]
+]
+},
+{
+"label": "CYP1B1",
+"class": "NucleicAcidFeature",
+"box": [
+2517.0,
+237.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cytochrome P450 1B1"
+],
+[
+"Alternative names",
+"CYPIB1; Hydroperoxy icosatetraenoate dehydratase"
+],
+[
+"Function",
+"A cytochrome P450 monooxygenase involved in the metabolism of various endogenous substrates, including fatty acids, steroid hormones and vitamins. Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (NADPH--hemoprotein reductase)."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Microsome membrane, Mitochondrion"
+],
+[
+"HGNC",
+"HGNC:2597"
+],
+[
+"HGNC symbol",
+"CYP1B1"
+],
+[
+"Previous symbols",
+"GLC3A"
+],
+[
+"Alias symbols",
+"CP1B"
+],
+[
+"Entrez",
+"1545"
+],
+[
+"Ensembl",
+"ENSG00000138061"
+],
+[
+"RefSeq",
+"NM_000104"
+],
+[
+"UniProt",
+"Q16678"
+]
+]
+},
+{
+"label": "NQO1",
+"class": "NucleicAcidFeature",
+"box": [
+2517.0,
+297.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"NAD(P)H dehydrogenase [quinone] 1"
+],
+[
+"Alternative names",
+"Azoreductase; DT-diaphorase; Menadione reductase; NAD(P)H:quinone oxidoreductase 1; Phylloquinone reductase; Quinone reductase 1"
+],
+[
+"Function",
+"Flavin-containing quinone reductase that catalyzes two-electron reduction of quinones to hydroquinones using either NADH or NADPH as electron donors. In a ping-pong kinetic mechanism, the electrons are sequentially transferred from NAD(P)H to flavin cofactor and then from reduced flavin to the quinone, bypassing the formation of semiquinone and reactive oxygen species."
+],
+[
+"Location",
+"Cytoplasm, cytosol"
+],
+[
+"HGNC",
+"HGNC:2874"
+],
+[
+"HGNC symbol",
+"NQO1"
+],
+[
+"Previous symbols",
+"NMOR1, DIA4"
+],
+[
+"Alias symbols",
+"DHQU, QR1, DTD"
+],
+[
+"Entrez",
+"1728"
+],
+[
+"Ensembl",
+"ENSG00000181019"
+],
+[
+"RefSeq",
+"NM_000903"
+],
+[
+"UniProt",
+"P15559"
+]
+]
+},
+{
+"label": "AHRR",
+"class": "NucleicAcidFeature",
+"box": [
+2517.0,
+357.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Aryl hydrocarbon receptor repressor"
+],
+[
+"Alternative names",
+"Class E basic helix-loop-helix protein 77"
+],
+[
+"Function",
+"Mediates dioxin toxicity and is involved in regulation of cell growth and differentiation. Represses the transcription activity of AHR by competing with AHR for heterodimer formation with ARNT and subsequently binding to the xenobiotic response element (XRE) sequence present in the promoter regulatory region of a variety of genes."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:346"
+],
+[
+"HGNC symbol",
+"AHRR"
+],
+[
+"Previous symbols",
+"AHH, AHHR"
+],
+[
+"Alias symbols",
+"KIAA1234, bHLHe77"
+],
+[
+"Entrez",
+"57491"
+],
+[
+"Ensembl",
+"ENSG00000063438"
+],
+[
+"RefSeq",
+"NM_020731"
+],
+[
+"UniProt",
+"A9YTQ3"
+]
+]
+},
+{
+"label": "CYP1A1",
+"class": "NucleicAcidFeature",
+"box": [
+2637.0,
+177.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cytochrome P450 1A1"
+],
+[
+"Alternative names",
+"Cytochrome P450 form 6; Cytochrome P450-C; Cytochrome P450-P1; Hydroperoxy icosatetraenoate dehydratase"
+],
+[
+"Function",
+"A cytochrome P450 monooxygenase involved in the metabolism of various endogenous substrates, including fatty acids, steroid hormones and vitamins. Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (NADPH--hemoprotein reductase)."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Mitochondrion inner membrane, Microsome membrane, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:2595"
+],
+[
+"HGNC symbol",
+"CYP1A1"
+],
+[
+"Previous symbols",
+"CYP1"
+],
+[
+"Alias symbols",
+"P450DX, P1-450, P450-C, CP11"
+],
+[
+"Entrez",
+"1543"
+],
+[
+"Ensembl",
+"ENSG00000140465"
+],
+[
+"RefSeq",
+"NM_000499"
+],
+[
+"UniProt",
+"P04798"
+]
+]
+},
+{
+"label": "CYP1B1",
+"class": "NucleicAcidFeature",
+"box": [
+2637.0,
+237.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cytochrome P450 1B1"
+],
+[
+"Alternative names",
+"CYPIB1; Hydroperoxy icosatetraenoate dehydratase"
+],
+[
+"Function",
+"A cytochrome P450 monooxygenase involved in the metabolism of various endogenous substrates, including fatty acids, steroid hormones and vitamins. Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (NADPH--hemoprotein reductase)."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Microsome membrane, Mitochondrion"
+],
+[
+"HGNC",
+"HGNC:2597"
+],
+[
+"HGNC symbol",
+"CYP1B1"
+],
+[
+"Previous symbols",
+"GLC3A"
+],
+[
+"Alias symbols",
+"CP1B"
+],
+[
+"Entrez",
+"1545"
+],
+[
+"Ensembl",
+"ENSG00000138061"
+],
+[
+"RefSeq",
+"NM_000104"
+],
+[
+"UniProt",
+"Q16678"
+]
+]
+},
+{
+"label": "NQO1",
+"class": "NucleicAcidFeature",
+"box": [
+2637.0,
+297.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"NAD(P)H dehydrogenase [quinone] 1"
+],
+[
+"Alternative names",
+"Azoreductase; DT-diaphorase; Menadione reductase; NAD(P)H:quinone oxidoreductase 1; Phylloquinone reductase; Quinone reductase 1"
+],
+[
+"Function",
+"Flavin-containing quinone reductase that catalyzes two-electron reduction of quinones to hydroquinones using either NADH or NADPH as electron donors. In a ping-pong kinetic mechanism, the electrons are sequentially transferred from NAD(P)H to flavin cofactor and then from reduced flavin to the quinone, bypassing the formation of semiquinone and reactive oxygen species."
+],
+[
+"Location",
+"Cytoplasm, cytosol"
+],
+[
+"HGNC",
+"HGNC:2874"
+],
+[
+"HGNC symbol",
+"NQO1"
+],
+[
+"Previous symbols",
+"NMOR1, DIA4"
+],
+[
+"Alias symbols",
+"DHQU, QR1, DTD"
+],
+[
+"Entrez",
+"1728"
+],
+[
+"Ensembl",
+"ENSG00000181019"
+],
+[
+"RefSeq",
+"NM_000903"
+],
+[
+"UniProt",
+"P15559"
+]
+]
+},
+{
+"label": "AHRR",
+"class": "NucleicAcidFeature",
+"box": [
+2637.0,
+357.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Aryl hydrocarbon receptor repressor"
+],
+[
+"Alternative names",
+"Class E basic helix-loop-helix protein 77"
+],
+[
+"Function",
+"Mediates dioxin toxicity and is involved in regulation of cell growth and differentiation. Represses the transcription activity of AHR by competing with AHR for heterodimer formation with ARNT and subsequently binding to the xenobiotic response element (XRE) sequence present in the promoter regulatory region of a variety of genes."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:346"
+],
+[
+"HGNC symbol",
+"AHRR"
+],
+[
+"Previous symbols",
+"AHH, AHHR"
+],
+[
+"Alias symbols",
+"KIAA1234, bHLHe77"
+],
+[
+"Entrez",
+"57491"
+],
+[
+"Ensembl",
+"ENSG00000063438"
+],
+[
+"RefSeq",
+"NM_020731"
+],
+[
+"UniProt",
+"A9YTQ3"
+]
+]
+},
+{
+"label": "CYP1A1",
+"class": "Macromolecule",
+"box": [
+2767.0,
+177.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cytochrome P450 1A1"
+],
+[
+"Alternative names",
+"Cytochrome P450 form 6; Cytochrome P450-C; Cytochrome P450-P1; Hydroperoxy icosatetraenoate dehydratase"
+],
+[
+"Function",
+"A cytochrome P450 monooxygenase involved in the metabolism of various endogenous substrates, including fatty acids, steroid hormones and vitamins. Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (NADPH--hemoprotein reductase)."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Mitochondrion inner membrane, Microsome membrane, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:2595"
+],
+[
+"HGNC symbol",
+"CYP1A1"
+],
+[
+"Previous symbols",
+"CYP1"
+],
+[
+"Alias symbols",
+"P450DX, P1-450, P450-C, CP11"
+],
+[
+"Entrez",
+"1543"
+],
+[
+"Ensembl",
+"ENSG00000140465"
+],
+[
+"RefSeq",
+"NM_000499"
+],
+[
+"UniProt",
+"P04798"
+]
+]
+},
+{
+"label": "CYP1B1",
+"class": "Macromolecule",
+"box": [
+2767.0,
+237.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cytochrome P450 1B1"
+],
+[
+"Alternative names",
+"CYPIB1; Hydroperoxy icosatetraenoate dehydratase"
+],
+[
+"Function",
+"A cytochrome P450 monooxygenase involved in the metabolism of various endogenous substrates, including fatty acids, steroid hormones and vitamins. Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (NADPH--hemoprotein reductase)."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Microsome membrane, Mitochondrion"
+],
+[
+"HGNC",
+"HGNC:2597"
+],
+[
+"HGNC symbol",
+"CYP1B1"
+],
+[
+"Previous symbols",
+"GLC3A"
+],
+[
+"Alias symbols",
+"CP1B"
+],
+[
+"Entrez",
+"1545"
+],
+[
+"Ensembl",
+"ENSG00000138061"
+],
+[
+"RefSeq",
+"NM_000104"
+],
+[
+"UniProt",
+"Q16678"
+]
+]
+},
+{
+"label": "NQO1",
+"class": "Macromolecule",
+"box": [
+2767.0,
+297.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"NAD(P)H dehydrogenase [quinone] 1"
+],
+[
+"Alternative names",
+"Azoreductase; DT-diaphorase; Menadione reductase; NAD(P)H:quinone oxidoreductase 1; Phylloquinone reductase; Quinone reductase 1"
+],
+[
+"Function",
+"Flavin-containing quinone reductase that catalyzes two-electron reduction of quinones to hydroquinones using either NADH or NADPH as electron donors. In a ping-pong kinetic mechanism, the electrons are sequentially transferred from NAD(P)H to flavin cofactor and then from reduced flavin to the quinone, bypassing the formation of semiquinone and reactive oxygen species."
+],
+[
+"Location",
+"Cytoplasm, cytosol"
+],
+[
+"HGNC",
+"HGNC:2874"
+],
+[
+"HGNC symbol",
+"NQO1"
+],
+[
+"Previous symbols",
+"NMOR1, DIA4"
+],
+[
+"Alias symbols",
+"DHQU, QR1, DTD"
+],
+[
+"Entrez",
+"1728"
+],
+[
+"Ensembl",
+"ENSG00000181019"
+],
+[
+"RefSeq",
+"NM_000903"
+],
+[
+"UniProt",
+"P15559"
+]
+]
+},
+{
+"label": "AHRR",
+"class": "Macromolecule",
+"box": [
+2767.0,
+357.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Aryl hydrocarbon receptor repressor"
+],
+[
+"Alternative names",
+"Class E basic helix-loop-helix protein 77"
+],
+[
+"Function",
+"Mediates dioxin toxicity and is involved in regulation of cell growth and differentiation. Represses the transcription activity of AHR by competing with AHR for heterodimer formation with ARNT and subsequently binding to the xenobiotic response element (XRE) sequence present in the promoter regulatory region of a variety of genes."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:346"
+],
+[
+"HGNC symbol",
+"AHRR"
+],
+[
+"Previous symbols",
+"AHH, AHHR"
+],
+[
+"Alias symbols",
+"KIAA1234, bHLHe77"
+],
+[
+"Entrez",
+"57491"
+],
+[
+"Ensembl",
+"ENSG00000063438"
+],
+[
+"RefSeq",
+"NM_020731"
+],
+[
+"UniProt",
+"A9YTQ3"
+]
+]
+},
+{
+"label": "AHR",
+"class": "Macromolecule",
+"box": [
+1847.0,
+267.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Aryl hydrocarbon receptor"
+],
+[
+"Alternative names",
+"Class E basic helix-loop-helix protein 76"
+],
+[
+"Function",
+"Ligand-activated transcription factor that enables cells to adapt to changing conditions by sensing compounds from the environment, diet, microbiome and cellular metabolism, and which plays important roles in development, immunity and cancer. Upon ligand binding, translocates into the nucleus, where it heterodimerizes with ARNT and induces transcription by binding to xenobiotic response elements (XRE)."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:348"
+],
+[
+"HGNC symbol",
+"AHR"
+],
+[
+"Alias symbols",
+"bHLHe76"
+],
+[
+"Entrez",
+"196"
+],
+[
+"Ensembl",
+"ENSG00000106546"
+],
+[
+"RefSeq",
+"NM_001621"
+],
+[
+"UniProt",
+"P35869"
+]
+]
+},
+{
+"label": "ROS",
+"class": "SimpleChemical",
+"box": [
+2974.0,
+114.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"reactive oxygen species"
+],
+[
+"Synonyms",
+"ROS"
+],
+[
+"Definition",
+"Molecules or ions formed by the incomplete one-electron reduction of oxygen. They contribute to the microbicidal activity of phagocytes, regulation of signal transduction and gene expression, and the oxidative damage to biopolymers."
+],
+[
+"ChEBI",
+"CHEBI:26523"
+]
+]
+},
+{
+"label": "Benzo[a]pyrene",
+"class": "SimpleChemical",
+"box": [
+404.0,
+244.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"benzo[a]pyrene"
+],
+[
+"Synonyms",
+"(B(a)P); 3,4-BP; 3,4-Benzopyrene; 3,4-Benzpyrene; BP; Benzo(a)pyrene; Benzpyrene; benzo[def]chrysene; benzo[pqr]tetraphene"
+],
+[
+"Definition",
+"An ortho- and peri-fused polycyclic arene consisting of five fused benzene rings."
+],
+[
+"Formula",
+"C20H12"
+],
+[
+"ChEBI",
+"CHEBI:29865"
+],
+[
+"KEGG",
+"C07535"
+],
+[
+"InChI",
+"InChI=1S/C20H12/c1-2-7-17-15(4-1)12-16-9-8-13-5-3-6-14-10-11-18(17)20(16)19(13)14/h1-12H"
+],
+[
+"InChIKey",
+"FMMWHPNWAFZXNH-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "Benzo[a]pyrene",
+"class": "SimpleChemical",
+"box": [
+914.0,
+244.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"benzo[a]pyrene"
+],
+[
+"Synonyms",
+"(B(a)P); 3,4-BP; 3,4-Benzopyrene; 3,4-Benzpyrene; BP; Benzo(a)pyrene; Benzpyrene; benzo[def]chrysene; benzo[pqr]tetraphene"
+],
+[
+"Definition",
+"An ortho- and peri-fused polycyclic arene consisting of five fused benzene rings."
+],
+[
+"Formula",
+"C20H12"
+],
+[
+"ChEBI",
+"CHEBI:29865"
+],
+[
+"KEGG",
+"C07535"
+],
+[
+"InChI",
+"InChI=1S/C20H12/c1-2-7-17-15(4-1)12-16-9-8-13-5-3-6-14-10-11-18(17)20(16)19(13)14/h1-12H"
+],
+[
+"InChIKey",
+"FMMWHPNWAFZXNH-UHFFFAOYSA-N"
+]
+]
+}
+]
+}

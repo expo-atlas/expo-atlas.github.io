@@ -1,0 +1,664 @@
+{
+"nodes": [
+{
+"label": "Fe3+",
+"class": "SimpleChemical",
+"box": [
+839.0,
+135.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"iron(3+)"
+],
+[
+"Synonyms",
+"FE (III) ION; Fe(3+); Fe(III); Fe3+; Ferric ion; ferric iron; iron(3+) ion; iron(III) cation; iron, ion (Fe(3+))"
+],
+[
+"Formula",
+"Fe"
+],
+[
+"ChEBI",
+"CHEBI:29034"
+],
+[
+"KEGG",
+"C14819"
+],
+[
+"InChI",
+"InChI=1S/Fe/q+3"
+],
+[
+"InChIKey",
+"VTLYFUHAOXGGBS-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "Fe2+",
+"class": "SimpleChemical",
+"box": [
+999.0,
+135.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"iron(2+)"
+],
+[
+"Synonyms",
+"FE (II) ION; Fe(2+); Fe(II); Fe2+; Ferrous ion; iron ion(2+); iron(2+) ion; iron(II) cation"
+],
+[
+"Formula",
+"Fe"
+],
+[
+"ChEBI",
+"CHEBI:29033"
+],
+[
+"KEGG",
+"C14818"
+],
+[
+"InChI",
+"InChI=1S/Fe/q+2"
+],
+[
+"InChIKey",
+"CWYNVVGOOAEACU-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "H2O2",
+"class": "SimpleChemical",
+"box": [
+999.0,
+65.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"hydrogen peroxide"
+],
+[
+"Synonyms",
+"H(2)O(2); H2O2; HOOH; Oxydol; [OH(OH)]; bis(hydridooxygen)(O--O); dihydrogen dioxide; dihydrogen peroxide; dihydrogen(peroxide); dioxidane; perhydrol"
+],
+[
+"Definition",
+"An inorganic peroxide consisting of two hydroxy groups joined by a covalent oxygen-oxygen single bond."
+],
+[
+"Formula",
+"H2O2"
+],
+[
+"ChEBI",
+"CHEBI:16240"
+],
+[
+"KEGG",
+"C00027"
+],
+[
+"HMDB",
+"HMDB0003125"
+],
+[
+"InChI",
+"InChI=1S/H2O2/c1-2/h1-2H"
+],
+[
+"InChIKey",
+"MHAJPDPJQMAIIY-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "ROS",
+"class": "SimpleChemical",
+"box": [
+1629.0,
+35.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"reactive oxygen species"
+],
+[
+"Synonyms",
+"ROS"
+],
+[
+"Definition",
+"Molecules or ions formed by the incomplete one-electron reduction of oxygen. They contribute to the microbicidal activity of phagocytes, regulation of signal transduction and gene expression, and the oxidative damage to biopolymers."
+],
+[
+"ChEBI",
+"CHEBI:26523"
+]
+]
+},
+{
+"label": "GSH",
+"class": "SimpleChemical",
+"box": [
+879.0,
+625.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"glutathione"
+],
+[
+"Synonyms",
+"5-L-Glutamyl-L-cysteinylglycine; GSH; Glutathione-SH; L-gamma-glutamyl-L-cysteinylglycine; N-(N-gamma-L-Glutamyl-L-cysteinyl)glycine; Reduced glutathione; gamma-L-Glutamyl-L-cysteinyl-glycine"
+],
+[
+"Definition",
+"A tripeptide compound consisting of glutamic acid attached via its side chain to the N-terminus of cysteinylglycine."
+],
+[
+"Formula",
+"C10H17N3O6S"
+],
+[
+"ChEBI",
+"CHEBI:16856"
+],
+[
+"KEGG",
+"C00051"
+],
+[
+"HMDB",
+"HMDB0000125"
+],
+[
+"InChI",
+"InChI=1S/C10H17N3O6S/c11-5(10(18)19)1-2-7(14)13-6(4-20)9(17)12-3-8(15)16/h5-6,20H,1-4,11H2,(H,12,17)(H,13,14)(H,15,16)(H,18,19)/t5-,6-/m0/s1"
+],
+[
+"InChIKey",
+"RWSXRVCMGQZWBV-WDSKDSINSA-N"
+]
+]
+},
+{
+"label": "H2O2",
+"class": "SimpleChemical",
+"box": [
+999.0,
+495.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"hydrogen peroxide"
+],
+[
+"Synonyms",
+"H(2)O(2); H2O2; HOOH; Oxydol; [OH(OH)]; bis(hydridooxygen)(O--O); dihydrogen dioxide; dihydrogen peroxide; dihydrogen(peroxide); dioxidane; perhydrol"
+],
+[
+"Definition",
+"An inorganic peroxide consisting of two hydroxy groups joined by a covalent oxygen-oxygen single bond."
+],
+[
+"Formula",
+"H2O2"
+],
+[
+"ChEBI",
+"CHEBI:16240"
+],
+[
+"KEGG",
+"C00027"
+],
+[
+"HMDB",
+"HMDB0003125"
+],
+[
+"InChI",
+"InChI=1S/H2O2/c1-2/h1-2H"
+],
+[
+"InChIKey",
+"MHAJPDPJQMAIIY-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "H2O2",
+"class": "SimpleChemical",
+"box": [
+1149.0,
+495.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"hydrogen peroxide"
+],
+[
+"Synonyms",
+"H(2)O(2); H2O2; HOOH; Oxydol; [OH(OH)]; bis(hydridooxygen)(O--O); dihydrogen dioxide; dihydrogen peroxide; dihydrogen(peroxide); dioxidane; perhydrol"
+],
+[
+"Definition",
+"An inorganic peroxide consisting of two hydroxy groups joined by a covalent oxygen-oxygen single bond."
+],
+[
+"Formula",
+"H2O2"
+],
+[
+"ChEBI",
+"CHEBI:16240"
+],
+[
+"KEGG",
+"C00027"
+],
+[
+"HMDB",
+"HMDB0003125"
+],
+[
+"InChI",
+"InChI=1S/H2O2/c1-2/h1-2H"
+],
+[
+"InChIKey",
+"MHAJPDPJQMAIIY-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "H2O2",
+"class": "SimpleChemical",
+"box": [
+1289.0,
+495.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"hydrogen peroxide"
+],
+[
+"Synonyms",
+"H(2)O(2); H2O2; HOOH; Oxydol; [OH(OH)]; bis(hydridooxygen)(O--O); dihydrogen dioxide; dihydrogen peroxide; dihydrogen(peroxide); dioxidane; perhydrol"
+],
+[
+"Definition",
+"An inorganic peroxide consisting of two hydroxy groups joined by a covalent oxygen-oxygen single bond."
+],
+[
+"Formula",
+"H2O2"
+],
+[
+"ChEBI",
+"CHEBI:16240"
+],
+[
+"KEGG",
+"C00027"
+],
+[
+"HMDB",
+"HMDB0003125"
+],
+[
+"InChI",
+"InChI=1S/H2O2/c1-2/h1-2H"
+],
+[
+"InChIKey",
+"MHAJPDPJQMAIIY-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "Cu2+",
+"class": "SimpleChemical",
+"box": [
+849.0,
+345.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"copper(2+)"
+],
+[
+"Synonyms",
+"COPPER (II) ION; Cu(2+); Cu(II); Cu2+; copper(2+) ion; copper(II) cation; copper, ion (Cu2+); cupric ion"
+],
+[
+"Definition",
+"An ion of copper carrying a double positive charge."
+],
+[
+"Formula",
+"Cu"
+],
+[
+"ChEBI",
+"CHEBI:29036"
+],
+[
+"InChI",
+"InChI=1S/Cu/q+2"
+],
+[
+"InChIKey",
+"JPVYNHNXODAKFH-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "H2O2",
+"class": "SimpleChemical",
+"box": [
+989.0,
+275.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"hydrogen peroxide"
+],
+[
+"Synonyms",
+"H(2)O(2); H2O2; HOOH; Oxydol; [OH(OH)]; bis(hydridooxygen)(O--O); dihydrogen dioxide; dihydrogen peroxide; dihydrogen(peroxide); dioxidane; perhydrol"
+],
+[
+"Definition",
+"An inorganic peroxide consisting of two hydroxy groups joined by a covalent oxygen-oxygen single bond."
+],
+[
+"Formula",
+"H2O2"
+],
+[
+"ChEBI",
+"CHEBI:16240"
+],
+[
+"KEGG",
+"C00027"
+],
+[
+"HMDB",
+"HMDB0003125"
+],
+[
+"InChI",
+"InChI=1S/H2O2/c1-2/h1-2H"
+],
+[
+"InChIKey",
+"MHAJPDPJQMAIIY-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "Cu2+",
+"class": "SimpleChemical",
+"box": [
+399.0,
+345.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"copper(2+)"
+],
+[
+"Synonyms",
+"COPPER (II) ION; Cu(2+); Cu(II); Cu2+; copper(2+) ion; copper(II) cation; copper, ion (Cu2+); cupric ion"
+],
+[
+"Definition",
+"An ion of copper carrying a double positive charge."
+],
+[
+"Formula",
+"Cu"
+],
+[
+"ChEBI",
+"CHEBI:29036"
+],
+[
+"InChI",
+"InChI=1S/Cu/q+2"
+],
+[
+"InChIKey",
+"JPVYNHNXODAKFH-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "Fe3+",
+"class": "SimpleChemical",
+"box": [
+399.0,
+135.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"iron(3+)"
+],
+[
+"Synonyms",
+"FE (III) ION; Fe(3+); Fe(III); Fe3+; Ferric ion; ferric iron; iron(3+) ion; iron(III) cation; iron, ion (Fe(3+))"
+],
+[
+"Formula",
+"Fe"
+],
+[
+"ChEBI",
+"CHEBI:29034"
+],
+[
+"KEGG",
+"C14819"
+],
+[
+"InChI",
+"InChI=1S/Fe/q+3"
+],
+[
+"InChIKey",
+"VTLYFUHAOXGGBS-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "SLC26A1",
+"class": "Macromolecule",
+"box": [
+552.0,
+518.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Sulfate anion transporter 1"
+],
+[
+"Alternative names",
+"Solute carrier family 26 member 1"
+],
+[
+"Function",
+"Sodium-independent sulfate anion transporter. Can transport other anions including bicarbonate, thiosulfate and oxalate by mediating sulfate-thiosulfate, sulfate-hydrogencarbonate and sulfate-oxalate anion exchange."
+],
+[
+"Location",
+"Cell membrane, Basolateral cell membrane"
+],
+[
+"HGNC",
+"HGNC:10993"
+],
+[
+"HGNC symbol",
+"SLC26A1"
+],
+[
+"Alias symbols",
+"SAT-1, EDM4"
+],
+[
+"Entrez",
+"10861"
+],
+[
+"Ensembl",
+"ENSG00000145217"
+],
+[
+"RefSeq",
+"NM_022042, NM_134425"
+],
+[
+"UniProt",
+"Q9H2B4"
+]
+]
+},
+{
+"label": "SLC26A2",
+"class": "Macromolecule",
+"box": [
+652.0,
+518.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Sulfate transporter"
+],
+[
+"Alternative names",
+"Diastrophic dysplasia protein; Solute carrier family 26 member 2"
+],
+[
+"Function",
+"Sulfate transporter which mediates sulfate uptake into chondrocytes in order to maintain adequate sulfation of proteoglycans which is needed for cartilage development. Mediates electroneutral anion exchange of sulfate ions for oxalate ions and of sulfate and oxalate ions for chloride ions."
+],
+[
+"Location",
+"Cell membrane, Apical cell membrane"
+],
+[
+"HGNC",
+"HGNC:10994"
+],
+[
+"HGNC symbol",
+"SLC26A2"
+],
+[
+"Previous symbols",
+"DTD"
+],
+[
+"Alias symbols",
+"DTDST"
+],
+[
+"Entrez",
+"1836"
+],
+[
+"Ensembl",
+"ENSG00000155850"
+],
+[
+"RefSeq",
+"NM_000112"
+],
+[
+"UniProt",
+"P50443"
+]
+]
+},
+{
+"label": "Fe3O4",
+"class": "SimpleChemical",
+"box": [
+219.0,
+135.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"magnetite"
+],
+[
+"Synonyms",
+"Magneteisen; Magneteisenstein; Magnetit; ferumoxytol; magnetita"
+],
+[
+"Formula",
+"Fe3O4"
+],
+[
+"ChEBI",
+"CHEBI:46726"
+]
+]
+}
+]
+}

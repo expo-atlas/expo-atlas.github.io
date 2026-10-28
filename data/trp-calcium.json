@@ -1,0 +1,796 @@
+{
+"nodes": [
+{
+"label": "Ca2+",
+"class": "SimpleChemical",
+"box": [
+1440.0,
+350.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"calcium(2+)"
+],
+[
+"Synonyms",
+"CALCIUM ION; Ca(2+); Ca2+; calcium(2+) ion; calcium(II) cation; calcium, doubly charged positive ion"
+],
+[
+"Formula",
+"Ca"
+],
+[
+"ChEBI",
+"CHEBI:29108"
+],
+[
+"KEGG",
+"C00076"
+],
+[
+"InChI",
+"InChI=1S/Ca/q+2"
+],
+[
+"InChIKey",
+"BHPQYMZQTOCNFJ-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "TRPV4",
+"class": "Macromolecule",
+"box": [
+1200.0,
+385.0,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Transient receptor potential cation channel subfamily V member 4"
+],
+[
+"Alternative names",
+"Osm-9-like TRP channel 4; Transient receptor potential protein 12; Vanilloid receptor-like channel 2; Vanilloid receptor-like protein 2; Vanilloid receptor-related osmotically-activated channel"
+],
+[
+"Function",
+"Non-selective calcium permeant cation channel involved in osmotic sensitivity and mechanosensitivity. Activation by exposure to hypotonicity within the physiological range exhibits an outward rectification."
+],
+[
+"Location",
+"Cell membrane, Apical cell membrane, Cell junction, adherens junction, Cell projection, cilium, Endoplasmic reticulum"
+],
+[
+"HGNC",
+"HGNC:18083"
+],
+[
+"HGNC symbol",
+"TRPV4"
+],
+[
+"Alias symbols",
+"OTRPC4, TRP12, VROAC, VRL-2, VR-OAC, CMT2C"
+],
+[
+"Entrez",
+"59341"
+],
+[
+"Ensembl",
+"ENSG00000111199"
+],
+[
+"RefSeq",
+"NM_021625"
+],
+[
+"UniProt",
+"Q9HBA0"
+]
+]
+},
+{
+"label": "TRPV1",
+"class": "Macromolecule",
+"box": [
+1200.0,
+445.0,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Transient receptor potential cation channel subfamily V member 1"
+],
+[
+"Alternative names",
+"Capsaicin receptor; Osm-9-like TRP channel 1; Vanilloid receptor 1"
+],
+[
+"Function",
+"Non-selective calcium permeant cation channel involved in detection of noxious chemical and thermal stimuli. Seems to mediate proton influx and may be involved in intracellular acidosis in nociceptive neurons."
+],
+[
+"Location",
+"Postsynaptic cell membrane, Cell projection, dendritic spine membrane, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:12716"
+],
+[
+"HGNC symbol",
+"TRPV1"
+],
+[
+"Previous symbols",
+"VR1"
+],
+[
+"Entrez",
+"7442"
+],
+[
+"Ensembl",
+"ENSG00000196689"
+],
+[
+"RefSeq",
+"NM_018727"
+],
+[
+"UniProt",
+"Q8NER1"
+]
+]
+},
+{
+"label": "TRPA1",
+"class": "Macromolecule",
+"box": [
+1200.0,
+505.0,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Transient receptor potential cation channel subfamily A member 1"
+],
+[
+"Alternative names",
+"Ankyrin-like with transmembrane domains protein 1; Transformation-sensitive protein p120; Wasabi receptor"
+],
+[
+"Function",
+"Ligand-activated Ca(2+)-permeable, nonselective cation channel involved in pain detection and possibly also in cold perception, oxygen concentration perception, cough, itch, and inner ear function. Has a relatively high Ca(2+) selectivity, with a preference for divalent over monovalent cations (Ca(2+) > Ba(2+) > Mg(2+) > NH4(+) > Li(+) > K(+)), the influx of cation into the cytoplasm leads to membrane depolarization."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:497"
+],
+[
+"HGNC symbol",
+"TRPA1"
+],
+[
+"Previous symbols",
+"ANKTM1"
+],
+[
+"Entrez",
+"8989"
+],
+[
+"Ensembl",
+"ENSG00000104321"
+],
+[
+"RefSeq",
+"NM_007332"
+],
+[
+"UniProt",
+"O75762"
+]
+]
+},
+{
+"label": "TRPV3",
+"class": "Macromolecule",
+"box": [
+1200.0,
+570.0,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Transient receptor potential cation channel subfamily V member 3"
+],
+[
+"Alternative names",
+"Vanilloid receptor-like 3"
+],
+[
+"Function",
+"Non-selective calcium permeant cation channel. It is activated by innocuous (warm) temperatures and shows an increased response at noxious temperatures greater than 39 degrees Celsius."
+],
+[
+"Location",
+"Cell membrane, Cytoplasm, Lysosome"
+],
+[
+"HGNC",
+"HGNC:18084"
+],
+[
+"HGNC symbol",
+"TRPV3"
+],
+[
+"Alias symbols",
+"VRL3"
+],
+[
+"Entrez",
+"162514"
+],
+[
+"Ensembl",
+"ENSG00000167723"
+],
+[
+"RefSeq",
+"NM_145068"
+],
+[
+"UniProt",
+"Q8NET8"
+]
+]
+},
+{
+"label": "ROS",
+"class": "SimpleChemical",
+"box": [
+630.0,
+125.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"reactive oxygen species"
+],
+[
+"Synonyms",
+"ROS"
+],
+[
+"Definition",
+"Molecules or ions formed by the incomplete one-electron reduction of oxygen. They contribute to the microbicidal activity of phagocytes, regulation of signal transduction and gene expression, and the oxidative damage to biopolymers."
+],
+[
+"ChEBI",
+"CHEBI:26523"
+]
+]
+},
+{
+"label": "TRPV4",
+"class": "Macromolecule",
+"box": [
+743.0,
+188.0,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Transient receptor potential cation channel subfamily V member 4"
+],
+[
+"Alternative names",
+"Osm-9-like TRP channel 4; Transient receptor potential protein 12; Vanilloid receptor-like channel 2; Vanilloid receptor-like protein 2; Vanilloid receptor-related osmotically-activated channel"
+],
+[
+"Function",
+"Non-selective calcium permeant cation channel involved in osmotic sensitivity and mechanosensitivity. Activation by exposure to hypotonicity within the physiological range exhibits an outward rectification."
+],
+[
+"Location",
+"Cell membrane, Apical cell membrane, Cell junction, adherens junction, Cell projection, cilium, Endoplasmic reticulum"
+],
+[
+"HGNC",
+"HGNC:18083"
+],
+[
+"HGNC symbol",
+"TRPV4"
+],
+[
+"Alias symbols",
+"OTRPC4, TRP12, VROAC, VRL-2, VR-OAC, CMT2C"
+],
+[
+"Entrez",
+"59341"
+],
+[
+"Ensembl",
+"ENSG00000111199"
+],
+[
+"RefSeq",
+"NM_021625"
+],
+[
+"UniProt",
+"Q9HBA0"
+]
+]
+},
+{
+"label": "TRPV1",
+"class": "Macromolecule",
+"box": [
+743.0,
+258.0,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Transient receptor potential cation channel subfamily V member 1"
+],
+[
+"Alternative names",
+"Capsaicin receptor; Osm-9-like TRP channel 1; Vanilloid receptor 1"
+],
+[
+"Function",
+"Non-selective calcium permeant cation channel involved in detection of noxious chemical and thermal stimuli. Seems to mediate proton influx and may be involved in intracellular acidosis in nociceptive neurons."
+],
+[
+"Location",
+"Postsynaptic cell membrane, Cell projection, dendritic spine membrane, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:12716"
+],
+[
+"HGNC symbol",
+"TRPV1"
+],
+[
+"Previous symbols",
+"VR1"
+],
+[
+"Entrez",
+"7442"
+],
+[
+"Ensembl",
+"ENSG00000196689"
+],
+[
+"RefSeq",
+"NM_018727"
+],
+[
+"UniProt",
+"Q8NER1"
+]
+]
+},
+{
+"label": "TRPC4",
+"class": "Macromolecule",
+"box": [
+743.0,
+338.0,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Short transient receptor potential channel 4"
+],
+[
+"Alternative names",
+"Trp-related protein 4"
+],
+[
+"Function",
+"Forms a receptor-activated non-selective calcium permeant cation channel. Acts as a cell-cell contact-dependent endothelial calcium entry channel."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:12336"
+],
+[
+"HGNC symbol",
+"TRPC4"
+],
+[
+"Alias symbols",
+"HTRP4, TRP4"
+],
+[
+"Entrez",
+"7223"
+],
+[
+"Ensembl",
+"ENSG00000133107"
+],
+[
+"RefSeq",
+"NM_003306"
+],
+[
+"UniProt",
+"Q9UBN4"
+]
+]
+},
+{
+"label": "TRPM8",
+"class": "Macromolecule",
+"box": [
+743.0,
+408.0,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Transient receptor potential cation channel subfamily M member 8"
+],
+[
+"Alternative names",
+"Long transient receptor potential channel 6; Transient receptor potential p8"
+],
+[
+"Function",
+"Non-selective ion channel permeable to monovalent and divalent cations, including Na(+), K(+), and Ca(2+), with higher permeability for Ca(2+). Activated by multiple factors, such as temperature, voltage, pressure, and changes in osmolality."
+],
+[
+"Location",
+"Cell membrane, Membrane raft, Endoplasmic reticulum membrane"
+],
+[
+"HGNC",
+"HGNC:17961"
+],
+[
+"HGNC symbol",
+"TRPM8"
+],
+[
+"Entrez",
+"79054"
+],
+[
+"Ensembl",
+"ENSG00000144481"
+],
+[
+"RefSeq",
+"NM_024080"
+],
+[
+"UniProt",
+"Q7Z2W7"
+]
+]
+},
+{
+"label": "TRPA1",
+"class": "Macromolecule",
+"box": [
+743.0,
+478.0,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Transient receptor potential cation channel subfamily A member 1"
+],
+[
+"Alternative names",
+"Ankyrin-like with transmembrane domains protein 1; Transformation-sensitive protein p120; Wasabi receptor"
+],
+[
+"Function",
+"Ligand-activated Ca(2+)-permeable, nonselective cation channel involved in pain detection and possibly also in cold perception, oxygen concentration perception, cough, itch, and inner ear function. Has a relatively high Ca(2+) selectivity, with a preference for divalent over monovalent cations (Ca(2+) > Ba(2+) > Mg(2+) > NH4(+) > Li(+) > K(+)), the influx of cation into the cytoplasm leads to membrane depolarization."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:497"
+],
+[
+"HGNC symbol",
+"TRPA1"
+],
+[
+"Previous symbols",
+"ANKTM1"
+],
+[
+"Entrez",
+"8989"
+],
+[
+"Ensembl",
+"ENSG00000104321"
+],
+[
+"RefSeq",
+"NM_007332"
+],
+[
+"UniProt",
+"O75762"
+]
+]
+},
+{
+"label": "TRPV3",
+"class": "Macromolecule",
+"box": [
+743.0,
+548.0,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Transient receptor potential cation channel subfamily V member 3"
+],
+[
+"Alternative names",
+"Vanilloid receptor-like 3"
+],
+[
+"Function",
+"Non-selective calcium permeant cation channel. It is activated by innocuous (warm) temperatures and shows an increased response at noxious temperatures greater than 39 degrees Celsius."
+],
+[
+"Location",
+"Cell membrane, Cytoplasm, Lysosome"
+],
+[
+"HGNC",
+"HGNC:18084"
+],
+[
+"HGNC symbol",
+"TRPV3"
+],
+[
+"Alias symbols",
+"VRL3"
+],
+[
+"Entrez",
+"162514"
+],
+[
+"Ensembl",
+"ENSG00000167723"
+],
+[
+"RefSeq",
+"NM_145068"
+],
+[
+"UniProt",
+"Q8NET8"
+]
+]
+},
+{
+"label": "TRPM2",
+"class": "Macromolecule",
+"box": [
+743.0,
+618.0,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Transient receptor potential cation channel subfamily M member 2"
+],
+[
+"Alternative names",
+"Estrogen-responsive element-associated gene 1 protein; Long transient receptor potential channel 2; Transient receptor potential channel 7; Transient receptor potential melastatin 2"
+],
+[
+"Function",
+"Nonselective, voltage-independent cation channel that mediates Na(+) and Ca(2+) influx, leading to increased cytoplasmic Ca(2+) levels. Functions as a ligand-gated ion channel, gated by intracellular adenosine diphosphate ribose (ADP-ribose), Ca(2+), warm temperature, and oxidative stress."
+],
+[
+"Location",
+"Cell membrane, Perikaryon, Cell projection, Cytoplasmic vesicle, Lysosome"
+],
+[
+"HGNC",
+"HGNC:12339"
+],
+[
+"HGNC symbol",
+"TRPM2"
+],
+[
+"Previous symbols",
+"TRPC7"
+],
+[
+"Alias symbols",
+"KNP3, LTRPC2, NUDT9L1, NUDT9H, EREG1"
+],
+[
+"Entrez",
+"7226"
+],
+[
+"Ensembl",
+"ENSG00000142185"
+],
+[
+"RefSeq",
+"NM_003307"
+],
+[
+"UniProt",
+"O94759"
+]
+]
+},
+{
+"label": "Ca2+",
+"class": "SimpleChemical",
+"box": [
+690.0,
+15.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"calcium(2+)"
+],
+[
+"Synonyms",
+"CALCIUM ION; Ca(2+); Ca2+; calcium(2+) ion; calcium(II) cation; calcium, doubly charged positive ion"
+],
+[
+"Formula",
+"Ca"
+],
+[
+"ChEBI",
+"CHEBI:29108"
+],
+[
+"KEGG",
+"C00076"
+],
+[
+"InChI",
+"InChI=1S/Ca/q+2"
+],
+[
+"InChIKey",
+"BHPQYMZQTOCNFJ-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "Ca2+",
+"class": "SimpleChemical",
+"box": [
+1140.0,
+15.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"calcium(2+)"
+],
+[
+"Synonyms",
+"CALCIUM ION; Ca(2+); Ca2+; calcium(2+) ion; calcium(II) cation; calcium, doubly charged positive ion"
+],
+[
+"Formula",
+"Ca"
+],
+[
+"ChEBI",
+"CHEBI:29108"
+],
+[
+"KEGG",
+"C00076"
+],
+[
+"InChI",
+"InChI=1S/Ca/q+2"
+],
+[
+"InChIKey",
+"BHPQYMZQTOCNFJ-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "ROS",
+"class": "SimpleChemical",
+"box": [
+1110.0,
+165.0,
+46.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"reactive oxygen species"
+],
+[
+"Synonyms",
+"ROS"
+],
+[
+"Definition",
+"Molecules or ions formed by the incomplete one-electron reduction of oxygen. They contribute to the microbicidal activity of phagocytes, regulation of signal transduction and gene expression, and the oxidative damage to biopolymers."
+],
+[
+"ChEBI",
+"CHEBI:26523"
+]
+]
+}
+]
+}
