@@ -8,8 +8,8 @@
           <y:Realizers active="0">
             <y:GroupNode>
               <y:Geometry height="480.0" width="300.0" x="1210.0" y="3360.0"/>
-              <y:Fill color="#C4BEA0" transparent="false"/>
-              <y:BorderStyle color="#000000" type="line" width="2.0"/>
+              <y:Fill color="#F0EFE8" transparent="false"/>
+              <y:BorderStyle color="#C4BEA0" type="line" width="2.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="199.5" x="73.0" xml:space="preserve" y="22.0" hasText="true">ENDOPLASMIC RETICULUM</y:NodeLabel>
               <y:Shape type="roundrectangle"/>
               <y:State autoResize="false" closed="false" closedHeight="80.0" closedWidth="80.0" innerGraphDisplayEnabled="false"/>
