@@ -17,6 +17,10 @@
   a { color: #4183c4; }
   /* a group with no map yet */
   .m2-empty { font-size: 14px; color: #888; padding: 2px 4px; margin-left: 14px; }
+  /* a group dragged into another place: a line where it goes */
+  .m2-group.m2-moving { opacity: 0.4; }
+  .m2-group.m2-drop { box-shadow: 0 -2px 0 #4183c4; }
+  .m2-list-end { box-shadow: 0 2px 0 #4183c4; }
 </style>
 </head>
 <body>
@@ -256,13 +260,13 @@
   var ERROR_ICON = '<span class="m2-draft m2-error"><span>image error</span></span>';
   var DL_ICON = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 4v11M7 10l5 5 5-5"/><path d="M4 15v5h16v-5"/></svg>';
   var EXT_ICON = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>';
-  var BUILD = '?v=1793224415';
+  var BUILD = '?v=1793231861';
   var STANDARD = 0.675, MIN = 0.08, MAX = 4, KEEP = 80; // KEEP: pixels of map kept in view
   // how a map opens: 'fit' (the default) or 'read' at the standard zoom. Set by the mode
   // button and remembered by the browser where it can
   var mode = 'fit';
   try { if (localStorage.getItem('atlas-view') === 'read') mode = 'read'; } catch (e) {}
-  var GROUPS = ["ExposomeMap", "ExposomeMap 1.0", "NoiseMap"];
+  var GROUPS = ["ExposomeMap", "ExposomeMap 1.0", "NoiseMap"], SHUT = ["ExposomeMap 1.0"];
   var maps = [], byId = {}, topics = [], current = null, textCache = {};
   var view = document.getElementById('m2-view'), img = document.getElementById('m2-img');
   var z = STANDARD, tx = 0, ty = 0;
@@ -743,6 +747,66 @@
   // has several maps, as in Glycogen metabolism (muscle)
   function label(m) { return m.topic + (m.tab ? ' (' + m.tab + ')' : ''); }
   var closed = {}; // groups closed by the reader, by name
+  // the reader's choices, kept in this browser: groups opened or closed, and the order of the groups
+  var KEPT = 'expo-atlas-groups', kept = {};
+  try { kept = JSON.parse(localStorage.getItem(KEPT)) || {}; } catch (e) {}
+  kept.closed = kept.closed || {};
+  GROUPS.forEach(function (name) { closed[name] = name in kept.closed ? kept.closed[name] : SHUT.indexOf(name) >= 0; });
+  if (kept.order) GROUPS.sort(function (a, b) { return at(a) - at(b); });
+  function at(name) { var i = kept.order.indexOf(name); return i < 0 ? kept.order.length + GROUPS.indexOf(name) : i; }
+  function keep() { try { localStorage.setItem(KEPT, JSON.stringify(kept)); } catch (e) {} }
+  function toggle(name) { closed[name] = !closed[name]; kept.closed[name] = closed[name]; keep(); }
+  // the maps in the order of their groups
+  function sortMaps() {
+    var pos = maps.map(function (m, i) { return [GROUPS.indexOf(m.group), i, m]; });
+    pos.sort(function (a, b) { return a[0] - b[0] || a[1] - b[1]; });
+    maps = pos.map(function (p) { return p[2]; });
+  }
+  // a group heading dragged up or down the list (not while searching, which hides groups)
+  var moving = null;
+  function movable(g, name) {
+    if (document.getElementById('m2-search').value.trim()) return;
+    g.draggable = true;
+    g.title = 'Drag to move the group';
+    g.setAttribute('data-group', name);
+    g.addEventListener('dragstart', function (e) {
+      moving = name; g.classList.add('m2-moving');
+      e.dataTransfer.effectAllowed = 'move';
+      try { e.dataTransfer.setData('text/plain', name); } catch (x) {}
+    });
+    g.addEventListener('dragend', function () { moving = null; buildList(''); });
+  }
+  // where the dragged group goes: before the first heading whose middle is below the pointer
+  function dropPlace(y) {
+    var hs = Array.prototype.slice.call(document.querySelectorAll('#m2-list .m2-group[data-group]'));
+    for (var i = 0; i < hs.length; i++) { var r = hs[i].getBoundingClientRect(); if (y < r.top + r.height / 2) return hs[i]; }
+    return null;
+  }
+  (function () {
+    var box = document.getElementById('m2-list');
+    function clear() {
+      box.classList.remove('m2-list-end');
+      Array.prototype.forEach.call(box.querySelectorAll('.m2-drop'), function (h) { h.classList.remove('m2-drop'); });
+    }
+    box.addEventListener('dragover', function (e) {
+      if (!moving) return;
+      e.preventDefault(); e.dataTransfer.dropEffect = 'move';
+      clear();
+      var h = dropPlace(e.clientY);
+      if (h) h.classList.add('m2-drop'); else box.classList.add('m2-list-end');
+    });
+    box.addEventListener('dragleave', function (e) { if (!box.contains(e.relatedTarget)) clear(); });
+    box.addEventListener('drop', function (e) {
+      if (!moving) return;
+      e.preventDefault(); clear();
+      var h = dropPlace(e.clientY), before = h && h.getAttribute('data-group');
+      if (before === moving) return;
+      GROUPS.splice(GROUPS.indexOf(moving), 1);
+      GROUPS.splice(before ? GROUPS.indexOf(before) : GROUPS.length, 0, moving);
+      kept.order = GROUPS.slice(); keep();
+      sortMaps();
+    });
+  })();
 
   // ---------- search ----------
   // atlas-data/search.json (scripts/make_maps.py): every molecule on every
@@ -822,18 +886,32 @@
     // a search matches the list name, the full title or the group name
     var shown = maps.filter(function (m) { return !q || matchMap(q, m); });
     var mols = q ? findMols(q) : [];
-    var group = null;
+    var group = null, gi = 0;
+    function empty(upTo) {  // the groups with no map before upTo (null: all left)
+      for (; gi < GROUPS.length && GROUPS[gi] !== upTo; gi++) if (!q) emptyGroup(GROUPS[gi]);
+      gi++;
+    }
+    function emptyGroup(name) {
+      if (maps.some(function (m) { return m.group === name; })) return;
+      var g = el('button', 'm2-group' + (closed[name] ? ' m2-shut' : ''), name); g.type = 'button';
+      g.addEventListener('click', function () { toggle(name); buildList(''); });
+      movable(g, name);
+      box.appendChild(g);
+      if (!closed[name]) box.appendChild(el('div', 'm2-empty', 'No maps yet'));
+    }
     shown.forEach(function (m) {
       // while searching every group with a match is shown open
       var shut = !q && closed[m.group];
       if (m.group && m.group !== group) {
+        empty(m.group);
         group = m.group;
         var g = el('button', 'm2-group' + (shut ? ' m2-shut' : ''), group);
         g.type = 'button';
         g.addEventListener('click', (function (name) { return function () {
-          closed[name] = !closed[name];
+          toggle(name);
           buildList(document.getElementById('m2-search').value);
         }; })(group));
+        movable(g, group);
         box.appendChild(g);
       }
       if (shut) return;
@@ -850,13 +928,7 @@
       b.addEventListener('click', function () { go(m.id); });
       box.appendChild(b);
     });
-    if (!q) GROUPS.forEach(function (name) {
-      if (maps.some(function (m) { return m.group === name; })) return;
-      var g = el('button', 'm2-group' + (closed[name] ? ' m2-shut' : ''), name); g.type = 'button';
-      g.addEventListener('click', function () { closed[name] = !closed[name]; buildList(''); });
-      box.appendChild(g);
-      if (!closed[name]) box.appendChild(el('div', 'm2-empty', 'No maps yet'));
-    });
+    empty(null);
     mols.forEach(function (g) {
       var t = el('div', 'm2-mol', g.label);
       if (g.name !== g.label) t.appendChild(el('span', 'm2-why', ' ' + g.name));
@@ -977,7 +1049,8 @@
     else route();
   }
   function route() {
-    var m = byId[location.hash.slice(1)] || maps[0];
+    // no map named: the first map of an open group
+    var m = byId[location.hash.slice(1)] || maps.filter(function (x) { return !closed[x.group]; })[0] || maps[0];
     if (!m) { document.querySelector('.m2-main').style.display = 'none'; buildList(''); return; }
     document.querySelector('.m2-main').style.display = '';
     if (!pending) lastHit = null; // chosen from the map list, not a search result
@@ -989,6 +1062,7 @@
 
   fetch('maps.json' + BUILD).then(function (r) { return r.json(); }).then(function (list) {
     maps = list;
+    sortMaps();
     placeInfo();
     maps.forEach(function (m) {
       byId[m.id] = m;
