@@ -4642,6 +4642,206 @@
 ]
 },
 {
+"label": "NRF2:MAFG",
+"class": "Complex",
+"box": [
+1767.0,
+1532.2,
+104.0,
+149.5
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+]
+]
+},
+{
+"label": "NRF2",
+"class": "Macromolecule",
+"box": [
+1779.0,
+1557.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+],
+[
+"PTM",
+" at Lys"
+],
+[
+"Full name",
+"Nuclear factor erythroid 2-related factor 2"
+],
+[
+"Alternative names",
+"Nuclear factor, erythroid derived 2, like 2"
+],
+[
+"Function",
+"Transcription factor that plays a key role in the response to oxidative stress: binds to antioxidant response (ARE) elements present in the promoter region of many cytoprotective genes, such as phase 2 detoxifying enzymes, and promotes their expression, thereby neutralizing reactive electrophiles. In normal conditions, ubiquitinated and degraded in the cytoplasm by the BCR(KEAP1) complex."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Nucleus"
+],
+[
+"HGNC",
+"HGNC:7782"
+],
+[
+"HGNC symbol",
+"NFE2L2"
+],
+[
+"Alias symbols",
+"NRF2, NRF-2"
+],
+[
+"Entrez",
+"4780"
+],
+[
+"Ensembl",
+"ENSG00000116044"
+],
+[
+"RefSeq",
+"NM_006164"
+],
+[
+"UniProt",
+"Q16236"
+]
+]
+},
+{
+"label": "MAFG",
+"class": "Macromolecule",
+"box": [
+1779.0,
+1605.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+],
+[
+"Full name",
+"Transcription factor MafG"
+],
+[
+"Alternative names",
+"V-maf musculoaponeurotic fibrosarcoma oncogene homolog G; hMAF"
+],
+[
+"Function",
+"Since they lack a putative transactivation domain, the small Mafs behave as transcriptional repressors when they dimerize among themselves. However, they seem to serve as transcriptional activators by dimerizing with other (usually larger) basic-zipper proteins, such as NFE2, NFE2L1 and NFE2L2, and recruiting them to specific DNA-binding sites."
+],
+[
+"Location",
+"Nucleus"
+],
+[
+"HGNC",
+"HGNC:6781"
+],
+[
+"HGNC symbol",
+"MAFG"
+],
+[
+"Alias symbols",
+"MGC13090, MGC20149"
+],
+[
+"Entrez",
+"4097"
+],
+[
+"Ensembl",
+"ENSG00000197063"
+],
+[
+"RefSeq",
+"NM_002359"
+],
+[
+"UniProt",
+"O15525"
+]
+]
+},
+{
+"label": "MAFG",
+"class": "Macromolecule",
+"box": [
+1519.0,
+1707.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+],
+[
+"Full name",
+"Transcription factor MafG"
+],
+[
+"Alternative names",
+"V-maf musculoaponeurotic fibrosarcoma oncogene homolog G; hMAF"
+],
+[
+"Function",
+"Since they lack a putative transactivation domain, the small Mafs behave as transcriptional repressors when they dimerize among themselves. However, they seem to serve as transcriptional activators by dimerizing with other (usually larger) basic-zipper proteins, such as NFE2, NFE2L1 and NFE2L2, and recruiting them to specific DNA-binding sites."
+],
+[
+"Location",
+"Nucleus"
+],
+[
+"HGNC",
+"HGNC:6781"
+],
+[
+"HGNC symbol",
+"MAFG"
+],
+[
+"Alias symbols",
+"MGC13090, MGC20149"
+],
+[
+"Entrez",
+"4097"
+],
+[
+"Ensembl",
+"ENSG00000197063"
+],
+[
+"RefSeq",
+"NM_002359"
+],
+[
+"UniProt",
+"O15525"
+]
+]
+},
+{
 "label": "BACH1:MAFG",
 "class": "Complex",
 "box": [
@@ -5403,6 +5603,146 @@
 [
 "Compartment",
 "nucleus"
+]
+]
+},
+{
+"label": "NRF2:MAFG",
+"class": "Complex",
+"box": [
+1431.0,
+2398.2,
+104.0,
+149.5
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+]
+]
+},
+{
+"label": "NRF2",
+"class": "Macromolecule",
+"box": [
+1443.0,
+2423.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+],
+[
+"PTM",
+" at Lys"
+],
+[
+"Full name",
+"Nuclear factor erythroid 2-related factor 2"
+],
+[
+"Alternative names",
+"Nuclear factor, erythroid derived 2, like 2"
+],
+[
+"Function",
+"Transcription factor that plays a key role in the response to oxidative stress: binds to antioxidant response (ARE) elements present in the promoter region of many cytoprotective genes, such as phase 2 detoxifying enzymes, and promotes their expression, thereby neutralizing reactive electrophiles. In normal conditions, ubiquitinated and degraded in the cytoplasm by the BCR(KEAP1) complex."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Nucleus"
+],
+[
+"HGNC",
+"HGNC:7782"
+],
+[
+"HGNC symbol",
+"NFE2L2"
+],
+[
+"Alias symbols",
+"NRF2, NRF-2"
+],
+[
+"Entrez",
+"4780"
+],
+[
+"Ensembl",
+"ENSG00000116044"
+],
+[
+"RefSeq",
+"NM_006164"
+],
+[
+"UniProt",
+"Q16236"
+]
+]
+},
+{
+"label": "MAFG",
+"class": "Macromolecule",
+"box": [
+1443.0,
+2471.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+],
+[
+"Full name",
+"Transcription factor MafG"
+],
+[
+"Alternative names",
+"V-maf musculoaponeurotic fibrosarcoma oncogene homolog G; hMAF"
+],
+[
+"Function",
+"Since they lack a putative transactivation domain, the small Mafs behave as transcriptional repressors when they dimerize among themselves. However, they seem to serve as transcriptional activators by dimerizing with other (usually larger) basic-zipper proteins, such as NFE2, NFE2L1 and NFE2L2, and recruiting them to specific DNA-binding sites."
+],
+[
+"Location",
+"Nucleus"
+],
+[
+"HGNC",
+"HGNC:6781"
+],
+[
+"HGNC symbol",
+"MAFG"
+],
+[
+"Alias symbols",
+"MGC13090, MGC20149"
+],
+[
+"Entrez",
+"4097"
+],
+[
+"Ensembl",
+"ENSG00000197063"
+],
+[
+"RefSeq",
+"NM_002359"
+],
+[
+"UniProt",
+"O15525"
 ]
 ]
 },
