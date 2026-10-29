@@ -877,7 +877,7 @@
 "label": "HMOX1",
 "class": "NucleicAcidFeature",
 "box": [
-319.0,
+239.0,
 333.0,
 80.0,
 40.0
@@ -929,7 +929,7 @@
 "label": "NQO1",
 "class": "NucleicAcidFeature",
 "box": [
-319.0,
+239.0,
 63.0,
 80.0,
 40.0
@@ -989,7 +989,7 @@
 "label": "BACH1",
 "class": "NucleicAcidFeature",
 "box": [
-319.0,
+239.0,
 1053.0,
 80.0,
 40.0
@@ -1600,8 +1600,7 @@
 "HMOX1"
 ],
 "by": [
-"HMOX1",
-"NRF2:MAFG",
+"AND",
 "BACH1:MAFG"
 ]
 },
@@ -1651,8 +1650,7 @@
 "NQO1"
 ],
 "by": [
-"NQO1",
-"NRF2:MAFG"
+"AND"
 ]
 },
 "references": [
@@ -1685,8 +1683,7 @@
 "BACH1"
 ],
 "by": [
-"BACH1",
-"NRF2:MAFG"
+"AND"
 ]
 },
 "references": [

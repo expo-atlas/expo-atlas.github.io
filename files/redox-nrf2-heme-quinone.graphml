@@ -351,7 +351,7 @@
       </data>
       <graph edgedefault="directed" id="qcb79b61:"><node id="nd5cwu4o"><data key="d0">HMOX1</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.NucleicAcidFeature">
-          <y:Geometry height="40.0" width="80.0" x="420.0" y="310.0"/>
+          <y:Geometry height="40.0" width="80.0" x="340.0" y="310.0"/>
           <y:Fill transparent="false" hasColor="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="47.5" x="16.25" xml:space="preserve" y="9.75" hasText="true">HMOX1<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -368,9 +368,17 @@
           </y:StyleProperties>
         </y:GenericNode>
       </data>
-    <data key="dev_node">nd5cwu4o</data></node><node id="fp1nw2ar"><data key="d0">NQO1</data><data key="ng">
+    <data key="dev_node">nd5cwu4o</data></node><node id="jcs35sr9"><data key="ng">
+        <y:GenericNode configuration="com.yworks.sbgn.Operator">
+          <y:Geometry height="30.0" width="30.0" x="365.0" y="405.0"/>
+          <y:Fill transparent="false" hasColor="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="28.5" x="0.75" xml:space="preserve" y="4.75" hasText="true">AND<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    <data key="dev_node">jcs35sr9</data></node><node id="fp1nw2ar"><data key="d0">NQO1</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.NucleicAcidFeature">
-          <y:Geometry height="40.0" width="80.0" x="420.0" y="40.0"/>
+          <y:Geometry height="40.0" width="80.0" x="340.0" y="40.0"/>
           <y:Fill transparent="false" hasColor="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.0" x="21.0" xml:space="preserve" y="9.75" hasText="true">NQO1<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -387,9 +395,17 @@
           </y:StyleProperties>
         </y:GenericNode>
       </data>
-    <data key="dev_node">fp1nw2ar</data></node><node id="xtacaec3"><data key="d0">BACH1</data><data key="ng">
+    <data key="dev_node">fp1nw2ar</data></node><node id="qgqglfwp"><data key="ng">
+        <y:GenericNode configuration="com.yworks.sbgn.Operator">
+          <y:Geometry height="30.0" width="30.0" x="365.0" y="135.0"/>
+          <y:Fill transparent="false" hasColor="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="28.5" x="0.75" xml:space="preserve" y="4.75" hasText="true">AND<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    <data key="dev_node">qgqglfwp</data></node><node id="xtacaec3"><data key="d0">BACH1</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.NucleicAcidFeature">
-          <y:Geometry height="40.0" width="80.0" x="420.0" y="1030.0"/>
+          <y:Geometry height="40.0" width="80.0" x="340.0" y="1030.0"/>
           <y:Fill transparent="false" hasColor="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="47.5" x="16.25" xml:space="preserve" y="9.75" hasText="true">BACH1<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -406,7 +422,15 @@
           </y:StyleProperties>
         </y:GenericNode>
       </data>
-    <data key="dev_node">xtacaec3</data></node><node id="ps5h5swx" yfiles.foldertype="group"><data key="ng">
+    <data key="dev_node">xtacaec3</data></node><node id="e9uagvs5"><data key="ng">
+        <y:GenericNode configuration="com.yworks.sbgn.Operator">
+          <y:Geometry height="30.0" width="30.0" x="365.0" y="945.0"/>
+          <y:Fill transparent="false" hasColor="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="28.5" x="0.75" xml:space="preserve" y="4.75" hasText="true">AND<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    <data key="dev_node">e9uagvs5</data></node><node id="ps5h5swx" yfiles.foldertype="group"><data key="ng">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
@@ -573,7 +597,7 @@
       </data>
     <data key="dev_node">pa3p9ipt</data></node><node id="c6vnk4va"><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.EmptySet">
-          <y:Geometry height="30.0" width="30.0" x="359.0" y="405.0"/>
+          <y:Geometry height="30.0" width="30.0" x="445.0" y="325.0"/>
           <y:Fill transparent="false" hasColor="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="0.0" x="15.0" y="13.0"><y:LabelModel>
@@ -606,7 +630,7 @@
       </data>
     <data key="dev_node">s4letxwg</data></node><node id="r4po491i"><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.EmptySet">
-          <y:Geometry height="30.0" width="30.0" x="359.0" y="135.0"/>
+          <y:Geometry height="30.0" width="30.0" x="445.0" y="215.0"/>
           <y:Fill transparent="false" hasColor="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="0.0" x="15.0" y="13.0"><y:LabelModel>
@@ -639,7 +663,7 @@
       </data>
     <data key="dev_node">z7gf1z4y</data></node><node id="utzxy6a2"><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.EmptySet">
-          <y:Geometry height="30.0" width="30.0" x="359.0" y="945.0"/>
+          <y:Geometry height="30.0" width="30.0" x="445.0" y="1025.0"/>
           <y:Fill transparent="false" hasColor="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="0.0" x="15.0" y="13.0"><y:LabelModel>
@@ -791,7 +815,67 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    <data key="d3">pubmed:15175654</data><data key="d4">in vitro</data><data key="d5">heme reaches the nucleus, where it acts on BACH1</data><data key="dev_node">y4rgmoep</data></node></graph><data key="dev_node">qcb79b61</data></node><edge id="mtxlynva_c0" source="c6vnk4va" target="mtxlynva">
+    <data key="d3">pubmed:15175654</data><data key="d4">in vitro</data><data key="d5">heme reaches the nucleus, where it acts on BACH1</data><data key="dev_node">y4rgmoep</data></node></graph><data key="dev_node">qcb79b61</data></node><edge id="jcs35sr9_i0" source="nd5cwu4o" target="jcs35sr9">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    <data key="dev_edge">jcs35sr9_i0</data></edge>
+    <edge id="jcs35sr9_i1" source="ps5h5swx" target="jcs35sr9">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    <data key="dev_edge">jcs35sr9_i1</data></edge>
+    <edge id="qgqglfwp_i0" source="fp1nw2ar" target="qgqglfwp">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    <data key="dev_edge">qgqglfwp_i0</data></edge>
+    <edge id="qgqglfwp_i1" source="ps5h5swx" target="qgqglfwp">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    <data key="dev_edge">qgqglfwp_i1</data></edge>
+    <edge id="e9uagvs5_i0" source="xtacaec3" target="e9uagvs5">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    <data key="dev_edge">e9uagvs5_i0</data></edge>
+    <edge id="e9uagvs5_i1" source="ps5h5swx" target="e9uagvs5">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    <data key="dev_edge">e9uagvs5_i1</data></edge>
+    <edge id="mtxlynva_c0" source="c6vnk4va" target="mtxlynva">
       <data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -811,7 +895,7 @@
         </y:PolyLineEdge>
       </data>
     <data key="dev_edge">mtxlynva_p0</data></edge>
-    <edge id="mtxlynva_m0" source="nd5cwu4o" target="mtxlynva">
+    <edge id="mtxlynva_m0" source="jcs35sr9" target="mtxlynva">
       <data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -821,17 +905,7 @@
         </y:PolyLineEdge>
       </data>
     <data key="dev_edge">mtxlynva_m0</data></edge>
-    <edge id="mtxlynva_m1" source="ps5h5swx" target="mtxlynva">
-      <data key="eg">
-        <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
-          <y:Arrows source="none" target="white_delta_bar"/>
-          <y:BendStyle smoothed="true"/>
-        </y:PolyLineEdge>
-      </data>
-    <data key="dev_edge">mtxlynva_m1</data></edge>
-    <edge id="mtxlynva_m2" source="x5c5r14x" target="mtxlynva">
+    <edge id="mtxlynva_m1" source="x5c5r14x" target="mtxlynva">
       <data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -840,7 +914,7 @@
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
       </data>
-    <data key="dev_edge">mtxlynva_m2</data></edge>
+    <data key="dev_edge">mtxlynva_m1</data></edge>
     <edge id="bc99w6ew_c0" source="pa3p9ipt" target="bc99w6ew">
       <data key="eg">
         <y:PolyLineEdge>
@@ -911,7 +985,7 @@
         </y:PolyLineEdge>
       </data>
     <data key="dev_edge">w7onhu24_p0</data></edge>
-    <edge id="w7onhu24_m0" source="fp1nw2ar" target="w7onhu24">
+    <edge id="w7onhu24_m0" source="qgqglfwp" target="w7onhu24">
       <data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -921,16 +995,6 @@
         </y:PolyLineEdge>
       </data>
     <data key="dev_edge">w7onhu24_m0</data></edge>
-    <edge id="w7onhu24_m1" source="ps5h5swx" target="w7onhu24">
-      <data key="eg">
-        <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
-          <y:Arrows source="none" target="white_delta_bar"/>
-          <y:BendStyle smoothed="true"/>
-        </y:PolyLineEdge>
-      </data>
-    <data key="dev_edge">w7onhu24_m1</data></edge>
     <edge id="vd3ap1y3_c0" source="s4letxwg" target="vd3ap1y3">
       <data key="eg">
         <y:PolyLineEdge>
@@ -1001,7 +1065,7 @@
         </y:PolyLineEdge>
       </data>
     <data key="dev_edge">g8fs1c2t_p0</data></edge>
-    <edge id="g8fs1c2t_m0" source="xtacaec3" target="g8fs1c2t">
+    <edge id="g8fs1c2t_m0" source="e9uagvs5" target="g8fs1c2t">
       <data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1011,16 +1075,6 @@
         </y:PolyLineEdge>
       </data>
     <data key="dev_edge">g8fs1c2t_m0</data></edge>
-    <edge id="g8fs1c2t_m1" source="ps5h5swx" target="g8fs1c2t">
-      <data key="eg">
-        <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
-          <y:Arrows source="none" target="white_delta_bar"/>
-          <y:BendStyle smoothed="true"/>
-        </y:PolyLineEdge>
-      </data>
-    <data key="dev_edge">g8fs1c2t_m1</data></edge>
     <edge id="dk416nsc_c0" source="z7gf1z4y" target="dk416nsc">
       <data key="eg">
         <y:PolyLineEdge>

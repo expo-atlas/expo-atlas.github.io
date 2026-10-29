@@ -13,14 +13,14 @@
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
-              <y:Geometry height="808.0" width="1084.0" x="236.0" y="-208.0"/>
+              <y:Geometry height="780.0" width="1084.0" x="236.0" y="-180.0"/>
               <y:Fill color="#F8F8F8" transparent="false"/>
               <y:BorderStyle color="#999999" type="line" width="2.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="76.0" x="8.0" xml:space="preserve" y="2.0" hasText="true">endosome</y:NodeLabel>
               <y:Shape type="roundrectangle"/>
               <y:State autoResize="false" closed="false" closedHeight="80.0" closedWidth="80.0" innerGraphDisplayEnabled="false"/>
               <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
-              <y:BorderInsets bottom="55" bottomF="55.0" left="20" leftF="20.0" right="18" rightF="17.5" top="462" topF="462.5"/>
+              <y:BorderInsets bottom="55" bottomF="55.0" left="20" leftF="20.0" right="18" rightF="17.5" top="434" topF="434.5"/>
             </y:GroupNode>
             <y:GroupNode>
               <y:Geometry height="740.0" width="1280.0" x="75.0" y="515.0"/>
@@ -30,7 +30,7 @@
               <y:Shape type="roundrectangle"/>
               <y:State closed="true" closedHeight="740.0" closedWidth="1280.0" innerGraphDisplayEnabled="false"/>
               <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
-              <y:BorderInsets bottom="55" bottomF="55.0" left="20" leftF="20.0" right="18" rightF="17.5" top="467" topF="467.22265625"/>
+              <y:BorderInsets bottom="55" bottomF="55.0" left="20" leftF="20.0" right="18" rightF="17.5" top="439" topF="439.22265625"/>
             </y:GroupNode>
           </y:Realizers>
         </y:ProxyAutoBoundsNode>
@@ -293,14 +293,14 @@ trimmed</data><data key="ng">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
-              <y:Geometry height="808.0" width="904.0" x="1320.0" y="-208.0"/>
+              <y:Geometry height="780.0" width="904.0" x="1320.0" y="-180.0"/>
               <y:Fill color="#F8F8F8" transparent="false"/>
               <y:BorderStyle color="#999999" type="line" width="2.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="85.5" x="8.0" xml:space="preserve" y="2.0" hasText="true">cytoplasm</y:NodeLabel>
               <y:Shape type="roundrectangle"/>
               <y:State autoResize="false" closed="false" closedHeight="80.0" closedWidth="80.0" innerGraphDisplayEnabled="false"/>
-              <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
-              <y:BorderInsets bottom="25" bottomF="25.0" left="33" leftF="33.0" right="23" rightF="23.0" top="28" topF="27.5"/>
+              <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="14" topF="14.5"/>
+              <y:BorderInsets bottom="25" bottomF="25.0" left="33" leftF="33.0" right="23" rightF="23.0" top="0" topF="0.0"/>
             </y:GroupNode>
             <y:GroupNode>
               <y:Geometry height="740.0" width="1280.0" x="75.0" y="515.0"/>
@@ -310,7 +310,7 @@ trimmed</data><data key="ng">
               <y:Shape type="roundrectangle"/>
               <y:State closed="true" closedHeight="740.0" closedWidth="1280.0" innerGraphDisplayEnabled="false"/>
               <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
-              <y:BorderInsets bottom="25" bottomF="25.0" left="33" leftF="33.0" right="23" rightF="23.0" top="32" topF="32.22265625"/>
+              <y:BorderInsets bottom="25" bottomF="25.0" left="33" leftF="33.0" right="23" rightF="23.0" top="4" topF="4.22265625"/>
             </y:GroupNode>
           </y:Realizers>
         </y:ProxyAutoBoundsNode>
@@ -742,14 +742,14 @@ trimmed</data><data key="ng">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
-              <y:Geometry height="808.0" width="604.0" x="2224.0" y="-208.0"/>
+              <y:Geometry height="780.0" width="668.0" x="2224.0" y="-180.0"/>
               <y:Fill color="#F8F8F8" transparent="false"/>
               <y:BorderStyle color="#999999" type="line" width="2.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="66.5" x="8.0" xml:space="preserve" y="2.0" hasText="true">nucleus</y:NodeLabel>
               <y:Shape type="roundrectangle"/>
               <y:State autoResize="false" closed="false" closedHeight="80.0" closedWidth="80.0" innerGraphDisplayEnabled="false"/>
               <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
-              <y:BorderInsets bottom="165" bottomF="165.0" left="27" leftF="27.0" right="20" rightF="20.0" top="4" topF="4.5"/>
+              <y:BorderInsets bottom="165" bottomF="165.0" left="27" leftF="27.0" right="25" rightF="25.0" top="66" topF="66.5"/>
             </y:GroupNode>
             <y:GroupNode>
               <y:Geometry height="740.0" width="1280.0" x="75.0" y="515.0"/>
@@ -759,7 +759,7 @@ trimmed</data><data key="ng">
               <y:Shape type="roundrectangle"/>
               <y:State closed="true" closedHeight="740.0" closedWidth="1280.0" innerGraphDisplayEnabled="false"/>
               <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
-              <y:BorderInsets bottom="165" bottomF="165.0" left="27" leftF="27.0" right="20" rightF="20.0" top="9" topF="9.22265625"/>
+              <y:BorderInsets bottom="165" bottomF="165.0" left="27" leftF="27.0" right="25" rightF="25.0" top="71" topF="71.22265625"/>
             </y:GroupNode>
           </y:Realizers>
         </y:ProxyAutoBoundsNode>
@@ -785,7 +785,7 @@ trimmed</data><data key="ng">
           </data>
         <data key="d2">P@S477</data><data key="dev_node">tdhhnyab</data></node><node id="rl18z8bl"><data key="d0">IFNA1</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.NucleicAcidFeature">
-          <y:Geometry height="40.0" width="80.0" x="2652.0" y="-160.0"/>
+          <y:Geometry height="40.0" width="80.0" x="2772.0" y="0.0"/>
           <y:Fill transparent="false" hasColor="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="47.5" x="16.25" xml:space="preserve" y="9.75" hasText="true">IFNA1<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -802,9 +802,17 @@ trimmed</data><data key="ng">
           </y:StyleProperties>
         </y:GenericNode>
       </data>
-    <data key="dev_node">rl18z8bl</data></node><node id="ue4it5gn"><data key="d0">IFNB1</data><data key="ng">
+    <data key="dev_node">rl18z8bl</data></node><node id="iksaz2qp"><data key="ng">
+        <y:GenericNode configuration="com.yworks.sbgn.Operator">
+          <y:Geometry height="30.0" width="30.0" x="2677.0" y="5.0"/>
+          <y:Fill transparent="false" hasColor="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="28.5" x="0.75" xml:space="preserve" y="4.75" hasText="true">AND<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    <data key="dev_node">iksaz2qp</data></node><node id="ue4it5gn"><data key="d0">IFNB1</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.NucleicAcidFeature">
-          <y:Geometry height="40.0" width="80.0" x="2448.0" y="40.0"/>
+          <y:Geometry height="40.0" width="80.0" x="2568.0" y="200.0"/>
           <y:Fill transparent="false" hasColor="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="47.5" x="16.25" xml:space="preserve" y="9.75" hasText="true">IFNB1<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -821,7 +829,15 @@ trimmed</data><data key="ng">
           </y:StyleProperties>
         </y:GenericNode>
       </data>
-    <data key="dev_node">ue4it5gn</data></node><node id="ssf0f06a"><data key="d0">IFNA1</data><data key="ng">
+    <data key="dev_node">ue4it5gn</data></node><node id="atq68ba1"><data key="ng">
+        <y:GenericNode configuration="com.yworks.sbgn.Operator">
+          <y:Geometry height="30.0" width="30.0" x="2473.0" y="205.0"/>
+          <y:Fill transparent="false" hasColor="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="28.5" x="0.75" xml:space="preserve" y="4.75" hasText="true">AND<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    <data key="dev_node">atq68ba1</data></node><node id="ssf0f06a"><data key="d0">IFNA1</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.NucleicAcidFeature">
           <y:Geometry height="40.0" width="80.0" x="2546.0" y="-70.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -947,14 +963,14 @@ trimmed</data><data key="ng">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
-              <y:Geometry height="808.0" width="248.0" x="-12.0" y="-208.0"/>
+              <y:Geometry height="780.0" width="248.0" x="-12.0" y="-180.0"/>
               <y:Fill color="#F8F8F8" transparent="false"/>
               <y:BorderStyle color="#999999" type="line" width="2.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="85.5" x="8.0" xml:space="preserve" y="2.0" hasText="true">cytoplasm</y:NodeLabel>
               <y:Shape type="roundrectangle"/>
               <y:State autoResize="false" closed="false" closedHeight="80.0" closedWidth="80.0" innerGraphDisplayEnabled="false"/>
               <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
-              <y:BorderInsets bottom="75" bottomF="75.0" left="17" leftF="17.0" right="25" rightF="25.0" top="552" topF="552.5"/>
+              <y:BorderInsets bottom="75" bottomF="75.0" left="17" leftF="17.0" right="25" rightF="25.0" top="524" topF="524.5"/>
             </y:GroupNode>
             <y:GroupNode>
               <y:Geometry height="740.0" width="1280.0" x="75.0" y="515.0"/>
@@ -964,7 +980,7 @@ trimmed</data><data key="ng">
               <y:Shape type="roundrectangle"/>
               <y:State closed="true" closedHeight="740.0" closedWidth="1280.0" innerGraphDisplayEnabled="false"/>
               <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
-              <y:BorderInsets bottom="75" bottomF="75.0" left="17" leftF="17.0" right="25" rightF="25.0" top="557" topF="557.22265625"/>
+              <y:BorderInsets bottom="75" bottomF="75.0" left="17" leftF="17.0" right="25" rightF="25.0" top="529" topF="529.22265625"/>
             </y:GroupNode>
           </y:Realizers>
         </y:ProxyAutoBoundsNode>
@@ -1005,7 +1021,47 @@ trimmed</data><data key="ng">
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    <data key="d3">pubmed:18305481 pubmed:23426999</data><data key="d4">animal</data><data key="d5">UNC93B1 loads TLR9 and takes it out of the endoplasmic reticulum to the endosome</data><data key="dev_node">x5kj9cit</data></node></graph><data key="dev_node">xdfo1ydv</data></node><edge id="x5kj9cit_c0" source="tdtcg4bx" target="x5kj9cit">
+    <data key="d3">pubmed:18305481 pubmed:23426999</data><data key="d4">animal</data><data key="d5">UNC93B1 loads TLR9 and takes it out of the endoplasmic reticulum to the endosome</data><data key="dev_node">x5kj9cit</data></node></graph><data key="dev_node">xdfo1ydv</data></node><edge id="iksaz2qp_i0" source="rl18z8bl" target="iksaz2qp">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    <data key="dev_edge">iksaz2qp_i0</data></edge>
+    <edge id="iksaz2qp_i1" source="tdhhnyab" target="iksaz2qp">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="2692.0" y="400.0"/></y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    <data key="dev_edge">iksaz2qp_i1</data></edge>
+    <edge id="atq68ba1_i0" source="ue4it5gn" target="atq68ba1">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    <data key="dev_edge">atq68ba1_i0</data></edge>
+    <edge id="atq68ba1_i1" source="tdhhnyab" target="atq68ba1">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    <data key="dev_edge">atq68ba1_i1</data></edge>
+    <edge id="x5kj9cit_c0" source="tdtcg4bx" target="x5kj9cit">
       <data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1355,7 +1411,7 @@ trimmed</data><data key="ng">
         </y:PolyLineEdge>
       </data>
     <data key="dev_edge">tjchqzgw_p0</data></edge>
-    <edge id="tjchqzgw_m0" source="rl18z8bl" target="tjchqzgw">
+    <edge id="tjchqzgw_m0" source="iksaz2qp" target="tjchqzgw">
       <data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1365,16 +1421,6 @@ trimmed</data><data key="ng">
         </y:PolyLineEdge>
       </data>
     <data key="dev_edge">tjchqzgw_m0</data></edge>
-    <edge id="tjchqzgw_m1" source="tdhhnyab" target="tjchqzgw">
-      <data key="eg">
-        <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="2692.0" y="400.0"/></y:Path>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
-          <y:Arrows source="none" target="white_delta_bar"/>
-          <y:BendStyle smoothed="true"/>
-        </y:PolyLineEdge>
-      </data>
-    <data key="dev_edge">tjchqzgw_m1</data></edge>
     <edge id="o4k3df76_c0" source="ssf0f06a" target="o4k3df76">
       <data key="eg">
         <y:PolyLineEdge>
@@ -1415,7 +1461,7 @@ trimmed</data><data key="ng">
         </y:PolyLineEdge>
       </data>
     <data key="dev_edge">qwtpafny_p0</data></edge>
-    <edge id="qwtpafny_m0" source="ue4it5gn" target="qwtpafny">
+    <edge id="qwtpafny_m0" source="atq68ba1" target="qwtpafny">
       <data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1425,16 +1471,6 @@ trimmed</data><data key="ng">
         </y:PolyLineEdge>
       </data>
     <data key="dev_edge">qwtpafny_m0</data></edge>
-    <edge id="qwtpafny_m1" source="tdhhnyab" target="qwtpafny">
-      <data key="eg">
-        <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
-          <y:Arrows source="none" target="white_delta_bar"/>
-          <y:BendStyle smoothed="true"/>
-        </y:PolyLineEdge>
-      </data>
-    <data key="dev_edge">qwtpafny_m1</data></edge>
     <edge id="st5w1eql_c0" source="ztge3h64" target="st5w1eql">
       <data key="eg">
         <y:PolyLineEdge>
