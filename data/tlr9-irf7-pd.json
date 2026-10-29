@@ -321,7 +321,7 @@
 ]
 },
 {
-"label": "TLR9",
+"label": "TLR9-C",
 "class": "Macromolecule",
 "box": [
 731.0,
@@ -373,12 +373,12 @@
 ]
 },
 {
-"label": "TLR9",
+"label": "TLR9-C trimmed",
 "class": "Macromolecule",
 "box": [
 923.0,
 415.0,
-80.0,
+112.0,
 40.0
 ],
 "props": [
@@ -425,10 +425,10 @@
 ]
 },
 {
-"label": "TLR9",
+"label": "TLR9-N",
 "class": "Macromolecule",
 "box": [
-923.0,
+939.0,
 525.0,
 80.0,
 40.0
@@ -477,12 +477,12 @@
 ]
 },
 {
-"label": "TLR9",
+"label": "TLR9-C trimmed",
 "class": "Macromolecule",
 "box": [
-1140.0,
+1180.0,
 377.8,
-80.0,
+112.0,
 40.0
 ],
 "props": [
@@ -576,8 +576,8 @@
 "TLR9"
 ],
 "out": [
-"TLR9",
-"TLR9"
+"TLR9-C",
+"TLR9-N"
 ],
 "by": [
 "LGMN"
@@ -615,10 +615,10 @@
 "props": [],
 "reaction": {
 "in": [
-"TLR9"
+"TLR9-C"
 ],
 "out": [
-"TLR9"
+"TLR9-C trimmed"
 ],
 "by": [
 "CTSB"
@@ -640,7 +640,7 @@
 "label": "",
 "class": "Process",
 "box": [
-1047.0,
+1079.0,
 423.0,
 24.0,
 24.0
@@ -649,13 +649,13 @@
 "reaction": {
 "in": [
 "CpG-DNA",
-"TLR9"
+"TLR9-C trimmed"
 ],
 "out": [
 "CpG:TLR9 dimer"
 ],
 "by": [
-"TLR9"
+"TLR9-N"
 ]
 },
 "references": [
@@ -689,7 +689,7 @@
 "label": "MYD88",
 "class": "Macromolecule",
 "box": [
-1315.0,
+1395.0,
 505.0,
 80.0,
 40.0
@@ -737,7 +737,7 @@
 "label": "IRAK4",
 "class": "Macromolecule",
 "box": [
-1505.0,
+1633.0,
 555.0,
 80.0,
 40.0
@@ -793,7 +793,7 @@
 "label": "IRAK1",
 "class": "Macromolecule",
 "box": [
-1609.0,
+1737.0,
 555.0,
 80.0,
 40.0
@@ -846,12 +846,12 @@
 ]
 },
 {
-"label": "TLR9",
+"label": "TLR9-C trimmed",
 "class": "Macromolecule",
 "box": [
-1436.0,
+1524.0,
 377.8,
-80.0,
+112.0,
 40.0
 ],
 "props": [
@@ -901,7 +901,7 @@
 "label": "MYD88",
 "class": "Macromolecule",
 "box": [
-1436.0,
+1540.0,
 431.8,
 80.0,
 40.0
@@ -949,7 +949,7 @@
 "label": "MYD88",
 "class": "Macromolecule",
 "box": [
-1675.0,
+1803.0,
 352.2,
 80.0,
 40.0
@@ -997,7 +997,7 @@
 "label": "IRAK4",
 "class": "Macromolecule",
 "box": [
-1675.0,
+1803.0,
 400.2,
 80.0,
 40.0
@@ -1053,7 +1053,7 @@
 "label": "IRAK1",
 "class": "Macromolecule",
 "box": [
-1675.0,
+1803.0,
 457.2,
 80.0,
 40.0
@@ -1109,7 +1109,7 @@
 "label": "TRAF6",
 "class": "Macromolecule",
 "box": [
-1793.0,
+1921.0,
 265.0,
 80.0,
 40.0
@@ -1165,7 +1165,7 @@
 "label": "TRAF3",
 "class": "Macromolecule",
 "box": [
-1889.0,
+2017.0,
 265.0,
 80.0,
 40.0
@@ -1221,7 +1221,7 @@
 "label": "CHUK",
 "class": "Macromolecule",
 "box": [
-1697.0,
+1825.0,
 265.0,
 80.0,
 40.0
@@ -1281,7 +1281,7 @@
 "label": "SPP1",
 "class": "Macromolecule",
 "box": [
-2005.0,
+2133.0,
 505.0,
 80.0,
 40.0
@@ -1341,7 +1341,7 @@
 "label": "IRF7",
 "class": "Macromolecule",
 "box": [
-1793.0,
+1921.0,
 525.0,
 80.0,
 40.0
@@ -1393,7 +1393,7 @@
 "label": "IRF7",
 "class": "Macromolecule",
 "box": [
-1899.0,
+2027.0,
 415.0,
 80.0,
 40.0
@@ -1445,7 +1445,7 @@
 "label": "IFNA1",
 "class": "NucleicAcidFeature",
 "box": [
-2005.0,
+2133.0,
 65.0,
 80.0,
 40.0
@@ -1501,7 +1501,7 @@
 "label": "IFNB1",
 "class": "NucleicAcidFeature",
 "box": [
-2005.0,
+2133.0,
 165.0,
 80.0,
 40.0
@@ -1561,7 +1561,7 @@
 "label": "IFN-alpha",
 "class": "Macromolecule",
 "box": [
-1793.0,
+1921.0,
 65.0,
 80.0,
 40.0
@@ -1617,7 +1617,7 @@
 "label": "IFN-beta",
 "class": "Macromolecule",
 "box": [
-1793.0,
+1921.0,
 165.0,
 80.0,
 40.0
@@ -1678,7 +1678,7 @@
 "label": "",
 "class": "Process",
 "box": [
-1343.0,
+1423.0,
 423.0,
 24.0,
 24.0
@@ -1710,7 +1710,7 @@
 "label": "",
 "class": "Process",
 "box": [
-1585.0,
+1713.0,
 423.0,
 24.0,
 24.0
@@ -1751,7 +1751,7 @@
 "label": "",
 "class": "Process",
 "box": [
-1821.0,
+1949.0,
 423.0,
 24.0,
 24.0
@@ -1803,7 +1803,7 @@
 "label": "",
 "class": "Process",
 "box": [
-2033.0,
+2161.0,
 423.0,
 24.0,
 24.0
@@ -1836,7 +1836,7 @@
 "label": "",
 "class": "Process",
 "box": [
-1927.0,
+2055.0,
 73.0,
 24.0,
 24.0
@@ -1867,7 +1867,7 @@
 "label": "",
 "class": "Process",
 "box": [
-1927.0,
+2055.0,
 173.0,
 24.0,
 24.0
@@ -1897,7 +1897,7 @@
 "label": "IRF7",
 "class": "Macromolecule",
 "box": [
-2165.0,
+2293.0,
 415.0,
 80.0,
 40.0
@@ -1949,7 +1949,7 @@
 "label": "IFNA1",
 "class": "NucleicAcidFeature",
 "box": [
-2465.0,
+2593.0,
 65.0,
 80.0,
 40.0
@@ -2005,7 +2005,7 @@
 "label": "IFNB1",
 "class": "NucleicAcidFeature",
 "box": [
-2261.0,
+2389.0,
 165.0,
 80.0,
 40.0
@@ -2066,7 +2066,7 @@
 "label": "",
 "class": "Process",
 "box": [
-2397.0,
+2525.0,
 73.0,
 24.0,
 24.0
@@ -2099,7 +2099,7 @@
 "label": "",
 "class": "Process",
 "box": [
-2193.0,
+2321.0,
 173.0,
 24.0,
 24.0
