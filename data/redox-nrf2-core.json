@@ -4,1404 +4,7 @@
 "label": "NFE2L2",
 "class": "NucleicAcidFeature",
 "box": [
-821.0,
-243.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Nuclear factor erythroid 2-related factor 2"
-],
-[
-"Alternative names",
-"Nuclear factor, erythroid derived 2, like 2"
-],
-[
-"Function",
-"Transcription factor that plays a key role in the response to oxidative stress: binds to antioxidant response (ARE) elements present in the promoter region of many cytoprotective genes, such as phase 2 detoxifying enzymes, and promotes their expression, thereby neutralizing reactive electrophiles. In normal conditions, ubiquitinated and degraded in the cytoplasm by the BCR(KEAP1) complex."
-],
-[
-"Location",
-"Cytoplasm, cytosol, Nucleus"
-],
-[
-"HGNC",
-"HGNC:7782"
-],
-[
-"HGNC symbol",
-"NFE2L2"
-],
-[
-"Alias symbols",
-"NRF2, NRF-2"
-],
-[
-"Entrez",
-"4780"
-],
-[
-"Ensembl",
-"ENSG00000116044"
-],
-[
-"RefSeq",
-"NM_006164"
-],
-[
-"UniProt",
-"Q16236"
-]
-]
-},
-{
-"label": "KEAP1",
-"class": "NucleicAcidFeature",
-"box": [
-1041.0,
-63.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Kelch-like ECH-associated protein 1"
-],
-[
-"Alternative names",
-"Cytosolic inhibitor of Nrf2; Kelch-like protein 19"
-],
-[
-"Function",
-"Substrate-specific adapter of a BCR (BTB-CUL3-RBX1) E3 ubiquitin ligase complex that regulates the response to oxidative stress by targeting NFE2L2/NRF2 for ubiquitination. KEAP1 acts as a key sensor of oxidative and electrophilic stress: in normal conditions, the BCR(KEAP1) complex mediates ubiquitination and degradation of NFE2L2/NRF2, a transcription factor regulating expression of many cytoprotective genes."
-],
-[
-"Location",
-"Cytoplasm, Nucleus"
-],
-[
-"HGNC",
-"HGNC:23177"
-],
-[
-"HGNC symbol",
-"KEAP1"
-],
-[
-"Alias symbols",
-"KIAA0132, MGC10630, MGC1114, MGC20887, MGC4407, MGC9454, INrf2, KLHL19"
-],
-[
-"Entrez",
-"9817"
-],
-[
-"Ensembl",
-"ENSG00000079999"
-],
-[
-"RefSeq",
-"NM_012289"
-],
-[
-"UniProt",
-"Q14145"
-]
-]
-},
-{
-"label": "NRF2",
-"class": "Macromolecule",
-"box": [
-821.0,
-403.0,
-80.0,
-40.0
-],
-"props": [
-[
-"PTM",
-" at Lys"
-],
-[
-"Full name",
-"Nuclear factor erythroid 2-related factor 2"
-],
-[
-"Alternative names",
-"Nuclear factor, erythroid derived 2, like 2"
-],
-[
-"Function",
-"Transcription factor that plays a key role in the response to oxidative stress: binds to antioxidant response (ARE) elements present in the promoter region of many cytoprotective genes, such as phase 2 detoxifying enzymes, and promotes their expression, thereby neutralizing reactive electrophiles. In normal conditions, ubiquitinated and degraded in the cytoplasm by the BCR(KEAP1) complex."
-],
-[
-"Location",
-"Cytoplasm, cytosol, Nucleus"
-],
-[
-"HGNC",
-"HGNC:7782"
-],
-[
-"HGNC symbol",
-"NFE2L2"
-],
-[
-"Alias symbols",
-"NRF2, NRF-2"
-],
-[
-"Entrez",
-"4780"
-],
-[
-"Ensembl",
-"ENSG00000116044"
-],
-[
-"RefSeq",
-"NM_006164"
-],
-[
-"UniProt",
-"Q16236"
-]
-]
-},
-{
-"label": "KEAP1",
-"class": "Macromolecule",
-"box": [
-554.0,
-513.2,
-80.0,
-40.0
-],
-"props": [
-[
-"PTM",
-" at Cys226"
-],
-[
-"Full name",
-"Kelch-like ECH-associated protein 1"
-],
-[
-"Alternative names",
-"Cytosolic inhibitor of Nrf2; Kelch-like protein 19"
-],
-[
-"Function",
-"Substrate-specific adapter of a BCR (BTB-CUL3-RBX1) E3 ubiquitin ligase complex that regulates the response to oxidative stress by targeting NFE2L2/NRF2 for ubiquitination. KEAP1 acts as a key sensor of oxidative and electrophilic stress: in normal conditions, the BCR(KEAP1) complex mediates ubiquitination and degradation of NFE2L2/NRF2, a transcription factor regulating expression of many cytoprotective genes."
-],
-[
-"Location",
-"Cytoplasm, Nucleus"
-],
-[
-"HGNC",
-"HGNC:23177"
-],
-[
-"HGNC symbol",
-"KEAP1"
-],
-[
-"Alias symbols",
-"KIAA0132, MGC10630, MGC1114, MGC20887, MGC4407, MGC9454, INrf2, KLHL19"
-],
-[
-"Entrez",
-"9817"
-],
-[
-"Ensembl",
-"ENSG00000079999"
-],
-[
-"RefSeq",
-"NM_012289"
-],
-[
-"UniProt",
-"Q14145"
-]
-]
-},
-{
-"label": "CUL3",
-"class": "Macromolecule",
-"box": [
-648.0,
-513.2,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Cullin-3"
-],
-[
-"Function",
-"Core component of multiple cullin-RING-based BCR (BTB-CUL3-RBX1) E3 ubiquitin-protein ligase complexes which mediate the ubiquitination and subsequent proteasomal degradation of target proteins. BCR complexes and ARIH1 collaborate in tandem to mediate ubiquitination of target proteins."
-],
-[
-"Location",
-"Nucleus, Golgi apparatus, Cell projection, cilium, flagellum, Cytoplasm, cytoskeleton, spindle, Cytoplasm, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, cytoskeleton, spindle pole"
-],
-[
-"HGNC",
-"HGNC:2553"
-],
-[
-"HGNC symbol",
-"CUL3"
-],
-[
-"Entrez",
-"8452"
-],
-[
-"Ensembl",
-"ENSG00000036257"
-],
-[
-"RefSeq",
-"NM_001257197"
-],
-[
-"UniProt",
-"Q13618"
-]
-]
-},
-{
-"label": "RBX1",
-"class": "Macromolecule",
-"box": [
-648.0,
-561.2,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"E3 ubiquitin-protein ligase RBX1"
-],
-[
-"Alternative names",
-"E3 ubiquitin-protein transferase RBX1; Protein ZYP; RING finger protein 75; RING-box protein 1; Regulator of cullins 1"
-],
-[
-"Function",
-"E3 ubiquitin ligase component of multiple cullin-RING-based E3 ubiquitin-protein ligase (CRLs) complexes which mediate the ubiquitination and subsequent proteasomal degradation of target proteins, including proteins involved in cell cycle progression, signal transduction, transcription and transcription-coupled nucleotide excision repair. CRLs complexes and ARIH1 collaborate in tandem to mediate ubiquitination of target proteins, ARIH1 mediating addition of the first ubiquitin on CRLs targets."
-],
-[
-"Location",
-"Cytoplasm, Nucleus"
-],
-[
-"HGNC",
-"HGNC:9928"
-],
-[
-"HGNC symbol",
-"RBX1"
-],
-[
-"Alias symbols",
-"ROC1, RNF75, BA554C12.1"
-],
-[
-"Entrez",
-"9978"
-],
-[
-"Ensembl",
-"ENSG00000100387"
-],
-[
-"RefSeq",
-"NM_014248"
-],
-[
-"UniProt",
-"P62877"
-]
-]
-},
-{
-"label": "KEAP1",
-"class": "Macromolecule",
-"box": [
-774.0,
-745.8,
-80.0,
-40.0
-],
-"props": [
-[
-"PTM",
-" at Cys226"
-],
-[
-"Full name",
-"Kelch-like ECH-associated protein 1"
-],
-[
-"Alternative names",
-"Cytosolic inhibitor of Nrf2; Kelch-like protein 19"
-],
-[
-"Function",
-"Substrate-specific adapter of a BCR (BTB-CUL3-RBX1) E3 ubiquitin ligase complex that regulates the response to oxidative stress by targeting NFE2L2/NRF2 for ubiquitination. KEAP1 acts as a key sensor of oxidative and electrophilic stress: in normal conditions, the BCR(KEAP1) complex mediates ubiquitination and degradation of NFE2L2/NRF2, a transcription factor regulating expression of many cytoprotective genes."
-],
-[
-"Location",
-"Cytoplasm, Nucleus"
-],
-[
-"HGNC",
-"HGNC:23177"
-],
-[
-"HGNC symbol",
-"KEAP1"
-],
-[
-"Alias symbols",
-"KIAA0132, MGC10630, MGC1114, MGC20887, MGC4407, MGC9454, INrf2, KLHL19"
-],
-[
-"Entrez",
-"9817"
-],
-[
-"Ensembl",
-"ENSG00000079999"
-],
-[
-"RefSeq",
-"NM_012289"
-],
-[
-"UniProt",
-"Q14145"
-]
-]
-},
-{
-"label": "CUL3",
-"class": "Macromolecule",
-"box": [
-868.0,
-745.8,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Cullin-3"
-],
-[
-"Function",
-"Core component of multiple cullin-RING-based BCR (BTB-CUL3-RBX1) E3 ubiquitin-protein ligase complexes which mediate the ubiquitination and subsequent proteasomal degradation of target proteins. BCR complexes and ARIH1 collaborate in tandem to mediate ubiquitination of target proteins."
-],
-[
-"Location",
-"Nucleus, Golgi apparatus, Cell projection, cilium, flagellum, Cytoplasm, cytoskeleton, spindle, Cytoplasm, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, cytoskeleton, spindle pole"
-],
-[
-"HGNC",
-"HGNC:2553"
-],
-[
-"HGNC symbol",
-"CUL3"
-],
-[
-"Entrez",
-"8452"
-],
-[
-"Ensembl",
-"ENSG00000036257"
-],
-[
-"RefSeq",
-"NM_001257197"
-],
-[
-"UniProt",
-"Q13618"
-]
-]
-},
-{
-"label": "RBX1",
-"class": "Macromolecule",
-"box": [
-868.0,
-808.8,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"E3 ubiquitin-protein ligase RBX1"
-],
-[
-"Alternative names",
-"E3 ubiquitin-protein transferase RBX1; Protein ZYP; RING finger protein 75; RING-box protein 1; Regulator of cullins 1"
-],
-[
-"Function",
-"E3 ubiquitin ligase component of multiple cullin-RING-based E3 ubiquitin-protein ligase (CRLs) complexes which mediate the ubiquitination and subsequent proteasomal degradation of target proteins, including proteins involved in cell cycle progression, signal transduction, transcription and transcription-coupled nucleotide excision repair. CRLs complexes and ARIH1 collaborate in tandem to mediate ubiquitination of target proteins, ARIH1 mediating addition of the first ubiquitin on CRLs targets."
-],
-[
-"Location",
-"Cytoplasm, Nucleus"
-],
-[
-"HGNC",
-"HGNC:9928"
-],
-[
-"HGNC symbol",
-"RBX1"
-],
-[
-"Alias symbols",
-"ROC1, RNF75, BA554C12.1"
-],
-[
-"Entrez",
-"9978"
-],
-[
-"Ensembl",
-"ENSG00000100387"
-],
-[
-"RefSeq",
-"NM_014248"
-],
-[
-"UniProt",
-"P62877"
-]
-]
-},
-{
-"label": "NRF2",
-"class": "Macromolecule",
-"box": [
-774.0,
-808.8,
-80.0,
-40.0
-],
-"props": [
-[
-"PTM",
-" at Lys"
-],
-[
-"Full name",
-"Nuclear factor erythroid 2-related factor 2"
-],
-[
-"Alternative names",
-"Nuclear factor, erythroid derived 2, like 2"
-],
-[
-"Function",
-"Transcription factor that plays a key role in the response to oxidative stress: binds to antioxidant response (ARE) elements present in the promoter region of many cytoprotective genes, such as phase 2 detoxifying enzymes, and promotes their expression, thereby neutralizing reactive electrophiles. In normal conditions, ubiquitinated and degraded in the cytoplasm by the BCR(KEAP1) complex."
-],
-[
-"Location",
-"Cytoplasm, cytosol, Nucleus"
-],
-[
-"HGNC",
-"HGNC:7782"
-],
-[
-"HGNC symbol",
-"NFE2L2"
-],
-[
-"Alias symbols",
-"NRF2, NRF-2"
-],
-[
-"Entrez",
-"4780"
-],
-[
-"Ensembl",
-"ENSG00000116044"
-],
-[
-"RefSeq",
-"NM_006164"
-],
-[
-"UniProt",
-"Q16236"
-]
-]
-},
-{
-"label": "NRF2",
-"class": "Macromolecule",
-"box": [
-821.0,
-1063.0,
-80.0,
-40.0
-],
-"props": [
-[
-"PTM",
-"Ubiquitinated at Lys"
-],
-[
-"Full name",
-"Nuclear factor erythroid 2-related factor 2"
-],
-[
-"Alternative names",
-"Nuclear factor, erythroid derived 2, like 2"
-],
-[
-"Function",
-"Transcription factor that plays a key role in the response to oxidative stress: binds to antioxidant response (ARE) elements present in the promoter region of many cytoprotective genes, such as phase 2 detoxifying enzymes, and promotes their expression, thereby neutralizing reactive electrophiles. In normal conditions, ubiquitinated and degraded in the cytoplasm by the BCR(KEAP1) complex."
-],
-[
-"Location",
-"Cytoplasm, cytosol, Nucleus"
-],
-[
-"HGNC",
-"HGNC:7782"
-],
-[
-"HGNC symbol",
-"NFE2L2"
-],
-[
-"Alias symbols",
-"NRF2, NRF-2"
-],
-[
-"Entrez",
-"4780"
-],
-[
-"Ensembl",
-"ENSG00000116044"
-],
-[
-"RefSeq",
-"NM_006164"
-],
-[
-"UniProt",
-"Q16236"
-]
-]
-},
-{
-"label": "KEAP1",
-"class": "Macromolecule",
-"box": [
-214.0,
-793.2,
-80.0,
-40.0
-],
-"props": [
-[
-"PTM",
-" at Cys226"
-],
-[
-"Full name",
-"Kelch-like ECH-associated protein 1"
-],
-[
-"Alternative names",
-"Cytosolic inhibitor of Nrf2; Kelch-like protein 19"
-],
-[
-"Function",
-"Substrate-specific adapter of a BCR (BTB-CUL3-RBX1) E3 ubiquitin ligase complex that regulates the response to oxidative stress by targeting NFE2L2/NRF2 for ubiquitination. KEAP1 acts as a key sensor of oxidative and electrophilic stress: in normal conditions, the BCR(KEAP1) complex mediates ubiquitination and degradation of NFE2L2/NRF2, a transcription factor regulating expression of many cytoprotective genes."
-],
-[
-"Location",
-"Cytoplasm, Nucleus"
-],
-[
-"HGNC",
-"HGNC:23177"
-],
-[
-"HGNC symbol",
-"KEAP1"
-],
-[
-"Alias symbols",
-"KIAA0132, MGC10630, MGC1114, MGC20887, MGC4407, MGC9454, INrf2, KLHL19"
-],
-[
-"Entrez",
-"9817"
-],
-[
-"Ensembl",
-"ENSG00000079999"
-],
-[
-"RefSeq",
-"NM_012289"
-],
-[
-"UniProt",
-"Q14145"
-]
-]
-},
-{
-"label": "CUL3",
-"class": "Macromolecule",
-"box": [
-308.0,
-793.2,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Cullin-3"
-],
-[
-"Function",
-"Core component of multiple cullin-RING-based BCR (BTB-CUL3-RBX1) E3 ubiquitin-protein ligase complexes which mediate the ubiquitination and subsequent proteasomal degradation of target proteins. BCR complexes and ARIH1 collaborate in tandem to mediate ubiquitination of target proteins."
-],
-[
-"Location",
-"Nucleus, Golgi apparatus, Cell projection, cilium, flagellum, Cytoplasm, cytoskeleton, spindle, Cytoplasm, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, cytoskeleton, spindle pole"
-],
-[
-"HGNC",
-"HGNC:2553"
-],
-[
-"HGNC symbol",
-"CUL3"
-],
-[
-"Entrez",
-"8452"
-],
-[
-"Ensembl",
-"ENSG00000036257"
-],
-[
-"RefSeq",
-"NM_001257197"
-],
-[
-"UniProt",
-"Q13618"
-]
-]
-},
-{
-"label": "RBX1",
-"class": "Macromolecule",
-"box": [
-308.0,
-841.2,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"E3 ubiquitin-protein ligase RBX1"
-],
-[
-"Alternative names",
-"E3 ubiquitin-protein transferase RBX1; Protein ZYP; RING finger protein 75; RING-box protein 1; Regulator of cullins 1"
-],
-[
-"Function",
-"E3 ubiquitin ligase component of multiple cullin-RING-based E3 ubiquitin-protein ligase (CRLs) complexes which mediate the ubiquitination and subsequent proteasomal degradation of target proteins, including proteins involved in cell cycle progression, signal transduction, transcription and transcription-coupled nucleotide excision repair. CRLs complexes and ARIH1 collaborate in tandem to mediate ubiquitination of target proteins, ARIH1 mediating addition of the first ubiquitin on CRLs targets."
-],
-[
-"Location",
-"Cytoplasm, Nucleus"
-],
-[
-"HGNC",
-"HGNC:9928"
-],
-[
-"HGNC symbol",
-"RBX1"
-],
-[
-"Alias symbols",
-"ROC1, RNF75, BA554C12.1"
-],
-[
-"Entrez",
-"9978"
-],
-[
-"Ensembl",
-"ENSG00000100387"
-],
-[
-"RefSeq",
-"NM_014248"
-],
-[
-"UniProt",
-"P62877"
-]
-]
-},
-{
-"label": "KEAP1",
-"class": "Macromolecule",
-"box": [
-214.0,
-183.2,
-80.0,
-40.0
-],
-"props": [
-[
-"PTM",
-"ox at Cys226"
-],
-[
-"Full name",
-"Kelch-like ECH-associated protein 1"
-],
-[
-"Alternative names",
-"Cytosolic inhibitor of Nrf2; Kelch-like protein 19"
-],
-[
-"Function",
-"Substrate-specific adapter of a BCR (BTB-CUL3-RBX1) E3 ubiquitin ligase complex that regulates the response to oxidative stress by targeting NFE2L2/NRF2 for ubiquitination. KEAP1 acts as a key sensor of oxidative and electrophilic stress: in normal conditions, the BCR(KEAP1) complex mediates ubiquitination and degradation of NFE2L2/NRF2, a transcription factor regulating expression of many cytoprotective genes."
-],
-[
-"Location",
-"Cytoplasm, Nucleus"
-],
-[
-"HGNC",
-"HGNC:23177"
-],
-[
-"HGNC symbol",
-"KEAP1"
-],
-[
-"Alias symbols",
-"KIAA0132, MGC10630, MGC1114, MGC20887, MGC4407, MGC9454, INrf2, KLHL19"
-],
-[
-"Entrez",
-"9817"
-],
-[
-"Ensembl",
-"ENSG00000079999"
-],
-[
-"RefSeq",
-"NM_012289"
-],
-[
-"UniProt",
-"Q14145"
-]
-]
-},
-{
-"label": "CUL3",
-"class": "Macromolecule",
-"box": [
-308.0,
-183.2,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Cullin-3"
-],
-[
-"Function",
-"Core component of multiple cullin-RING-based BCR (BTB-CUL3-RBX1) E3 ubiquitin-protein ligase complexes which mediate the ubiquitination and subsequent proteasomal degradation of target proteins. BCR complexes and ARIH1 collaborate in tandem to mediate ubiquitination of target proteins."
-],
-[
-"Location",
-"Nucleus, Golgi apparatus, Cell projection, cilium, flagellum, Cytoplasm, cytoskeleton, spindle, Cytoplasm, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, cytoskeleton, spindle pole"
-],
-[
-"HGNC",
-"HGNC:2553"
-],
-[
-"HGNC symbol",
-"CUL3"
-],
-[
-"Entrez",
-"8452"
-],
-[
-"Ensembl",
-"ENSG00000036257"
-],
-[
-"RefSeq",
-"NM_001257197"
-],
-[
-"UniProt",
-"Q13618"
-]
-]
-},
-{
-"label": "RBX1",
-"class": "Macromolecule",
-"box": [
-308.0,
-231.2,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"E3 ubiquitin-protein ligase RBX1"
-],
-[
-"Alternative names",
-"E3 ubiquitin-protein transferase RBX1; Protein ZYP; RING finger protein 75; RING-box protein 1; Regulator of cullins 1"
-],
-[
-"Function",
-"E3 ubiquitin ligase component of multiple cullin-RING-based E3 ubiquitin-protein ligase (CRLs) complexes which mediate the ubiquitination and subsequent proteasomal degradation of target proteins, including proteins involved in cell cycle progression, signal transduction, transcription and transcription-coupled nucleotide excision repair. CRLs complexes and ARIH1 collaborate in tandem to mediate ubiquitination of target proteins, ARIH1 mediating addition of the first ubiquitin on CRLs targets."
-],
-[
-"Location",
-"Cytoplasm, Nucleus"
-],
-[
-"HGNC",
-"HGNC:9928"
-],
-[
-"HGNC symbol",
-"RBX1"
-],
-[
-"Alias symbols",
-"ROC1, RNF75, BA554C12.1"
-],
-[
-"Entrez",
-"9978"
-],
-[
-"Ensembl",
-"ENSG00000100387"
-],
-[
-"RefSeq",
-"NM_014248"
-],
-[
-"UniProt",
-"P62877"
-]
-]
-},
-{
-"label": "H2O2",
-"class": "SimpleChemical",
-"box": [
-81.0,
-373.0,
-40.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"hydrogen peroxide"
-],
-[
-"Synonyms",
-"H(2)O(2); H2O2; HOOH; Oxydol; [OH(OH)]; bis(hydridooxygen)(O--O); dihydrogen dioxide; dihydrogen peroxide; dihydrogen(peroxide); dioxidane; perhydrol"
-],
-[
-"Definition",
-"An inorganic peroxide consisting of two hydroxy groups joined by a covalent oxygen-oxygen single bond."
-],
-[
-"Formula",
-"H2O2"
-],
-[
-"ChEBI",
-"CHEBI:16240"
-],
-[
-"KEGG",
-"C00027"
-],
-[
-"HMDB",
-"HMDB0003125"
-],
-[
-"InChI",
-"InChI=1S/H2O2/c1-2/h1-2H"
-],
-[
-"InChIKey",
-"MHAJPDPJQMAIIY-UHFFFAOYSA-N"
-]
-]
-},
-{
-"label": "H2O",
-"class": "SimpleChemical",
-"box": [
-441.0,
-343.0,
-40.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"water"
-],
-[
-"Synonyms",
-"BOUND WATER; H(2)O; H2O; HOH; Wasser; [OH2]; acqua; agua; aqua; dihydridooxygen; dihydrogen oxide; eau; hydrogen hydroxide; oxidane"
-],
-[
-"Definition",
-"An oxygen hydride consisting of an oxygen atom that is covalently bonded to two hydrogen atoms"
-],
-[
-"Formula",
-"H2O"
-],
-[
-"ChEBI",
-"CHEBI:15377"
-],
-[
-"KEGG",
-"C00001"
-],
-[
-"HMDB",
-"HMDB0002111"
-],
-[
-"InChI",
-"InChI=1S/H2O/h1H2"
-],
-[
-"InChIKey",
-"XLYOFNOQVPJJNP-UHFFFAOYSA-N"
-]
-]
-},
-{
-"label": "4-hydroxynonenal",
-"class": "SimpleChemical",
-"box": [
-81.0,
-543.0,
-40.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"5-hydroxy-L-tryptophan zwitterion"
-],
-[
-"Synonyms",
-"(2S)-2-ammonio-3-(5-hydroxy-1H-indol-3-yl)propanoate; (2S)-2-azaniumyl-3-(5-hydroxy-1H-indol-3-yl)propanoate; 5-hydroxy-L-tryptophan"
-],
-[
-"Definition",
-"An amino acid zwitterion arising from transfer of a proton from the carboxy to the amino group of 5-hydroxy-L-tryptophan; major species at pH 7.3."
-],
-[
-"Formula",
-"C11H12N2O3"
-],
-[
-"ChEBI",
-"CHEBI:58266"
-],
-[
-"InChI",
-"InChI=1S/C11H12N2O3/c12-9(11(15)16)3-6-5-13-10-2-1-7(14)4-8(6)10/h1-2,4-5,9,13-14H,3,12H2,(H,15,16)/t9-/m0/s1"
-],
-[
-"InChIKey",
-"LDCYZAJDBXYCGN-VIFPVBQESA-N"
-]
-]
-},
-{
-"label": "1,2-naphthoquinone",
-"class": "SimpleChemical",
-"box": [
-81.0,
-1103.0,
-40.0,
-40.0
-],
-"props": [
-[
-"ChEBI",
-"CHEBI:27921"
-]
-]
-},
-{
-"id": "d5l24cl3",
-"label": "",
-"class": "Process",
-"box": [
-849.0,
-331.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"NFE2L2"
-],
-"out": [
-"NRF2"
-],
-"by": []
-},
-"references": [
-{
-"authors": "Kobayashi A et al.",
-"journal": "Mol Cell Biol",
-"title": "Oxidative and electrophilic stresses activate Nrf2 through inhibition of ubiquitination activity of Keap1.",
-"year": "2006",
-"db": "pubmed",
-"id": "16354693"
-},
-{
-"authors": "Nguyen T et al.",
-"journal": "J Biol Chem",
-"title": "Increased protein stability as a mechanism that enhances Nrf2-mediated transcriptional activation of the antioxidant response element. Degradation of Nrf2 by the 26 S proteasome.",
-"year": "2003",
-"db": "pubmed",
-"id": "12446695"
-}
-]
-},
-{
-"id": "rdobtsxv",
-"label": "",
-"class": "Process",
-"box": [
-849.0,
-631.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"NRF2",
-"KEAP1:CUL3:RBX1"
-],
-"out": [
-"KEAP1:CUL3:RBX1:NRF2"
-],
-"by": []
-},
-"references": [
-{
-"authors": "Tong KI et al.",
-"journal": "Mol Cell Biol",
-"title": "Keap1 recruits Neh2 through binding to ETGE and DLG motifs: characterization of the two-site molecular recognition model.",
-"year": "2006",
-"db": "pubmed",
-"id": "16581765"
-},
-{
-"authors": "Tong KI et al.",
-"journal": "Mol Cell Biol",
-"title": "Different electrostatic potentials define ETGE and DLG motifs as hinge and latch in oxidative stress response.",
-"year": "2007",
-"db": "pubmed",
-"id": "17785452"
-}
-]
-},
-{
-"id": "zbmvoj2o",
-"label": "",
-"class": "Process",
-"box": [
-849.0,
-951.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"KEAP1:CUL3:RBX1:NRF2",
-"ubiquitin"
-],
-"out": [
-"NRF2",
-"KEAP1:CUL3:RBX1"
-],
-"by": []
-},
-"references": [
-{
-"authors": "Kobayashi A et al.",
-"journal": "Mol Cell Biol",
-"title": "Oxidative stress sensor Keap1 functions as an adaptor for Cul3-based E3 ligase to regulate proteasomal degradation of Nrf2.",
-"year": "2004",
-"db": "pubmed",
-"id": "15282312"
-},
-{
-"authors": "Zhang DD et al.",
-"journal": "Mol Cell Biol",
-"title": "Keap1 is a redox-regulated substrate adaptor protein for a Cul3-dependent ubiquitin ligase complex.",
-"year": "2004",
-"db": "pubmed",
-"id": "15572695"
-}
-]
-},
-{
-"id": "dtw0rb4n",
-"label": "",
-"class": "Process",
-"box": [
-969.0,
-1071.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"NRF2"
-],
-"out": [
-""
-],
-"by": [
-"26S proteasome"
-]
-},
-"references": [
-{
-"authors": "Nguyen T et al.",
-"journal": "J Biol Chem",
-"title": "Increased protein stability as a mechanism that enhances Nrf2-mediated transcriptional activation of the antioxidant response element. Degradation of Nrf2 by the 26 S proteasome.",
-"year": "2003",
-"db": "pubmed",
-"id": "12446695"
-},
-{
-"authors": "Kobayashi A et al.",
-"journal": "Mol Cell Biol",
-"title": "Oxidative stress sensor Keap1 functions as an adaptor for Cul3-based E3 ligase to regulate proteasomal degradation of Nrf2.",
-"year": "2004",
-"db": "pubmed",
-"id": "15282312"
-}
-]
-},
-{
-"id": "aiyoa205",
-"label": "",
-"class": "Process",
-"box": [
-289.0,
-411.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"KEAP1:CUL3:RBX1",
-"H2O2"
-],
-"out": [
-"KEAP1:CUL3:RBX1",
-"H2O"
-],
-"by": []
-},
-"references": [
-{
-"authors": "Suzuki T et al.",
-"journal": "Cell Rep",
-"title": "Molecular Mechanism of Cellular Oxidative Stress Sensing by Keap1.",
-"year": "2019",
-"db": "pubmed",
-"id": "31315052"
-}
-]
-},
-{
-"id": "taw7y65n",
-"label": "",
-"class": "Process",
-"box": [
-289.0,
-651.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"KEAP1:CUL3:RBX1",
-"4-hydroxynonenal"
-],
-"out": [
-"KEAP1:CUL3:RBX1"
-],
-"by": []
-},
-"references": [
-{
-"authors": "Levonen AL et al.",
-"journal": "Biochem J",
-"title": "Cellular mechanisms of redox cell signalling: role of cysteine modification in controlling antioxidant defences in response to electrophilic lipid oxidation products.",
-"year": "2004",
-"db": "pubmed",
-"id": "14616092"
-}
-]
-},
-{
-"id": "n3feg2u1",
-"label": "",
-"class": "Process",
-"box": [
-289.0,
-1011.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"KEAP1:CUL3:RBX1",
-"1,2-naphthoquinone"
-],
-"out": [
-"KEAP1:CUL3:RBX1"
-],
-"by": []
-},
-"references": [
-{
-"authors": "Miura T et al.",
-"journal": "Chem Res Toxicol",
-"title": "Initial response and cellular protection through the Keap1/Nrf2 system during the exposure of primary mouse hepatocytes to 1,2-naphthoquinone.",
-"year": "2011",
-"db": "pubmed",
-"id": "21384861"
-},
-{
-"authors": "Shinkai Y et al.",
-"journal": "Chem Res Toxicol",
-"title": "Reactive Sulfur Species-Mediated Activation of the Keap1-Nrf2 Pathway by 1,2-Naphthoquinone through Sulfenic Acids Formation under Oxidative Stress.",
-"year": "2015",
-"db": "pubmed",
-"id": "25807370"
-}
-]
-},
-{
-"id": "n5a89f22",
-"label": "",
-"class": "Process",
-"box": [
-949.0,
-71.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"KEAP1"
-],
-"out": [
-"KEAP1:CUL3:RBX1"
-],
-"by": []
-},
-"references": [
-{
-"authors": "Kobayashi A et al.",
-"journal": "Mol Cell Biol",
-"title": "Oxidative stress sensor Keap1 functions as an adaptor for Cul3-based E3 ligase to regulate proteasomal degradation of Nrf2.",
-"year": "2004",
-"db": "pubmed",
-"id": "15282312"
-}
-]
-},
-{
-"label": "NFE2L2",
-"class": "NucleicAcidFeature",
-"box": [
-1341.0,
+1375.0,
 183.0,
 80.0,
 40.0
@@ -1457,7 +60,7 @@
 "label": "KEAP1",
 "class": "NucleicAcidFeature",
 "box": [
-1341.0,
+1375.0,
 63.0,
 80.0,
 40.0
@@ -1513,7 +116,7 @@
 "label": "NRF2",
 "class": "Macromolecule",
 "box": [
-1341.0,
+1375.0,
 403.0,
 80.0,
 40.0
@@ -1573,7 +176,7 @@
 "label": "NRF2",
 "class": "Macromolecule",
 "box": [
-1621.0,
+1655.0,
 373.2,
 80.0,
 40.0
@@ -1633,7 +236,7 @@
 "label": "MAFG",
 "class": "Macromolecule",
 "box": [
-1621.0,
+1655.0,
 421.2,
 80.0,
 40.0
@@ -1689,7 +292,7 @@
 "label": "MAFG",
 "class": "Macromolecule",
 "box": [
-1411.0,
+1445.0,
 313.0,
 80.0,
 40.0
@@ -1746,7 +349,7 @@
 "label": "",
 "class": "Process",
 "box": [
-1249.0,
+1283.0,
 191.0,
 24.0,
 24.0
@@ -1777,7 +380,7 @@
 "label": "",
 "class": "Process",
 "box": [
-1249.0,
+1283.0,
 411.0,
 24.0,
 24.0
@@ -1808,7 +411,7 @@
 "label": "",
 "class": "Process",
 "box": [
-1489.0,
+1523.0,
 411.0,
 24.0,
 24.0
@@ -1848,7 +451,7 @@
 "label": "",
 "class": "Process",
 "box": [
-1249.0,
+1283.0,
 71.0,
 24.0,
 24.0
@@ -1873,6 +476,1403 @@
 "year": "2007",
 "db": "pubmed",
 "id": "17925401"
+}
+]
+},
+{
+"label": "NFE2L2",
+"class": "NucleicAcidFeature",
+"box": [
+855.0,
+243.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Nuclear factor erythroid 2-related factor 2"
+],
+[
+"Alternative names",
+"Nuclear factor, erythroid derived 2, like 2"
+],
+[
+"Function",
+"Transcription factor that plays a key role in the response to oxidative stress: binds to antioxidant response (ARE) elements present in the promoter region of many cytoprotective genes, such as phase 2 detoxifying enzymes, and promotes their expression, thereby neutralizing reactive electrophiles. In normal conditions, ubiquitinated and degraded in the cytoplasm by the BCR(KEAP1) complex."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Nucleus"
+],
+[
+"HGNC",
+"HGNC:7782"
+],
+[
+"HGNC symbol",
+"NFE2L2"
+],
+[
+"Alias symbols",
+"NRF2, NRF-2"
+],
+[
+"Entrez",
+"4780"
+],
+[
+"Ensembl",
+"ENSG00000116044"
+],
+[
+"RefSeq",
+"NM_006164"
+],
+[
+"UniProt",
+"Q16236"
+]
+]
+},
+{
+"label": "KEAP1",
+"class": "NucleicAcidFeature",
+"box": [
+1075.0,
+63.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Kelch-like ECH-associated protein 1"
+],
+[
+"Alternative names",
+"Cytosolic inhibitor of Nrf2; Kelch-like protein 19"
+],
+[
+"Function",
+"Substrate-specific adapter of a BCR (BTB-CUL3-RBX1) E3 ubiquitin ligase complex that regulates the response to oxidative stress by targeting NFE2L2/NRF2 for ubiquitination. KEAP1 acts as a key sensor of oxidative and electrophilic stress: in normal conditions, the BCR(KEAP1) complex mediates ubiquitination and degradation of NFE2L2/NRF2, a transcription factor regulating expression of many cytoprotective genes."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:23177"
+],
+[
+"HGNC symbol",
+"KEAP1"
+],
+[
+"Alias symbols",
+"KIAA0132, MGC10630, MGC1114, MGC20887, MGC4407, MGC9454, INrf2, KLHL19"
+],
+[
+"Entrez",
+"9817"
+],
+[
+"Ensembl",
+"ENSG00000079999"
+],
+[
+"RefSeq",
+"NM_012289"
+],
+[
+"UniProt",
+"Q14145"
+]
+]
+},
+{
+"label": "NRF2",
+"class": "Macromolecule",
+"box": [
+855.0,
+403.0,
+80.0,
+40.0
+],
+"props": [
+[
+"PTM",
+" at Lys"
+],
+[
+"Full name",
+"Nuclear factor erythroid 2-related factor 2"
+],
+[
+"Alternative names",
+"Nuclear factor, erythroid derived 2, like 2"
+],
+[
+"Function",
+"Transcription factor that plays a key role in the response to oxidative stress: binds to antioxidant response (ARE) elements present in the promoter region of many cytoprotective genes, such as phase 2 detoxifying enzymes, and promotes their expression, thereby neutralizing reactive electrophiles. In normal conditions, ubiquitinated and degraded in the cytoplasm by the BCR(KEAP1) complex."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Nucleus"
+],
+[
+"HGNC",
+"HGNC:7782"
+],
+[
+"HGNC symbol",
+"NFE2L2"
+],
+[
+"Alias symbols",
+"NRF2, NRF-2"
+],
+[
+"Entrez",
+"4780"
+],
+[
+"Ensembl",
+"ENSG00000116044"
+],
+[
+"RefSeq",
+"NM_006164"
+],
+[
+"UniProt",
+"Q16236"
+]
+]
+},
+{
+"label": "KEAP1",
+"class": "Macromolecule",
+"box": [
+588.0,
+513.2,
+80.0,
+40.0
+],
+"props": [
+[
+"PTM",
+" at Cys226"
+],
+[
+"Full name",
+"Kelch-like ECH-associated protein 1"
+],
+[
+"Alternative names",
+"Cytosolic inhibitor of Nrf2; Kelch-like protein 19"
+],
+[
+"Function",
+"Substrate-specific adapter of a BCR (BTB-CUL3-RBX1) E3 ubiquitin ligase complex that regulates the response to oxidative stress by targeting NFE2L2/NRF2 for ubiquitination. KEAP1 acts as a key sensor of oxidative and electrophilic stress: in normal conditions, the BCR(KEAP1) complex mediates ubiquitination and degradation of NFE2L2/NRF2, a transcription factor regulating expression of many cytoprotective genes."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:23177"
+],
+[
+"HGNC symbol",
+"KEAP1"
+],
+[
+"Alias symbols",
+"KIAA0132, MGC10630, MGC1114, MGC20887, MGC4407, MGC9454, INrf2, KLHL19"
+],
+[
+"Entrez",
+"9817"
+],
+[
+"Ensembl",
+"ENSG00000079999"
+],
+[
+"RefSeq",
+"NM_012289"
+],
+[
+"UniProt",
+"Q14145"
+]
+]
+},
+{
+"label": "CUL3",
+"class": "Macromolecule",
+"box": [
+682.0,
+513.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cullin-3"
+],
+[
+"Function",
+"Core component of multiple cullin-RING-based BCR (BTB-CUL3-RBX1) E3 ubiquitin-protein ligase complexes which mediate the ubiquitination and subsequent proteasomal degradation of target proteins. BCR complexes and ARIH1 collaborate in tandem to mediate ubiquitination of target proteins."
+],
+[
+"Location",
+"Nucleus, Golgi apparatus, Cell projection, cilium, flagellum, Cytoplasm, cytoskeleton, spindle, Cytoplasm, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, cytoskeleton, spindle pole"
+],
+[
+"HGNC",
+"HGNC:2553"
+],
+[
+"HGNC symbol",
+"CUL3"
+],
+[
+"Entrez",
+"8452"
+],
+[
+"Ensembl",
+"ENSG00000036257"
+],
+[
+"RefSeq",
+"NM_001257197"
+],
+[
+"UniProt",
+"Q13618"
+]
+]
+},
+{
+"label": "RBX1",
+"class": "Macromolecule",
+"box": [
+682.0,
+561.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"E3 ubiquitin-protein ligase RBX1"
+],
+[
+"Alternative names",
+"E3 ubiquitin-protein transferase RBX1; Protein ZYP; RING finger protein 75; RING-box protein 1; Regulator of cullins 1"
+],
+[
+"Function",
+"E3 ubiquitin ligase component of multiple cullin-RING-based E3 ubiquitin-protein ligase (CRLs) complexes which mediate the ubiquitination and subsequent proteasomal degradation of target proteins, including proteins involved in cell cycle progression, signal transduction, transcription and transcription-coupled nucleotide excision repair. CRLs complexes and ARIH1 collaborate in tandem to mediate ubiquitination of target proteins, ARIH1 mediating addition of the first ubiquitin on CRLs targets."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:9928"
+],
+[
+"HGNC symbol",
+"RBX1"
+],
+[
+"Alias symbols",
+"ROC1, RNF75, BA554C12.1"
+],
+[
+"Entrez",
+"9978"
+],
+[
+"Ensembl",
+"ENSG00000100387"
+],
+[
+"RefSeq",
+"NM_014248"
+],
+[
+"UniProt",
+"P62877"
+]
+]
+},
+{
+"label": "KEAP1",
+"class": "Macromolecule",
+"box": [
+808.0,
+745.8,
+80.0,
+40.0
+],
+"props": [
+[
+"PTM",
+" at Cys226"
+],
+[
+"Full name",
+"Kelch-like ECH-associated protein 1"
+],
+[
+"Alternative names",
+"Cytosolic inhibitor of Nrf2; Kelch-like protein 19"
+],
+[
+"Function",
+"Substrate-specific adapter of a BCR (BTB-CUL3-RBX1) E3 ubiquitin ligase complex that regulates the response to oxidative stress by targeting NFE2L2/NRF2 for ubiquitination. KEAP1 acts as a key sensor of oxidative and electrophilic stress: in normal conditions, the BCR(KEAP1) complex mediates ubiquitination and degradation of NFE2L2/NRF2, a transcription factor regulating expression of many cytoprotective genes."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:23177"
+],
+[
+"HGNC symbol",
+"KEAP1"
+],
+[
+"Alias symbols",
+"KIAA0132, MGC10630, MGC1114, MGC20887, MGC4407, MGC9454, INrf2, KLHL19"
+],
+[
+"Entrez",
+"9817"
+],
+[
+"Ensembl",
+"ENSG00000079999"
+],
+[
+"RefSeq",
+"NM_012289"
+],
+[
+"UniProt",
+"Q14145"
+]
+]
+},
+{
+"label": "CUL3",
+"class": "Macromolecule",
+"box": [
+902.0,
+745.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cullin-3"
+],
+[
+"Function",
+"Core component of multiple cullin-RING-based BCR (BTB-CUL3-RBX1) E3 ubiquitin-protein ligase complexes which mediate the ubiquitination and subsequent proteasomal degradation of target proteins. BCR complexes and ARIH1 collaborate in tandem to mediate ubiquitination of target proteins."
+],
+[
+"Location",
+"Nucleus, Golgi apparatus, Cell projection, cilium, flagellum, Cytoplasm, cytoskeleton, spindle, Cytoplasm, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, cytoskeleton, spindle pole"
+],
+[
+"HGNC",
+"HGNC:2553"
+],
+[
+"HGNC symbol",
+"CUL3"
+],
+[
+"Entrez",
+"8452"
+],
+[
+"Ensembl",
+"ENSG00000036257"
+],
+[
+"RefSeq",
+"NM_001257197"
+],
+[
+"UniProt",
+"Q13618"
+]
+]
+},
+{
+"label": "RBX1",
+"class": "Macromolecule",
+"box": [
+902.0,
+808.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"E3 ubiquitin-protein ligase RBX1"
+],
+[
+"Alternative names",
+"E3 ubiquitin-protein transferase RBX1; Protein ZYP; RING finger protein 75; RING-box protein 1; Regulator of cullins 1"
+],
+[
+"Function",
+"E3 ubiquitin ligase component of multiple cullin-RING-based E3 ubiquitin-protein ligase (CRLs) complexes which mediate the ubiquitination and subsequent proteasomal degradation of target proteins, including proteins involved in cell cycle progression, signal transduction, transcription and transcription-coupled nucleotide excision repair. CRLs complexes and ARIH1 collaborate in tandem to mediate ubiquitination of target proteins, ARIH1 mediating addition of the first ubiquitin on CRLs targets."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:9928"
+],
+[
+"HGNC symbol",
+"RBX1"
+],
+[
+"Alias symbols",
+"ROC1, RNF75, BA554C12.1"
+],
+[
+"Entrez",
+"9978"
+],
+[
+"Ensembl",
+"ENSG00000100387"
+],
+[
+"RefSeq",
+"NM_014248"
+],
+[
+"UniProt",
+"P62877"
+]
+]
+},
+{
+"label": "NRF2",
+"class": "Macromolecule",
+"box": [
+808.0,
+808.8,
+80.0,
+40.0
+],
+"props": [
+[
+"PTM",
+" at Lys"
+],
+[
+"Full name",
+"Nuclear factor erythroid 2-related factor 2"
+],
+[
+"Alternative names",
+"Nuclear factor, erythroid derived 2, like 2"
+],
+[
+"Function",
+"Transcription factor that plays a key role in the response to oxidative stress: binds to antioxidant response (ARE) elements present in the promoter region of many cytoprotective genes, such as phase 2 detoxifying enzymes, and promotes their expression, thereby neutralizing reactive electrophiles. In normal conditions, ubiquitinated and degraded in the cytoplasm by the BCR(KEAP1) complex."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Nucleus"
+],
+[
+"HGNC",
+"HGNC:7782"
+],
+[
+"HGNC symbol",
+"NFE2L2"
+],
+[
+"Alias symbols",
+"NRF2, NRF-2"
+],
+[
+"Entrez",
+"4780"
+],
+[
+"Ensembl",
+"ENSG00000116044"
+],
+[
+"RefSeq",
+"NM_006164"
+],
+[
+"UniProt",
+"Q16236"
+]
+]
+},
+{
+"label": "NRF2",
+"class": "Macromolecule",
+"box": [
+855.0,
+1063.0,
+80.0,
+40.0
+],
+"props": [
+[
+"PTM",
+"Ubiquitinated at Lys"
+],
+[
+"Full name",
+"Nuclear factor erythroid 2-related factor 2"
+],
+[
+"Alternative names",
+"Nuclear factor, erythroid derived 2, like 2"
+],
+[
+"Function",
+"Transcription factor that plays a key role in the response to oxidative stress: binds to antioxidant response (ARE) elements present in the promoter region of many cytoprotective genes, such as phase 2 detoxifying enzymes, and promotes their expression, thereby neutralizing reactive electrophiles. In normal conditions, ubiquitinated and degraded in the cytoplasm by the BCR(KEAP1) complex."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Nucleus"
+],
+[
+"HGNC",
+"HGNC:7782"
+],
+[
+"HGNC symbol",
+"NFE2L2"
+],
+[
+"Alias symbols",
+"NRF2, NRF-2"
+],
+[
+"Entrez",
+"4780"
+],
+[
+"Ensembl",
+"ENSG00000116044"
+],
+[
+"RefSeq",
+"NM_006164"
+],
+[
+"UniProt",
+"Q16236"
+]
+]
+},
+{
+"label": "KEAP1",
+"class": "Macromolecule",
+"box": [
+248.0,
+793.2,
+80.0,
+40.0
+],
+"props": [
+[
+"PTM",
+" at Cys226"
+],
+[
+"Full name",
+"Kelch-like ECH-associated protein 1"
+],
+[
+"Alternative names",
+"Cytosolic inhibitor of Nrf2; Kelch-like protein 19"
+],
+[
+"Function",
+"Substrate-specific adapter of a BCR (BTB-CUL3-RBX1) E3 ubiquitin ligase complex that regulates the response to oxidative stress by targeting NFE2L2/NRF2 for ubiquitination. KEAP1 acts as a key sensor of oxidative and electrophilic stress: in normal conditions, the BCR(KEAP1) complex mediates ubiquitination and degradation of NFE2L2/NRF2, a transcription factor regulating expression of many cytoprotective genes."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:23177"
+],
+[
+"HGNC symbol",
+"KEAP1"
+],
+[
+"Alias symbols",
+"KIAA0132, MGC10630, MGC1114, MGC20887, MGC4407, MGC9454, INrf2, KLHL19"
+],
+[
+"Entrez",
+"9817"
+],
+[
+"Ensembl",
+"ENSG00000079999"
+],
+[
+"RefSeq",
+"NM_012289"
+],
+[
+"UniProt",
+"Q14145"
+]
+]
+},
+{
+"label": "CUL3",
+"class": "Macromolecule",
+"box": [
+342.0,
+793.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cullin-3"
+],
+[
+"Function",
+"Core component of multiple cullin-RING-based BCR (BTB-CUL3-RBX1) E3 ubiquitin-protein ligase complexes which mediate the ubiquitination and subsequent proteasomal degradation of target proteins. BCR complexes and ARIH1 collaborate in tandem to mediate ubiquitination of target proteins."
+],
+[
+"Location",
+"Nucleus, Golgi apparatus, Cell projection, cilium, flagellum, Cytoplasm, cytoskeleton, spindle, Cytoplasm, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, cytoskeleton, spindle pole"
+],
+[
+"HGNC",
+"HGNC:2553"
+],
+[
+"HGNC symbol",
+"CUL3"
+],
+[
+"Entrez",
+"8452"
+],
+[
+"Ensembl",
+"ENSG00000036257"
+],
+[
+"RefSeq",
+"NM_001257197"
+],
+[
+"UniProt",
+"Q13618"
+]
+]
+},
+{
+"label": "RBX1",
+"class": "Macromolecule",
+"box": [
+342.0,
+841.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"E3 ubiquitin-protein ligase RBX1"
+],
+[
+"Alternative names",
+"E3 ubiquitin-protein transferase RBX1; Protein ZYP; RING finger protein 75; RING-box protein 1; Regulator of cullins 1"
+],
+[
+"Function",
+"E3 ubiquitin ligase component of multiple cullin-RING-based E3 ubiquitin-protein ligase (CRLs) complexes which mediate the ubiquitination and subsequent proteasomal degradation of target proteins, including proteins involved in cell cycle progression, signal transduction, transcription and transcription-coupled nucleotide excision repair. CRLs complexes and ARIH1 collaborate in tandem to mediate ubiquitination of target proteins, ARIH1 mediating addition of the first ubiquitin on CRLs targets."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:9928"
+],
+[
+"HGNC symbol",
+"RBX1"
+],
+[
+"Alias symbols",
+"ROC1, RNF75, BA554C12.1"
+],
+[
+"Entrez",
+"9978"
+],
+[
+"Ensembl",
+"ENSG00000100387"
+],
+[
+"RefSeq",
+"NM_014248"
+],
+[
+"UniProt",
+"P62877"
+]
+]
+},
+{
+"label": "KEAP1",
+"class": "Macromolecule",
+"box": [
+248.0,
+183.2,
+80.0,
+40.0
+],
+"props": [
+[
+"PTM",
+"ox at Cys226"
+],
+[
+"Full name",
+"Kelch-like ECH-associated protein 1"
+],
+[
+"Alternative names",
+"Cytosolic inhibitor of Nrf2; Kelch-like protein 19"
+],
+[
+"Function",
+"Substrate-specific adapter of a BCR (BTB-CUL3-RBX1) E3 ubiquitin ligase complex that regulates the response to oxidative stress by targeting NFE2L2/NRF2 for ubiquitination. KEAP1 acts as a key sensor of oxidative and electrophilic stress: in normal conditions, the BCR(KEAP1) complex mediates ubiquitination and degradation of NFE2L2/NRF2, a transcription factor regulating expression of many cytoprotective genes."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:23177"
+],
+[
+"HGNC symbol",
+"KEAP1"
+],
+[
+"Alias symbols",
+"KIAA0132, MGC10630, MGC1114, MGC20887, MGC4407, MGC9454, INrf2, KLHL19"
+],
+[
+"Entrez",
+"9817"
+],
+[
+"Ensembl",
+"ENSG00000079999"
+],
+[
+"RefSeq",
+"NM_012289"
+],
+[
+"UniProt",
+"Q14145"
+]
+]
+},
+{
+"label": "CUL3",
+"class": "Macromolecule",
+"box": [
+342.0,
+183.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cullin-3"
+],
+[
+"Function",
+"Core component of multiple cullin-RING-based BCR (BTB-CUL3-RBX1) E3 ubiquitin-protein ligase complexes which mediate the ubiquitination and subsequent proteasomal degradation of target proteins. BCR complexes and ARIH1 collaborate in tandem to mediate ubiquitination of target proteins."
+],
+[
+"Location",
+"Nucleus, Golgi apparatus, Cell projection, cilium, flagellum, Cytoplasm, cytoskeleton, spindle, Cytoplasm, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, cytoskeleton, spindle pole"
+],
+[
+"HGNC",
+"HGNC:2553"
+],
+[
+"HGNC symbol",
+"CUL3"
+],
+[
+"Entrez",
+"8452"
+],
+[
+"Ensembl",
+"ENSG00000036257"
+],
+[
+"RefSeq",
+"NM_001257197"
+],
+[
+"UniProt",
+"Q13618"
+]
+]
+},
+{
+"label": "RBX1",
+"class": "Macromolecule",
+"box": [
+342.0,
+231.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"E3 ubiquitin-protein ligase RBX1"
+],
+[
+"Alternative names",
+"E3 ubiquitin-protein transferase RBX1; Protein ZYP; RING finger protein 75; RING-box protein 1; Regulator of cullins 1"
+],
+[
+"Function",
+"E3 ubiquitin ligase component of multiple cullin-RING-based E3 ubiquitin-protein ligase (CRLs) complexes which mediate the ubiquitination and subsequent proteasomal degradation of target proteins, including proteins involved in cell cycle progression, signal transduction, transcription and transcription-coupled nucleotide excision repair. CRLs complexes and ARIH1 collaborate in tandem to mediate ubiquitination of target proteins, ARIH1 mediating addition of the first ubiquitin on CRLs targets."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:9928"
+],
+[
+"HGNC symbol",
+"RBX1"
+],
+[
+"Alias symbols",
+"ROC1, RNF75, BA554C12.1"
+],
+[
+"Entrez",
+"9978"
+],
+[
+"Ensembl",
+"ENSG00000100387"
+],
+[
+"RefSeq",
+"NM_014248"
+],
+[
+"UniProt",
+"P62877"
+]
+]
+},
+{
+"label": "H2O2",
+"class": "SimpleChemical",
+"box": [
+115.0,
+373.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"hydrogen peroxide"
+],
+[
+"Synonyms",
+"H(2)O(2); H2O2; HOOH; Oxydol; [OH(OH)]; bis(hydridooxygen)(O--O); dihydrogen dioxide; dihydrogen peroxide; dihydrogen(peroxide); dioxidane; perhydrol"
+],
+[
+"Definition",
+"An inorganic peroxide consisting of two hydroxy groups joined by a covalent oxygen-oxygen single bond."
+],
+[
+"Formula",
+"H2O2"
+],
+[
+"ChEBI",
+"CHEBI:16240"
+],
+[
+"KEGG",
+"C00027"
+],
+[
+"HMDB",
+"HMDB0003125"
+],
+[
+"InChI",
+"InChI=1S/H2O2/c1-2/h1-2H"
+],
+[
+"InChIKey",
+"MHAJPDPJQMAIIY-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "H2O",
+"class": "SimpleChemical",
+"box": [
+475.0,
+343.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"water"
+],
+[
+"Synonyms",
+"BOUND WATER; H(2)O; H2O; HOH; Wasser; [OH2]; acqua; agua; aqua; dihydridooxygen; dihydrogen oxide; eau; hydrogen hydroxide; oxidane"
+],
+[
+"Definition",
+"An oxygen hydride consisting of an oxygen atom that is covalently bonded to two hydrogen atoms"
+],
+[
+"Formula",
+"H2O"
+],
+[
+"ChEBI",
+"CHEBI:15377"
+],
+[
+"KEGG",
+"C00001"
+],
+[
+"HMDB",
+"HMDB0002111"
+],
+[
+"InChI",
+"InChI=1S/H2O/h1H2"
+],
+[
+"InChIKey",
+"XLYOFNOQVPJJNP-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "4-hydroxynonenal",
+"class": "SimpleChemical",
+"box": [
+115.0,
+543.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"5-hydroxy-L-tryptophan zwitterion"
+],
+[
+"Synonyms",
+"(2S)-2-ammonio-3-(5-hydroxy-1H-indol-3-yl)propanoate; (2S)-2-azaniumyl-3-(5-hydroxy-1H-indol-3-yl)propanoate; 5-hydroxy-L-tryptophan"
+],
+[
+"Definition",
+"An amino acid zwitterion arising from transfer of a proton from the carboxy to the amino group of 5-hydroxy-L-tryptophan; major species at pH 7.3."
+],
+[
+"Formula",
+"C11H12N2O3"
+],
+[
+"ChEBI",
+"CHEBI:58266"
+],
+[
+"InChI",
+"InChI=1S/C11H12N2O3/c12-9(11(15)16)3-6-5-13-10-2-1-7(14)4-8(6)10/h1-2,4-5,9,13-14H,3,12H2,(H,15,16)/t9-/m0/s1"
+],
+[
+"InChIKey",
+"LDCYZAJDBXYCGN-VIFPVBQESA-N"
+]
+]
+},
+{
+"label": "1,2-naphthoquinone",
+"class": "SimpleChemical",
+"box": [
+115.0,
+1103.0,
+40.0,
+40.0
+],
+"props": [
+[
+"ChEBI",
+"CHEBI:27921"
+]
+]
+},
+{
+"id": "d5l24cl3",
+"label": "",
+"class": "Process",
+"box": [
+883.0,
+331.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"NFE2L2"
+],
+"out": [
+"NRF2"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Kobayashi A et al.",
+"journal": "Mol Cell Biol",
+"title": "Oxidative and electrophilic stresses activate Nrf2 through inhibition of ubiquitination activity of Keap1.",
+"year": "2006",
+"db": "pubmed",
+"id": "16354693"
+},
+{
+"authors": "Nguyen T et al.",
+"journal": "J Biol Chem",
+"title": "Increased protein stability as a mechanism that enhances Nrf2-mediated transcriptional activation of the antioxidant response element. Degradation of Nrf2 by the 26 S proteasome.",
+"year": "2003",
+"db": "pubmed",
+"id": "12446695"
+}
+]
+},
+{
+"id": "rdobtsxv",
+"label": "",
+"class": "Process",
+"box": [
+883.0,
+631.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"NRF2",
+"KEAP1:CUL3:RBX1"
+],
+"out": [
+"KEAP1:CUL3:RBX1:NRF2"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Tong KI et al.",
+"journal": "Mol Cell Biol",
+"title": "Keap1 recruits Neh2 through binding to ETGE and DLG motifs: characterization of the two-site molecular recognition model.",
+"year": "2006",
+"db": "pubmed",
+"id": "16581765"
+},
+{
+"authors": "Tong KI et al.",
+"journal": "Mol Cell Biol",
+"title": "Different electrostatic potentials define ETGE and DLG motifs as hinge and latch in oxidative stress response.",
+"year": "2007",
+"db": "pubmed",
+"id": "17785452"
+}
+]
+},
+{
+"id": "zbmvoj2o",
+"label": "",
+"class": "Process",
+"box": [
+883.0,
+951.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"KEAP1:CUL3:RBX1:NRF2",
+"ubiquitin"
+],
+"out": [
+"NRF2",
+"KEAP1:CUL3:RBX1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Kobayashi A et al.",
+"journal": "Mol Cell Biol",
+"title": "Oxidative stress sensor Keap1 functions as an adaptor for Cul3-based E3 ligase to regulate proteasomal degradation of Nrf2.",
+"year": "2004",
+"db": "pubmed",
+"id": "15282312"
+},
+{
+"authors": "Zhang DD et al.",
+"journal": "Mol Cell Biol",
+"title": "Keap1 is a redox-regulated substrate adaptor protein for a Cul3-dependent ubiquitin ligase complex.",
+"year": "2004",
+"db": "pubmed",
+"id": "15572695"
+}
+]
+},
+{
+"id": "dtw0rb4n",
+"label": "",
+"class": "Process",
+"box": [
+1003.0,
+1071.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"NRF2"
+],
+"out": [
+""
+],
+"by": [
+"26S proteasome"
+]
+},
+"references": [
+{
+"authors": "Nguyen T et al.",
+"journal": "J Biol Chem",
+"title": "Increased protein stability as a mechanism that enhances Nrf2-mediated transcriptional activation of the antioxidant response element. Degradation of Nrf2 by the 26 S proteasome.",
+"year": "2003",
+"db": "pubmed",
+"id": "12446695"
+},
+{
+"authors": "Kobayashi A et al.",
+"journal": "Mol Cell Biol",
+"title": "Oxidative stress sensor Keap1 functions as an adaptor for Cul3-based E3 ligase to regulate proteasomal degradation of Nrf2.",
+"year": "2004",
+"db": "pubmed",
+"id": "15282312"
+}
+]
+},
+{
+"id": "aiyoa205",
+"label": "",
+"class": "Process",
+"box": [
+323.0,
+411.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"KEAP1:CUL3:RBX1",
+"H2O2"
+],
+"out": [
+"KEAP1:CUL3:RBX1",
+"H2O"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Suzuki T et al.",
+"journal": "Cell Rep",
+"title": "Molecular Mechanism of Cellular Oxidative Stress Sensing by Keap1.",
+"year": "2019",
+"db": "pubmed",
+"id": "31315052"
+}
+]
+},
+{
+"id": "taw7y65n",
+"label": "",
+"class": "Process",
+"box": [
+323.0,
+651.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"KEAP1:CUL3:RBX1",
+"4-hydroxynonenal"
+],
+"out": [
+"KEAP1:CUL3:RBX1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Levonen AL et al.",
+"journal": "Biochem J",
+"title": "Cellular mechanisms of redox cell signalling: role of cysteine modification in controlling antioxidant defences in response to electrophilic lipid oxidation products.",
+"year": "2004",
+"db": "pubmed",
+"id": "14616092"
+}
+]
+},
+{
+"id": "n3feg2u1",
+"label": "",
+"class": "Process",
+"box": [
+323.0,
+1011.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"KEAP1:CUL3:RBX1",
+"1,2-naphthoquinone"
+],
+"out": [
+"KEAP1:CUL3:RBX1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Miura T et al.",
+"journal": "Chem Res Toxicol",
+"title": "Initial response and cellular protection through the Keap1/Nrf2 system during the exposure of primary mouse hepatocytes to 1,2-naphthoquinone.",
+"year": "2011",
+"db": "pubmed",
+"id": "21384861"
+},
+{
+"authors": "Shinkai Y et al.",
+"journal": "Chem Res Toxicol",
+"title": "Reactive Sulfur Species-Mediated Activation of the Keap1-Nrf2 Pathway by 1,2-Naphthoquinone through Sulfenic Acids Formation under Oxidative Stress.",
+"year": "2015",
+"db": "pubmed",
+"id": "25807370"
+}
+]
+},
+{
+"id": "n5a89f22",
+"label": "",
+"class": "Process",
+"box": [
+983.0,
+71.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"KEAP1"
+],
+"out": [
+"KEAP1:CUL3:RBX1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Kobayashi A et al.",
+"journal": "Mol Cell Biol",
+"title": "Oxidative stress sensor Keap1 functions as an adaptor for Cul3-based E3 ligase to regulate proteasomal degradation of Nrf2.",
+"year": "2004",
+"db": "pubmed",
+"id": "15282312"
 }
 ]
 }
