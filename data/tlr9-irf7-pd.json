@@ -24,17 +24,17 @@
 "references": [
 {
 "authors": "Kim YM et al.",
-"year": "2008",
-"title": "UNC93B1 delivers nucleotide-sensing toll-like receptors to endolysosomes.",
 "journal": "Nature",
+"title": "UNC93B1 delivers nucleotide-sensing toll-like receptors to endolysosomes.",
+"year": "2008",
 "db": "pubmed",
 "id": "18305481"
 },
 {
 "authors": "Lee BL et al.",
-"year": "2013",
-"title": "UNC93B1 mediates differential trafficking of endosomal TLRs.",
 "journal": "Elife",
+"title": "UNC93B1 mediates differential trafficking of endosomal TLRs.",
+"year": "2013",
 "db": "pubmed",
 "id": "23426999"
 }
@@ -64,9 +64,9 @@
 "references": [
 {
 "authors": "Miyake K et al.",
-"year": "2021",
-"title": "Dynamic control of nucleic-acid-sensing Toll-like receptors by the endosomal compartment.",
 "journal": "Int Immunol",
+"title": "Dynamic control of nucleic-acid-sensing Toll-like receptors by the endosomal compartment.",
+"year": "2021",
 "db": "pubmed",
 "id": "34223897"
 }
@@ -98,17 +98,17 @@
 "references": [
 {
 "authors": "Ewald SE et al.",
-"year": "2011",
-"title": "Nucleic acid recognition by Toll-like receptors is coupled to stepwise processing by cathepsins and asparagine endopeptidase.",
 "journal": "J Exp Med",
+"title": "Nucleic acid recognition by Toll-like receptors is coupled to stepwise processing by cathepsins and asparagine endopeptidase.",
+"year": "2011",
 "db": "pubmed",
 "id": "21402738"
 },
 {
 "authors": "Ewald SE et al.",
-"year": "2008",
-"title": "The ectodomain of Toll-like receptor 9 is cleaved to generate a functional receptor.",
 "journal": "Nature",
+"title": "The ectodomain of Toll-like receptor 9 is cleaved to generate a functional receptor.",
+"year": "2008",
 "db": "pubmed",
 "id": "18820679"
 }
@@ -139,9 +139,9 @@
 "references": [
 {
 "authors": "Ewald SE et al.",
-"year": "2011",
-"title": "Nucleic acid recognition by Toll-like receptors is coupled to stepwise processing by cathepsins and asparagine endopeptidase.",
 "journal": "J Exp Med",
+"title": "Nucleic acid recognition by Toll-like receptors is coupled to stepwise processing by cathepsins and asparagine endopeptidase.",
+"year": "2011",
 "db": "pubmed",
 "id": "21402738"
 }
@@ -173,25 +173,25 @@
 "references": [
 {
 "authors": "Ohto U et al.",
-"year": "2015",
-"title": "Structural basis of CpG and inhibitory DNA recognition by Toll-like receptor 9.",
 "journal": "Nature",
+"title": "Structural basis of CpG and inhibitory DNA recognition by Toll-like receptor 9.",
+"year": "2015",
 "db": "pubmed",
 "id": "25686612"
 },
 {
 "authors": "Hemmi H et al.",
-"year": "2000",
-"title": "A Toll-like receptor recognizes bacterial DNA.",
 "journal": "Nature",
+"title": "A Toll-like receptor recognizes bacterial DNA.",
+"year": "2000",
 "db": "pubmed",
 "id": "11130078"
 },
 {
 "authors": "Lee S et al.",
-"year": "2014",
-"title": "Negative self-regulation of TLR9 signaling by its N-terminal proteolytic cleavage product.",
 "journal": "J Immunol",
+"title": "Negative self-regulation of TLR9 signaling by its N-terminal proteolytic cleavage product.",
+"year": "2014",
 "db": "pubmed",
 "id": "25187653"
 }
@@ -221,9 +221,9 @@
 "references": [
 {
 "authors": "Ewald SE et al.",
-"year": "2008",
-"title": "The ectodomain of Toll-like receptor 9 is cleaved to generate a functional receptor.",
 "journal": "Nature",
+"title": "The ectodomain of Toll-like receptor 9 is cleaved to generate a functional receptor.",
+"year": "2008",
 "db": "pubmed",
 "id": "18820679"
 }
@@ -254,17 +254,17 @@
 "references": [
 {
 "authors": "Lin SC et al.",
-"year": "2010",
-"title": "Helical assembly in the MyD88-IRAK4-IRAK2 complex in TLR/IL-1R signalling.",
 "journal": "Nature",
+"title": "Helical assembly in the MyD88-IRAK4-IRAK2 complex in TLR/IL-1R signalling.",
+"year": "2010",
 "db": "pubmed",
 "id": "20485341"
 },
 {
 "authors": "Li S et al.",
-"year": "2002",
-"title": "IRAK-4: a novel member of the IRAK family with the properties of an IRAK-kinase.",
 "journal": "Proc Natl Acad Sci U S A",
+"title": "IRAK-4: a novel member of the IRAK family with the properties of an IRAK-kinase.",
+"year": "2002",
 "db": "pubmed",
 "id": "11960013"
 }
@@ -299,25 +299,25 @@
 "references": [
 {
 "authors": "Uematsu S et al.",
-"year": "2005",
-"title": "Interleukin-1 receptor-associated kinase-1 plays an essential role for Toll-like receptor (TLR)7- and TLR9-mediated interferon-{alpha} induction.",
 "journal": "J Exp Med",
+"title": "Interleukin-1 receptor-associated kinase-1 plays an essential role for Toll-like receptor (TLR)7- and TLR9-mediated interferon-{alpha} induction.",
+"year": "2005",
 "db": "pubmed",
 "id": "15767370"
 },
 {
 "authors": "Hoshino K et al.",
-"year": "2006",
-"title": "IkappaB kinase-alpha is critical for interferon-alpha production induced by Toll-like receptors 7 and 9.",
 "journal": "Nature",
+"title": "IkappaB kinase-alpha is critical for interferon-alpha production induced by Toll-like receptors 7 and 9.",
+"year": "2006",
 "db": "pubmed",
 "id": "16612387"
 },
 {
 "authors": "Kawai T et al.",
-"year": "2004",
-"title": "Interferon-alpha induction through Toll-like receptors involves a direct interaction of IRF7 with MyD88 and TRAF6.",
 "journal": "Nat Immunol",
+"title": "Interferon-alpha induction through Toll-like receptors involves a direct interaction of IRF7 with MyD88 and TRAF6.",
+"year": "2004",
 "db": "pubmed",
 "id": "15361868"
 }
@@ -348,9 +348,9 @@
 "references": [
 {
 "authors": "Shinohara ML et al.",
-"year": "2006",
-"title": "Osteopontin expression is essential for interferon-alpha production by plasmacytoid dendritic cells.",
 "journal": "Nat Immunol",
+"title": "Osteopontin expression is essential for interferon-alpha production by plasmacytoid dendritic cells.",
+"year": "2006",
 "db": "pubmed",
 "id": "16604075"
 }
@@ -381,9 +381,9 @@
 "references": [
 {
 "authors": "Honda K et al.",
-"year": "2005",
-"title": "IRF-7 is the master regulator of type-I interferon-dependent immune responses.",
 "journal": "Nature",
+"title": "IRF-7 is the master regulator of type-I interferon-dependent immune responses.",
+"year": "2005",
 "db": "pubmed",
 "id": "15800576"
 }
@@ -414,9 +414,9 @@
 "references": [
 {
 "authors": "Honda K et al.",
-"year": "2005",
-"title": "IRF-7 is the master regulator of type-I interferon-dependent immune responses.",
 "journal": "Nature",
+"title": "IRF-7 is the master regulator of type-I interferon-dependent immune responses.",
+"year": "2005",
 "db": "pubmed",
 "id": "15800576"
 }
@@ -445,9 +445,9 @@
 "references": [
 {
 "authors": "Honda K et al.",
-"year": "2005",
-"title": "IRF-7 is the master regulator of type-I interferon-dependent immune responses.",
 "journal": "Nature",
+"title": "IRF-7 is the master regulator of type-I interferon-dependent immune responses.",
+"year": "2005",
 "db": "pubmed",
 "id": "15800576"
 }
@@ -476,9 +476,9 @@
 "references": [
 {
 "authors": "Honda K et al.",
-"year": "2005",
-"title": "IRF-7 is the master regulator of type-I interferon-dependent immune responses.",
 "journal": "Nature",
+"title": "IRF-7 is the master regulator of type-I interferon-dependent immune responses.",
+"year": "2005",
 "db": "pubmed",
 "id": "15800576"
 }
