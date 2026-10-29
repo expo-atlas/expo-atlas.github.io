@@ -1,11 +1,1048 @@
 {
 "nodes": [
 {
+"label": "CYBB",
+"class": "Macromolecule",
+"box": [
+1840.0,
+125.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"NADPH oxidase 2"
+],
+[
+"Alternative names",
+"CGD91-phox; Cytochrome b(558) subunit beta; Cytochrome b-245 heavy chain; Heme-binding membrane glycoprotein gp91phox; Neutrophil cytochrome b 91 kDa polypeptide; Superoxide-generating NADPH oxidase heavy chain subunit; gp91-1; gp91-phox; p22 phagocyte B-cytochrome"
+],
+[
+"Function",
+"Catalytic subunit of the phagocyte NADPH oxidase complex that mediates the transfer of electrons from cytosolic NADPH to O2 to produce the superoxide anion (O2(-)). In the activated complex, electrons are first transferred from NADPH to flavin adenine dinucleotide (FAD) and subsequently transferred via two heme molecules to molecular oxygen, producing superoxide through an outer-sphere reaction (Probable)."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:2578"
+],
+[
+"HGNC symbol",
+"CYBB"
+],
+[
+"Previous symbols",
+"CGD"
+],
+[
+"Alias symbols",
+"GP91-PHOX, NOX2, GP91PHOX, p91-PHOX"
+],
+[
+"Entrez",
+"1536"
+],
+[
+"Ensembl",
+"ENSG00000165168"
+],
+[
+"RefSeq",
+"NM_000397"
+],
+[
+"UniProt",
+"P04839"
+]
+]
+},
+{
+"label": "CYBA",
+"class": "Macromolecule",
+"box": [
+1840.0,
+285.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cytochrome b-245 light chain"
+],
+[
+"Alternative names",
+"Cytochrome b(558) alpha chain; Cytochrome b558 subunit alpha; Neutrophil cytochrome b 22 kDa polypeptide; Superoxide-generating NADPH oxidase light chain subunit; p22 phagocyte B-cytochrome; p22-phox"
+],
+[
+"Function",
+"Subunit of NADPH oxidase complexes that is required for the NADPH oxidase activity that generates, in various cell types, superoxide from molecular oxygen utilizing NADPH as an electron donor. Subunit of the phagocyte NADPH oxidase complex that mediates the transfer of electrons from cytosolic NADPH to O2 to produce the superoxide anion (O2(-))."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:2577"
+],
+[
+"HGNC symbol",
+"CYBA"
+],
+[
+"Alias symbols",
+"p22-PHOX, p22phox"
+],
+[
+"Entrez",
+"1535"
+],
+[
+"Ensembl",
+"ENSG00000051523"
+],
+[
+"RefSeq",
+"NM_000101"
+],
+[
+"UniProt",
+"P13498"
+]
+]
+},
+{
+"label": "CYBB",
+"class": "Macromolecule",
+"box": [
+2053.0,
+170.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"NADPH oxidase 2"
+],
+[
+"Alternative names",
+"CGD91-phox; Cytochrome b(558) subunit beta; Cytochrome b-245 heavy chain; Heme-binding membrane glycoprotein gp91phox; Neutrophil cytochrome b 91 kDa polypeptide; Superoxide-generating NADPH oxidase heavy chain subunit; gp91-1; gp91-phox; p22 phagocyte B-cytochrome"
+],
+[
+"Function",
+"Catalytic subunit of the phagocyte NADPH oxidase complex that mediates the transfer of electrons from cytosolic NADPH to O2 to produce the superoxide anion (O2(-)). In the activated complex, electrons are first transferred from NADPH to flavin adenine dinucleotide (FAD) and subsequently transferred via two heme molecules to molecular oxygen, producing superoxide through an outer-sphere reaction (Probable)."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:2578"
+],
+[
+"HGNC symbol",
+"CYBB"
+],
+[
+"Previous symbols",
+"CGD"
+],
+[
+"Alias symbols",
+"GP91-PHOX, NOX2, GP91PHOX, p91-PHOX"
+],
+[
+"Entrez",
+"1536"
+],
+[
+"Ensembl",
+"ENSG00000165168"
+],
+[
+"RefSeq",
+"NM_000397"
+],
+[
+"UniProt",
+"P04839"
+]
+]
+},
+{
+"label": "CYBA",
+"class": "Macromolecule",
+"box": [
+2053.0,
+218.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cytochrome b-245 light chain"
+],
+[
+"Alternative names",
+"Cytochrome b(558) alpha chain; Cytochrome b558 subunit alpha; Neutrophil cytochrome b 22 kDa polypeptide; Superoxide-generating NADPH oxidase light chain subunit; p22 phagocyte B-cytochrome; p22-phox"
+],
+[
+"Function",
+"Subunit of NADPH oxidase complexes that is required for the NADPH oxidase activity that generates, in various cell types, superoxide from molecular oxygen utilizing NADPH as an electron donor. Subunit of the phagocyte NADPH oxidase complex that mediates the transfer of electrons from cytosolic NADPH to O2 to produce the superoxide anion (O2(-))."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:2577"
+],
+[
+"HGNC symbol",
+"CYBA"
+],
+[
+"Alias symbols",
+"p22-PHOX, p22phox"
+],
+[
+"Entrez",
+"1535"
+],
+[
+"Ensembl",
+"ENSG00000051523"
+],
+[
+"RefSeq",
+"NM_000101"
+],
+[
+"UniProt",
+"P13498"
+]
+]
+},
+{
+"label": "CYBB",
+"class": "Macromolecule",
+"box": [
+2347.0,
+137.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"NADPH oxidase 2"
+],
+[
+"Alternative names",
+"CGD91-phox; Cytochrome b(558) subunit beta; Cytochrome b-245 heavy chain; Heme-binding membrane glycoprotein gp91phox; Neutrophil cytochrome b 91 kDa polypeptide; Superoxide-generating NADPH oxidase heavy chain subunit; gp91-1; gp91-phox; p22 phagocyte B-cytochrome"
+],
+[
+"Function",
+"Catalytic subunit of the phagocyte NADPH oxidase complex that mediates the transfer of electrons from cytosolic NADPH to O2 to produce the superoxide anion (O2(-)). In the activated complex, electrons are first transferred from NADPH to flavin adenine dinucleotide (FAD) and subsequently transferred via two heme molecules to molecular oxygen, producing superoxide through an outer-sphere reaction (Probable)."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:2578"
+],
+[
+"HGNC symbol",
+"CYBB"
+],
+[
+"Previous symbols",
+"CGD"
+],
+[
+"Alias symbols",
+"GP91-PHOX, NOX2, GP91PHOX, p91-PHOX"
+],
+[
+"Entrez",
+"1536"
+],
+[
+"Ensembl",
+"ENSG00000165168"
+],
+[
+"RefSeq",
+"NM_000397"
+],
+[
+"UniProt",
+"P04839"
+]
+]
+},
+{
+"label": "CYBA",
+"class": "Macromolecule",
+"box": [
+2435.0,
+137.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cytochrome b-245 light chain"
+],
+[
+"Alternative names",
+"Cytochrome b(558) alpha chain; Cytochrome b558 subunit alpha; Neutrophil cytochrome b 22 kDa polypeptide; Superoxide-generating NADPH oxidase light chain subunit; p22 phagocyte B-cytochrome; p22-phox"
+],
+[
+"Function",
+"Subunit of NADPH oxidase complexes that is required for the NADPH oxidase activity that generates, in various cell types, superoxide from molecular oxygen utilizing NADPH as an electron donor. Subunit of the phagocyte NADPH oxidase complex that mediates the transfer of electrons from cytosolic NADPH to O2 to produce the superoxide anion (O2(-))."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:2577"
+],
+[
+"HGNC symbol",
+"CYBA"
+],
+[
+"Alias symbols",
+"p22-PHOX, p22phox"
+],
+[
+"Entrez",
+"1535"
+],
+[
+"Ensembl",
+"ENSG00000051523"
+],
+[
+"RefSeq",
+"NM_000101"
+],
+[
+"UniProt",
+"P13498"
+]
+]
+},
+{
+"label": "RAC1",
+"class": "Macromolecule",
+"box": [
+2347.0,
+251.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Ras-related C3 botulinum toxin substrate 1"
+],
+[
+"Alternative names",
+"Cell migration-inducing gene 5 protein; Ras-like protein TC25; p21-Rac1"
+],
+[
+"Function",
+"Plasma membrane-associated small GTPase which cycles between active GTP-bound and inactive GDP-bound states. In its active state, binds to a variety of effector proteins to regulate cellular responses such as secretory processes, phagocytosis of apoptotic cells, epithelial cell polarization, neurons adhesion, migration and differentiation, and growth-factor induced formation of membrane ruffles."
+],
+[
+"Location",
+"Cell membrane, Melanosome, Cytoplasm, Cell projection, lamellipodium, Cell projection, dendrite, Synapse, Nucleus, Cell projection, ruffle membrane"
+],
+[
+"HGNC",
+"HGNC:9801"
+],
+[
+"HGNC symbol",
+"RAC1"
+],
+[
+"Alias symbols",
+"TC-25, p21-Rac1, Rac-1"
+],
+[
+"Entrez",
+"5879"
+],
+[
+"Ensembl",
+"ENSG00000136238"
+],
+[
+"RefSeq",
+"NM_018890"
+],
+[
+"UniProt",
+"P63000"
+]
+]
+},
+{
+"label": "GTP",
+"class": "SimpleChemical",
+"box": [
+2435.0,
+251.8,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"GTP"
+],
+[
+"Synonyms",
+"5'-GTP; GUANOSINE-5'-TRIPHOSPHATE; Guanosine 5'-triphosphate; H4gtp; guanosine 5'-(tetrahydrogen triphosphate); guanosine 5'-triphosphoric acid; guanosine triphosphate"
+],
+[
+"Formula",
+"C10H16N5O14P3"
+],
+[
+"ChEBI",
+"CHEBI:15996"
+],
+[
+"KEGG",
+"C00044"
+],
+[
+"InChI",
+"InChI=1S/C10H16N5O14P3/c11-10-13-7-4(8(18)14-10)12-2-15(7)9-6(17)5(16)3(27-9)1-26-31(22,23)29-32(24,25)28-30(19,20)21/h2-3,5-6,9,16-17H,1H2,(H,22,23)(H,24,25)(H2,19,20,21)(H3,11,13,14,18)/t3-,5-,6-,9-/m1/s1"
+],
+[
+"InChIKey",
+"XKMLYUALXHKNFT-UUOKFMHZSA-N"
+]
+]
+},
+{
+"label": "NCF1",
+"class": "Macromolecule",
+"box": [
+2347.0,
+194.8,
+80.0,
+40.0
+],
+"props": [
+[
+"PTM",
+"Phosphorylated at Thr133\nPhosphorylated at Ser288\nPhosphorylated at Thr356"
+],
+[
+"Full name",
+"Neutrophil cytosol factor 1"
+],
+[
+"Alternative names",
+"47 kDa autosomal chronic granulomatous disease protein; 47 kDa neutrophil oxidase factor; NCF-47K; Neutrophil NADPH oxidase factor 1; Nox organizer 2; Nox-organizing protein 2; SH3 and PX domain-containing protein 1A; p47-phox"
+],
+[
+"Function",
+"Subunit of the phagocyte NADPH oxidase complex that mediates the transfer of electrons from cytosolic NADPH to O2 to produce the superoxide anion (O2(-)). In the activated complex, electrons are first transferred from NADPH to flavin adenine dinucleotide (FAD) and subsequently transferred via two heme molecules to molecular oxygen, producing superoxide through an outer-sphere reaction."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Membrane"
+],
+[
+"HGNC",
+"HGNC:7660"
+],
+[
+"HGNC symbol",
+"NCF1"
+],
+[
+"Alias symbols",
+"p47phox, NOXO2, NCF1A, SH3PXD1A"
+],
+[
+"Entrez",
+"653361"
+],
+[
+"Ensembl",
+"ENSG00000158517"
+],
+[
+"RefSeq",
+"NM_000265"
+],
+[
+"UniProt",
+"P14598"
+]
+]
+},
+{
+"label": "NCF2",
+"class": "Macromolecule",
+"box": [
+2435.0,
+194.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Neutrophil cytosol factor 2"
+],
+[
+"Alternative names",
+"67 kDa neutrophil oxidase factor; NADPH oxidase activator 2; Neutrophil NADPH oxidase factor 2; p67-phox"
+],
+[
+"Function",
+"Subunit of the phagocyte NADPH oxidase complex that mediates the transfer of electrons from cytosolic NADPH to O2 to produce the superoxide anion (O2(-)). In the activated complex, electrons are first transferred from NADPH to flavin adenine dinucleotide (FAD) and subsequently transferred via two heme molecules to molecular oxygen, producing superoxide through an outer-sphere reaction."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:7661"
+],
+[
+"HGNC symbol",
+"NCF2"
+],
+[
+"Alias symbols",
+"p67phox, NOXA2"
+],
+[
+"Entrez",
+"4688"
+],
+[
+"Ensembl",
+"ENSG00000116701"
+],
+[
+"RefSeq",
+"NM_000433"
+],
+[
+"UniProt",
+"P19878"
+]
+]
+},
+{
+"label": "NCF4",
+"class": "Macromolecule",
+"box": [
+2523.0,
+194.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Neutrophil cytosol factor 4"
+],
+[
+"Alternative names",
+"Neutrophil NADPH oxidase factor 4; SH3 and PX domain-containing protein 4; p40-phox"
+],
+[
+"Function",
+"Subunit of the phagocyte NADPH oxidase complex that mediates the transfer of electrons from cytosolic NADPH to O2 to produce the superoxide anion (O2(-)) (Probable). In the activated complex, electrons are first transferred from NADPH to flavin adenine dinucleotide (FAD) and subsequently transferred via two heme molecules to molecular oxygen, producing superoxide through an outer-sphere reaction."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Endosome membrane, Membrane"
+],
+[
+"HGNC",
+"HGNC:7662"
+],
+[
+"HGNC symbol",
+"NCF4"
+],
+[
+"Alias symbols",
+"p40phox, SH3PXD4"
+],
+[
+"Entrez",
+"4689"
+],
+[
+"Ensembl",
+"ENSG00000100365"
+],
+[
+"RefSeq",
+"NM_000631"
+],
+[
+"UniProt",
+"Q15080"
+]
+]
+},
+{
+"id": "xzqvclx9_redox-nox",
+"label": "",
+"class": "Process",
+"box": [
+1973.0,
+213.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"CYBB",
+"CYBA"
+],
+"out": [
+"cytochrome b558"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Noreng S et al.",
+"journal": "Nat Commun",
+"title": "Structure of the core human NADPH oxidase NOX2.",
+"year": "2022",
+"db": "pubmed",
+"id": "36241643"
+},
+{
+"authors": "Yu L et al.",
+"journal": "J Biol Chem",
+"title": "Biosynthesis of the phagocyte NADPH oxidase cytochrome b558. Role of heme incorporation and heterodimer formation in maturation and stability of gp91phox and p22phox subunits.",
+"year": "1997",
+"db": "pubmed",
+"id": "9341176"
+},
+{
+"authors": "Yu L et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Gp91(phox) is the heme binding subunit of the superoxide-generating NADPH oxidase.",
+"year": "1998",
+"db": "pubmed",
+"id": "9653128"
+}
+]
+},
+{
+"id": "lohspsuy_redox-nox",
+"label": "",
+"class": "Process",
+"box": [
+2198.0,
+213.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"cytochrome b558",
+"NCF1-P:NCF2:NCF4",
+"RAC1:GTP"
+],
+"out": [
+"NOX2 holoenzyme"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Noreng S et al.",
+"journal": "Nat Commun",
+"title": "Structure of the core human NADPH oxidase NOX2.",
+"year": "2022",
+"db": "pubmed",
+"id": "36241643"
+},
+{
+"authors": "Diekmann D et al.",
+"journal": "Science",
+"title": "Interaction of Rac with p67phox and regulation of phagocytic NADPH oxidase activity.",
+"year": "1994",
+"db": "pubmed",
+"id": "8036496"
+},
+{
+"authors": "Lapouge K et al.",
+"journal": "Mol Cell",
+"title": "Structure of the TPR domain of p67phox in complex with Rac.GTP.",
+"year": "2000",
+"db": "pubmed",
+"id": "11090627"
+},
+{
+"authors": "Park JW et al.",
+"journal": "J Biol Chem",
+"title": "The cytosolic components of the respiratory burst oxidase exist as a M(r) approximately 240,000 complex that acquires a membrane-binding site during activation of the oxidase in a cell-free system.",
+"year": "1992",
+"db": "pubmed",
+"id": "1512268"
+}
+]
+},
+{
+"id": "we3grl30_redox-nox",
+"label": "",
+"class": "Process",
+"box": [
+2719.0,
+213.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"NADPH",
+"O2"
+],
+"out": [
+"NADP+",
+"H+",
+"O2.-"
+],
+"by": [
+"NOX2 holoenzyme"
+]
+},
+"references": [
+{
+"authors": "Cross AR et al.",
+"journal": "Biochim Biophys Acta",
+"title": "The NADPH oxidase of professional phagocytes--prototype of the NOX electron transport chain systems.",
+"year": "2004",
+"db": "pubmed",
+"id": "15238208"
+},
+{
+"authors": "Noreng S et al.",
+"journal": "Nat Commun",
+"title": "Structure of the core human NADPH oxidase NOX2.",
+"year": "2022",
+"db": "pubmed",
+"id": "36241643"
+},
+{
+"authors": "DeCoursey TE",
+"journal": "FEBS Lett",
+"title": "Interactions between NADPH oxidase and voltage-gated proton channels: why electron transport depends on proton transport.",
+"year": "2003",
+"db": "pubmed",
+"id": "14630319"
+},
+{
+"authors": "Winterbourn CC et al.",
+"journal": "Antioxid Redox Signal",
+"title": "Redox reactions and microbial killing in the neutrophil phagosome.",
+"year": "2013",
+"db": "pubmed",
+"id": "22881869"
+}
+]
+},
+{
+"label": "TLR4",
+"class": "Macromolecule",
+"box": [
+342.0,
+380.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Toll-like receptor 4"
+],
+[
+"Alternative names",
+"hToll"
+],
+[
+"Function",
+"Transmembrane receptor that functions as a pattern recognition receptor recognizing pathogen- and damage-associated molecular patterns (PAMPs and DAMPs) to induce innate immune responses via downstream signaling pathways. At the plasma membrane, cooperates with LY96 to mediate the innate immune response to bacterial lipopolysaccharide (LPS)."
+],
+[
+"Location",
+"Cell membrane, Early endosome, Cell projection, ruffle"
+],
+[
+"HGNC",
+"HGNC:11850"
+],
+[
+"HGNC symbol",
+"TLR4"
+],
+[
+"Alias symbols",
+"hToll, CD284, TLR-4, ARMD10"
+],
+[
+"Entrez",
+"7099"
+],
+[
+"Ensembl",
+"ENSG00000136869"
+],
+[
+"RefSeq",
+"NM_138554"
+],
+[
+"UniProt",
+"O00206"
+]
+]
+},
+{
+"label": "MD2",
+"class": "Macromolecule",
+"box": [
+342.0,
+428.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Lymphocyte antigen 96"
+],
+[
+"Alternative names",
+"ESOP-1; Protein MD-2"
+],
+[
+"Function",
+"Binds bacterial lipopolysaccharide (LPS). Cooperates with TLR4 in the innate immune response to bacterial lipopolysaccharide (LPS), and with TLR2 in the response to cell wall components from Gram-positive and Gram-negative bacteria."
+],
+[
+"Location",
+"Secreted, extracellular space, Secreted"
+],
+[
+"HGNC",
+"HGNC:17156"
+],
+[
+"HGNC symbol",
+"LY96"
+],
+[
+"Alias symbols",
+"MD-2"
+],
+[
+"Entrez",
+"23643"
+],
+[
+"Ensembl",
+"ENSG00000154589"
+],
+[
+"RefSeq",
+"NM_015364"
+],
+[
+"UniProt",
+"Q9Y6Y9"
+]
+]
+},
+{
+"label": "endotoxin",
+"class": "SimpleChemical",
+"box": [
+362.0,
+116.8,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"lipopolysaccharide"
+],
+[
+"Synonyms",
+"LPS; lipopolysaccharides"
+],
+[
+"Definition",
+"Liposaccharide natural compounds consisting of a trisaccharide repeating unit (two heptose units and octulosonic acid) with oligosaccharide side chains and 3-hydroxytetradecanoic acid units (they are a major constituent of the cell walls of Gram-negative bacteria)."
+],
+[
+"ChEBI",
+"CHEBI:16412"
+],
+[
+"KEGG",
+"C00338"
+]
+]
+},
+{
+"label": "TLR4",
+"class": "Macromolecule",
+"box": [
+342.0,
+164.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Toll-like receptor 4"
+],
+[
+"Alternative names",
+"hToll"
+],
+[
+"Function",
+"Transmembrane receptor that functions as a pattern recognition receptor recognizing pathogen- and damage-associated molecular patterns (PAMPs and DAMPs) to induce innate immune responses via downstream signaling pathways. At the plasma membrane, cooperates with LY96 to mediate the innate immune response to bacterial lipopolysaccharide (LPS)."
+],
+[
+"Location",
+"Cell membrane, Early endosome, Cell projection, ruffle"
+],
+[
+"HGNC",
+"HGNC:11850"
+],
+[
+"HGNC symbol",
+"TLR4"
+],
+[
+"Alias symbols",
+"hToll, CD284, TLR-4, ARMD10"
+],
+[
+"Entrez",
+"7099"
+],
+[
+"Ensembl",
+"ENSG00000136869"
+],
+[
+"RefSeq",
+"NM_138554"
+],
+[
+"UniProt",
+"O00206"
+]
+]
+},
+{
+"label": "MD2",
+"class": "Macromolecule",
+"box": [
+342.0,
+212.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Lymphocyte antigen 96"
+],
+[
+"Alternative names",
+"ESOP-1; Protein MD-2"
+],
+[
+"Function",
+"Binds bacterial lipopolysaccharide (LPS). Cooperates with TLR4 in the innate immune response to bacterial lipopolysaccharide (LPS), and with TLR2 in the response to cell wall components from Gram-positive and Gram-negative bacteria."
+],
+[
+"Location",
+"Secreted, extracellular space, Secreted"
+],
+[
+"HGNC",
+"HGNC:17156"
+],
+[
+"HGNC symbol",
+"LY96"
+],
+[
+"Alias symbols",
+"MD-2"
+],
+[
+"Entrez",
+"23643"
+],
+[
+"Ensembl",
+"ENSG00000154589"
+],
+[
+"RefSeq",
+"NM_015364"
+],
+[
+"UniProt",
+"Q9Y6Y9"
+]
+]
+},
+{
 "label": "endotoxin",
 "class": "SimpleChemical",
 "box": [
 38.0,
-235.0,
+175.0,
 40.0,
 40.0
 ],
@@ -93,7 +1130,7 @@
 "class": "Macromolecule",
 "box": [
 28.0,
-455.0,
+335.0,
 80.0,
 40.0
 ],
@@ -144,8 +1181,8 @@
 "label": "TIRAP",
 "class": "Macromolecule",
 "box": [
-757.0,
-475.0,
+624.0,
+415.0,
 80.0,
 40.0
 ],
@@ -200,8 +1237,8 @@
 "label": "MYD88",
 "class": "Macromolecule",
 "box": [
-897.0,
-475.0,
+764.0,
+415.0,
 80.0,
 40.0
 ],
@@ -248,8 +1285,8 @@
 "label": "TLR4",
 "class": "Macromolecule",
 "box": [
-984.0,
-176.8,
+851.0,
+116.8,
 80.0,
 40.0
 ],
@@ -304,8 +1341,8 @@
 "label": "TIRAP",
 "class": "Macromolecule",
 "box": [
-984.0,
-224.8,
+851.0,
+164.8,
 80.0,
 40.0
 ],
@@ -360,8 +1397,8 @@
 "label": "MyD88",
 "class": "Macromolecule",
 "box": [
-984.0,
-272.8,
+851.0,
+212.8,
 80.0,
 40.0
 ],
@@ -408,8 +1445,8 @@
 "label": "IRAK4",
 "class": "Macromolecule",
 "box": [
-1256.0,
-475.0,
+1123.0,
+415.0,
 80.0,
 40.0
 ],
@@ -464,8 +1501,8 @@
 "label": "MyD88",
 "class": "Macromolecule",
 "box": [
-1413.0,
-200.8,
+1280.0,
+140.8,
 80.0,
 40.0
 ],
@@ -512,8 +1549,8 @@
 "label": "IRAK4",
 "class": "Macromolecule",
 "box": [
-1413.0,
-248.8,
+1280.0,
+188.8,
 80.0,
 40.0
 ],
@@ -569,8 +1606,8 @@
 "label": "",
 "class": "Process",
 "box": [
-346.0,
-243.0,
+202.0,
+183.0,
 24.0,
 24.0
 ],
@@ -612,8 +1649,8 @@
 "label": "",
 "class": "Process",
 "box": [
-855.0,
-243.0,
+722.0,
+183.0,
 24.0,
 24.0
 ],
@@ -645,8 +1682,8 @@
 "label": "",
 "class": "Process",
 "box": [
-1284.0,
-243.0,
+1151.0,
+183.0,
 24.0,
 24.0
 ],
@@ -681,266 +1718,10 @@
 ]
 },
 {
-"label": "TLR4",
-"class": "Macromolecule",
-"box": [
-318.0,
-440.8,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Toll-like receptor 4"
-],
-[
-"Alternative names",
-"hToll"
-],
-[
-"Function",
-"Transmembrane receptor that functions as a pattern recognition receptor recognizing pathogen- and damage-associated molecular patterns (PAMPs and DAMPs) to induce innate immune responses via downstream signaling pathways. At the plasma membrane, cooperates with LY96 to mediate the innate immune response to bacterial lipopolysaccharide (LPS)."
-],
-[
-"Location",
-"Cell membrane, Early endosome, Cell projection, ruffle"
-],
-[
-"HGNC",
-"HGNC:11850"
-],
-[
-"HGNC symbol",
-"TLR4"
-],
-[
-"Alias symbols",
-"hToll, CD284, TLR-4, ARMD10"
-],
-[
-"Entrez",
-"7099"
-],
-[
-"Ensembl",
-"ENSG00000136869"
-],
-[
-"RefSeq",
-"NM_138554"
-],
-[
-"UniProt",
-"O00206"
-]
-]
-},
-{
-"label": "MD2",
-"class": "Macromolecule",
-"box": [
-318.0,
-488.8,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Lymphocyte antigen 96"
-],
-[
-"Alternative names",
-"ESOP-1; Protein MD-2"
-],
-[
-"Function",
-"Binds bacterial lipopolysaccharide (LPS). Cooperates with TLR4 in the innate immune response to bacterial lipopolysaccharide (LPS), and with TLR2 in the response to cell wall components from Gram-positive and Gram-negative bacteria."
-],
-[
-"Location",
-"Secreted, extracellular space, Secreted"
-],
-[
-"HGNC",
-"HGNC:17156"
-],
-[
-"HGNC symbol",
-"LY96"
-],
-[
-"Alias symbols",
-"MD-2"
-],
-[
-"Entrez",
-"23643"
-],
-[
-"Ensembl",
-"ENSG00000154589"
-],
-[
-"RefSeq",
-"NM_015364"
-],
-[
-"UniProt",
-"Q9Y6Y9"
-]
-]
-},
-{
-"label": "endotoxin",
-"class": "SimpleChemical",
-"box": [
-495.0,
-176.8,
-40.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"lipopolysaccharide"
-],
-[
-"Synonyms",
-"LPS; lipopolysaccharides"
-],
-[
-"Definition",
-"Liposaccharide natural compounds consisting of a trisaccharide repeating unit (two heptose units and octulosonic acid) with oligosaccharide side chains and 3-hydroxytetradecanoic acid units (they are a major constituent of the cell walls of Gram-negative bacteria)."
-],
-[
-"ChEBI",
-"CHEBI:16412"
-],
-[
-"KEGG",
-"C00338"
-]
-]
-},
-{
-"label": "TLR4",
-"class": "Macromolecule",
-"box": [
-475.0,
-224.8,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Toll-like receptor 4"
-],
-[
-"Alternative names",
-"hToll"
-],
-[
-"Function",
-"Transmembrane receptor that functions as a pattern recognition receptor recognizing pathogen- and damage-associated molecular patterns (PAMPs and DAMPs) to induce innate immune responses via downstream signaling pathways. At the plasma membrane, cooperates with LY96 to mediate the innate immune response to bacterial lipopolysaccharide (LPS)."
-],
-[
-"Location",
-"Cell membrane, Early endosome, Cell projection, ruffle"
-],
-[
-"HGNC",
-"HGNC:11850"
-],
-[
-"HGNC symbol",
-"TLR4"
-],
-[
-"Alias symbols",
-"hToll, CD284, TLR-4, ARMD10"
-],
-[
-"Entrez",
-"7099"
-],
-[
-"Ensembl",
-"ENSG00000136869"
-],
-[
-"RefSeq",
-"NM_138554"
-],
-[
-"UniProt",
-"O00206"
-]
-]
-},
-{
-"label": "MD2",
-"class": "Macromolecule",
-"box": [
-475.0,
-272.8,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Lymphocyte antigen 96"
-],
-[
-"Alternative names",
-"ESOP-1; Protein MD-2"
-],
-[
-"Function",
-"Binds bacterial lipopolysaccharide (LPS). Cooperates with TLR4 in the innate immune response to bacterial lipopolysaccharide (LPS), and with TLR2 in the response to cell wall components from Gram-positive and Gram-negative bacteria."
-],
-[
-"Location",
-"Secreted, extracellular space, Secreted"
-],
-[
-"HGNC",
-"HGNC:17156"
-],
-[
-"HGNC symbol",
-"LY96"
-],
-[
-"Alias symbols",
-"MD-2"
-],
-[
-"Entrez",
-"23643"
-],
-[
-"Ensembl",
-"ENSG00000154589"
-],
-[
-"RefSeq",
-"NM_015364"
-],
-[
-"UniProt",
-"Q9Y6Y9"
-]
-]
-},
-{
 "label": "NCF1",
 "class": "Macromolecule",
 "box": [
-1705.0,
+1572.0,
 485.0,
 80.0,
 40.0
@@ -996,7 +1777,7 @@
 "label": "NCF2",
 "class": "Macromolecule",
 "box": [
-1713.0,
+1580.0,
 645.0,
 80.0,
 40.0
@@ -1052,7 +1833,7 @@
 "label": "NCF4",
 "class": "Macromolecule",
 "box": [
-1705.0,
+1572.0,
 805.0,
 80.0,
 40.0
@@ -1108,7 +1889,7 @@
 "label": "NCF1",
 "class": "Macromolecule",
 "box": [
-1926.0,
+1793.0,
 586.8,
 80.0,
 40.0
@@ -1164,7 +1945,7 @@
 "label": "NCF2",
 "class": "Macromolecule",
 "box": [
-1926.0,
+1793.0,
 643.8,
 80.0,
 40.0
@@ -1220,7 +2001,7 @@
 "label": "NCF4",
 "class": "Macromolecule",
 "box": [
-1926.0,
+1793.0,
 691.8,
 80.0,
 40.0
@@ -1276,7 +2057,7 @@
 "label": "ATP",
 "class": "SimpleChemical",
 "box": [
-2030.0,
+1897.0,
 455.0,
 40.0,
 40.0
@@ -1316,7 +2097,7 @@
 "label": "ADP",
 "class": "SimpleChemical",
 "box": [
-2078.0,
+1945.0,
 455.0,
 40.0,
 40.0
@@ -1356,7 +2137,7 @@
 "label": "NCF1",
 "class": "Macromolecule",
 "box": [
-2151.0,
+2018.0,
 586.8,
 80.0,
 40.0
@@ -1416,7 +2197,7 @@
 "label": "NCF2",
 "class": "Macromolecule",
 "box": [
-2151.0,
+2018.0,
 643.8,
 80.0,
 40.0
@@ -1472,7 +2253,7 @@
 "label": "NCF4",
 "class": "Macromolecule",
 "box": [
-2151.0,
+2018.0,
 691.8,
 80.0,
 40.0
@@ -1528,7 +2309,7 @@
 "label": "RAC1",
 "class": "Macromolecule",
 "box": [
-2303.0,
+2170.0,
 610.8,
 80.0,
 40.0
@@ -1584,7 +2365,7 @@
 "label": "GTP",
 "class": "SimpleChemical",
 "box": [
-2323.0,
+2190.0,
 658.8,
 40.0,
 40.0
@@ -1624,7 +2405,7 @@
 "label": "NADPH",
 "class": "SimpleChemical",
 "box": [
-2508.0,
+2375.0,
 525.0,
 40.0,
 40.0
@@ -1672,7 +2453,7 @@
 "label": "NADP+",
 "class": "SimpleChemical",
 "box": [
-2668.0,
+2535.0,
 525.0,
 40.0,
 40.0
@@ -1712,7 +2493,7 @@
 "label": "H+",
 "class": "SimpleChemical",
 "box": [
-2788.0,
+2655.0,
 525.0,
 40.0,
 40.0
@@ -1756,7 +2537,7 @@
 "label": "O2",
 "class": "SimpleChemical",
 "box": [
-2844.0,
+2711.0,
 15.0,
 40.0,
 40.0
@@ -1800,7 +2581,7 @@
 "label": "O2.-",
 "class": "SimpleChemical",
 "box": [
-2944.0,
+2811.0,
 15.0,
 40.0,
 40.0
@@ -1845,7 +2626,7 @@
 "label": "",
 "class": "Process",
 "box": [
-1837.0,
+1704.0,
 653.0,
 24.0,
 24.0
@@ -1886,7 +2667,7 @@
 "label": "",
 "class": "Process",
 "box": [
-2062.0,
+1929.0,
 653.0,
 24.0,
 24.0
@@ -1921,787 +2702,6 @@
 "year": "2009",
 "db": "pubmed",
 "id": "19414794"
-}
-]
-},
-{
-"label": "CYBB",
-"class": "Macromolecule",
-"box": [
-1973.0,
-125.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"NADPH oxidase 2"
-],
-[
-"Alternative names",
-"CGD91-phox; Cytochrome b(558) subunit beta; Cytochrome b-245 heavy chain; Heme-binding membrane glycoprotein gp91phox; Neutrophil cytochrome b 91 kDa polypeptide; Superoxide-generating NADPH oxidase heavy chain subunit; gp91-1; gp91-phox; p22 phagocyte B-cytochrome"
-],
-[
-"Function",
-"Catalytic subunit of the phagocyte NADPH oxidase complex that mediates the transfer of electrons from cytosolic NADPH to O2 to produce the superoxide anion (O2(-)). In the activated complex, electrons are first transferred from NADPH to flavin adenine dinucleotide (FAD) and subsequently transferred via two heme molecules to molecular oxygen, producing superoxide through an outer-sphere reaction (Probable)."
-],
-[
-"Location",
-"Cell membrane"
-],
-[
-"HGNC",
-"HGNC:2578"
-],
-[
-"HGNC symbol",
-"CYBB"
-],
-[
-"Previous symbols",
-"CGD"
-],
-[
-"Alias symbols",
-"GP91-PHOX, NOX2, GP91PHOX, p91-PHOX"
-],
-[
-"Entrez",
-"1536"
-],
-[
-"Ensembl",
-"ENSG00000165168"
-],
-[
-"RefSeq",
-"NM_000397"
-],
-[
-"UniProt",
-"P04839"
-]
-]
-},
-{
-"label": "CYBA",
-"class": "Macromolecule",
-"box": [
-1973.0,
-285.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Cytochrome b-245 light chain"
-],
-[
-"Alternative names",
-"Cytochrome b(558) alpha chain; Cytochrome b558 subunit alpha; Neutrophil cytochrome b 22 kDa polypeptide; Superoxide-generating NADPH oxidase light chain subunit; p22 phagocyte B-cytochrome; p22-phox"
-],
-[
-"Function",
-"Subunit of NADPH oxidase complexes that is required for the NADPH oxidase activity that generates, in various cell types, superoxide from molecular oxygen utilizing NADPH as an electron donor. Subunit of the phagocyte NADPH oxidase complex that mediates the transfer of electrons from cytosolic NADPH to O2 to produce the superoxide anion (O2(-))."
-],
-[
-"Location",
-"Cell membrane"
-],
-[
-"HGNC",
-"HGNC:2577"
-],
-[
-"HGNC symbol",
-"CYBA"
-],
-[
-"Alias symbols",
-"p22-PHOX, p22phox"
-],
-[
-"Entrez",
-"1535"
-],
-[
-"Ensembl",
-"ENSG00000051523"
-],
-[
-"RefSeq",
-"NM_000101"
-],
-[
-"UniProt",
-"P13498"
-]
-]
-},
-{
-"label": "CYBB",
-"class": "Macromolecule",
-"box": [
-2186.0,
-170.8,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"NADPH oxidase 2"
-],
-[
-"Alternative names",
-"CGD91-phox; Cytochrome b(558) subunit beta; Cytochrome b-245 heavy chain; Heme-binding membrane glycoprotein gp91phox; Neutrophil cytochrome b 91 kDa polypeptide; Superoxide-generating NADPH oxidase heavy chain subunit; gp91-1; gp91-phox; p22 phagocyte B-cytochrome"
-],
-[
-"Function",
-"Catalytic subunit of the phagocyte NADPH oxidase complex that mediates the transfer of electrons from cytosolic NADPH to O2 to produce the superoxide anion (O2(-)). In the activated complex, electrons are first transferred from NADPH to flavin adenine dinucleotide (FAD) and subsequently transferred via two heme molecules to molecular oxygen, producing superoxide through an outer-sphere reaction (Probable)."
-],
-[
-"Location",
-"Cell membrane"
-],
-[
-"HGNC",
-"HGNC:2578"
-],
-[
-"HGNC symbol",
-"CYBB"
-],
-[
-"Previous symbols",
-"CGD"
-],
-[
-"Alias symbols",
-"GP91-PHOX, NOX2, GP91PHOX, p91-PHOX"
-],
-[
-"Entrez",
-"1536"
-],
-[
-"Ensembl",
-"ENSG00000165168"
-],
-[
-"RefSeq",
-"NM_000397"
-],
-[
-"UniProt",
-"P04839"
-]
-]
-},
-{
-"label": "CYBA",
-"class": "Macromolecule",
-"box": [
-2186.0,
-218.8,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Cytochrome b-245 light chain"
-],
-[
-"Alternative names",
-"Cytochrome b(558) alpha chain; Cytochrome b558 subunit alpha; Neutrophil cytochrome b 22 kDa polypeptide; Superoxide-generating NADPH oxidase light chain subunit; p22 phagocyte B-cytochrome; p22-phox"
-],
-[
-"Function",
-"Subunit of NADPH oxidase complexes that is required for the NADPH oxidase activity that generates, in various cell types, superoxide from molecular oxygen utilizing NADPH as an electron donor. Subunit of the phagocyte NADPH oxidase complex that mediates the transfer of electrons from cytosolic NADPH to O2 to produce the superoxide anion (O2(-))."
-],
-[
-"Location",
-"Cell membrane"
-],
-[
-"HGNC",
-"HGNC:2577"
-],
-[
-"HGNC symbol",
-"CYBA"
-],
-[
-"Alias symbols",
-"p22-PHOX, p22phox"
-],
-[
-"Entrez",
-"1535"
-],
-[
-"Ensembl",
-"ENSG00000051523"
-],
-[
-"RefSeq",
-"NM_000101"
-],
-[
-"UniProt",
-"P13498"
-]
-]
-},
-{
-"label": "CYBB",
-"class": "Macromolecule",
-"box": [
-2480.0,
-137.8,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"NADPH oxidase 2"
-],
-[
-"Alternative names",
-"CGD91-phox; Cytochrome b(558) subunit beta; Cytochrome b-245 heavy chain; Heme-binding membrane glycoprotein gp91phox; Neutrophil cytochrome b 91 kDa polypeptide; Superoxide-generating NADPH oxidase heavy chain subunit; gp91-1; gp91-phox; p22 phagocyte B-cytochrome"
-],
-[
-"Function",
-"Catalytic subunit of the phagocyte NADPH oxidase complex that mediates the transfer of electrons from cytosolic NADPH to O2 to produce the superoxide anion (O2(-)). In the activated complex, electrons are first transferred from NADPH to flavin adenine dinucleotide (FAD) and subsequently transferred via two heme molecules to molecular oxygen, producing superoxide through an outer-sphere reaction (Probable)."
-],
-[
-"Location",
-"Cell membrane"
-],
-[
-"HGNC",
-"HGNC:2578"
-],
-[
-"HGNC symbol",
-"CYBB"
-],
-[
-"Previous symbols",
-"CGD"
-],
-[
-"Alias symbols",
-"GP91-PHOX, NOX2, GP91PHOX, p91-PHOX"
-],
-[
-"Entrez",
-"1536"
-],
-[
-"Ensembl",
-"ENSG00000165168"
-],
-[
-"RefSeq",
-"NM_000397"
-],
-[
-"UniProt",
-"P04839"
-]
-]
-},
-{
-"label": "CYBA",
-"class": "Macromolecule",
-"box": [
-2568.0,
-137.8,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Cytochrome b-245 light chain"
-],
-[
-"Alternative names",
-"Cytochrome b(558) alpha chain; Cytochrome b558 subunit alpha; Neutrophil cytochrome b 22 kDa polypeptide; Superoxide-generating NADPH oxidase light chain subunit; p22 phagocyte B-cytochrome; p22-phox"
-],
-[
-"Function",
-"Subunit of NADPH oxidase complexes that is required for the NADPH oxidase activity that generates, in various cell types, superoxide from molecular oxygen utilizing NADPH as an electron donor. Subunit of the phagocyte NADPH oxidase complex that mediates the transfer of electrons from cytosolic NADPH to O2 to produce the superoxide anion (O2(-))."
-],
-[
-"Location",
-"Cell membrane"
-],
-[
-"HGNC",
-"HGNC:2577"
-],
-[
-"HGNC symbol",
-"CYBA"
-],
-[
-"Alias symbols",
-"p22-PHOX, p22phox"
-],
-[
-"Entrez",
-"1535"
-],
-[
-"Ensembl",
-"ENSG00000051523"
-],
-[
-"RefSeq",
-"NM_000101"
-],
-[
-"UniProt",
-"P13498"
-]
-]
-},
-{
-"label": "RAC1",
-"class": "Macromolecule",
-"box": [
-2480.0,
-251.8,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Ras-related C3 botulinum toxin substrate 1"
-],
-[
-"Alternative names",
-"Cell migration-inducing gene 5 protein; Ras-like protein TC25; p21-Rac1"
-],
-[
-"Function",
-"Plasma membrane-associated small GTPase which cycles between active GTP-bound and inactive GDP-bound states. In its active state, binds to a variety of effector proteins to regulate cellular responses such as secretory processes, phagocytosis of apoptotic cells, epithelial cell polarization, neurons adhesion, migration and differentiation, and growth-factor induced formation of membrane ruffles."
-],
-[
-"Location",
-"Cell membrane, Melanosome, Cytoplasm, Cell projection, lamellipodium, Cell projection, dendrite, Synapse, Nucleus, Cell projection, ruffle membrane"
-],
-[
-"HGNC",
-"HGNC:9801"
-],
-[
-"HGNC symbol",
-"RAC1"
-],
-[
-"Alias symbols",
-"TC-25, p21-Rac1, Rac-1"
-],
-[
-"Entrez",
-"5879"
-],
-[
-"Ensembl",
-"ENSG00000136238"
-],
-[
-"RefSeq",
-"NM_018890"
-],
-[
-"UniProt",
-"P63000"
-]
-]
-},
-{
-"label": "GTP",
-"class": "SimpleChemical",
-"box": [
-2568.0,
-251.8,
-40.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"GTP"
-],
-[
-"Synonyms",
-"5'-GTP; GUANOSINE-5'-TRIPHOSPHATE; Guanosine 5'-triphosphate; H4gtp; guanosine 5'-(tetrahydrogen triphosphate); guanosine 5'-triphosphoric acid; guanosine triphosphate"
-],
-[
-"Formula",
-"C10H16N5O14P3"
-],
-[
-"ChEBI",
-"CHEBI:15996"
-],
-[
-"KEGG",
-"C00044"
-],
-[
-"InChI",
-"InChI=1S/C10H16N5O14P3/c11-10-13-7-4(8(18)14-10)12-2-15(7)9-6(17)5(16)3(27-9)1-26-31(22,23)29-32(24,25)28-30(19,20)21/h2-3,5-6,9,16-17H,1H2,(H,22,23)(H,24,25)(H2,19,20,21)(H3,11,13,14,18)/t3-,5-,6-,9-/m1/s1"
-],
-[
-"InChIKey",
-"XKMLYUALXHKNFT-UUOKFMHZSA-N"
-]
-]
-},
-{
-"label": "NCF1",
-"class": "Macromolecule",
-"box": [
-2480.0,
-194.8,
-80.0,
-40.0
-],
-"props": [
-[
-"PTM",
-"Phosphorylated at Thr133\nPhosphorylated at Ser288\nPhosphorylated at Thr356"
-],
-[
-"Full name",
-"Neutrophil cytosol factor 1"
-],
-[
-"Alternative names",
-"47 kDa autosomal chronic granulomatous disease protein; 47 kDa neutrophil oxidase factor; NCF-47K; Neutrophil NADPH oxidase factor 1; Nox organizer 2; Nox-organizing protein 2; SH3 and PX domain-containing protein 1A; p47-phox"
-],
-[
-"Function",
-"Subunit of the phagocyte NADPH oxidase complex that mediates the transfer of electrons from cytosolic NADPH to O2 to produce the superoxide anion (O2(-)). In the activated complex, electrons are first transferred from NADPH to flavin adenine dinucleotide (FAD) and subsequently transferred via two heme molecules to molecular oxygen, producing superoxide through an outer-sphere reaction."
-],
-[
-"Location",
-"Cytoplasm, cytosol, Membrane"
-],
-[
-"HGNC",
-"HGNC:7660"
-],
-[
-"HGNC symbol",
-"NCF1"
-],
-[
-"Alias symbols",
-"p47phox, NOXO2, NCF1A, SH3PXD1A"
-],
-[
-"Entrez",
-"653361"
-],
-[
-"Ensembl",
-"ENSG00000158517"
-],
-[
-"RefSeq",
-"NM_000265"
-],
-[
-"UniProt",
-"P14598"
-]
-]
-},
-{
-"label": "NCF2",
-"class": "Macromolecule",
-"box": [
-2568.0,
-194.8,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Neutrophil cytosol factor 2"
-],
-[
-"Alternative names",
-"67 kDa neutrophil oxidase factor; NADPH oxidase activator 2; Neutrophil NADPH oxidase factor 2; p67-phox"
-],
-[
-"Function",
-"Subunit of the phagocyte NADPH oxidase complex that mediates the transfer of electrons from cytosolic NADPH to O2 to produce the superoxide anion (O2(-)). In the activated complex, electrons are first transferred from NADPH to flavin adenine dinucleotide (FAD) and subsequently transferred via two heme molecules to molecular oxygen, producing superoxide through an outer-sphere reaction."
-],
-[
-"Location",
-"Cytoplasm"
-],
-[
-"HGNC",
-"HGNC:7661"
-],
-[
-"HGNC symbol",
-"NCF2"
-],
-[
-"Alias symbols",
-"p67phox, NOXA2"
-],
-[
-"Entrez",
-"4688"
-],
-[
-"Ensembl",
-"ENSG00000116701"
-],
-[
-"RefSeq",
-"NM_000433"
-],
-[
-"UniProt",
-"P19878"
-]
-]
-},
-{
-"label": "NCF4",
-"class": "Macromolecule",
-"box": [
-2656.0,
-194.8,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Neutrophil cytosol factor 4"
-],
-[
-"Alternative names",
-"Neutrophil NADPH oxidase factor 4; SH3 and PX domain-containing protein 4; p40-phox"
-],
-[
-"Function",
-"Subunit of the phagocyte NADPH oxidase complex that mediates the transfer of electrons from cytosolic NADPH to O2 to produce the superoxide anion (O2(-)) (Probable). In the activated complex, electrons are first transferred from NADPH to flavin adenine dinucleotide (FAD) and subsequently transferred via two heme molecules to molecular oxygen, producing superoxide through an outer-sphere reaction."
-],
-[
-"Location",
-"Cytoplasm, cytosol, Endosome membrane, Membrane"
-],
-[
-"HGNC",
-"HGNC:7662"
-],
-[
-"HGNC symbol",
-"NCF4"
-],
-[
-"Alias symbols",
-"p40phox, SH3PXD4"
-],
-[
-"Entrez",
-"4689"
-],
-[
-"Ensembl",
-"ENSG00000100365"
-],
-[
-"RefSeq",
-"NM_000631"
-],
-[
-"UniProt",
-"Q15080"
-]
-]
-},
-{
-"id": "xzqvclx9_redox-nox",
-"label": "",
-"class": "Process",
-"box": [
-2106.0,
-213.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"CYBB",
-"CYBA"
-],
-"out": [
-"cytochrome b558"
-],
-"by": []
-},
-"references": [
-{
-"authors": "Noreng S et al.",
-"journal": "Nat Commun",
-"title": "Structure of the core human NADPH oxidase NOX2.",
-"year": "2022",
-"db": "pubmed",
-"id": "36241643"
-},
-{
-"authors": "Yu L et al.",
-"journal": "J Biol Chem",
-"title": "Biosynthesis of the phagocyte NADPH oxidase cytochrome b558. Role of heme incorporation and heterodimer formation in maturation and stability of gp91phox and p22phox subunits.",
-"year": "1997",
-"db": "pubmed",
-"id": "9341176"
-},
-{
-"authors": "Yu L et al.",
-"journal": "Proc Natl Acad Sci U S A",
-"title": "Gp91(phox) is the heme binding subunit of the superoxide-generating NADPH oxidase.",
-"year": "1998",
-"db": "pubmed",
-"id": "9653128"
-}
-]
-},
-{
-"id": "lohspsuy_redox-nox",
-"label": "",
-"class": "Process",
-"box": [
-2331.0,
-213.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"cytochrome b558",
-"NCF1-P:NCF2:NCF4",
-"RAC1:GTP"
-],
-"out": [
-"NOX2 holoenzyme"
-],
-"by": []
-},
-"references": [
-{
-"authors": "Noreng S et al.",
-"journal": "Nat Commun",
-"title": "Structure of the core human NADPH oxidase NOX2.",
-"year": "2022",
-"db": "pubmed",
-"id": "36241643"
-},
-{
-"authors": "Diekmann D et al.",
-"journal": "Science",
-"title": "Interaction of Rac with p67phox and regulation of phagocytic NADPH oxidase activity.",
-"year": "1994",
-"db": "pubmed",
-"id": "8036496"
-},
-{
-"authors": "Lapouge K et al.",
-"journal": "Mol Cell",
-"title": "Structure of the TPR domain of p67phox in complex with Rac.GTP.",
-"year": "2000",
-"db": "pubmed",
-"id": "11090627"
-},
-{
-"authors": "Park JW et al.",
-"journal": "J Biol Chem",
-"title": "The cytosolic components of the respiratory burst oxidase exist as a M(r) approximately 240,000 complex that acquires a membrane-binding site during activation of the oxidase in a cell-free system.",
-"year": "1992",
-"db": "pubmed",
-"id": "1512268"
-}
-]
-},
-{
-"id": "we3grl30_redox-nox",
-"label": "",
-"class": "Process",
-"box": [
-2852.0,
-213.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"NADPH",
-"O2"
-],
-"out": [
-"NADP+",
-"H+",
-"O2.-"
-],
-"by": [
-"NOX2 holoenzyme"
-]
-},
-"references": [
-{
-"authors": "Cross AR et al.",
-"journal": "Biochim Biophys Acta",
-"title": "The NADPH oxidase of professional phagocytes--prototype of the NOX electron transport chain systems.",
-"year": "2004",
-"db": "pubmed",
-"id": "15238208"
-},
-{
-"authors": "Noreng S et al.",
-"journal": "Nat Commun",
-"title": "Structure of the core human NADPH oxidase NOX2.",
-"year": "2022",
-"db": "pubmed",
-"id": "36241643"
-},
-{
-"authors": "DeCoursey TE",
-"journal": "FEBS Lett",
-"title": "Interactions between NADPH oxidase and voltage-gated proton channels: why electron transport depends on proton transport.",
-"year": "2003",
-"db": "pubmed",
-"id": "14630319"
-},
-{
-"authors": "Winterbourn CC et al.",
-"journal": "Antioxid Redox Signal",
-"title": "Redox reactions and microbial killing in the neutrophil phagosome.",
-"year": "2013",
-"db": "pubmed",
-"id": "22881869"
 }
 ]
 }
