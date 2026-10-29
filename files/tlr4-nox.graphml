@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:java="http://www.yworks.com/xml/yfiles-common/1.0/java" xmlns:sys="http://www.yworks.com/xml/yfiles-common/markup/primitives/2.0" xmlns:x="http://www.yworks.com/xml/yfiles-common/markup/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xmlns:yed="http://www.yworks.com/xml/yed/3" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
   <!--Created by yEd 3.25.1-->
   <key for="port" id="d0" yfiles.type="portgraphics"/>
@@ -73,7 +73,7 @@
               <y:Realizers active="0">
                 <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
                   <y:Geometry height="140.5" width="104.0" x="412.0" y="609.75"/>
-                  <y:Fill hasColor="false" transparent="false"/>
+                  <y:Fill transparent="false" color="#FFFFFF"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
                   <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="73.849609375" x="15.0751953125" xml:space="preserve" y="120.01171875">TLR4:MD2</y:NodeLabel>
                   <y:StyleProperties>
@@ -162,7 +162,7 @@
               <y:Realizers active="0">
                 <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
                   <y:Geometry height="188.5" width="109.5" x="409.25" y="280.2809229305423"/>
-                  <y:Fill hasColor="false" transparent="false"/>
+                  <y:Fill transparent="false" color="#FFFFFF"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
                   <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="147.3359375" x="-18.91796875" xml:space="preserve" y="168.01171875">endotoxin:TLR4:MD2</y:NodeLabel>
                   <y:StyleProperties>
@@ -379,7 +379,7 @@
               <y:Realizers active="0">
                 <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
                   <y:Geometry height="188.5" width="104.0" x="737.3491912464319" y="280.2809229305423"/>
-                  <y:Fill hasColor="false" transparent="false"/>
+                  <y:Fill transparent="false" color="#FFFFFF"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
                   <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="133.58203125" x="-14.791015625" xml:space="preserve" y="168.01171875">TLR4:TIRAP:MyD88</y:NodeLabel>
                   <y:StyleProperties>
@@ -512,7 +512,7 @@
               <y:Realizers active="0">
                 <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
                   <y:Geometry height="140.5" width="104.0" x="1008.7040913415794" y="304.2809229305423"/>
-                  <y:Fill hasColor="false" transparent="false"/>
+                  <y:Fill transparent="false" color="#FFFFFF"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
                   <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="86.2021484375" x="8.89892578125" xml:space="preserve" y="120.01171875">Myddosome</y:NodeLabel>
                   <y:StyleProperties>

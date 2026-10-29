@@ -5,7 +5,7 @@
 "class": "Macromolecule",
 "box": [
 315.0,
-380.8,
+568.8,
 80.0,
 40.0
 ],
@@ -57,7 +57,7 @@
 "class": "Macromolecule",
 "box": [
 315.0,
-428.8,
+616.8,
 80.0,
 40.0
 ],
@@ -109,7 +109,7 @@
 "class": "Macromolecule",
 "box": [
 539.0,
-415.0,
+603.0,
 80.0,
 40.0
 ],
@@ -161,7 +161,7 @@
 "class": "Macromolecule",
 "box": [
 433.0,
-505.0,
+693.0,
 80.0,
 40.0
 ],
@@ -213,7 +213,7 @@
 "class": "Macromolecule",
 "box": [
 635.0,
-325.0,
+513.0,
 80.0,
 40.0
 ],
@@ -273,7 +273,7 @@
 "class": "Macromolecule",
 "box": [
 827.0,
-325.0,
+513.0,
 80.0,
 40.0
 ],
@@ -325,7 +325,7 @@
 "class": "Macromolecule",
 "box": [
 731.0,
-415.0,
+603.0,
 80.0,
 40.0
 ],
@@ -377,7 +377,7 @@
 "class": "Macromolecule",
 "box": [
 923.0,
-415.0,
+603.0,
 112.0,
 40.0
 ],
@@ -429,7 +429,7 @@
 "class": "Macromolecule",
 "box": [
 939.0,
-525.0,
+713.0,
 80.0,
 40.0
 ],
@@ -481,7 +481,7 @@
 "class": "Macromolecule",
 "box": [
 1180.0,
-377.8,
+565.8,
 112.0,
 40.0
 ],
@@ -534,7 +534,7 @@
 "class": "Process",
 "box": [
 461.0,
-423.0,
+611.0,
 24.0,
 24.0
 ],
@@ -566,7 +566,7 @@
 "class": "Process",
 "box": [
 663.0,
-423.0,
+611.0,
 24.0,
 24.0
 ],
@@ -608,7 +608,7 @@
 "class": "Process",
 "box": [
 855.0,
-423.0,
+611.0,
 24.0,
 24.0
 ],
@@ -641,7 +641,7 @@
 "class": "Process",
 "box": [
 1079.0,
-423.0,
+611.0,
 24.0,
 24.0
 ],
@@ -690,7 +690,7 @@
 "class": "Macromolecule",
 "box": [
 1395.0,
-505.0,
+693.0,
 80.0,
 40.0
 ],
@@ -738,7 +738,7 @@
 "class": "Macromolecule",
 "box": [
 1633.0,
-555.0,
+743.0,
 80.0,
 40.0
 ],
@@ -794,7 +794,7 @@
 "class": "Macromolecule",
 "box": [
 1737.0,
-555.0,
+743.0,
 80.0,
 40.0
 ],
@@ -850,7 +850,7 @@
 "class": "Macromolecule",
 "box": [
 1524.0,
-377.8,
+565.8,
 112.0,
 40.0
 ],
@@ -902,7 +902,7 @@
 "class": "Macromolecule",
 "box": [
 1540.0,
-431.8,
+619.8,
 80.0,
 40.0
 ],
@@ -950,7 +950,7 @@
 "class": "Macromolecule",
 "box": [
 1803.0,
-352.2,
+540.2,
 80.0,
 40.0
 ],
@@ -998,7 +998,7 @@
 "class": "Macromolecule",
 "box": [
 1803.0,
-400.2,
+588.2,
 80.0,
 40.0
 ],
@@ -1054,7 +1054,7 @@
 "class": "Macromolecule",
 "box": [
 1803.0,
-457.2,
+645.2,
 80.0,
 40.0
 ],
@@ -1110,7 +1110,7 @@
 "class": "Macromolecule",
 "box": [
 1921.0,
-265.0,
+453.0,
 80.0,
 40.0
 ],
@@ -1166,7 +1166,7 @@
 "class": "Macromolecule",
 "box": [
 2017.0,
-265.0,
+453.0,
 80.0,
 40.0
 ],
@@ -1222,7 +1222,7 @@
 "class": "Macromolecule",
 "box": [
 1825.0,
-265.0,
+453.0,
 80.0,
 40.0
 ],
@@ -1282,7 +1282,7 @@
 "class": "Macromolecule",
 "box": [
 2133.0,
-505.0,
+693.0,
 80.0,
 40.0
 ],
@@ -1342,7 +1342,7 @@
 "class": "Macromolecule",
 "box": [
 1921.0,
-525.0,
+713.0,
 80.0,
 40.0
 ],
@@ -1394,7 +1394,7 @@
 "class": "Macromolecule",
 "box": [
 2027.0,
-415.0,
+603.0,
 80.0,
 40.0
 ],
@@ -1446,7 +1446,7 @@
 "class": "NucleicAcidFeature",
 "box": [
 2133.0,
-65.0,
+153.0,
 80.0,
 40.0
 ],
@@ -1502,7 +1502,7 @@
 "class": "NucleicAcidFeature",
 "box": [
 2133.0,
-165.0,
+353.0,
 80.0,
 40.0
 ],
@@ -1562,7 +1562,7 @@
 "class": "Macromolecule",
 "box": [
 1921.0,
-65.0,
+153.0,
 80.0,
 40.0
 ],
@@ -1618,7 +1618,7 @@
 "class": "Macromolecule",
 "box": [
 1921.0,
-165.0,
+353.0,
 80.0,
 40.0
 ],
@@ -1679,7 +1679,7 @@
 "class": "Process",
 "box": [
 1423.0,
-423.0,
+611.0,
 24.0,
 24.0
 ],
@@ -1711,7 +1711,7 @@
 "class": "Process",
 "box": [
 1713.0,
-423.0,
+611.0,
 24.0,
 24.0
 ],
@@ -1752,7 +1752,7 @@
 "class": "Process",
 "box": [
 1949.0,
-423.0,
+611.0,
 24.0,
 24.0
 ],
@@ -1804,7 +1804,7 @@
 "class": "Process",
 "box": [
 2161.0,
-423.0,
+611.0,
 24.0,
 24.0
 ],
@@ -1837,19 +1837,21 @@
 "class": "Process",
 "box": [
 2055.0,
-73.0,
+161.0,
 24.0,
 24.0
 ],
 "props": [],
 "reaction": {
 "in": [
-"IFNA1"
+""
 ],
 "out": [
 "IFN-alpha"
 ],
-"by": []
+"by": [
+"IFNA1"
+]
 },
 "references": [
 {
@@ -1868,19 +1870,21 @@
 "class": "Process",
 "box": [
 2055.0,
-173.0,
+361.0,
 24.0,
 24.0
 ],
 "props": [],
 "reaction": {
 "in": [
-"IFNB1"
+""
 ],
 "out": [
 "IFN-beta"
 ],
-"by": []
+"by": [
+"IFNB1"
+]
 },
 "references": [
 {
@@ -1897,8 +1901,8 @@
 "label": "IRF7",
 "class": "Macromolecule",
 "box": [
-2293.0,
-415.0,
+2475.0,
+603.0,
 80.0,
 40.0
 ],
@@ -1949,8 +1953,8 @@
 "label": "IFNA1",
 "class": "NucleicAcidFeature",
 "box": [
-2593.0,
-65.0,
+2679.0,
+63.0,
 80.0,
 40.0
 ],
@@ -2005,8 +2009,124 @@
 "label": "IFNB1",
 "class": "NucleicAcidFeature",
 "box": [
-2389.0,
-165.0,
+2475.0,
+263.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Interferon beta"
+],
+[
+"Alternative names",
+"Fibroblast interferon"
+],
+[
+"Function",
+"Type I interferon cytokine that plays a key role in the innate immune response to infection, developing tumors and other inflammatory stimuli. Signals via binding to high-affinity (IFNAR2) and low-affinity (IFNAR1) heterodimeric receptor, activating the canonical Jak-STAT signaling pathway resulting in transcriptional activation or repression of interferon-regulated genes that encode the effectors of the interferon response, such as antiviral proteins, regulators of cell proliferation and differentiation, and immunoregulatory proteins."
+],
+[
+"Location",
+"Secreted"
+],
+[
+"HGNC",
+"HGNC:5434"
+],
+[
+"HGNC symbol",
+"IFNB1"
+],
+[
+"Previous symbols",
+"IFNB"
+],
+[
+"Alias symbols",
+"IFB, IFF"
+],
+[
+"Entrez",
+"3456"
+],
+[
+"Ensembl",
+"ENSG00000171855"
+],
+[
+"RefSeq",
+"NM_002176"
+],
+[
+"UniProt",
+"P01574"
+]
+]
+},
+{
+"label": "IFNA1",
+"class": "NucleicAcidFeature",
+"box": [
+2573.0,
+153.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Interferon alpha-1"
+],
+[
+"Alternative names",
+"Interferon alpha-D"
+],
+[
+"Function",
+"Produced by macrophages, IFN-alpha have antiviral activities. Interferon stimulates the production of two enzymes: a protein kinase and an oligoadenylate synthetase"
+],
+[
+"Location",
+"Secreted"
+],
+[
+"HGNC",
+"HGNC:5417"
+],
+[
+"HGNC symbol",
+"IFNA1"
+],
+[
+"Alias symbols",
+"IFNA@, IFL, IFN, IFN-ALPHA, IFNA13, IFN-alphaD"
+],
+[
+"Entrez",
+"3439"
+],
+[
+"Ensembl",
+"ENSG00000197919"
+],
+[
+"RefSeq",
+"NM_024013"
+],
+[
+"UniProt",
+"P0DY56"
+]
+]
+},
+{
+"label": "IFNB1",
+"class": "NucleicAcidFeature",
+"box": [
+2369.0,
+353.0,
 80.0,
 40.0
 ],
@@ -2066,20 +2186,21 @@
 "label": "",
 "class": "Process",
 "box": [
-2525.0,
-73.0,
+2707.0,
+161.0,
 24.0,
 24.0
 ],
 "props": [],
 "reaction": {
 "in": [
-"IFNA1"
+""
 ],
 "out": [
 "IFNA1"
 ],
 "by": [
+"IFNA1",
 "IRF7"
 ]
 },
@@ -2099,20 +2220,21 @@
 "label": "",
 "class": "Process",
 "box": [
-2321.0,
-173.0,
+2503.0,
+361.0,
 24.0,
 24.0
 ],
 "props": [],
 "reaction": {
 "in": [
-"IFNB1"
+""
 ],
 "out": [
 "IFNB1"
 ],
 "by": [
+"IFNB1",
 "IRF7"
 ]
 },
@@ -2132,7 +2254,7 @@
 "class": "Macromolecule",
 "box": [
 47.0,
-415.0,
+603.0,
 80.0,
 40.0
 ],
@@ -2184,7 +2306,7 @@
 "class": "Macromolecule",
 "box": [
 143.0,
-505.0,
+693.0,
 80.0,
 40.0
 ],
@@ -2237,7 +2359,7 @@
 "class": "Process",
 "box": [
 171.0,
-423.0,
+611.0,
 24.0,
 24.0
 ],

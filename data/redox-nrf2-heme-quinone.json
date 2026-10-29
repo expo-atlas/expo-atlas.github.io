@@ -1,6 +1,879 @@
 {
 "nodes": [
 {
+"label": "BACH1",
+"class": "Macromolecule",
+"box": [
+845.0,
+823.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Transcription regulator protein BACH1"
+],
+[
+"Alternative names",
+"BTB and CNC homolog 1; HA2303"
+],
+[
+"Function",
+"Transcriptional regulator that acts as a repressor or activator, depending on the context. Binds to NF-E2 DNA binding sites."
+],
+[
+"Location",
+"Nucleus"
+],
+[
+"HGNC",
+"HGNC:935"
+],
+[
+"HGNC symbol",
+"BACH1"
+],
+[
+"Alias symbols",
+"BACH-1, BTBD24"
+],
+[
+"Entrez",
+"571"
+],
+[
+"Ensembl",
+"ENSG00000156273"
+],
+[
+"RefSeq",
+"NM_206866"
+],
+[
+"UniProt",
+"O14867"
+]
+]
+},
+{
+"label": "HMOX1",
+"class": "NucleicAcidFeature",
+"box": [
+739.0,
+423.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Heme oxygenase 1"
+],
+[
+"Function",
+"Catalyzes the oxidative cleavage of heme at the alpha-methene bridge carbon, released as carbon monoxide (CO), to generate biliverdin IXalpha, while releasing the central heme iron chelate as ferrous iron. Affords protection against programmed cell death and this cytoprotective effect relies on its ability to catabolize free heme and prevent it from sensitizing cells to undergo apoptosis"
+],
+[
+"Location",
+"Endoplasmic reticulum membrane"
+],
+[
+"HGNC",
+"HGNC:5013"
+],
+[
+"HGNC symbol",
+"HMOX1"
+],
+[
+"Alias symbols",
+"bK286B10, HO-1"
+],
+[
+"Entrez",
+"3162"
+],
+[
+"Ensembl",
+"ENSG00000100292"
+],
+[
+"RefSeq",
+"NM_002133"
+],
+[
+"UniProt",
+"P09601"
+]
+]
+},
+{
+"label": "NQO1",
+"class": "NucleicAcidFeature",
+"box": [
+739.0,
+153.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"NAD(P)H dehydrogenase [quinone] 1"
+],
+[
+"Alternative names",
+"Azoreductase; DT-diaphorase; Menadione reductase; NAD(P)H:quinone oxidoreductase 1; Phylloquinone reductase; Quinone reductase 1"
+],
+[
+"Function",
+"Flavin-containing quinone reductase that catalyzes two-electron reduction of quinones to hydroquinones using either NADH or NADPH as electron donors. In a ping-pong kinetic mechanism, the electrons are sequentially transferred from NAD(P)H to flavin cofactor and then from reduced flavin to the quinone, bypassing the formation of semiquinone and reactive oxygen species."
+],
+[
+"Location",
+"Cytoplasm, cytosol"
+],
+[
+"HGNC",
+"HGNC:2874"
+],
+[
+"HGNC symbol",
+"NQO1"
+],
+[
+"Previous symbols",
+"NMOR1, DIA4"
+],
+[
+"Alias symbols",
+"DHQU, QR1, DTD"
+],
+[
+"Entrez",
+"1728"
+],
+[
+"Ensembl",
+"ENSG00000181019"
+],
+[
+"RefSeq",
+"NM_000903"
+],
+[
+"UniProt",
+"P15559"
+]
+]
+},
+{
+"label": "BACH1",
+"class": "NucleicAcidFeature",
+"box": [
+739.0,
+963.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Transcription regulator protein BACH1"
+],
+[
+"Alternative names",
+"BTB and CNC homolog 1; HA2303"
+],
+[
+"Function",
+"Transcriptional regulator that acts as a repressor or activator, depending on the context. Binds to NF-E2 DNA binding sites."
+],
+[
+"Location",
+"Nucleus"
+],
+[
+"HGNC",
+"HGNC:935"
+],
+[
+"HGNC symbol",
+"BACH1"
+],
+[
+"Alias symbols",
+"BACH-1, BTBD24"
+],
+[
+"Entrez",
+"571"
+],
+[
+"Ensembl",
+"ENSG00000156273"
+],
+[
+"RefSeq",
+"NM_206866"
+],
+[
+"UniProt",
+"O14867"
+]
+]
+},
+{
+"label": "1,2-naphthoquinone",
+"class": "SimpleChemical",
+"box": [
+1077.0,
+263.0,
+40.0,
+40.0
+],
+"props": [
+[
+"ChEBI",
+"CHEBI:27921"
+]
+]
+},
+{
+"label": "O2",
+"class": "SimpleChemical",
+"box": [
+1333.0,
+263.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"dioxygen"
+],
+[
+"Synonyms",
+"Disauerstoff; E 948; E-948; E948; O(2); O2; OXYGEN MOLECULE; Oxygen; [OO]; dioxygene; molecular oxygen"
+],
+[
+"Formula",
+"O2"
+],
+[
+"ChEBI",
+"CHEBI:15379"
+],
+[
+"KEGG",
+"C00007"
+],
+[
+"HMDB",
+"HMDB0001377"
+],
+[
+"InChI",
+"InChI=1S/O2/c1-2"
+],
+[
+"InChIKey",
+"MYMOFIZGZYHOMD-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "O2.-",
+"class": "SimpleChemical",
+"box": [
+1333.0,
+353.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"superoxide"
+],
+[
+"Synonyms",
+"(O2)(.-); Dioxid(1-); Hyperoxid; O2(-); O2(.-); O2-; O2.-; Superoxide anion; dioxidanidyl; dioxide(.1-); dioxide(1-); hiperoxido; hyperoxide; superoxide anion radical; superoxide radical; superoxide radical anion; superoxido; superoxyde"
+],
+[
+"Formula",
+"O2"
+],
+[
+"ChEBI",
+"CHEBI:18421"
+],
+[
+"KEGG",
+"C00704"
+],
+[
+"HMDB",
+"HMDB0002168"
+],
+[
+"InChI",
+"InChI=1S/HO2/c1-2/h1H/p-1"
+],
+[
+"InChIKey",
+"OUUQCZGPVNCOIJ-UHFFFAOYSA-M"
+]
+]
+},
+{
+"label": "HMOX1",
+"class": "Macromolecule",
+"box": [
+951.0,
+423.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Heme oxygenase 1"
+],
+[
+"Function",
+"Catalyzes the oxidative cleavage of heme at the alpha-methene bridge carbon, released as carbon monoxide (CO), to generate biliverdin IXalpha, while releasing the central heme iron chelate as ferrous iron. Affords protection against programmed cell death and this cytoprotective effect relies on its ability to catabolize free heme and prevent it from sensitizing cells to undergo apoptosis"
+],
+[
+"Location",
+"Endoplasmic reticulum membrane"
+],
+[
+"HGNC",
+"HGNC:5013"
+],
+[
+"HGNC symbol",
+"HMOX1"
+],
+[
+"Alias symbols",
+"bK286B10, HO-1"
+],
+[
+"Entrez",
+"3162"
+],
+[
+"Ensembl",
+"ENSG00000100292"
+],
+[
+"RefSeq",
+"NM_002133"
+],
+[
+"UniProt",
+"P09601"
+]
+]
+},
+{
+"label": "NQO1",
+"class": "Macromolecule",
+"box": [
+951.0,
+153.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"NAD(P)H dehydrogenase [quinone] 1"
+],
+[
+"Alternative names",
+"Azoreductase; DT-diaphorase; Menadione reductase; NAD(P)H:quinone oxidoreductase 1; Phylloquinone reductase; Quinone reductase 1"
+],
+[
+"Function",
+"Flavin-containing quinone reductase that catalyzes two-electron reduction of quinones to hydroquinones using either NADH or NADPH as electron donors. In a ping-pong kinetic mechanism, the electrons are sequentially transferred from NAD(P)H to flavin cofactor and then from reduced flavin to the quinone, bypassing the formation of semiquinone and reactive oxygen species."
+],
+[
+"Location",
+"Cytoplasm, cytosol"
+],
+[
+"HGNC",
+"HGNC:2874"
+],
+[
+"HGNC symbol",
+"NQO1"
+],
+[
+"Previous symbols",
+"NMOR1, DIA4"
+],
+[
+"Alias symbols",
+"DHQU, QR1, DTD"
+],
+[
+"Entrez",
+"1728"
+],
+[
+"Ensembl",
+"ENSG00000181019"
+],
+[
+"RefSeq",
+"NM_000903"
+],
+[
+"UniProt",
+"P15559"
+]
+]
+},
+{
+"label": "NADPH",
+"class": "SimpleChemical",
+"box": [
+1077.0,
+333.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"NADPH"
+],
+[
+"Synonyms",
+"2'-O-phosphonoadenosine 5'-{3-[1-(3-carbamoyl-1,4-dihydropyridin-1-yl)-1,4-anhydro-D-ribitol-5-yl] dihydrogen diphosphate}; NADPH DIHYDRO-NICOTINAMIDE-ADENINE-DINUCLEOTIDE PHOSPHATE; Reduced nicotinamide adenine dinucleotide phosphate; TPNH; dihydronicotinamide-adenine dinucleotide phosphate; reduced nicotinamide-adenine dinucleotide phosphate"
+],
+[
+"Definition",
+"The reduced form of NADP+; used in anabolic reactions, such as lipid and nucleic acid synthesis, which require NADPH as a reducing agent."
+],
+[
+"Formula",
+"C21H30N7O17P3"
+],
+[
+"ChEBI",
+"CHEBI:16474"
+],
+[
+"KEGG",
+"C00005"
+],
+[
+"HMDB",
+"HMDB0000221"
+],
+[
+"InChI",
+"InChI=1S/C21H30N7O17P3/c22-17-12-19(25-7-24-17)28(8-26-12)21-16(44-46(33,34)35)14(30)11(43-21)6-41-48(38,39)45-47(36,37)40-5-10-13(29)15(31)20(42-10)27-3-1-2-9(4-27)18(23)32/h1,3-4,7-8,10-11,13-16,20-21,29-31H,2,5-6H2,(H2,23,32)(H,36,37)(H,38,39)(H2,22,24,25)(H2,33,34,35)/t10-,11-,13-,14-,15-,16-,20-,21-/m1/s1"
+],
+[
+"InChIKey",
+"ACFIXJIJDZMPPO-NNYOXOHSSA-N"
+]
+]
+},
+{
+"label": "NADPH",
+"class": "SimpleChemical",
+"box": [
+1077.0,
+63.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"NADPH"
+],
+[
+"Synonyms",
+"2'-O-phosphonoadenosine 5'-{3-[1-(3-carbamoyl-1,4-dihydropyridin-1-yl)-1,4-anhydro-D-ribitol-5-yl] dihydrogen diphosphate}; NADPH DIHYDRO-NICOTINAMIDE-ADENINE-DINUCLEOTIDE PHOSPHATE; Reduced nicotinamide adenine dinucleotide phosphate; TPNH; dihydronicotinamide-adenine dinucleotide phosphate; reduced nicotinamide-adenine dinucleotide phosphate"
+],
+[
+"Definition",
+"The reduced form of NADP+; used in anabolic reactions, such as lipid and nucleic acid synthesis, which require NADPH as a reducing agent."
+],
+[
+"Formula",
+"C21H30N7O17P3"
+],
+[
+"ChEBI",
+"CHEBI:16474"
+],
+[
+"KEGG",
+"C00005"
+],
+[
+"HMDB",
+"HMDB0000221"
+],
+[
+"InChI",
+"InChI=1S/C21H30N7O17P3/c22-17-12-19(25-7-24-17)28(8-26-12)21-16(44-46(33,34)35)14(30)11(43-21)6-41-48(38,39)45-47(36,37)40-5-10-13(29)15(31)20(42-10)27-3-1-2-9(4-27)18(23)32/h1,3-4,7-8,10-11,13-16,20-21,29-31H,2,5-6H2,(H2,23,32)(H,36,37)(H,38,39)(H2,22,24,25)(H2,33,34,35)/t10-,11-,13-,14-,15-,16-,20-,21-/m1/s1"
+],
+[
+"InChIKey",
+"ACFIXJIJDZMPPO-NNYOXOHSSA-N"
+]
+]
+},
+{
+"label": "heme",
+"class": "SimpleChemical",
+"box": [
+1077.0,
+513.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"heme"
+],
+[
+"Synonyms",
+"Haem; haeme; hem; hemes; hemos"
+],
+[
+"Definition",
+"A heme is any tetrapyrrolic chelate of iron."
+],
+[
+"ChEBI",
+"CHEBI:30413"
+],
+[
+"KEGG",
+"C00032"
+]
+]
+},
+{
+"label": "biliverdin",
+"class": "SimpleChemical",
+"box": [
+1173.0,
+363.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"biliverdin"
+],
+[
+"Synonyms",
+"8,12-bis(2-carboxyethyl)-2,7,13,17-tetramethyl-3,18-divinylbilin-1(19)(21H,24H)-dione; BILIVERDINE IX ALPHA; Biliverdin IX alpha; Biliverdin IXalpha; Biliverdine"
+],
+[
+"Definition",
+"A linear tetrapyrrole produced in the reticuloendothelial system by the first step of heme degradation, catalysed by heme oxygenase."
+],
+[
+"Formula",
+"C33H34N4O6"
+],
+[
+"ChEBI",
+"CHEBI:17033"
+],
+[
+"KEGG",
+"C00500"
+],
+[
+"HMDB",
+"HMDB0001008"
+],
+[
+"InChI",
+"InChI=1S/C33H34N4O6/c1-7-20-19(6)32(42)37-27(20)14-25-18(5)23(10-12-31(40)41)29(35-25)15-28-22(9-11-30(38)39)17(4)24(34-28)13-26-16(3)21(8-2)33(43)36-26/h7-8,13-15,35H,1-2,9-12H2,3-6H3,(H,36,43)(H,37,42)(H,38,39)(H,40,41)/b26-13-,27-14-,28-15-"
+],
+[
+"InChIKey",
+"QBUVFDKTZJNUPP-BBROENKCSA-N"
+]
+]
+},
+{
+"label": "Fe2+",
+"class": "SimpleChemical",
+"box": [
+1173.0,
+483.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"iron(2+)"
+],
+[
+"Synonyms",
+"FE (II) ION; Fe(2+); Fe(II); Fe2+; Ferrous ion; iron ion(2+); iron(2+) ion; iron(II) cation"
+],
+[
+"Formula",
+"Fe"
+],
+[
+"ChEBI",
+"CHEBI:29033"
+],
+[
+"KEGG",
+"C14818"
+],
+[
+"InChI",
+"InChI=1S/Fe/q+2"
+],
+[
+"InChIKey",
+"CWYNVVGOOAEACU-UHFFFAOYSA-N"
+]
+]
+},
+{
+"id": "nfcmugcr",
+"label": "",
+"class": "Process",
+"box": [
+873.0,
+431.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+""
+],
+"out": [
+"HMOX1"
+],
+"by": [
+"HMOX1"
+]
+},
+"references": [
+{
+"authors": "Li N et al.",
+"journal": "J Immunol",
+"title": "Nrf2 is a key transcription factor that regulates antioxidant defense in macrophages and epithelial cells: protecting against the proinflammatory and oxidizing effects of diesel exhaust chemicals.",
+"year": "2004",
+"db": "pubmed",
+"id": "15322212"
+}
+]
+},
+{
+"id": "krqhaw3c",
+"label": "",
+"class": "Process",
+"box": [
+873.0,
+161.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+""
+],
+"out": [
+"NQO1"
+],
+"by": [
+"NQO1"
+]
+},
+"references": [
+{
+"authors": "Nioi P et al.",
+"journal": "Biochem J",
+"title": "Identification of a novel Nrf2-regulated antioxidant response element (ARE) in the mouse NAD(P)H:quinone oxidoreductase 1 gene: reassessment of the ARE consensus sequence.",
+"year": "2003",
+"db": "pubmed",
+"id": "12816537"
+}
+]
+},
+{
+"id": "s3ww82z9",
+"label": "",
+"class": "Process",
+"box": [
+873.0,
+971.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+""
+],
+"out": [
+"BACH1"
+],
+"by": [
+"BACH1"
+]
+},
+"references": [
+{
+"authors": "Jyrkkänen HK et al.",
+"journal": "Biochem J",
+"title": "Novel insights into the regulation of antioxidant-response-element-mediated gene expression by electrophiles: induction of the transcriptional repressor BACH1 by Nrf2.",
+"year": "2011",
+"db": "pubmed",
+"id": "21812759"
+}
+]
+},
+{
+"id": "azzzt7kc",
+"label": "",
+"class": "Process",
+"box": [
+1085.0,
+431.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"heme",
+"NADPH"
+],
+"out": [
+"biliverdin",
+"Fe2+"
+],
+"by": [
+"HMOX1"
+]
+},
+"references": [
+{
+"authors": "Ryter SW et al.",
+"journal": "Physiol Rev",
+"title": "Heme oxygenase-1/carbon monoxide: from basic science to therapeutic applications.",
+"year": "2006",
+"db": "pubmed",
+"id": "16601269"
+}
+]
+},
+{
+"id": "pqqa9rh3",
+"label": "",
+"class": "Process",
+"box": [
+1085.0,
+161.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"1,2-naphthoquinone",
+"NADPH"
+],
+"out": [
+"1,2-naphthalenediol"
+],
+"by": [
+"NQO1"
+]
+},
+"references": [
+{
+"authors": "Ross D et al.",
+"journal": "Front Physiol",
+"title": "Functions of NQO1 in Cellular Protection and CoQ(10) Metabolism and its Potential Role as a Redox Sensitive Molecular Switch.",
+"year": "2017",
+"db": "pubmed",
+"id": "28883796"
+},
+{
+"authors": "Matsunaga T et al.",
+"journal": "Chem Biol Interact",
+"title": "Facilitation of 9,10-phenanthrenequinone-elicited neuroblastoma cell apoptosis by NAD(P)H:quinone oxidoreductase 1.",
+"year": "2018",
+"db": "pubmed",
+"id": "29108775"
+}
+]
+},
+{
+"id": "k7a8saa7",
+"label": "",
+"class": "Process",
+"box": [
+1245.0,
+271.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"1,2-naphthalenediol",
+"O2"
+],
+"out": [
+"1,2-naphthoquinone",
+"O2.-"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Matsunaga T et al.",
+"journal": "Chem Biol Interact",
+"title": "Facilitation of 9,10-phenanthrenequinone-elicited neuroblastoma cell apoptosis by NAD(P)H:quinone oxidoreductase 1.",
+"year": "2018",
+"db": "pubmed",
+"id": "29108775"
+},
+{
+"authors": "Penning TM",
+"journal": "Chem Res Toxicol",
+"title": "Human aldo-keto reductases and the metabolic activation of polycyclic aromatic hydrocarbons.",
+"year": "2014",
+"db": "pubmed",
+"id": "25279998"
+}
+]
+},
+{
 "label": "HMOX1",
 "class": "NucleicAcidFeature",
 "box": [
@@ -116,8 +989,8 @@
 "label": "BACH1",
 "class": "NucleicAcidFeature",
 "box": [
-199.0,
-933.0,
+319.0,
+1053.0,
 80.0,
 40.0
 ],
@@ -173,7 +1046,7 @@
 "class": "Macromolecule",
 "box": [
 59.0,
-433.2,
+553.2,
 80.0,
 40.0
 ],
@@ -233,7 +1106,7 @@
 "class": "Macromolecule",
 "box": [
 59.0,
-481.2,
+601.2,
 80.0,
 40.0
 ],
@@ -541,6 +1414,174 @@
 ]
 },
 {
+"label": "HMOX1",
+"class": "NucleicAcidFeature",
+"box": [
+425.0,
+423.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Heme oxygenase 1"
+],
+[
+"Function",
+"Catalyzes the oxidative cleavage of heme at the alpha-methene bridge carbon, released as carbon monoxide (CO), to generate biliverdin IXalpha, while releasing the central heme iron chelate as ferrous iron. Affords protection against programmed cell death and this cytoprotective effect relies on its ability to catabolize free heme and prevent it from sensitizing cells to undergo apoptosis"
+],
+[
+"Location",
+"Endoplasmic reticulum membrane"
+],
+[
+"HGNC",
+"HGNC:5013"
+],
+[
+"HGNC symbol",
+"HMOX1"
+],
+[
+"Alias symbols",
+"bK286B10, HO-1"
+],
+[
+"Entrez",
+"3162"
+],
+[
+"Ensembl",
+"ENSG00000100292"
+],
+[
+"RefSeq",
+"NM_002133"
+],
+[
+"UniProt",
+"P09601"
+]
+]
+},
+{
+"label": "NQO1",
+"class": "NucleicAcidFeature",
+"box": [
+425.0,
+153.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"NAD(P)H dehydrogenase [quinone] 1"
+],
+[
+"Alternative names",
+"Azoreductase; DT-diaphorase; Menadione reductase; NAD(P)H:quinone oxidoreductase 1; Phylloquinone reductase; Quinone reductase 1"
+],
+[
+"Function",
+"Flavin-containing quinone reductase that catalyzes two-electron reduction of quinones to hydroquinones using either NADH or NADPH as electron donors. In a ping-pong kinetic mechanism, the electrons are sequentially transferred from NAD(P)H to flavin cofactor and then from reduced flavin to the quinone, bypassing the formation of semiquinone and reactive oxygen species."
+],
+[
+"Location",
+"Cytoplasm, cytosol"
+],
+[
+"HGNC",
+"HGNC:2874"
+],
+[
+"HGNC symbol",
+"NQO1"
+],
+[
+"Previous symbols",
+"NMOR1, DIA4"
+],
+[
+"Alias symbols",
+"DHQU, QR1, DTD"
+],
+[
+"Entrez",
+"1728"
+],
+[
+"Ensembl",
+"ENSG00000181019"
+],
+[
+"RefSeq",
+"NM_000903"
+],
+[
+"UniProt",
+"P15559"
+]
+]
+},
+{
+"label": "BACH1",
+"class": "NucleicAcidFeature",
+"box": [
+425.0,
+963.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Transcription regulator protein BACH1"
+],
+[
+"Alternative names",
+"BTB and CNC homolog 1; HA2303"
+],
+[
+"Function",
+"Transcriptional regulator that acts as a repressor or activator, depending on the context. Binds to NF-E2 DNA binding sites."
+],
+[
+"Location",
+"Nucleus"
+],
+[
+"HGNC",
+"HGNC:935"
+],
+[
+"HGNC symbol",
+"BACH1"
+],
+[
+"Alias symbols",
+"BACH-1, BTBD24"
+],
+[
+"Entrez",
+"571"
+],
+[
+"Ensembl",
+"ENSG00000156273"
+],
+[
+"RefSeq",
+"NM_206866"
+],
+[
+"UniProt",
+"O14867"
+]
+]
+},
+{
 "id": "mtxlynva",
 "label": "",
 "class": "Process",
@@ -553,12 +1594,13 @@
 "props": [],
 "reaction": {
 "in": [
-"HMOX1"
+""
 ],
 "out": [
 "HMOX1"
 ],
 "by": [
+"HMOX1",
 "NRF2:MAFG",
 "BACH1:MAFG"
 ]
@@ -603,12 +1645,13 @@
 "props": [],
 "reaction": {
 "in": [
-"NQO1"
+""
 ],
 "out": [
 "NQO1"
 ],
 "by": [
+"NQO1",
 "NRF2:MAFG"
 ]
 },
@@ -629,19 +1672,20 @@
 "class": "Process",
 "box": [
 347.0,
-941.0,
+971.0,
 24.0,
 24.0
 ],
 "props": [],
 "reaction": {
 "in": [
-"BACH1"
+""
 ],
 "out": [
 "BACH1"
 ],
 "by": [
+"BACH1",
 "NRF2:MAFG"
 ]
 },
@@ -766,817 +1810,6 @@
 "year": "2004",
 "db": "pubmed",
 "id": "15175654"
-}
-]
-},
-{
-"label": "HMOX1",
-"class": "NucleicAcidFeature",
-"box": [
-739.0,
-423.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Heme oxygenase 1"
-],
-[
-"Function",
-"Catalyzes the oxidative cleavage of heme at the alpha-methene bridge carbon, released as carbon monoxide (CO), to generate biliverdin IXalpha, while releasing the central heme iron chelate as ferrous iron. Affords protection against programmed cell death and this cytoprotective effect relies on its ability to catabolize free heme and prevent it from sensitizing cells to undergo apoptosis"
-],
-[
-"Location",
-"Endoplasmic reticulum membrane"
-],
-[
-"HGNC",
-"HGNC:5013"
-],
-[
-"HGNC symbol",
-"HMOX1"
-],
-[
-"Alias symbols",
-"bK286B10, HO-1"
-],
-[
-"Entrez",
-"3162"
-],
-[
-"Ensembl",
-"ENSG00000100292"
-],
-[
-"RefSeq",
-"NM_002133"
-],
-[
-"UniProt",
-"P09601"
-]
-]
-},
-{
-"label": "NQO1",
-"class": "NucleicAcidFeature",
-"box": [
-739.0,
-153.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"NAD(P)H dehydrogenase [quinone] 1"
-],
-[
-"Alternative names",
-"Azoreductase; DT-diaphorase; Menadione reductase; NAD(P)H:quinone oxidoreductase 1; Phylloquinone reductase; Quinone reductase 1"
-],
-[
-"Function",
-"Flavin-containing quinone reductase that catalyzes two-electron reduction of quinones to hydroquinones using either NADH or NADPH as electron donors. In a ping-pong kinetic mechanism, the electrons are sequentially transferred from NAD(P)H to flavin cofactor and then from reduced flavin to the quinone, bypassing the formation of semiquinone and reactive oxygen species."
-],
-[
-"Location",
-"Cytoplasm, cytosol"
-],
-[
-"HGNC",
-"HGNC:2874"
-],
-[
-"HGNC symbol",
-"NQO1"
-],
-[
-"Previous symbols",
-"NMOR1, DIA4"
-],
-[
-"Alias symbols",
-"DHQU, QR1, DTD"
-],
-[
-"Entrez",
-"1728"
-],
-[
-"Ensembl",
-"ENSG00000181019"
-],
-[
-"RefSeq",
-"NM_000903"
-],
-[
-"UniProt",
-"P15559"
-]
-]
-},
-{
-"label": "BACH1",
-"class": "NucleicAcidFeature",
-"box": [
-739.0,
-933.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Transcription regulator protein BACH1"
-],
-[
-"Alternative names",
-"BTB and CNC homolog 1; HA2303"
-],
-[
-"Function",
-"Transcriptional regulator that acts as a repressor or activator, depending on the context. Binds to NF-E2 DNA binding sites."
-],
-[
-"Location",
-"Nucleus"
-],
-[
-"HGNC",
-"HGNC:935"
-],
-[
-"HGNC symbol",
-"BACH1"
-],
-[
-"Alias symbols",
-"BACH-1, BTBD24"
-],
-[
-"Entrez",
-"571"
-],
-[
-"Ensembl",
-"ENSG00000156273"
-],
-[
-"RefSeq",
-"NM_206866"
-],
-[
-"UniProt",
-"O14867"
-]
-]
-},
-{
-"label": "1,2-naphthoquinone",
-"class": "SimpleChemical",
-"box": [
-1047.0,
-263.0,
-40.0,
-40.0
-],
-"props": [
-[
-"ChEBI",
-"CHEBI:27921"
-]
-]
-},
-{
-"label": "O2",
-"class": "SimpleChemical",
-"box": [
-1303.0,
-263.0,
-40.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"dioxygen"
-],
-[
-"Synonyms",
-"Disauerstoff; E 948; E-948; E948; O(2); O2; OXYGEN MOLECULE; Oxygen; [OO]; dioxygene; molecular oxygen"
-],
-[
-"Formula",
-"O2"
-],
-[
-"ChEBI",
-"CHEBI:15379"
-],
-[
-"KEGG",
-"C00007"
-],
-[
-"HMDB",
-"HMDB0001377"
-],
-[
-"InChI",
-"InChI=1S/O2/c1-2"
-],
-[
-"InChIKey",
-"MYMOFIZGZYHOMD-UHFFFAOYSA-N"
-]
-]
-},
-{
-"label": "O2.-",
-"class": "SimpleChemical",
-"box": [
-1303.0,
-353.0,
-40.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"superoxide"
-],
-[
-"Synonyms",
-"(O2)(.-); Dioxid(1-); Hyperoxid; O2(-); O2(.-); O2-; O2.-; Superoxide anion; dioxidanidyl; dioxide(.1-); dioxide(1-); hiperoxido; hyperoxide; superoxide anion radical; superoxide radical; superoxide radical anion; superoxido; superoxyde"
-],
-[
-"Formula",
-"O2"
-],
-[
-"ChEBI",
-"CHEBI:18421"
-],
-[
-"KEGG",
-"C00704"
-],
-[
-"HMDB",
-"HMDB0002168"
-],
-[
-"InChI",
-"InChI=1S/HO2/c1-2/h1H/p-1"
-],
-[
-"InChIKey",
-"OUUQCZGPVNCOIJ-UHFFFAOYSA-M"
-]
-]
-},
-{
-"label": "HMOX1",
-"class": "Macromolecule",
-"box": [
-931.0,
-423.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Heme oxygenase 1"
-],
-[
-"Function",
-"Catalyzes the oxidative cleavage of heme at the alpha-methene bridge carbon, released as carbon monoxide (CO), to generate biliverdin IXalpha, while releasing the central heme iron chelate as ferrous iron. Affords protection against programmed cell death and this cytoprotective effect relies on its ability to catabolize free heme and prevent it from sensitizing cells to undergo apoptosis"
-],
-[
-"Location",
-"Endoplasmic reticulum membrane"
-],
-[
-"HGNC",
-"HGNC:5013"
-],
-[
-"HGNC symbol",
-"HMOX1"
-],
-[
-"Alias symbols",
-"bK286B10, HO-1"
-],
-[
-"Entrez",
-"3162"
-],
-[
-"Ensembl",
-"ENSG00000100292"
-],
-[
-"RefSeq",
-"NM_002133"
-],
-[
-"UniProt",
-"P09601"
-]
-]
-},
-{
-"label": "NQO1",
-"class": "Macromolecule",
-"box": [
-931.0,
-153.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"NAD(P)H dehydrogenase [quinone] 1"
-],
-[
-"Alternative names",
-"Azoreductase; DT-diaphorase; Menadione reductase; NAD(P)H:quinone oxidoreductase 1; Phylloquinone reductase; Quinone reductase 1"
-],
-[
-"Function",
-"Flavin-containing quinone reductase that catalyzes two-electron reduction of quinones to hydroquinones using either NADH or NADPH as electron donors. In a ping-pong kinetic mechanism, the electrons are sequentially transferred from NAD(P)H to flavin cofactor and then from reduced flavin to the quinone, bypassing the formation of semiquinone and reactive oxygen species."
-],
-[
-"Location",
-"Cytoplasm, cytosol"
-],
-[
-"HGNC",
-"HGNC:2874"
-],
-[
-"HGNC symbol",
-"NQO1"
-],
-[
-"Previous symbols",
-"NMOR1, DIA4"
-],
-[
-"Alias symbols",
-"DHQU, QR1, DTD"
-],
-[
-"Entrez",
-"1728"
-],
-[
-"Ensembl",
-"ENSG00000181019"
-],
-[
-"RefSeq",
-"NM_000903"
-],
-[
-"UniProt",
-"P15559"
-]
-]
-},
-{
-"label": "NADPH",
-"class": "SimpleChemical",
-"box": [
-1047.0,
-333.0,
-40.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"NADPH"
-],
-[
-"Synonyms",
-"2'-O-phosphonoadenosine 5'-{3-[1-(3-carbamoyl-1,4-dihydropyridin-1-yl)-1,4-anhydro-D-ribitol-5-yl] dihydrogen diphosphate}; NADPH DIHYDRO-NICOTINAMIDE-ADENINE-DINUCLEOTIDE PHOSPHATE; Reduced nicotinamide adenine dinucleotide phosphate; TPNH; dihydronicotinamide-adenine dinucleotide phosphate; reduced nicotinamide-adenine dinucleotide phosphate"
-],
-[
-"Definition",
-"The reduced form of NADP+; used in anabolic reactions, such as lipid and nucleic acid synthesis, which require NADPH as a reducing agent."
-],
-[
-"Formula",
-"C21H30N7O17P3"
-],
-[
-"ChEBI",
-"CHEBI:16474"
-],
-[
-"KEGG",
-"C00005"
-],
-[
-"HMDB",
-"HMDB0000221"
-],
-[
-"InChI",
-"InChI=1S/C21H30N7O17P3/c22-17-12-19(25-7-24-17)28(8-26-12)21-16(44-46(33,34)35)14(30)11(43-21)6-41-48(38,39)45-47(36,37)40-5-10-13(29)15(31)20(42-10)27-3-1-2-9(4-27)18(23)32/h1,3-4,7-8,10-11,13-16,20-21,29-31H,2,5-6H2,(H2,23,32)(H,36,37)(H,38,39)(H2,22,24,25)(H2,33,34,35)/t10-,11-,13-,14-,15-,16-,20-,21-/m1/s1"
-],
-[
-"InChIKey",
-"ACFIXJIJDZMPPO-NNYOXOHSSA-N"
-]
-]
-},
-{
-"label": "NADPH",
-"class": "SimpleChemical",
-"box": [
-1047.0,
-63.0,
-40.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"NADPH"
-],
-[
-"Synonyms",
-"2'-O-phosphonoadenosine 5'-{3-[1-(3-carbamoyl-1,4-dihydropyridin-1-yl)-1,4-anhydro-D-ribitol-5-yl] dihydrogen diphosphate}; NADPH DIHYDRO-NICOTINAMIDE-ADENINE-DINUCLEOTIDE PHOSPHATE; Reduced nicotinamide adenine dinucleotide phosphate; TPNH; dihydronicotinamide-adenine dinucleotide phosphate; reduced nicotinamide-adenine dinucleotide phosphate"
-],
-[
-"Definition",
-"The reduced form of NADP+; used in anabolic reactions, such as lipid and nucleic acid synthesis, which require NADPH as a reducing agent."
-],
-[
-"Formula",
-"C21H30N7O17P3"
-],
-[
-"ChEBI",
-"CHEBI:16474"
-],
-[
-"KEGG",
-"C00005"
-],
-[
-"HMDB",
-"HMDB0000221"
-],
-[
-"InChI",
-"InChI=1S/C21H30N7O17P3/c22-17-12-19(25-7-24-17)28(8-26-12)21-16(44-46(33,34)35)14(30)11(43-21)6-41-48(38,39)45-47(36,37)40-5-10-13(29)15(31)20(42-10)27-3-1-2-9(4-27)18(23)32/h1,3-4,7-8,10-11,13-16,20-21,29-31H,2,5-6H2,(H2,23,32)(H,36,37)(H,38,39)(H2,22,24,25)(H2,33,34,35)/t10-,11-,13-,14-,15-,16-,20-,21-/m1/s1"
-],
-[
-"InChIKey",
-"ACFIXJIJDZMPPO-NNYOXOHSSA-N"
-]
-]
-},
-{
-"label": "heme",
-"class": "SimpleChemical",
-"box": [
-1047.0,
-513.0,
-40.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"heme"
-],
-[
-"Synonyms",
-"Haem; haeme; hem; hemes; hemos"
-],
-[
-"Definition",
-"A heme is any tetrapyrrolic chelate of iron."
-],
-[
-"ChEBI",
-"CHEBI:30413"
-],
-[
-"KEGG",
-"C00032"
-]
-]
-},
-{
-"label": "biliverdin",
-"class": "SimpleChemical",
-"box": [
-1143.0,
-363.0,
-40.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"biliverdin"
-],
-[
-"Synonyms",
-"8,12-bis(2-carboxyethyl)-2,7,13,17-tetramethyl-3,18-divinylbilin-1(19)(21H,24H)-dione; BILIVERDINE IX ALPHA; Biliverdin IX alpha; Biliverdin IXalpha; Biliverdine"
-],
-[
-"Definition",
-"A linear tetrapyrrole produced in the reticuloendothelial system by the first step of heme degradation, catalysed by heme oxygenase."
-],
-[
-"Formula",
-"C33H34N4O6"
-],
-[
-"ChEBI",
-"CHEBI:17033"
-],
-[
-"KEGG",
-"C00500"
-],
-[
-"HMDB",
-"HMDB0001008"
-],
-[
-"InChI",
-"InChI=1S/C33H34N4O6/c1-7-20-19(6)32(42)37-27(20)14-25-18(5)23(10-12-31(40)41)29(35-25)15-28-22(9-11-30(38)39)17(4)24(34-28)13-26-16(3)21(8-2)33(43)36-26/h7-8,13-15,35H,1-2,9-12H2,3-6H3,(H,36,43)(H,37,42)(H,38,39)(H,40,41)/b26-13-,27-14-,28-15-"
-],
-[
-"InChIKey",
-"QBUVFDKTZJNUPP-BBROENKCSA-N"
-]
-]
-},
-{
-"label": "Fe2+",
-"class": "SimpleChemical",
-"box": [
-1143.0,
-483.0,
-40.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"iron(2+)"
-],
-[
-"Synonyms",
-"FE (II) ION; Fe(2+); Fe(II); Fe2+; Ferrous ion; iron ion(2+); iron(2+) ion; iron(II) cation"
-],
-[
-"Formula",
-"Fe"
-],
-[
-"ChEBI",
-"CHEBI:29033"
-],
-[
-"KEGG",
-"C14818"
-],
-[
-"InChI",
-"InChI=1S/Fe/q+2"
-],
-[
-"InChIKey",
-"CWYNVVGOOAEACU-UHFFFAOYSA-N"
-]
-]
-},
-{
-"id": "nfcmugcr",
-"label": "",
-"class": "Process",
-"box": [
-863.0,
-431.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"HMOX1"
-],
-"out": [
-"HMOX1"
-],
-"by": []
-},
-"references": [
-{
-"authors": "Li N et al.",
-"journal": "J Immunol",
-"title": "Nrf2 is a key transcription factor that regulates antioxidant defense in macrophages and epithelial cells: protecting against the proinflammatory and oxidizing effects of diesel exhaust chemicals.",
-"year": "2004",
-"db": "pubmed",
-"id": "15322212"
-}
-]
-},
-{
-"id": "krqhaw3c",
-"label": "",
-"class": "Process",
-"box": [
-863.0,
-161.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"NQO1"
-],
-"out": [
-"NQO1"
-],
-"by": []
-},
-"references": [
-{
-"authors": "Nioi P et al.",
-"journal": "Biochem J",
-"title": "Identification of a novel Nrf2-regulated antioxidant response element (ARE) in the mouse NAD(P)H:quinone oxidoreductase 1 gene: reassessment of the ARE consensus sequence.",
-"year": "2003",
-"db": "pubmed",
-"id": "12816537"
-}
-]
-},
-{
-"id": "s3ww82z9",
-"label": "",
-"class": "Process",
-"box": [
-863.0,
-941.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"BACH1"
-],
-"out": [
-"BACH1"
-],
-"by": []
-},
-"references": [
-{
-"authors": "Jyrkkänen HK et al.",
-"journal": "Biochem J",
-"title": "Novel insights into the regulation of antioxidant-response-element-mediated gene expression by electrophiles: induction of the transcriptional repressor BACH1 by Nrf2.",
-"year": "2011",
-"db": "pubmed",
-"id": "21812759"
-}
-]
-},
-{
-"id": "azzzt7kc",
-"label": "",
-"class": "Process",
-"box": [
-1055.0,
-431.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"heme",
-"NADPH"
-],
-"out": [
-"biliverdin",
-"Fe2+"
-],
-"by": [
-"HMOX1"
-]
-},
-"references": [
-{
-"authors": "Ryter SW et al.",
-"journal": "Physiol Rev",
-"title": "Heme oxygenase-1/carbon monoxide: from basic science to therapeutic applications.",
-"year": "2006",
-"db": "pubmed",
-"id": "16601269"
-}
-]
-},
-{
-"id": "pqqa9rh3",
-"label": "",
-"class": "Process",
-"box": [
-1055.0,
-161.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"1,2-naphthoquinone",
-"NADPH"
-],
-"out": [
-"1,2-naphthalenediol"
-],
-"by": [
-"NQO1"
-]
-},
-"references": [
-{
-"authors": "Ross D et al.",
-"journal": "Front Physiol",
-"title": "Functions of NQO1 in Cellular Protection and CoQ(10) Metabolism and its Potential Role as a Redox Sensitive Molecular Switch.",
-"year": "2017",
-"db": "pubmed",
-"id": "28883796"
-},
-{
-"authors": "Matsunaga T et al.",
-"journal": "Chem Biol Interact",
-"title": "Facilitation of 9,10-phenanthrenequinone-elicited neuroblastoma cell apoptosis by NAD(P)H:quinone oxidoreductase 1.",
-"year": "2018",
-"db": "pubmed",
-"id": "29108775"
-}
-]
-},
-{
-"id": "k7a8saa7",
-"label": "",
-"class": "Process",
-"box": [
-1215.0,
-271.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"1,2-naphthalenediol",
-"O2"
-],
-"out": [
-"1,2-naphthoquinone",
-"O2.-"
-],
-"by": []
-},
-"references": [
-{
-"authors": "Matsunaga T et al.",
-"journal": "Chem Biol Interact",
-"title": "Facilitation of 9,10-phenanthrenequinone-elicited neuroblastoma cell apoptosis by NAD(P)H:quinone oxidoreductase 1.",
-"year": "2018",
-"db": "pubmed",
-"id": "29108775"
-},
-{
-"authors": "Penning TM",
-"journal": "Chem Res Toxicol",
-"title": "Human aldo-keto reductases and the metabolic activation of polycyclic aromatic hydrocarbons.",
-"year": "2014",
-"db": "pubmed",
-"id": "25279998"
 }
 ]
 }

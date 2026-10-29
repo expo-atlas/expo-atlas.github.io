@@ -97,7 +97,7 @@
           <y:Realizers active="0">
             <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
               <y:Geometry height="206.5" width="104.0" x="248.0" y="352.75"/>
-              <y:Fill transparent="false" hasColor="false"/>
+              <y:Fill transparent="false" color="#FFFFFF"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="true" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="133.0" x="-14.5" y="205.5">NCF1:NCF2:NCF4</y:NodeLabel>
               <y:StyleProperties>
@@ -202,7 +202,7 @@
           <y:Realizers active="0">
             <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
               <y:Geometry height="140.5" width="104.0" x="366.0" y="535.75"/>
-              <y:Fill transparent="false" hasColor="false"/>
+              <y:Fill transparent="false" color="#FFFFFF"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="true" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="85.5" x="49.25" y="97.5">Myddosome</y:NodeLabel>
               <y:StyleProperties>
@@ -256,7 +256,7 @@
           <y:Realizers active="0">
             <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
               <y:Geometry height="206.5" width="104.0" x="484.0" y="352.75"/>
-              <y:Fill transparent="false" hasColor="false"/>
+              <y:Fill transparent="false" color="#FFFFFF"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="true" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="152.0" x="-24.0" y="205.5">NCF1-P:NCF2:NCF4</y:NodeLabel>
               <y:StyleProperties>
@@ -347,7 +347,7 @@ P@T356</data><data key="dev_node">rabixuq7</data></node><node id="k4rioz85"><dat
           <y:Realizers active="0">
             <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
               <y:Geometry height="140.5" width="104.0" x="604.0" y="385.75"/>
-              <y:Fill transparent="false" hasColor="false"/>
+              <y:Fill transparent="false" color="#FFFFFF"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="true" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="76.0" x="14.0" y="121.5">RAC1:GTP</y:NodeLabel>
               <y:StyleProperties>
@@ -498,7 +498,7 @@ P@T356</data><data key="dev_node">rabixuq7</data></node><node id="k4rioz85"><dat
           <y:Realizers active="0">
             <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
               <y:Geometry height="140.5" width="104.0" x="486.0" y="49.75"/>
-              <y:Fill transparent="false" hasColor="false"/>
+              <y:Fill transparent="false" color="#FFFFFF"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="true" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="142.5" x="-19.25" y="133.5">cytochrome b558</y:NodeLabel>
               <y:StyleProperties>
@@ -552,7 +552,7 @@ P@T356</data><data key="dev_node">rabixuq7</data></node><node id="k4rioz85"><dat
           <y:Realizers active="0">
             <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
               <y:Geometry height="206.5" width="280.0" x="722.0" y="16.75"/>
-              <y:Fill transparent="false" hasColor="false"/>
+              <y:Fill transparent="false" color="#FFFFFF"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="true" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="142.5" x="280.75" y="145.5">NOX2 holoenzyme</y:NodeLabel>
               <y:StyleProperties>
