@@ -1,0 +1,1536 @@
+{
+"nodes": [
+{
+"id": "mtxlynva",
+"label": "",
+"class": "Process",
+"box": [
+515.0,
+388.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"HMOX1"
+],
+"out": [
+"HMOX1"
+],
+"by": [
+"NRF2:MAFG",
+"BACH1:MAFG"
+]
+},
+"references": [
+{
+"authors": "Alam J et al.",
+"year": "1999",
+"title": "Nrf2, a Cap'n'Collar transcription factor, regulates induction of the heme oxygenase-1 gene.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "10473555"
+},
+{
+"authors": "Sun J et al.",
+"year": "2002",
+"title": "Hemoprotein Bach1 regulates enhancer availability of heme oxygenase-1 gene.",
+"journal": "EMBO J",
+"db": "pubmed",
+"id": "12356737"
+},
+{
+"authors": "Li N et al.",
+"year": "2004",
+"title": "Nrf2 is a key transcription factor that regulates antioxidant defense in macrophages and epithelial cells: protecting against the proinflammatory and oxidizing effects of diesel exhaust chemicals.",
+"journal": "J Immunol",
+"db": "pubmed",
+"id": "15322212"
+}
+]
+},
+{
+"id": "nfcmugcr",
+"label": "",
+"class": "Process",
+"box": [
+775.0,
+985.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"HMOX1"
+],
+"out": [
+"HMOX1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Li N et al.",
+"year": "2004",
+"title": "Nrf2 is a key transcription factor that regulates antioxidant defense in macrophages and epithelial cells: protecting against the proinflammatory and oxidizing effects of diesel exhaust chemicals.",
+"journal": "J Immunol",
+"db": "pubmed",
+"id": "15322212"
+}
+]
+},
+{
+"id": "w7onhu24",
+"label": "",
+"class": "Process",
+"box": [
+655.0,
+391.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"NQO1"
+],
+"out": [
+"NQO1"
+],
+"by": [
+"NRF2:MAFG"
+]
+},
+"references": [
+{
+"authors": "Nioi P et al.",
+"year": "2003",
+"title": "Identification of a novel Nrf2-regulated antioxidant response element (ARE) in the mouse NAD(P)H:quinone oxidoreductase 1 gene: reassessment of the ARE consensus sequence.",
+"journal": "Biochem J",
+"db": "pubmed",
+"id": "12816537"
+}
+]
+},
+{
+"id": "krqhaw3c",
+"label": "",
+"class": "Process",
+"box": [
+1065.0,
+709.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"NQO1"
+],
+"out": [
+"NQO1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Nioi P et al.",
+"year": "2003",
+"title": "Identification of a novel Nrf2-regulated antioxidant response element (ARE) in the mouse NAD(P)H:quinone oxidoreductase 1 gene: reassessment of the ARE consensus sequence.",
+"journal": "Biochem J",
+"db": "pubmed",
+"id": "12816537"
+}
+]
+},
+{
+"id": "g8fs1c2t",
+"label": "",
+"class": "Process",
+"box": [
+1081.7,
+391.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"BACH1"
+],
+"out": [
+"BACH1"
+],
+"by": [
+"NRF2:MAFG"
+]
+},
+"references": [
+{
+"authors": "Jyrkkänen HK et al.",
+"year": "2011",
+"title": "Novel insights into the regulation of antioxidant-response-element-mediated gene expression by electrophiles: induction of the transcriptional repressor BACH1 by Nrf2.",
+"journal": "Biochem J",
+"db": "pubmed",
+"id": "21812759"
+}
+]
+},
+{
+"id": "s3ww82z9",
+"label": "",
+"class": "Process",
+"box": [
+1195.0,
+613.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"BACH1"
+],
+"out": [
+"BACH1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Jyrkkänen HK et al.",
+"year": "2011",
+"title": "Novel insights into the regulation of antioxidant-response-element-mediated gene expression by electrophiles: induction of the transcriptional repressor BACH1 by Nrf2.",
+"journal": "Biochem J",
+"db": "pubmed",
+"id": "21812759"
+}
+]
+},
+{
+"id": "jb3h7526",
+"label": "",
+"class": "Process",
+"box": [
+635.0,
+471.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"BACH1",
+"MAFG"
+],
+"out": [
+"BACH1:MAFG"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sun J et al.",
+"year": "2002",
+"title": "Hemoprotein Bach1 regulates enhancer availability of heme oxygenase-1 gene.",
+"journal": "EMBO J",
+"db": "pubmed",
+"id": "12356737"
+},
+{
+"authors": "Oyake T et al.",
+"year": "1996",
+"title": "Bach proteins belong to a novel family of BTB-basic leucine zipper transcription factors that interact with MafK and regulate transcription through the NF-E2 site.",
+"journal": "Mol Cell Biol",
+"db": "pubmed",
+"id": "8887638"
+}
+]
+},
+{
+"id": "t4hpmlh5",
+"label": "",
+"class": "Process",
+"box": [
+760.0,
+476.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"BACH1:MAFG"
+],
+"out": [
+"BACH1",
+"MAFG"
+],
+"by": [
+"heme"
+]
+},
+"references": [
+{
+"authors": "Ogawa K et al.",
+"year": "2001",
+"title": "Heme mediates derepression of Maf recognition element through direct binding to transcription repressor Bach1.",
+"journal": "EMBO J",
+"db": "pubmed",
+"id": "11387216"
+},
+{
+"authors": "Suzuki H et al.",
+"year": "2004",
+"title": "Heme regulates gene expression by triggering Crm1-dependent nuclear export of Bach1.",
+"journal": "EMBO J",
+"db": "pubmed",
+"id": "15175654"
+}
+]
+},
+{
+"id": "y4rgmoep",
+"label": "",
+"class": "Process",
+"box": [
+1135.0,
+925.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"heme"
+],
+"out": [
+"heme"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Suzuki H et al.",
+"year": "2004",
+"title": "Heme regulates gene expression by triggering Crm1-dependent nuclear export of Bach1.",
+"journal": "EMBO J",
+"db": "pubmed",
+"id": "15175654"
+}
+]
+},
+{
+"id": "azzzt7kc",
+"label": "",
+"class": "Process",
+"box": [
+1063.0,
+1328.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"heme",
+"NADPH"
+],
+"out": [
+"biliverdin",
+"Fe2+"
+],
+"by": [
+"HMOX1"
+]
+},
+"references": [
+{
+"authors": "Ryter SW et al.",
+"year": "2006",
+"title": "Heme oxygenase-1/carbon monoxide: from basic science to therapeutic applications.",
+"journal": "Physiol Rev",
+"db": "pubmed",
+"id": "16601269"
+}
+]
+},
+{
+"id": "pqqa9rh3",
+"label": "",
+"class": "Process",
+"box": [
+1130.0,
+865.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"1,2-naphthoquinone",
+"NADPH"
+],
+"out": [
+"1,2-naphthalenediol"
+],
+"by": [
+"NQO1"
+]
+},
+"references": [
+{
+"authors": "Ross D et al.",
+"year": "2017",
+"title": "Functions of NQO1 in Cellular Protection and CoQ(10) Metabolism and its Potential Role as a Redox Sensitive Molecular Switch.",
+"journal": "Front Physiol",
+"db": "pubmed",
+"id": "28883796"
+},
+{
+"authors": "Matsunaga T et al.",
+"year": "2018",
+"title": "Facilitation of 9,10-phenanthrenequinone-elicited neuroblastoma cell apoptosis by NAD(P)H:quinone oxidoreductase 1.",
+"journal": "Chem Biol Interact",
+"db": "pubmed",
+"id": "29108775"
+}
+]
+},
+{
+"id": "k7a8saa7",
+"label": "",
+"class": "Process",
+"box": [
+1235.0,
+907.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"1,2-naphthalenediol",
+"O2"
+],
+"out": [
+"1,2-naphthoquinone",
+"O2.-"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Matsunaga T et al.",
+"year": "2018",
+"title": "Facilitation of 9,10-phenanthrenequinone-elicited neuroblastoma cell apoptosis by NAD(P)H:quinone oxidoreductase 1.",
+"journal": "Chem Biol Interact",
+"db": "pubmed",
+"id": "29108775"
+},
+{
+"authors": "Penning TM",
+"year": "2014",
+"title": "Human aldo-keto reductases and the metabolic activation of polycyclic aromatic hydrocarbons.",
+"journal": "Chem Res Toxicol",
+"db": "pubmed",
+"id": "25279998"
+}
+]
+},
+{
+"label": "HMOX1",
+"class": "NucleicAcidFeature",
+"box": [
+572.0,
+79.0,
+110.0,
+36.0
+],
+"props": [
+[
+"Full name",
+"Heme oxygenase 1"
+],
+[
+"Function",
+"Catalyzes the oxidative cleavage of heme at the alpha-methene bridge carbon, released as carbon monoxide (CO), to generate biliverdin IXalpha, while releasing the central heme iron chelate as ferrous iron. Affords protection against programmed cell death and this cytoprotective effect relies on its ability to catabolize free heme and prevent it from sensitizing cells to undergo apoptosis"
+],
+[
+"Location",
+"Endoplasmic reticulum membrane"
+],
+[
+"HGNC",
+"HGNC:5013"
+],
+[
+"HGNC symbol",
+"HMOX1"
+],
+[
+"Alias symbols",
+"bK286B10, HO-1"
+],
+[
+"Entrez",
+"3162"
+],
+[
+"Ensembl",
+"ENSG00000100292"
+],
+[
+"RefSeq",
+"NM_002133"
+],
+[
+"UniProt",
+"P09601"
+]
+]
+},
+{
+"label": "NQO1",
+"class": "NucleicAcidFeature",
+"box": [
+892.0,
+79.0,
+110.0,
+36.0
+],
+"props": [
+[
+"Full name",
+"NAD(P)H dehydrogenase [quinone] 1"
+],
+[
+"Alternative names",
+"Azoreductase; DT-diaphorase; Menadione reductase; NAD(P)H:quinone oxidoreductase 1; Phylloquinone reductase; Quinone reductase 1"
+],
+[
+"Function",
+"Flavin-containing quinone reductase that catalyzes two-electron reduction of quinones to hydroquinones using either NADH or NADPH as electron donors. In a ping-pong kinetic mechanism, the electrons are sequentially transferred from NAD(P)H to flavin cofactor and then from reduced flavin to the quinone, bypassing the formation of semiquinone and reactive oxygen species."
+],
+[
+"Location",
+"Cytoplasm, cytosol"
+],
+[
+"HGNC",
+"HGNC:2874"
+],
+[
+"HGNC symbol",
+"NQO1"
+],
+[
+"Previous symbols",
+"NMOR1, DIA4"
+],
+[
+"Alias symbols",
+"DHQU, QR1, DTD"
+],
+[
+"Entrez",
+"1728"
+],
+[
+"Ensembl",
+"ENSG00000181019"
+],
+[
+"RefSeq",
+"NM_000903"
+],
+[
+"UniProt",
+"P15559"
+]
+]
+},
+{
+"label": "BACH1",
+"class": "NucleicAcidFeature",
+"box": [
+1532.0,
+79.0,
+110.0,
+36.0
+],
+"props": [
+[
+"Full name",
+"Transcription regulator protein BACH1"
+],
+[
+"Alternative names",
+"BTB and CNC homolog 1; HA2303"
+],
+[
+"Function",
+"Transcriptional regulator that acts as a repressor or activator, depending on the context. Binds to NF-E2 DNA binding sites."
+],
+[
+"Location",
+"Nucleus"
+],
+[
+"HGNC",
+"HGNC:935"
+],
+[
+"HGNC symbol",
+"BACH1"
+],
+[
+"Alias symbols",
+"BACH-1, BTBD24"
+],
+[
+"Entrez",
+"571"
+],
+[
+"Ensembl",
+"ENSG00000156273"
+],
+[
+"RefSeq",
+"NM_206866"
+],
+[
+"UniProt",
+"O14867"
+]
+]
+},
+{
+"label": "NRF2",
+"class": "Macromolecule",
+"box": [
+67.0,
+335.0,
+80.0,
+40.0
+],
+"props": [
+[
+"PTM",
+" at Lys"
+],
+[
+"Full name",
+"Nuclear factor erythroid 2-related factor 2"
+],
+[
+"Alternative names",
+"Nuclear factor, erythroid derived 2, like 2"
+],
+[
+"Function",
+"Transcription factor that plays a key role in the response to oxidative stress: binds to antioxidant response (ARE) elements present in the promoter region of many cytoprotective genes, such as phase 2 detoxifying enzymes, and promotes their expression, thereby neutralizing reactive electrophiles. In normal conditions, ubiquitinated and degraded in the cytoplasm by the BCR(KEAP1) complex."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Nucleus"
+],
+[
+"HGNC",
+"HGNC:7782"
+],
+[
+"HGNC symbol",
+"NFE2L2"
+],
+[
+"Alias symbols",
+"NRF2, NRF-2"
+],
+[
+"Entrez",
+"4780"
+],
+[
+"Ensembl",
+"ENSG00000116044"
+],
+[
+"RefSeq",
+"NM_006164"
+],
+[
+"UniProt",
+"Q16236"
+]
+]
+},
+{
+"label": "MAFG",
+"class": "Macromolecule",
+"box": [
+67.0,
+389.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Transcription factor MafG"
+],
+[
+"Alternative names",
+"V-maf musculoaponeurotic fibrosarcoma oncogene homolog G; hMAF"
+],
+[
+"Function",
+"Since they lack a putative transactivation domain, the small Mafs behave as transcriptional repressors when they dimerize among themselves. However, they seem to serve as transcriptional activators by dimerizing with other (usually larger) basic-zipper proteins, such as NFE2, NFE2L1 and NFE2L2, and recruiting them to specific DNA-binding sites."
+],
+[
+"Location",
+"Nucleus"
+],
+[
+"HGNC",
+"HGNC:6781"
+],
+[
+"HGNC symbol",
+"MAFG"
+],
+[
+"Alias symbols",
+"MGC13090, MGC20149"
+],
+[
+"Entrez",
+"4097"
+],
+[
+"Ensembl",
+"ENSG00000197063"
+],
+[
+"RefSeq",
+"NM_002359"
+],
+[
+"UniProt",
+"O15525"
+]
+]
+},
+{
+"label": "MAFG",
+"class": "Macromolecule",
+"box": [
+327.0,
+509.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Transcription factor MafG"
+],
+[
+"Alternative names",
+"V-maf musculoaponeurotic fibrosarcoma oncogene homolog G; hMAF"
+],
+[
+"Function",
+"Since they lack a putative transactivation domain, the small Mafs behave as transcriptional repressors when they dimerize among themselves. However, they seem to serve as transcriptional activators by dimerizing with other (usually larger) basic-zipper proteins, such as NFE2, NFE2L1 and NFE2L2, and recruiting them to specific DNA-binding sites."
+],
+[
+"Location",
+"Nucleus"
+],
+[
+"HGNC",
+"HGNC:6781"
+],
+[
+"HGNC symbol",
+"MAFG"
+],
+[
+"Alias symbols",
+"MGC13090, MGC20149"
+],
+[
+"Entrez",
+"4097"
+],
+[
+"Ensembl",
+"ENSG00000197063"
+],
+[
+"RefSeq",
+"NM_002359"
+],
+[
+"UniProt",
+"O15525"
+]
+]
+},
+{
+"label": "BACH1",
+"class": "Macromolecule",
+"box": [
+707.0,
+335.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Transcription regulator protein BACH1"
+],
+[
+"Alternative names",
+"BTB and CNC homolog 1; HA2303"
+],
+[
+"Function",
+"Transcriptional regulator that acts as a repressor or activator, depending on the context. Binds to NF-E2 DNA binding sites."
+],
+[
+"Location",
+"Nucleus"
+],
+[
+"HGNC",
+"HGNC:935"
+],
+[
+"HGNC symbol",
+"BACH1"
+],
+[
+"Alias symbols",
+"BACH-1, BTBD24"
+],
+[
+"Entrez",
+"571"
+],
+[
+"Ensembl",
+"ENSG00000156273"
+],
+[
+"RefSeq",
+"NM_206866"
+],
+[
+"UniProt",
+"O14867"
+]
+]
+},
+{
+"label": "MAFG",
+"class": "Macromolecule",
+"box": [
+707.0,
+389.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Transcription factor MafG"
+],
+[
+"Alternative names",
+"V-maf musculoaponeurotic fibrosarcoma oncogene homolog G; hMAF"
+],
+[
+"Function",
+"Since they lack a putative transactivation domain, the small Mafs behave as transcriptional repressors when they dimerize among themselves. However, they seem to serve as transcriptional activators by dimerizing with other (usually larger) basic-zipper proteins, such as NFE2, NFE2L1 and NFE2L2, and recruiting them to specific DNA-binding sites."
+],
+[
+"Location",
+"Nucleus"
+],
+[
+"HGNC",
+"HGNC:6781"
+],
+[
+"HGNC symbol",
+"MAFG"
+],
+[
+"Alias symbols",
+"MGC13090, MGC20149"
+],
+[
+"Entrez",
+"4097"
+],
+[
+"Ensembl",
+"ENSG00000197063"
+],
+[
+"RefSeq",
+"NM_002359"
+],
+[
+"UniProt",
+"O15525"
+]
+]
+},
+{
+"label": "BACH1",
+"class": "Macromolecule",
+"box": [
+787.0,
+509.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Transcription regulator protein BACH1"
+],
+[
+"Alternative names",
+"BTB and CNC homolog 1; HA2303"
+],
+[
+"Function",
+"Transcriptional regulator that acts as a repressor or activator, depending on the context. Binds to NF-E2 DNA binding sites."
+],
+[
+"Location",
+"Nucleus"
+],
+[
+"HGNC",
+"HGNC:935"
+],
+[
+"HGNC symbol",
+"BACH1"
+],
+[
+"Alias symbols",
+"BACH-1, BTBD24"
+],
+[
+"Entrez",
+"571"
+],
+[
+"Ensembl",
+"ENSG00000156273"
+],
+[
+"RefSeq",
+"NM_206866"
+],
+[
+"UniProt",
+"O14867"
+]
+]
+},
+{
+"label": "heme",
+"class": "SimpleChemical",
+"box": [
+1127.0,
+485.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"heme"
+],
+[
+"Synonyms",
+"Haem; haeme; hem; hemes; hemos"
+],
+[
+"Definition",
+"A heme is any tetrapyrrolic chelate of iron."
+],
+[
+"ChEBI",
+"CHEBI:30413"
+],
+[
+"KEGG",
+"C00032"
+]
+]
+},
+{
+"label": "HMOX1",
+"class": "NucleicAcidFeature",
+"box": [
+572.0,
+703.0,
+110.0,
+36.0
+],
+"props": [
+[
+"Full name",
+"Heme oxygenase 1"
+],
+[
+"Function",
+"Catalyzes the oxidative cleavage of heme at the alpha-methene bridge carbon, released as carbon monoxide (CO), to generate biliverdin IXalpha, while releasing the central heme iron chelate as ferrous iron. Affords protection against programmed cell death and this cytoprotective effect relies on its ability to catabolize free heme and prevent it from sensitizing cells to undergo apoptosis"
+],
+[
+"Location",
+"Endoplasmic reticulum membrane"
+],
+[
+"HGNC",
+"HGNC:5013"
+],
+[
+"HGNC symbol",
+"HMOX1"
+],
+[
+"Alias symbols",
+"bK286B10, HO-1"
+],
+[
+"Entrez",
+"3162"
+],
+[
+"Ensembl",
+"ENSG00000100292"
+],
+[
+"RefSeq",
+"NM_002133"
+],
+[
+"UniProt",
+"P09601"
+]
+]
+},
+{
+"label": "NQO1",
+"class": "NucleicAcidFeature",
+"box": [
+892.0,
+703.0,
+110.0,
+36.0
+],
+"props": [
+[
+"Full name",
+"NAD(P)H dehydrogenase [quinone] 1"
+],
+[
+"Alternative names",
+"Azoreductase; DT-diaphorase; Menadione reductase; NAD(P)H:quinone oxidoreductase 1; Phylloquinone reductase; Quinone reductase 1"
+],
+[
+"Function",
+"Flavin-containing quinone reductase that catalyzes two-electron reduction of quinones to hydroquinones using either NADH or NADPH as electron donors. In a ping-pong kinetic mechanism, the electrons are sequentially transferred from NAD(P)H to flavin cofactor and then from reduced flavin to the quinone, bypassing the formation of semiquinone and reactive oxygen species."
+],
+[
+"Location",
+"Cytoplasm, cytosol"
+],
+[
+"HGNC",
+"HGNC:2874"
+],
+[
+"HGNC symbol",
+"NQO1"
+],
+[
+"Previous symbols",
+"NMOR1, DIA4"
+],
+[
+"Alias symbols",
+"DHQU, QR1, DTD"
+],
+[
+"Entrez",
+"1728"
+],
+[
+"Ensembl",
+"ENSG00000181019"
+],
+[
+"RefSeq",
+"NM_000903"
+],
+[
+"UniProt",
+"P15559"
+]
+]
+},
+{
+"label": "BACH1",
+"class": "NucleicAcidFeature",
+"box": [
+1532.0,
+703.0,
+110.0,
+36.0
+],
+"props": [
+[
+"Full name",
+"Transcription regulator protein BACH1"
+],
+[
+"Alternative names",
+"BTB and CNC homolog 1; HA2303"
+],
+[
+"Function",
+"Transcriptional regulator that acts as a repressor or activator, depending on the context. Binds to NF-E2 DNA binding sites."
+],
+[
+"Location",
+"Nucleus"
+],
+[
+"HGNC",
+"HGNC:935"
+],
+[
+"HGNC symbol",
+"BACH1"
+],
+[
+"Alias symbols",
+"BACH-1, BTBD24"
+],
+[
+"Entrez",
+"571"
+],
+[
+"Ensembl",
+"ENSG00000156273"
+],
+[
+"RefSeq",
+"NM_206866"
+],
+[
+"UniProt",
+"O14867"
+]
+]
+},
+{
+"label": "1,2-naphthoquinone",
+"class": "SimpleChemical",
+"box": [
+1007.0,
+821.0,
+40.0,
+40.0
+],
+"props": [
+[
+"ChEBI",
+"CHEBI:27921"
+]
+]
+},
+{
+"label": "O2",
+"class": "SimpleChemical",
+"box": [
+1367.0,
+965.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"dioxygen"
+],
+[
+"Synonyms",
+"Disauerstoff; E 948; E-948; E948; O(2); O2; OXYGEN MOLECULE; Oxygen; [OO]; dioxygene; molecular oxygen"
+],
+[
+"Formula",
+"O2"
+],
+[
+"ChEBI",
+"CHEBI:15379"
+],
+[
+"KEGG",
+"C00007"
+],
+[
+"HMDB",
+"HMDB0001377"
+],
+[
+"InChI",
+"InChI=1S/O2/c1-2"
+],
+[
+"InChIKey",
+"MYMOFIZGZYHOMD-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "O2.-",
+"class": "SimpleChemical",
+"box": [
+1167.0,
+989.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"superoxide"
+],
+[
+"Synonyms",
+"(O2)(.-); Dioxid(1-); Hyperoxid; O2(-); O2(.-); O2-; O2.-; Superoxide anion; dioxidanidyl; dioxide(.1-); dioxide(1-); hiperoxido; hyperoxide; superoxide anion radical; superoxide radical; superoxide radical anion; superoxido; superoxyde"
+],
+[
+"Formula",
+"O2"
+],
+[
+"ChEBI",
+"CHEBI:18421"
+],
+[
+"KEGG",
+"C00704"
+],
+[
+"HMDB",
+"HMDB0002168"
+],
+[
+"InChI",
+"InChI=1S/HO2/c1-2/h1H/p-1"
+],
+[
+"InChIKey",
+"OUUQCZGPVNCOIJ-UHFFFAOYSA-M"
+]
+]
+},
+{
+"label": "HMOX1",
+"class": "Macromolecule",
+"box": [
+907.0,
+1253.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Heme oxygenase 1"
+],
+[
+"Function",
+"Catalyzes the oxidative cleavage of heme at the alpha-methene bridge carbon, released as carbon monoxide (CO), to generate biliverdin IXalpha, while releasing the central heme iron chelate as ferrous iron. Affords protection against programmed cell death and this cytoprotective effect relies on its ability to catabolize free heme and prevent it from sensitizing cells to undergo apoptosis"
+],
+[
+"Location",
+"Endoplasmic reticulum membrane"
+],
+[
+"HGNC",
+"HGNC:5013"
+],
+[
+"HGNC symbol",
+"HMOX1"
+],
+[
+"Alias symbols",
+"bK286B10, HO-1"
+],
+[
+"Entrez",
+"3162"
+],
+[
+"Ensembl",
+"ENSG00000100292"
+],
+[
+"RefSeq",
+"NM_002133"
+],
+[
+"UniProt",
+"P09601"
+]
+]
+},
+{
+"label": "NQO1",
+"class": "Macromolecule",
+"box": [
+1167.0,
+701.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"NAD(P)H dehydrogenase [quinone] 1"
+],
+[
+"Alternative names",
+"Azoreductase; DT-diaphorase; Menadione reductase; NAD(P)H:quinone oxidoreductase 1; Phylloquinone reductase; Quinone reductase 1"
+],
+[
+"Function",
+"Flavin-containing quinone reductase that catalyzes two-electron reduction of quinones to hydroquinones using either NADH or NADPH as electron donors. In a ping-pong kinetic mechanism, the electrons are sequentially transferred from NAD(P)H to flavin cofactor and then from reduced flavin to the quinone, bypassing the formation of semiquinone and reactive oxygen species."
+],
+[
+"Location",
+"Cytoplasm, cytosol"
+],
+[
+"HGNC",
+"HGNC:2874"
+],
+[
+"HGNC symbol",
+"NQO1"
+],
+[
+"Previous symbols",
+"NMOR1, DIA4"
+],
+[
+"Alias symbols",
+"DHQU, QR1, DTD"
+],
+[
+"Entrez",
+"1728"
+],
+[
+"Ensembl",
+"ENSG00000181019"
+],
+[
+"RefSeq",
+"NM_000903"
+],
+[
+"UniProt",
+"P15559"
+]
+]
+},
+{
+"label": "NADPH",
+"class": "SimpleChemical",
+"box": [
+927.0,
+1085.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"NADPH"
+],
+[
+"Synonyms",
+"2'-O-phosphonoadenosine 5'-{3-[1-(3-carbamoyl-1,4-dihydropyridin-1-yl)-1,4-anhydro-D-ribitol-5-yl] dihydrogen diphosphate}; NADPH DIHYDRO-NICOTINAMIDE-ADENINE-DINUCLEOTIDE PHOSPHATE; Reduced nicotinamide adenine dinucleotide phosphate; TPNH; dihydronicotinamide-adenine dinucleotide phosphate; reduced nicotinamide-adenine dinucleotide phosphate"
+],
+[
+"Definition",
+"The reduced form of NADP+; used in anabolic reactions, such as lipid and nucleic acid synthesis, which require NADPH as a reducing agent."
+],
+[
+"Formula",
+"C21H30N7O17P3"
+],
+[
+"ChEBI",
+"CHEBI:16474"
+],
+[
+"KEGG",
+"C00005"
+],
+[
+"HMDB",
+"HMDB0000221"
+],
+[
+"InChI",
+"InChI=1S/C21H30N7O17P3/c22-17-12-19(25-7-24-17)28(8-26-12)21-16(44-46(33,34)35)14(30)11(43-21)6-41-48(38,39)45-47(36,37)40-5-10-13(29)15(31)20(42-10)27-3-1-2-9(4-27)18(23)32/h1,3-4,7-8,10-11,13-16,20-21,29-31H,2,5-6H2,(H2,23,32)(H,36,37)(H,38,39)(H2,22,24,25)(H2,33,34,35)/t10-,11-,13-,14-,15-,16-,20-,21-/m1/s1"
+],
+[
+"InChIKey",
+"ACFIXJIJDZMPPO-NNYOXOHSSA-N"
+]
+]
+},
+{
+"label": "heme",
+"class": "SimpleChemical",
+"box": [
+1127.0,
+1349.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"heme"
+],
+[
+"Synonyms",
+"Haem; haeme; hem; hemes; hemos"
+],
+[
+"Definition",
+"A heme is any tetrapyrrolic chelate of iron."
+],
+[
+"ChEBI",
+"CHEBI:30413"
+],
+[
+"KEGG",
+"C00032"
+]
+]
+},
+{
+"label": "biliverdin",
+"class": "SimpleChemical",
+"box": [
+1367.0,
+1445.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"biliverdin"
+],
+[
+"Synonyms",
+"8,12-bis(2-carboxyethyl)-2,7,13,17-tetramethyl-3,18-divinylbilin-1(19)(21H,24H)-dione; BILIVERDINE IX ALPHA; Biliverdin IX alpha; Biliverdin IXalpha; Biliverdine"
+],
+[
+"Definition",
+"A linear tetrapyrrole produced in the reticuloendothelial system by the first step of heme degradation, catalysed by heme oxygenase."
+],
+[
+"Formula",
+"C33H34N4O6"
+],
+[
+"ChEBI",
+"CHEBI:17033"
+],
+[
+"KEGG",
+"C00500"
+],
+[
+"HMDB",
+"HMDB0001008"
+],
+[
+"InChI",
+"InChI=1S/C33H34N4O6/c1-7-20-19(6)32(42)37-27(20)14-25-18(5)23(10-12-31(40)41)29(35-25)15-28-22(9-11-30(38)39)17(4)24(34-28)13-26-16(3)21(8-2)33(43)36-26/h7-8,13-15,35H,1-2,9-12H2,3-6H3,(H,36,43)(H,37,42)(H,38,39)(H,40,41)/b26-13-,27-14-,28-15-"
+],
+[
+"InChIKey",
+"QBUVFDKTZJNUPP-BBROENKCSA-N"
+]
+]
+},
+{
+"label": "Fe2+",
+"class": "SimpleChemical",
+"box": [
+927.0,
+1469.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"iron(2+)"
+],
+[
+"Synonyms",
+"FE (II) ION; Fe(2+); Fe(II); Fe2+; Ferrous ion; iron ion(2+); iron(2+) ion; iron(II) cation"
+],
+[
+"Formula",
+"Fe"
+],
+[
+"ChEBI",
+"CHEBI:29033"
+],
+[
+"KEGG",
+"C14818"
+],
+[
+"InChI",
+"InChI=1S/Fe/q+2"
+],
+[
+"InChIKey",
+"CWYNVVGOOAEACU-UHFFFAOYSA-N"
+]
+]
+}
+]
+}

@@ -81,6 +81,195 @@
 "hasText": true
 },
 {
+"id": "redox-nrf2-core",
+"title": "KEAP1-NRF2 core",
+"topic": "KEAP1-NRF2 core",
+"group": "ExposomeMap",
+"kind": null,
+"tag": "draft",
+"tab": null,
+"image": "files/redox-nrf2-core.svg",
+"width": 1482.0,
+"height": 1598.0,
+"scale": 1,
+"annotation": "data/redox-nrf2-core.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/redox-nrf2-core.graphml"
+},
+{
+"label": "SVG",
+"url": "files/redox-nrf2-core.svg"
+}
+],
+"data": "data/redox-nrf2-core-text.json",
+"hasText": true
+},
+{
+"id": "redox-nrf2-heme-quinone",
+"title": "NRF2 targets: heme oxygenase, BACH1, NQO1 (not laid out)",
+"topic": "NRF2 targets: heme oxygenase, BACH1, NQO1 (not laid out)",
+"group": "ExposomeMap",
+"kind": null,
+"tag": "draft",
+"tab": null,
+"image": "files/redox-nrf2-heme-quinone.svg",
+"width": 1697.0,
+"height": 1564.0,
+"scale": 1,
+"annotation": "data/redox-nrf2-heme-quinone.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/redox-nrf2-heme-quinone.graphml"
+},
+{
+"label": "SVG",
+"url": "files/redox-nrf2-heme-quinone.svg"
+}
+],
+"data": "data/redox-nrf2-heme-quinone-text.json",
+"hasText": true
+},
+{
+"id": "redox-nrf2-glutathione",
+"title": "NRF2 targets: glutathione (not laid out)",
+"topic": "NRF2 targets: glutathione (not laid out)",
+"group": "ExposomeMap",
+"kind": null,
+"tag": "draft",
+"tab": null,
+"image": "files/redox-nrf2-glutathione.svg",
+"width": 1662.0,
+"height": 1756.0,
+"scale": 1,
+"annotation": "data/redox-nrf2-glutathione.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/redox-nrf2-glutathione.graphml"
+},
+{
+"label": "SVG",
+"url": "files/redox-nrf2-glutathione.svg"
+}
+],
+"data": "data/redox-nrf2-glutathione-text.json",
+"hasText": true
+},
+{
+"id": "trial-nrf2-core-hl-td",
+"title": "NRF2 core, human-like, top to bottom (v02)",
+"topic": "NRF2 core, human-like, top to bottom (v02)",
+"group": "Trials",
+"kind": null,
+"tag": "draft",
+"tab": null,
+"image": "files/trial-nrf2-core-hl-td.svg",
+"width": 1482.0,
+"height": 1598.0,
+"scale": 1,
+"annotation": "data/trial-nrf2-core-hl-td.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/trial-nrf2-core-hl-td.graphml"
+},
+{
+"label": "SVG",
+"url": "files/trial-nrf2-core-hl-td.svg"
+}
+],
+"data": "data/trial-nrf2-core-hl-td-text.json",
+"hasText": true
+},
+{
+"id": "trial-nrf2-core-hl-lr",
+"title": "NRF2 core, human-like, left to right (v03)",
+"topic": "NRF2 core, human-like, left to right (v03)",
+"group": "Trials",
+"kind": null,
+"tag": "draft",
+"tab": null,
+"image": "files/trial-nrf2-core-hl-lr.svg",
+"width": 1626.0,
+"height": 1486.0,
+"scale": 1,
+"annotation": "data/trial-nrf2-core-hl-lr.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/trial-nrf2-core-hl-lr.graphml"
+},
+{
+"label": "SVG",
+"url": "files/trial-nrf2-core-hl-lr.svg"
+}
+],
+"data": "data/trial-nrf2-core-hl-lr-text.json",
+"hasText": true
+},
+{
+"id": "trial-nrf2-core-gr-td",
+"title": "NRF2 core, grown, top to bottom (v04)",
+"topic": "NRF2 core, grown, top to bottom (v04)",
+"group": "Trials",
+"kind": null,
+"tag": "draft",
+"tab": null,
+"image": "files/trial-nrf2-core-gr-td.svg",
+"width": 1242.0,
+"height": 1670.0,
+"scale": 1,
+"annotation": "data/trial-nrf2-core-gr-td.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/trial-nrf2-core-gr-td.graphml"
+},
+{
+"label": "SVG",
+"url": "files/trial-nrf2-core-gr-td.svg"
+}
+],
+"data": "data/trial-nrf2-core-gr-td-text.json",
+"hasText": true
+},
+{
+"id": "trial-nrf2-core-gr-lr",
+"title": "NRF2 core, grown, left to right (v05)",
+"topic": "NRF2 core, grown, left to right (v05)",
+"group": "Trials",
+"kind": null,
+"tag": "draft",
+"tab": null,
+"image": "files/trial-nrf2-core-gr-lr.svg",
+"width": 1658.0,
+"height": 1262.0,
+"scale": 1,
+"annotation": "data/trial-nrf2-core-gr-lr.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/trial-nrf2-core-gr-lr.graphml"
+},
+{
+"label": "SVG",
+"url": "files/trial-nrf2-core-gr-lr.svg"
+}
+],
+"data": "data/trial-nrf2-core-gr-lr-text.json",
+"hasText": true
+},
+{
 "id": "metal-redox",
 "title": "Metal Fenton chemistry",
 "topic": "Metal Fenton chemistry",
