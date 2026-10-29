@@ -1753,17 +1753,17 @@
 "references": [
 {
 "authors": "Pacquelet S et al.",
-"year": "2007",
-"title": "Cross-talk between IRAK-4 and the NADPH oxidase.",
 "journal": "Biochem J",
+"title": "Cross-talk between IRAK-4 and the NADPH oxidase.",
+"year": "2007",
 "db": "pubmed",
 "id": "17217339"
 },
 {
 "authors": "Singh A et al.",
-"year": "2009",
-"title": "Impaired priming and activation of the neutrophil NADPH oxidase in patients with IRAK4 or NEMO deficiency.",
 "journal": "J Immunol",
+"title": "Impaired priming and activation of the neutrophil NADPH oxidase in patients with IRAK4 or NEMO deficiency.",
+"year": "2009",
 "db": "pubmed",
 "id": "19414794"
 }
