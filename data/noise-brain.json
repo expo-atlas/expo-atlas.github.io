@@ -1,0 +1,1861 @@
+{
+"nodes": [
+{
+"label": "NOS1",
+"class": "NucleicAcidFeature",
+"box": [
+143.0,
+1307.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"neuron"
+],
+[
+"Full name",
+"Nitric oxide synthase 1"
+],
+[
+"Alternative names",
+"Constitutive NOS; NC-NOS; NOS type I; Neuronal NOS; Nitric oxide synthase, brain; Peptidyl-cysteine S-nitrosylase NOS1"
+],
+[
+"Function",
+"Produces nitric oxide (NO) which is a messenger molecule with diverse functions throughout the body. In the brain and peripheral nervous system, NO displays many properties of a neurotransmitter."
+],
+[
+"Location",
+"Cell membrane, sarcolemma, Cell projection, dendritic spine"
+],
+[
+"HGNC",
+"HGNC:7872"
+],
+[
+"HGNC symbol",
+"NOS1"
+],
+[
+"Previous symbols",
+"NOS"
+],
+[
+"Alias symbols",
+"nNOS"
+],
+[
+"Entrez",
+"4842"
+],
+[
+"Ensembl",
+"ENSG00000089250"
+],
+[
+"RefSeq",
+"NM_000620"
+],
+[
+"UniProt",
+"P29475"
+]
+]
+},
+{
+"label": "",
+"class": "EmptySet",
+"box": [
+48.0,
+1152.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"neuron"
+]
+]
+},
+{
+"label": "NOS1",
+"class": "NucleicAcidFeature",
+"box": [
+283.0,
+1147.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"neuron"
+],
+[
+"Full name",
+"Nitric oxide synthase 1"
+],
+[
+"Alternative names",
+"Constitutive NOS; NC-NOS; NOS type I; Neuronal NOS; Nitric oxide synthase, brain; Peptidyl-cysteine S-nitrosylase NOS1"
+],
+[
+"Function",
+"Produces nitric oxide (NO) which is a messenger molecule with diverse functions throughout the body. In the brain and peripheral nervous system, NO displays many properties of a neurotransmitter."
+],
+[
+"Location",
+"Cell membrane, sarcolemma, Cell projection, dendritic spine"
+],
+[
+"HGNC",
+"HGNC:7872"
+],
+[
+"HGNC symbol",
+"NOS1"
+],
+[
+"Previous symbols",
+"NOS"
+],
+[
+"Alias symbols",
+"nNOS"
+],
+[
+"Entrez",
+"4842"
+],
+[
+"Ensembl",
+"ENSG00000089250"
+],
+[
+"RefSeq",
+"NM_000620"
+],
+[
+"UniProt",
+"P29475"
+]
+]
+},
+{
+"label": "NOS1",
+"class": "NucleicAcidFeature",
+"box": [
+543.0,
+1147.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"neuron"
+],
+[
+"Full name",
+"Nitric oxide synthase 1"
+],
+[
+"Alternative names",
+"Constitutive NOS; NC-NOS; NOS type I; Neuronal NOS; Nitric oxide synthase, brain; Peptidyl-cysteine S-nitrosylase NOS1"
+],
+[
+"Function",
+"Produces nitric oxide (NO) which is a messenger molecule with diverse functions throughout the body. In the brain and peripheral nervous system, NO displays many properties of a neurotransmitter."
+],
+[
+"Location",
+"Cell membrane, sarcolemma, Cell projection, dendritic spine"
+],
+[
+"HGNC",
+"HGNC:7872"
+],
+[
+"HGNC symbol",
+"NOS1"
+],
+[
+"Previous symbols",
+"NOS"
+],
+[
+"Alias symbols",
+"nNOS"
+],
+[
+"Entrez",
+"4842"
+],
+[
+"Ensembl",
+"ENSG00000089250"
+],
+[
+"RefSeq",
+"NM_000620"
+],
+[
+"UniProt",
+"P29475"
+]
+]
+},
+{
+"label": "",
+"class": "EmptySet",
+"box": [
+708.0,
+1312.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"neuron"
+]
+]
+},
+{
+"label": "NOS1",
+"class": "Macromolecule",
+"box": [
+823.0,
+1147.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"neuron"
+],
+[
+"Full name",
+"Nitric oxide synthase 1"
+],
+[
+"Alternative names",
+"Constitutive NOS; NC-NOS; NOS type I; Neuronal NOS; Nitric oxide synthase, brain; Peptidyl-cysteine S-nitrosylase NOS1"
+],
+[
+"Function",
+"Produces nitric oxide (NO) which is a messenger molecule with diverse functions throughout the body. In the brain and peripheral nervous system, NO displays many properties of a neurotransmitter."
+],
+[
+"Location",
+"Cell membrane, sarcolemma, Cell projection, dendritic spine"
+],
+[
+"HGNC",
+"HGNC:7872"
+],
+[
+"HGNC symbol",
+"NOS1"
+],
+[
+"Previous symbols",
+"NOS"
+],
+[
+"Alias symbols",
+"nNOS"
+],
+[
+"Entrez",
+"4842"
+],
+[
+"Ensembl",
+"ENSG00000089250"
+],
+[
+"RefSeq",
+"NM_000620"
+],
+[
+"UniProt",
+"P29475"
+]
+]
+},
+{
+"label": "NOS1",
+"class": "Macromolecule",
+"box": [
+1083.0,
+907.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"neuron"
+],
+[
+"PTM",
+"Phosphorylated at Ser847"
+],
+[
+"Full name",
+"Nitric oxide synthase 1"
+],
+[
+"Alternative names",
+"Constitutive NOS; NC-NOS; NOS type I; Neuronal NOS; Nitric oxide synthase, brain; Peptidyl-cysteine S-nitrosylase NOS1"
+],
+[
+"Function",
+"Produces nitric oxide (NO) which is a messenger molecule with diverse functions throughout the body. In the brain and peripheral nervous system, NO displays many properties of a neurotransmitter."
+],
+[
+"Location",
+"Cell membrane, sarcolemma, Cell projection, dendritic spine"
+],
+[
+"HGNC",
+"HGNC:7872"
+],
+[
+"HGNC symbol",
+"NOS1"
+],
+[
+"Previous symbols",
+"NOS"
+],
+[
+"Alias symbols",
+"nNOS"
+],
+[
+"Entrez",
+"4842"
+],
+[
+"Ensembl",
+"ENSG00000089250"
+],
+[
+"RefSeq",
+"NM_000620"
+],
+[
+"UniProt",
+"P29475"
+]
+]
+},
+{
+"label": "CAMK2A",
+"class": "Macromolecule",
+"box": [
+703.0,
+907.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"neuron"
+],
+[
+"Full name",
+"Calcium/calmodulin-dependent protein kinase type II subunit alpha"
+],
+[
+"Function",
+"Calcium/calmodulin-dependent protein kinase that functions autonomously after Ca(2+)/calmodulin-binding and autophosphorylation, and is involved in various processes, such as synaptic plasticity, neurotransmitter release and long-term potentiation. Member of the NMDAR signaling complex in excitatory synapses, it regulates NMDAR-dependent potentiation of the AMPAR and therefore excitatory synaptic transmission."
+],
+[
+"Location",
+"Synapse, Postsynaptic density, Cell projection, dendritic spine, Cell projection, dendrite"
+],
+[
+"HGNC",
+"HGNC:1460"
+],
+[
+"HGNC symbol",
+"CAMK2A"
+],
+[
+"Previous symbols",
+"CAMKA"
+],
+[
+"Alias symbols",
+"KIAA0968, CaMKIINalpha, CaMKIIα"
+],
+[
+"Entrez",
+"815"
+],
+[
+"Ensembl",
+"ENSG00000070808"
+],
+[
+"RefSeq",
+"NM_015981"
+],
+[
+"UniProt",
+"Q9UQM7"
+]
+]
+},
+{
+"label": "ATP",
+"class": "SimpleChemical",
+"box": [
+963.0,
+847.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"neuron"
+],
+[
+"Full name",
+"ATP(4-)"
+],
+[
+"Synonyms",
+"ATP; adenosine 5'-triphosphate(4-)"
+],
+[
+"Definition",
+"A nucleoside triphosphate(4−) obtained by global deprotonation of the triphosphate OH groups of ATP; major species present at pH 7.3."
+],
+[
+"Formula",
+"C10H12N5O13P3"
+],
+[
+"ChEBI",
+"CHEBI:30616"
+],
+[
+"InChI",
+"InChI=1S/C10H16N5O13P3/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(26-10)1-25-30(21,22)28-31(23,24)27-29(18,19)20/h2-4,6-7,10,16-17H,1H2,(H,21,22)(H,23,24)(H2,11,12,13)(H2,18,19,20)/p-4/t4-,6-,7-,10-/m1/s1"
+],
+[
+"InChIKey",
+"ZKHQWZAMYRWXGA-KQYNXXCUSA-J"
+]
+]
+},
+{
+"label": "ADP",
+"class": "SimpleChemical",
+"box": [
+963.0,
+967.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"neuron"
+],
+[
+"Full name",
+"ADP(3-)"
+],
+[
+"Synonyms",
+"5'-O-[(phosphonatooxy)phosphinato]adenosine; ADP; ADP trianion; adenosine 5'-diphosphate"
+],
+[
+"Definition",
+"A nucleoside 5'-diphosphate(3−) arising from deprotonation of all three diphosphate OH groups of adenosine 5'-diphosphate (ADP); major species present at pH 7.3."
+],
+[
+"Formula",
+"C10H12N5O10P2"
+],
+[
+"ChEBI",
+"CHEBI:456216"
+],
+[
+"InChI",
+"InChI=1S/C10H15N5O10P2/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(24-10)1-23-27(21,22)25-26(18,19)20/h2-4,6-7,10,16-17H,1H2,(H,21,22)(H2,11,12,13)(H2,18,19,20)/p-3/t4-,6-,7-,10-/m1/s1"
+],
+[
+"InChIKey",
+"XTWYTFMLZFPYCI-KQYNXXCUSA-K"
+]
+]
+},
+{
+"label": "BH4",
+"class": "SimpleChemical",
+"box": [
+1023.0,
+1307.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"neuron"
+]
+]
+},
+{
+"label": "NOS1:BH4",
+"class": "Complex",
+"box": [
+1167.0,
+1116.2,
+152.0,
+101.5
+],
+"props": [
+[
+"Compartment",
+"neuron"
+]
+]
+},
+{
+"label": "NOS1",
+"class": "Macromolecule",
+"box": [
+1179.0,
+1141.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"neuron"
+],
+[
+"Full name",
+"Nitric oxide synthase 1"
+],
+[
+"Alternative names",
+"Constitutive NOS; NC-NOS; NOS type I; Neuronal NOS; Nitric oxide synthase, brain; Peptidyl-cysteine S-nitrosylase NOS1"
+],
+[
+"Function",
+"Produces nitric oxide (NO) which is a messenger molecule with diverse functions throughout the body. In the brain and peripheral nervous system, NO displays many properties of a neurotransmitter."
+],
+[
+"Location",
+"Cell membrane, sarcolemma, Cell projection, dendritic spine"
+],
+[
+"HGNC",
+"HGNC:7872"
+],
+[
+"HGNC symbol",
+"NOS1"
+],
+[
+"Previous symbols",
+"NOS"
+],
+[
+"Alias symbols",
+"nNOS"
+],
+[
+"Entrez",
+"4842"
+],
+[
+"Ensembl",
+"ENSG00000089250"
+],
+[
+"RefSeq",
+"NM_000620"
+],
+[
+"UniProt",
+"P29475"
+]
+]
+},
+{
+"label": "BH4",
+"class": "SimpleChemical",
+"box": [
+1267.0,
+1141.2,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"neuron"
+]
+]
+},
+{
+"label": "L-arginine",
+"class": "SimpleChemical",
+"box": [
+1343.0,
+1307.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"neuron"
+]
+]
+},
+{
+"label": "L-citrulline",
+"class": "SimpleChemical",
+"box": [
+1643.0,
+1307.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"neuron"
+]
+]
+},
+{
+"label": "O2",
+"class": "SimpleChemical",
+"box": [
+1423.0,
+1307.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"neuron"
+],
+[
+"Full name",
+"dioxygen"
+],
+[
+"Synonyms",
+"Disauerstoff; E 948; E-948; E948; O(2); O2; OXYGEN MOLECULE; Oxygen; [OO]; dioxygene; molecular oxygen"
+],
+[
+"Formula",
+"O2"
+],
+[
+"ChEBI",
+"CHEBI:15379"
+],
+[
+"KEGG",
+"C00007"
+],
+[
+"HMDB",
+"HMDB0001377"
+],
+[
+"InChI",
+"InChI=1S/O2/c1-2"
+],
+[
+"InChIKey",
+"MYMOFIZGZYHOMD-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "NO",
+"class": "SimpleChemical",
+"box": [
+1583.0,
+1147.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"neuron"
+],
+[
+"Full name",
+"nitric oxide"
+],
+[
+"Synonyms",
+"(.)NO; (NO)(.); EDRF; NO; NO(.); Nitrogen monoxide; Stickstoff(II)-oxid; Stickstoffmonoxid; [NO]; endothelium-derived relaxing factor; mononitrogen monoxide; monoxido de nitrogeno; monoxyde d'azote; nitrogen monooxide; nitrosyl; oxido de nitrogeno(II); oxido nitrico; oxidonitrogen(.); oxoazanyl; oxyde azotique; oxyde nitrique"
+],
+[
+"Definition",
+"A nitrogen oxide which is a free radical, each molecule of which consists of one nitrogen and one oxygen atom."
+],
+[
+"Formula",
+"NO"
+],
+[
+"ChEBI",
+"CHEBI:16480"
+],
+[
+"KEGG",
+"C00533"
+],
+[
+"InChI",
+"InChI=1S/NO/c1-2"
+],
+[
+"InChIKey",
+"MWUXSHHQAYIFBG-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "NADPH",
+"class": "SimpleChemical",
+"box": [
+723.0,
+1507.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"neuron"
+],
+[
+"Full name",
+"NADPH"
+],
+[
+"Synonyms",
+"2'-O-phosphonoadenosine 5'-{3-[1-(3-carbamoyl-1,4-dihydropyridin-1-yl)-1,4-anhydro-D-ribitol-5-yl] dihydrogen diphosphate}; NADPH DIHYDRO-NICOTINAMIDE-ADENINE-DINUCLEOTIDE PHOSPHATE; Reduced nicotinamide adenine dinucleotide phosphate; TPNH; dihydronicotinamide-adenine dinucleotide phosphate; reduced nicotinamide-adenine dinucleotide phosphate"
+],
+[
+"Definition",
+"The reduced form of NADP+; used in anabolic reactions, such as lipid and nucleic acid synthesis, which require NADPH as a reducing agent."
+],
+[
+"Formula",
+"C21H30N7O17P3"
+],
+[
+"ChEBI",
+"CHEBI:16474"
+],
+[
+"KEGG",
+"C00005"
+],
+[
+"HMDB",
+"HMDB0000221"
+],
+[
+"InChI",
+"InChI=1S/C21H30N7O17P3/c22-17-12-19(25-7-24-17)28(8-26-12)21-16(44-46(33,34)35)14(30)11(43-21)6-41-48(38,39)45-47(36,37)40-5-10-13(29)15(31)20(42-10)27-3-1-2-9(4-27)18(23)32/h1,3-4,7-8,10-11,13-16,20-21,29-31H,2,5-6H2,(H2,23,32)(H,36,37)(H,38,39)(H2,22,24,25)(H2,33,34,35)/t10-,11-,13-,14-,15-,16-,20-,21-/m1/s1"
+],
+[
+"InChIKey",
+"ACFIXJIJDZMPPO-NNYOXOHSSA-N"
+]
+]
+},
+{
+"label": "NADP+",
+"class": "SimpleChemical",
+"box": [
+963.0,
+1627.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"neuron"
+],
+[
+"Full name",
+"NADP(+)"
+],
+[
+"Synonyms",
+"2'-O-phosphonoadenosine 5'-{3-[1-(3-carbamoylpyridinio)-1,4-anhydro-D-ribitol-5-yl] dihydrogen diphosphate}; NADP; NADP+; Nicotinamide adenine dinucleotide phosphate; TPN; Triphosphopyridine nucleotide; beta-Nicotinamide adenine dinucleotide phosphate; oxidized nicotinamide-adenine dinucleotide phosphate"
+],
+[
+"Formula",
+"C21H29N7O17P3"
+],
+[
+"ChEBI",
+"CHEBI:18009"
+],
+[
+"KEGG",
+"C00006"
+],
+[
+"InChI",
+"InChI=1S/C21H28N7O17P3/c22-17-12-19(25-7-24-17)28(8-26-12)21-16(44-46(33,34)35)14(30)11(43-21)6-41-48(38,39)45-47(36,37)40-5-10-13(29)15(31)20(42-10)27-3-1-2-9(4-27)18(23)32/h1-4,7-8,10-11,13-16,20-21,29-31H,5-6H2,(H7-,22,23,24,25,32,33,34,35,36,37,38,39)/p+1/t10-,11-,13-,14-,15-,16-,20-,21-/m1/s1"
+],
+[
+"InChIKey",
+"XJLXINKUBYWONI-NNYOXOHSSA-O"
+]
+]
+},
+{
+"label": "O2",
+"class": "SimpleChemical",
+"box": [
+843.0,
+1627.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"neuron"
+],
+[
+"Full name",
+"dioxygen"
+],
+[
+"Synonyms",
+"Disauerstoff; E 948; E-948; E948; O(2); O2; OXYGEN MOLECULE; Oxygen; [OO]; dioxygene; molecular oxygen"
+],
+[
+"Formula",
+"O2"
+],
+[
+"ChEBI",
+"CHEBI:15379"
+],
+[
+"KEGG",
+"C00007"
+],
+[
+"HMDB",
+"HMDB0001377"
+],
+[
+"InChI",
+"InChI=1S/O2/c1-2"
+],
+[
+"InChIKey",
+"MYMOFIZGZYHOMD-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "O2.-",
+"class": "SimpleChemical",
+"box": [
+1023.0,
+1507.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"neuron"
+],
+[
+"Full name",
+"superoxide"
+],
+[
+"Synonyms",
+"(O2)(.-); Dioxid(1-); Hyperoxid; O2(-); O2(.-); O2-; O2.-; Superoxide anion; dioxidanidyl; dioxide(.1-); dioxide(1-); hiperoxido; hyperoxide; superoxide anion radical; superoxide radical; superoxide radical anion; superoxido; superoxyde"
+],
+[
+"Formula",
+"O2"
+],
+[
+"ChEBI",
+"CHEBI:18421"
+],
+[
+"KEGG",
+"C00704"
+],
+[
+"HMDB",
+"HMDB0002168"
+],
+[
+"InChI",
+"InChI=1S/HO2/c1-2/h1H/p-1"
+],
+[
+"InChIKey",
+"OUUQCZGPVNCOIJ-UHFFFAOYSA-M"
+]
+]
+},
+{
+"id": "iok88sfz",
+"label": "",
+"class": "Process",
+"box": [
+1031.0,
+1155.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"NOS1",
+"BH4"
+],
+"out": [
+"NOS1:BH4"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Alderton WK et al.",
+"journal": "Biochem J",
+"title": "Nitric oxide synthases: structure, function and inhibition.",
+"year": "2001",
+"db": "pubmed",
+"id": "11463332"
+}
+]
+},
+{
+"id": "pw3hmtyg",
+"label": "",
+"class": "Process",
+"box": [
+1431.0,
+1155.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"L-arginine",
+"O2"
+],
+"out": [
+"L-citrulline",
+"NO"
+],
+"by": [
+"NOS1:BH4"
+]
+},
+"references": [
+{
+"authors": "Alderton WK et al.",
+"journal": "Biochem J",
+"title": "Nitric oxide synthases: structure, function and inhibition.",
+"year": "2001",
+"db": "pubmed",
+"id": "11463332"
+}
+]
+},
+{
+"id": "lmzzuor3",
+"label": "",
+"class": "Process",
+"box": [
+851.0,
+915.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"NOS1",
+"ATP"
+],
+"out": [
+"NOS1",
+"ADP"
+],
+"by": [
+"CAMK2A"
+]
+},
+"references": [
+{
+"authors": "Komeima K et al.",
+"journal": "J Biol Chem",
+"title": "Inhibition of neuronal nitric-oxide synthase by calcium/ calmodulin-dependent protein kinase IIalpha through Ser847 phosphorylation in NG108-15 neuronal cells.",
+"year": "2000",
+"db": "pubmed",
+"id": "10874031"
+},
+{
+"authors": "Kröller-Schön S et al.",
+"journal": "Eur Heart J",
+"title": "Crucial role for Nox2 and sleep deprivation in aircraft noise-induced vascular and cerebral oxidative stress, inflammation, and gene regulation.",
+"year": "2018",
+"db": "pubmed",
+"id": "29905797"
+}
+]
+},
+{
+"id": "cdm01qo1",
+"label": "",
+"class": "Process",
+"box": [
+851.0,
+1515.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"NADPH",
+"O2"
+],
+"out": [
+"NADP+",
+"O2.-"
+],
+"by": [
+"NOS1"
+]
+},
+"references": [
+{
+"authors": "Shang T et al.",
+"journal": "J Biol Chem",
+"title": "1-Methyl-4-phenylpyridinium-induced apoptosis in cerebellar granule neurons is mediated by transferrin receptor iron-dependent depletion of tetrahydrobiopterin and neuronal nitric-oxide synthase-derived superoxide.",
+"year": "2004",
+"db": "pubmed",
+"id": "14752097"
+},
+{
+"authors": "Gebhart V et al.",
+"journal": "Nitric Oxide",
+"title": "Site and mechanism of uncoupling of nitric-oxide synthase: Uncoupling by monomerization and other misconceptions.",
+"year": "2019",
+"db": "pubmed",
+"id": "31022534"
+},
+{
+"authors": "Kröller-Schön S et al.",
+"journal": "Eur Heart J",
+"title": "Crucial role for Nox2 and sleep deprivation in aircraft noise-induced vascular and cerebral oxidative stress, inflammation, and gene regulation.",
+"year": "2018",
+"db": "pubmed",
+"id": "29905797"
+}
+]
+},
+{
+"id": "qzh0ftsd",
+"label": "",
+"class": "Process",
+"box": [
+171.0,
+1155.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+""
+],
+"out": [
+"NOS1"
+],
+"by": [
+"NOS1"
+]
+},
+"references": [
+{
+"authors": "Kröller-Schön S et al.",
+"journal": "Eur Heart J",
+"title": "Crucial role for Nox2 and sleep deprivation in aircraft noise-induced vascular and cerebral oxidative stress, inflammation, and gene regulation.",
+"year": "2018",
+"db": "pubmed",
+"id": "29905797"
+},
+{
+"authors": "Frenis K et al.",
+"journal": "Front Mol Biosci",
+"title": "Long-Term Effects of Aircraft Noise Exposure on Vascular Oxidative Stress, Endothelial Function and Blood Pressure: No Evidence for Adaptation or Tolerance Development.",
+"year": "2021",
+"db": "pubmed",
+"id": "35174211"
+}
+]
+},
+{
+"id": "plvooqwg",
+"label": "",
+"class": "Process",
+"box": [
+431.0,
+1155.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"NOS1"
+],
+"out": [
+"NOS1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Kröller-Schön S et al.",
+"journal": "Eur Heart J",
+"title": "Crucial role for Nox2 and sleep deprivation in aircraft noise-induced vascular and cerebral oxidative stress, inflammation, and gene regulation.",
+"year": "2018",
+"db": "pubmed",
+"id": "29905797"
+}
+]
+},
+{
+"id": "fjd33wqk",
+"label": "",
+"class": "Process",
+"box": [
+711.0,
+1155.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+""
+],
+"out": [
+"NOS1"
+],
+"by": [
+"NOS1"
+]
+},
+"references": [
+{
+"authors": "Kröller-Schön S et al.",
+"journal": "Eur Heart J",
+"title": "Crucial role for Nox2 and sleep deprivation in aircraft noise-induced vascular and cerebral oxidative stress, inflammation, and gene regulation.",
+"year": "2018",
+"db": "pubmed",
+"id": "29905797"
+}
+]
+},
+{
+"label": "PRKCA",
+"class": "Macromolecule",
+"box": [
+303.0,
+567.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"microglial cell"
+],
+[
+"Full name",
+"Protein kinase C alpha type"
+],
+[
+"Function",
+"Calcium-activated, phospholipid- and diacylglycerol (DAG)-dependent serine/threonine-protein kinase that is involved in positive and negative regulation of cell proliferation, apoptosis, differentiation, migration and adhesion, tumorigenesis, cardiac hypertrophy, angiogenesis, platelet function and inflammation, by directly phosphorylating targets such as RAF1, BCL2, CSPG4, TNNT2/CTNT, or activating signaling cascade involving MAPK1/3 (ERK1/2) and RAP1GAP. Involved in cell proliferation and cell growth arrest by positive and negative regulation of the cell cycle."
+],
+[
+"Location",
+"Cytoplasm, Cell membrane, Mitochondrion membrane, Nucleus"
+],
+[
+"HGNC",
+"HGNC:9393"
+],
+[
+"HGNC symbol",
+"PRKCA"
+],
+[
+"Previous symbols",
+"PKCA"
+],
+[
+"Alias symbols",
+"PKCα"
+],
+[
+"Entrez",
+"5578"
+],
+[
+"Ensembl",
+"ENSG00000154229"
+],
+[
+"RefSeq",
+"NM_002737"
+],
+[
+"UniProt",
+"P17252"
+]
+]
+},
+{
+"label": "NCF1",
+"class": "Macromolecule",
+"box": [
+83.0,
+407.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"microglial cell"
+],
+[
+"Full name",
+"Neutrophil cytosol factor 1"
+],
+[
+"Alternative names",
+"47 kDa autosomal chronic granulomatous disease protein; 47 kDa neutrophil oxidase factor; NCF-47K; Neutrophil NADPH oxidase factor 1; Nox organizer 2; Nox-organizing protein 2; SH3 and PX domain-containing protein 1A; p47-phox"
+],
+[
+"Function",
+"Subunit of the phagocyte NADPH oxidase complex that mediates the transfer of electrons from cytosolic NADPH to O2 to produce the superoxide anion (O2(-)). In the activated complex, electrons are first transferred from NADPH to flavin adenine dinucleotide (FAD) and subsequently transferred via two heme molecules to molecular oxygen, producing superoxide through an outer-sphere reaction."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Membrane"
+],
+[
+"HGNC",
+"HGNC:7660"
+],
+[
+"HGNC symbol",
+"NCF1"
+],
+[
+"Alias symbols",
+"p47phox, NOXO2, NCF1A, SH3PXD1A"
+],
+[
+"Entrez",
+"653361"
+],
+[
+"Ensembl",
+"ENSG00000158517"
+],
+[
+"RefSeq",
+"NM_000265"
+],
+[
+"UniProt",
+"P14598"
+]
+]
+},
+{
+"label": "NCF1",
+"class": "Macromolecule",
+"box": [
+523.0,
+407.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"microglial cell"
+],
+[
+"PTM",
+"Phosphorylated at Ser328"
+],
+[
+"Full name",
+"Neutrophil cytosol factor 1"
+],
+[
+"Alternative names",
+"47 kDa autosomal chronic granulomatous disease protein; 47 kDa neutrophil oxidase factor; NCF-47K; Neutrophil NADPH oxidase factor 1; Nox organizer 2; Nox-organizing protein 2; SH3 and PX domain-containing protein 1A; p47-phox"
+],
+[
+"Function",
+"Subunit of the phagocyte NADPH oxidase complex that mediates the transfer of electrons from cytosolic NADPH to O2 to produce the superoxide anion (O2(-)). In the activated complex, electrons are first transferred from NADPH to flavin adenine dinucleotide (FAD) and subsequently transferred via two heme molecules to molecular oxygen, producing superoxide through an outer-sphere reaction."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Membrane"
+],
+[
+"HGNC",
+"HGNC:7660"
+],
+[
+"HGNC symbol",
+"NCF1"
+],
+[
+"Alias symbols",
+"p47phox, NOXO2, NCF1A, SH3PXD1A"
+],
+[
+"Entrez",
+"653361"
+],
+[
+"Ensembl",
+"ENSG00000158517"
+],
+[
+"RefSeq",
+"NM_000265"
+],
+[
+"UniProt",
+"P14598"
+]
+]
+},
+{
+"label": "cytochrome b558",
+"class": "Complex",
+"box": [
+668.0,
+697.0,
+150.0,
+60.0
+],
+"props": [
+[
+"Compartment",
+"microglial cell (plasma membrane)"
+]
+]
+},
+{
+"label": "NOX2 holoenzyme",
+"class": "Complex",
+"box": [
+908.0,
+397.0,
+150.0,
+60.0
+],
+"props": [
+[
+"Compartment",
+"microglial cell (plasma membrane)"
+]
+]
+},
+{
+"label": "ATP",
+"class": "SimpleChemical",
+"box": [
+203.0,
+567.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"microglial cell"
+],
+[
+"Full name",
+"ATP(4-)"
+],
+[
+"Synonyms",
+"ATP; adenosine 5'-triphosphate(4-)"
+],
+[
+"Definition",
+"A nucleoside triphosphate(4−) obtained by global deprotonation of the triphosphate OH groups of ATP; major species present at pH 7.3."
+],
+[
+"Formula",
+"C10H12N5O13P3"
+],
+[
+"ChEBI",
+"CHEBI:30616"
+],
+[
+"InChI",
+"InChI=1S/C10H16N5O13P3/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(26-10)1-25-30(21,22)28-31(23,24)27-29(18,19)20/h2-4,6-7,10,16-17H,1H2,(H,21,22)(H,23,24)(H2,11,12,13)(H2,18,19,20)/p-4/t4-,6-,7-,10-/m1/s1"
+],
+[
+"InChIKey",
+"ZKHQWZAMYRWXGA-KQYNXXCUSA-J"
+]
+]
+},
+{
+"label": "ADP",
+"class": "SimpleChemical",
+"box": [
+443.0,
+567.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"microglial cell"
+],
+[
+"Full name",
+"ADP(3-)"
+],
+[
+"Synonyms",
+"5'-O-[(phosphonatooxy)phosphinato]adenosine; ADP; ADP trianion; adenosine 5'-diphosphate"
+],
+[
+"Definition",
+"A nucleoside 5'-diphosphate(3−) arising from deprotonation of all three diphosphate OH groups of adenosine 5'-diphosphate (ADP); major species present at pH 7.3."
+],
+[
+"Formula",
+"C10H12N5O10P2"
+],
+[
+"ChEBI",
+"CHEBI:456216"
+],
+[
+"InChI",
+"InChI=1S/C10H15N5O10P2/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(24-10)1-23-27(21,22)25-26(18,19)20/h2-4,6-7,10,16-17H,1H2,(H,21,22)(H2,11,12,13)(H2,18,19,20)/p-3/t4-,6-,7-,10-/m1/s1"
+],
+[
+"InChIKey",
+"XTWYTFMLZFPYCI-KQYNXXCUSA-K"
+]
+]
+},
+{
+"label": "NADPH",
+"class": "SimpleChemical",
+"box": [
+1083.0,
+567.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"microglial cell"
+],
+[
+"Full name",
+"NADPH"
+],
+[
+"Synonyms",
+"2'-O-phosphonoadenosine 5'-{3-[1-(3-carbamoyl-1,4-dihydropyridin-1-yl)-1,4-anhydro-D-ribitol-5-yl] dihydrogen diphosphate}; NADPH DIHYDRO-NICOTINAMIDE-ADENINE-DINUCLEOTIDE PHOSPHATE; Reduced nicotinamide adenine dinucleotide phosphate; TPNH; dihydronicotinamide-adenine dinucleotide phosphate; reduced nicotinamide-adenine dinucleotide phosphate"
+],
+[
+"Definition",
+"The reduced form of NADP+; used in anabolic reactions, such as lipid and nucleic acid synthesis, which require NADPH as a reducing agent."
+],
+[
+"Formula",
+"C21H30N7O17P3"
+],
+[
+"ChEBI",
+"CHEBI:16474"
+],
+[
+"KEGG",
+"C00005"
+],
+[
+"HMDB",
+"HMDB0000221"
+],
+[
+"InChI",
+"InChI=1S/C21H30N7O17P3/c22-17-12-19(25-7-24-17)28(8-26-12)21-16(44-46(33,34)35)14(30)11(43-21)6-41-48(38,39)45-47(36,37)40-5-10-13(29)15(31)20(42-10)27-3-1-2-9(4-27)18(23)32/h1,3-4,7-8,10-11,13-16,20-21,29-31H,2,5-6H2,(H2,23,32)(H,36,37)(H,38,39)(H2,22,24,25)(H2,33,34,35)/t10-,11-,13-,14-,15-,16-,20-,21-/m1/s1"
+],
+[
+"InChIKey",
+"ACFIXJIJDZMPPO-NNYOXOHSSA-N"
+]
+]
+},
+{
+"label": "NADP+",
+"class": "SimpleChemical",
+"box": [
+1243.0,
+567.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"microglial cell"
+],
+[
+"Full name",
+"NADP(+)"
+],
+[
+"Synonyms",
+"2'-O-phosphonoadenosine 5'-{3-[1-(3-carbamoylpyridinio)-1,4-anhydro-D-ribitol-5-yl] dihydrogen diphosphate}; NADP; NADP+; Nicotinamide adenine dinucleotide phosphate; TPN; Triphosphopyridine nucleotide; beta-Nicotinamide adenine dinucleotide phosphate; oxidized nicotinamide-adenine dinucleotide phosphate"
+],
+[
+"Formula",
+"C21H29N7O17P3"
+],
+[
+"ChEBI",
+"CHEBI:18009"
+],
+[
+"KEGG",
+"C00006"
+],
+[
+"InChI",
+"InChI=1S/C21H28N7O17P3/c22-17-12-19(25-7-24-17)28(8-26-12)21-16(44-46(33,34)35)14(30)11(43-21)6-41-48(38,39)45-47(36,37)40-5-10-13(29)15(31)20(42-10)27-3-1-2-9(4-27)18(23)32/h1-4,7-8,10-11,13-16,20-21,29-31H,5-6H2,(H7-,22,23,24,25,32,33,34,35,36,37,38,39)/p+1/t10-,11-,13-,14-,15-,16-,20-,21-/m1/s1"
+],
+[
+"InChIKey",
+"XJLXINKUBYWONI-NNYOXOHSSA-O"
+]
+]
+},
+{
+"label": "O2",
+"class": "SimpleChemical",
+"box": [
+1163.0,
+567.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"microglial cell"
+],
+[
+"Full name",
+"dioxygen"
+],
+[
+"Synonyms",
+"Disauerstoff; E 948; E-948; E948; O(2); O2; OXYGEN MOLECULE; Oxygen; [OO]; dioxygene; molecular oxygen"
+],
+[
+"Formula",
+"O2"
+],
+[
+"ChEBI",
+"CHEBI:15379"
+],
+[
+"KEGG",
+"C00007"
+],
+[
+"HMDB",
+"HMDB0001377"
+],
+[
+"InChI",
+"InChI=1S/O2/c1-2"
+],
+[
+"InChIKey",
+"MYMOFIZGZYHOMD-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "O2.-",
+"class": "SimpleChemical",
+"box": [
+1323.0,
+407.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"microglial cell"
+],
+[
+"Full name",
+"superoxide"
+],
+[
+"Synonyms",
+"(O2)(.-); Dioxid(1-); Hyperoxid; O2(-); O2(.-); O2-; O2.-; Superoxide anion; dioxidanidyl; dioxide(.1-); dioxide(1-); hiperoxido; hyperoxide; superoxide anion radical; superoxide radical; superoxide radical anion; superoxido; superoxyde"
+],
+[
+"Formula",
+"O2"
+],
+[
+"ChEBI",
+"CHEBI:18421"
+],
+[
+"KEGG",
+"C00704"
+],
+[
+"HMDB",
+"HMDB0002168"
+],
+[
+"InChI",
+"InChI=1S/HO2/c1-2/h1H/p-1"
+],
+[
+"InChIKey",
+"OUUQCZGPVNCOIJ-UHFFFAOYSA-M"
+]
+]
+},
+{
+"id": "ze4h1tan",
+"label": "",
+"class": "Process",
+"box": [
+331.0,
+415.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"NCF1",
+"ATP"
+],
+"out": [
+"NCF1",
+"ADP"
+],
+"by": [
+"PRKCA",
+"noradrenaline"
+]
+},
+"references": [
+{
+"authors": "Kröller-Schön S et al.",
+"journal": "Eur Heart J",
+"title": "Crucial role for Nox2 and sleep deprivation in aircraft noise-induced vascular and cerebral oxidative stress, inflammation, and gene regulation.",
+"year": "2018",
+"db": "pubmed",
+"id": "29905797"
+},
+{
+"authors": "Makni-Maalej K et al.",
+"journal": "J Immunol",
+"title": "The TLR7/8 agonist CL097 primes N-formyl-methionyl-leucyl-phenylalanine-stimulated NADPH oxidase activation in human neutrophils: critical role of p47phox phosphorylation and the proline isomerase Pin1.",
+"year": "2012",
+"db": "pubmed",
+"id": "23002436"
+},
+{
+"authors": "Kuntić M et al.",
+"journal": "Antioxidants (Basel)",
+"title": "Interventions by Cardiovascular Drugs Against Aircraft Noise-Induced Cardiovascular Oxidative Stress and Damage.",
+"year": "2025",
+"db": "pubmed",
+"id": "39857393"
+}
+]
+},
+{
+"id": "gi8j0lbk",
+"label": "",
+"class": "Process",
+"box": [
+731.0,
+415.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"NCF1",
+"cytochrome b558"
+],
+"out": [
+"NOX2 holoenzyme"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sankarapandi S et al.",
+"journal": "Arch Biochem Biophys",
+"title": "Measurement and characterization of superoxide generation in microglial cells: evidence for an NADPH oxidase-dependent pathway.",
+"year": "1998",
+"db": "pubmed",
+"id": "9606965"
+},
+{
+"authors": "Bedard K et al.",
+"journal": "Physiol Rev",
+"title": "The NOX family of ROS-generating NADPH oxidases: physiology and pathophysiology.",
+"year": "2007",
+"db": "pubmed",
+"id": "17237347"
+}
+]
+},
+{
+"id": "heaf8upx",
+"label": "",
+"class": "Process",
+"box": [
+1171.0,
+415.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"NADPH",
+"O2"
+],
+"out": [
+"NADP+",
+"O2.-"
+],
+"by": [
+"NOX2 holoenzyme"
+]
+},
+"references": [
+{
+"authors": "Kröller-Schön S et al.",
+"journal": "Eur Heart J",
+"title": "Crucial role for Nox2 and sleep deprivation in aircraft noise-induced vascular and cerebral oxidative stress, inflammation, and gene regulation.",
+"year": "2018",
+"db": "pubmed",
+"id": "29905797"
+},
+{
+"authors": "Sankarapandi S et al.",
+"journal": "Arch Biochem Biophys",
+"title": "Measurement and characterization of superoxide generation in microglial cells: evidence for an NADPH oxidase-dependent pathway.",
+"year": "1998",
+"db": "pubmed",
+"id": "9606965"
+},
+{
+"authors": "Kuntic M et al.",
+"journal": "Redox Biol",
+"title": "Co-exposure to urban particulate matter and aircraft noise adversely impacts the cerebro-pulmonary-cardiovascular axis in mice.",
+"year": "2023",
+"db": "pubmed",
+"id": "36566737"
+}
+]
+},
+{
+"label": "noradrenaline",
+"class": "SimpleChemical",
+"box": [
+323.0,
+47.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"blood plasma"
+]
+]
+}
+]
+}

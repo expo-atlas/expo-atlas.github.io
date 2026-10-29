@@ -1,0 +1,1786 @@
+{
+"nodes": [
+{
+"label": "CHRNA3:CHRNB4",
+"class": "Complex",
+"box": [
+207.0,
+528.8,
+192.0,
+92.5
+],
+"props": [
+[
+"Compartment",
+"adrenal chromaffin cell (plasma membrane)"
+]
+]
+},
+{
+"label": "CHRNA3",
+"class": "Macromolecule",
+"box": [
+219.0,
+544.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"adrenal chromaffin cell (plasma membrane)"
+],
+[
+"Full name",
+"Neuronal acetylcholine receptor subunit alpha-3"
+],
+[
+"Function",
+"Component of neuronal acetylcholine receptors (nAChRs) that function as pentameric, ligand-gated cation channels with high calcium permeability among other activities. nAChRs are excitatory neurotrasnmitter receptors formed by a collection of nAChR subunits known to mediate synaptic transmission in the nervous system and the neuromuscular junction. Each nAchR subunit confers differential attributes to channel properties, including activation, deactivation and desensitization kinetics, pH sensitivity, cation permeability, and binding to allosteric modulators."
+],
+[
+"Location",
+"Synaptic cell membrane, Cell membrane, Endoplasmic reticulum, Golgi apparatus"
+],
+[
+"HGNC",
+"HGNC:1957"
+],
+[
+"HGNC symbol",
+"CHRNA3"
+],
+[
+"Entrez",
+"1136"
+],
+[
+"Ensembl",
+"ENSG00000080644"
+],
+[
+"RefSeq",
+"NM_000743"
+],
+[
+"UniProt",
+"P32297"
+]
+]
+},
+{
+"label": "CHRNB4",
+"class": "Macromolecule",
+"box": [
+307.0,
+544.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"adrenal chromaffin cell (plasma membrane)"
+],
+[
+"Full name",
+"Neuronal acetylcholine receptor subunit beta-4"
+],
+[
+"Function",
+"Component of neuronal acetylcholine receptors (nAChRs) that function as pentameric, ligand-gated cation channels with high calcium permeability among other activities. nAChRs are excitatory neurotrasnmitter receptors formed by a collection of nAChR subunits known to mediate synaptic transmission in the nervous system and the neuromuscular junction. Each nAchR subunit confers differential attributes to channel properties, including activation, deactivation and desensitization kinetics, pH sensitivity, cation permeability, and binding to allosteric modulators."
+],
+[
+"Location",
+"Synaptic cell membrane, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:1964"
+],
+[
+"HGNC symbol",
+"CHRNB4"
+],
+[
+"Entrez",
+"1143"
+],
+[
+"Ensembl",
+"ENSG00000117971"
+],
+[
+"RefSeq",
+"NM_000750"
+],
+[
+"UniProt",
+"P30926"
+]
+]
+},
+{
+"label": "acetylcholine:CHRNA3:CHRNB4",
+"class": "Complex",
+"box": [
+561.2,
+528.8,
+323.5,
+92.5
+],
+"props": [
+[
+"Compartment",
+"adrenal chromaffin cell (plasma membrane)"
+]
+]
+},
+{
+"label": "acetylcholine",
+"class": "SimpleChemical",
+"box": [
+615.0,
+544.8,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"adrenal chromaffin cell (plasma membrane)"
+],
+[
+"Full name",
+"acetylcholine"
+],
+[
+"Synonyms",
+"2-acetyloxy-N,N,N-trimethylethanaminium; ACh; Azetylcholin; O-Acetylcholine; choline acetate"
+],
+[
+"Definition",
+"Actylcholine is an ester of acetic acid and choline, which acts as a neurotransmitter."
+],
+[
+"Formula",
+"C7H16NO2"
+],
+[
+"ChEBI",
+"CHEBI:15355"
+],
+[
+"KEGG",
+"C01996"
+],
+[
+"InChI",
+"InChI=1S/C7H16NO2/c1-7(9)10-6-5-8(2,3)4/h5-6H2,1-4H3/q+1"
+],
+[
+"InChIKey",
+"OIPILFWXSMYKGL-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "CHRNA3",
+"class": "Macromolecule",
+"box": [
+704.8,
+544.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"adrenal chromaffin cell (plasma membrane)"
+],
+[
+"Full name",
+"Neuronal acetylcholine receptor subunit alpha-3"
+],
+[
+"Function",
+"Component of neuronal acetylcholine receptors (nAChRs) that function as pentameric, ligand-gated cation channels with high calcium permeability among other activities. nAChRs are excitatory neurotrasnmitter receptors formed by a collection of nAChR subunits known to mediate synaptic transmission in the nervous system and the neuromuscular junction. Each nAchR subunit confers differential attributes to channel properties, including activation, deactivation and desensitization kinetics, pH sensitivity, cation permeability, and binding to allosteric modulators."
+],
+[
+"Location",
+"Synaptic cell membrane, Cell membrane, Endoplasmic reticulum, Golgi apparatus"
+],
+[
+"HGNC",
+"HGNC:1957"
+],
+[
+"HGNC symbol",
+"CHRNA3"
+],
+[
+"Entrez",
+"1136"
+],
+[
+"Ensembl",
+"ENSG00000080644"
+],
+[
+"RefSeq",
+"NM_000743"
+],
+[
+"UniProt",
+"P32297"
+]
+]
+},
+{
+"label": "CHRNB4",
+"class": "Macromolecule",
+"box": [
+792.8,
+544.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"adrenal chromaffin cell (plasma membrane)"
+],
+[
+"Full name",
+"Neuronal acetylcholine receptor subunit beta-4"
+],
+[
+"Function",
+"Component of neuronal acetylcholine receptors (nAChRs) that function as pentameric, ligand-gated cation channels with high calcium permeability among other activities. nAChRs are excitatory neurotrasnmitter receptors formed by a collection of nAChR subunits known to mediate synaptic transmission in the nervous system and the neuromuscular junction. Each nAchR subunit confers differential attributes to channel properties, including activation, deactivation and desensitization kinetics, pH sensitivity, cation permeability, and binding to allosteric modulators."
+],
+[
+"Location",
+"Synaptic cell membrane, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:1964"
+],
+[
+"HGNC symbol",
+"CHRNB4"
+],
+[
+"Entrez",
+"1143"
+],
+[
+"Ensembl",
+"ENSG00000117971"
+],
+[
+"RefSeq",
+"NM_000750"
+],
+[
+"UniProt",
+"P30926"
+]
+]
+},
+{
+"label": "Ca2+",
+"class": "SimpleChemical",
+"box": [
+2053.0,
+435.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"adrenal chromaffin cell"
+],
+[
+"Full name",
+"calcium(2+)"
+],
+[
+"Synonyms",
+"CALCIUM ION; Ca(2+); Ca2+; calcium(2+) ion; calcium(II) cation; calcium, doubly charged positive ion"
+],
+[
+"Formula",
+"Ca"
+],
+[
+"ChEBI",
+"CHEBI:29108"
+],
+[
+"KEGG",
+"C00076"
+],
+[
+"InChI",
+"InChI=1S/Ca/q+2"
+],
+[
+"InChIKey",
+"BHPQYMZQTOCNFJ-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "L-tyrosine",
+"class": "SimpleChemical",
+"box": [
+1003.0,
+555.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"adrenal chromaffin cell"
+]
+]
+},
+{
+"label": "TH",
+"class": "Macromolecule",
+"box": [
+1123.0,
+715.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"adrenal chromaffin cell"
+],
+[
+"Full name",
+"Tyrosine 3-monooxygenase"
+],
+[
+"Alternative names",
+"Tyrosine 3-hydroxylase"
+],
+[
+"Function",
+"Catalyzes the conversion of L-tyrosine to L-dihydroxyphenylalanine (L-Dopa), the rate-limiting step in the biosynthesis of catecholamines, dopamine, noradrenaline, and adrenaline. Uses tetrahydrobiopterin and molecular oxygen to convert tyrosine to L-Dopa."
+],
+[
+"Location",
+"Cytoplasm, perinuclear region, Nucleus, Cell projection, axon, Cytoplasm, Cytoplasmic vesicle, secretory vesicle, synaptic vesicle"
+],
+[
+"HGNC",
+"HGNC:11782"
+],
+[
+"HGNC symbol",
+"TH"
+],
+[
+"Alias symbols",
+"DYT5b"
+],
+[
+"Entrez",
+"7054"
+],
+[
+"Ensembl",
+"ENSG00000180176"
+],
+[
+"RefSeq",
+"NM_000360"
+],
+[
+"UniProt",
+"P07101"
+]
+]
+},
+{
+"label": "L-DOPA",
+"class": "SimpleChemical",
+"box": [
+1283.0,
+555.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"adrenal chromaffin cell"
+]
+]
+},
+{
+"label": "DDC",
+"class": "Macromolecule",
+"box": [
+1403.0,
+715.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"adrenal chromaffin cell"
+],
+[
+"Full name",
+"Aromatic-L-amino-acid decarboxylase"
+],
+[
+"Alternative names",
+"DOPA decarboxylase"
+],
+[
+"Function",
+"Catalyzes the decarboxylation of L-3,4-dihydroxyphenylalanine (DOPA) to dopamine and L-5-hydroxytryptophan to serotonin"
+],
+[
+"HGNC",
+"HGNC:2719"
+],
+[
+"HGNC symbol",
+"DDC"
+],
+[
+"Alias symbols",
+"AADC"
+],
+[
+"Entrez",
+"1644"
+],
+[
+"Ensembl",
+"ENSG00000132437"
+],
+[
+"RefSeq",
+"NM_000790"
+],
+[
+"UniProt",
+"P20711"
+]
+]
+},
+{
+"label": "dopamine",
+"class": "SimpleChemical",
+"box": [
+1563.0,
+555.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"adrenal chromaffin cell"
+]
+]
+},
+{
+"label": "DBH",
+"class": "Macromolecule",
+"box": [
+1683.0,
+715.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"adrenal chromaffin cell"
+],
+[
+"Full name",
+"Dopamine beta-hydroxylase"
+],
+[
+"Alternative names",
+"Dopamine beta-monooxygenase"
+],
+[
+"Function",
+"Catalyzes the hydroxylation of dopamine to noradrenaline (also known as norepinephrine), and is thus vital for regulation of these neurotransmitters"
+],
+[
+"Location",
+"Cytoplasmic vesicle, secretory vesicle lumen, Cytoplasmic vesicle, secretory vesicle, chromaffin granule lumen, Secreted, Cytoplasmic vesicle, secretory vesicle membrane, Cytoplasmic vesicle, secretory vesicle, chromaffin granule membrane"
+],
+[
+"HGNC",
+"HGNC:2689"
+],
+[
+"HGNC symbol",
+"DBH"
+],
+[
+"Alias symbols",
+"DBM"
+],
+[
+"Entrez",
+"1621"
+],
+[
+"Ensembl",
+"ENSG00000123454"
+],
+[
+"RefSeq",
+"NM_000787"
+],
+[
+"UniProt",
+"P09172"
+]
+]
+},
+{
+"label": "noradrenaline",
+"class": "SimpleChemical",
+"box": [
+1843.0,
+555.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"adrenal chromaffin cell"
+]
+]
+},
+{
+"label": "PNMT",
+"class": "Macromolecule",
+"box": [
+1963.0,
+715.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"adrenal chromaffin cell"
+],
+[
+"Full name",
+"Phenylethanolamine N-methyltransferase"
+],
+[
+"Alternative names",
+"Noradrenaline N-methyltransferase"
+],
+[
+"Function",
+"Catalyzes the transmethylation of nonepinephrine (noradrenaline) to form epinephrine (adrenaline), using S-adenosyl-L-methionine as the methyl donor. Other substrates include phenylethanolamine and octopamine."
+],
+[
+"HGNC",
+"HGNC:9160"
+],
+[
+"HGNC symbol",
+"PNMT"
+],
+[
+"Previous symbols",
+"PENT"
+],
+[
+"Entrez",
+"5409"
+],
+[
+"Ensembl",
+"ENSG00000141744"
+],
+[
+"RefSeq",
+"NM_002686"
+],
+[
+"UniProt",
+"P11086"
+]
+]
+},
+{
+"label": "adrenaline",
+"class": "SimpleChemical",
+"box": [
+2123.0,
+555.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"adrenal chromaffin cell"
+]
+]
+},
+{
+"id": "o22pe0p1",
+"label": "",
+"class": "Process",
+"box": [
+471.0,
+563.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"acetylcholine",
+"CHRNA3:CHRNB4"
+],
+"out": [
+"acetylcholine:CHRNA3:CHRNB4"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Guérineau NC",
+"journal": "IUBMB Life",
+"title": "Cholinergic and peptidergic neurotransmission in the adrenal medulla: A dynamic control of stimulus-secretion coupling.",
+"year": "2020",
+"db": "pubmed",
+"id": "31301221"
+}
+]
+},
+{
+"id": "r7euphsj",
+"label": "",
+"class": "Process",
+"box": [
+711.0,
+323.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Ca2+"
+],
+"out": [
+"Ca2+"
+],
+"by": [
+"acetylcholine:CHRNA3:CHRNB4"
+]
+},
+"references": [
+{
+"authors": "García AG et al.",
+"journal": "Physiol Rev",
+"title": "Calcium signaling and exocytosis in adrenal chromaffin cells.",
+"year": "2006",
+"db": "pubmed",
+"id": "17015485"
+},
+{
+"authors": "Guérineau NC",
+"journal": "IUBMB Life",
+"title": "Cholinergic and peptidergic neurotransmission in the adrenal medulla: A dynamic control of stimulus-secretion coupling.",
+"year": "2020",
+"db": "pubmed",
+"id": "31301221"
+}
+]
+},
+{
+"id": "b1v0ptfa",
+"label": "",
+"class": "Process",
+"box": [
+1151.0,
+563.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"L-tyrosine"
+],
+"out": [
+"L-DOPA"
+],
+"by": [
+"TH"
+]
+},
+"references": [
+{
+"authors": "Daubner SC et al.",
+"journal": "Arch Biochem Biophys",
+"title": "Tyrosine hydroxylase and regulation of dopamine synthesis.",
+"year": "2011",
+"db": "pubmed",
+"id": "21176768"
+}
+]
+},
+{
+"id": "scuv8u10",
+"label": "",
+"class": "Process",
+"box": [
+1431.0,
+563.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"L-DOPA"
+],
+"out": [
+"dopamine"
+],
+"by": [
+"DDC"
+]
+},
+"references": [
+{
+"authors": "Wassenberg T et al.",
+"journal": "Orphanet J Rare Dis",
+"title": "Consensus guideline for the diagnosis and treatment of aromatic l-amino acid decarboxylase (AADC) deficiency.",
+"year": "2017",
+"db": "pubmed",
+"id": "28100251"
+}
+]
+},
+{
+"id": "jmsk588l",
+"label": "",
+"class": "Process",
+"box": [
+1711.0,
+563.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"dopamine"
+],
+"out": [
+"noradrenaline"
+],
+"by": [
+"DBH"
+]
+},
+"references": [
+{
+"authors": "Arnold AC et al.",
+"journal": "J Clin Endocrinol Metab",
+"title": "Hyperinsulinemia and Insulin Resistance in Dopamine β-Hydroxylase Deficiency.",
+"year": "2017",
+"db": "pubmed",
+"id": "27778639"
+}
+]
+},
+{
+"id": "w9ml4p5a",
+"label": "",
+"class": "Process",
+"box": [
+1991.0,
+563.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"noradrenaline"
+],
+"out": [
+"adrenaline"
+],
+"by": [
+"PNMT",
+"cortisol"
+]
+},
+"references": [
+{
+"authors": "Wong DL",
+"journal": "Cell Mol Neurobiol",
+"title": "Epinephrine biosynthesis: hormonal and neural control during stress.",
+"year": "2006",
+"db": "pubmed",
+"id": "16645894"
+}
+]
+},
+{
+"id": "usptpaqy",
+"label": "",
+"class": "Process",
+"box": [
+1851.0,
+323.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"noradrenaline"
+],
+"out": [
+"noradrenaline"
+],
+"by": [
+"Ca2+"
+]
+},
+"references": [
+{
+"authors": "García AG et al.",
+"journal": "Physiol Rev",
+"title": "Calcium signaling and exocytosis in adrenal chromaffin cells.",
+"year": "2006",
+"db": "pubmed",
+"id": "17015485"
+},
+{
+"authors": "Münzel T et al.",
+"journal": "Eur Heart J",
+"title": "Effects of noise on vascular function, oxidative stress, and inflammation: mechanistic insight from studies in mice.",
+"year": "2017",
+"db": "pubmed",
+"id": "28329261"
+}
+]
+},
+{
+"id": "o9to4j06",
+"label": "",
+"class": "Process",
+"box": [
+2271.0,
+323.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"adrenaline"
+],
+"out": [
+"adrenaline"
+],
+"by": [
+"Ca2+"
+]
+},
+"references": [
+{
+"authors": "García AG et al.",
+"journal": "Physiol Rev",
+"title": "Calcium signaling and exocytosis in adrenal chromaffin cells.",
+"year": "2006",
+"db": "pubmed",
+"id": "17015485"
+},
+{
+"authors": "Schmidt FP et al.",
+"journal": "Eur Heart J",
+"title": "Effect of nighttime aircraft noise exposure on endothelial function and stress hormone release in healthy adults.",
+"year": "2013",
+"db": "pubmed",
+"id": "23821397"
+}
+]
+},
+{
+"label": "ADRB1",
+"class": "Macromolecule",
+"box": [
+2463.0,
+975.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"juxtaglomerular cell (plasma membrane)"
+],
+[
+"Full name",
+"Beta-1 adrenergic receptor"
+],
+[
+"Alternative names",
+"Beta-1 adrenoreceptor"
+],
+[
+"Function",
+"G protein-coupled receptor for catecholamines that couples to G(s) proteins to activate adenylate cyclase and cAMP-dependent pathway. Binds epinephrine and norepinephrine with approximately equal affinity."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:285"
+],
+[
+"HGNC symbol",
+"ADRB1"
+],
+[
+"Previous symbols",
+"ADRB1R"
+],
+[
+"Entrez",
+"153"
+],
+[
+"Ensembl",
+"ENSG00000043591"
+],
+[
+"RefSeq",
+"NM_000684"
+],
+[
+"UniProt",
+"P08588"
+]
+]
+},
+{
+"label": "noradrenaline:ADRB1",
+"class": "Complex",
+"box": [
+2745.2,
+948.8,
+235.5,
+92.5
+],
+"props": [
+[
+"Compartment",
+"juxtaglomerular cell (plasma membrane)"
+]
+]
+},
+{
+"label": "noradrenaline",
+"class": "SimpleChemical",
+"box": [
+2799.0,
+964.8,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"juxtaglomerular cell (plasma membrane)"
+]
+]
+},
+{
+"label": "ADRB1",
+"class": "Macromolecule",
+"box": [
+2888.8,
+964.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"juxtaglomerular cell (plasma membrane)"
+],
+[
+"Full name",
+"Beta-1 adrenergic receptor"
+],
+[
+"Alternative names",
+"Beta-1 adrenoreceptor"
+],
+[
+"Function",
+"G protein-coupled receptor for catecholamines that couples to G(s) proteins to activate adenylate cyclase and cAMP-dependent pathway. Binds epinephrine and norepinephrine with approximately equal affinity."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:285"
+],
+[
+"HGNC symbol",
+"ADRB1"
+],
+[
+"Previous symbols",
+"ADRB1R"
+],
+[
+"Entrez",
+"153"
+],
+[
+"Ensembl",
+"ENSG00000043591"
+],
+[
+"RefSeq",
+"NM_000684"
+],
+[
+"UniProt",
+"P08588"
+]
+]
+},
+{
+"label": "renin",
+"class": "Macromolecule",
+"box": [
+3023.0,
+1135.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"juxtaglomerular cell"
+],
+[
+"Full name",
+"Renin"
+],
+[
+"Alternative names",
+"Angiotensinogenase"
+],
+[
+"Function",
+"Renin is a highly specific endopeptidase, whose only known function is to generate angiotensin I from angiotensinogen in the plasma, initiating a cascade of reactions that produce an elevation of blood pressure and increased sodium retention by the kidney"
+],
+[
+"Location",
+"Secreted, Membrane"
+],
+[
+"HGNC",
+"HGNC:9958"
+],
+[
+"HGNC symbol",
+"REN"
+],
+[
+"Entrez",
+"5972"
+],
+[
+"Ensembl",
+"ENSG00000143839"
+],
+[
+"RefSeq",
+"NM_000537"
+],
+[
+"UniProt",
+"P00797"
+]
+]
+},
+{
+"id": "hrwupqfg",
+"label": "",
+"class": "Process",
+"box": [
+2631.0,
+983.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"noradrenaline",
+"ADRB1"
+],
+"out": [
+"noradrenaline:ADRB1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "DiBona GF et al.",
+"journal": "Physiol Rev",
+"title": "Neural control of renal function.",
+"year": "1997",
+"db": "pubmed",
+"id": "9016301"
+},
+{
+"authors": "Kurt B et al.",
+"journal": "Am J Physiol Renal Physiol",
+"title": "Control of renin secretion from kidneys with renin cell hyperplasia.",
+"year": "2014",
+"db": "pubmed",
+"id": "24285498"
+}
+]
+},
+{
+"id": "syttww73",
+"label": "",
+"class": "Process",
+"box": [
+3051.0,
+983.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"renin"
+],
+"out": [
+"renin"
+],
+"by": [
+"noradrenaline:ADRB1"
+]
+},
+"references": [
+{
+"authors": "Kurtz A",
+"journal": "Am J Hypertens",
+"title": "Control of renin synthesis and secretion.",
+"year": "2012",
+"db": "pubmed",
+"id": "22237158"
+},
+{
+"authors": "Kurt B et al.",
+"journal": "Am J Physiol Renal Physiol",
+"title": "Control of renin secretion from kidneys with renin cell hyperplasia.",
+"year": "2014",
+"db": "pubmed",
+"id": "24285498"
+}
+]
+},
+{
+"label": "",
+"class": "EmptySet",
+"box": [
+48.0,
+60.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"blood plasma"
+]
+]
+},
+{
+"label": "acetylcholine",
+"class": "SimpleChemical",
+"box": [
+283.0,
+55.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"blood plasma"
+],
+[
+"Full name",
+"acetylcholine"
+],
+[
+"Synonyms",
+"2-acetyloxy-N,N,N-trimethylethanaminium; ACh; Azetylcholin; O-Acetylcholine; choline acetate"
+],
+[
+"Definition",
+"Actylcholine is an ester of acetic acid and choline, which acts as a neurotransmitter."
+],
+[
+"Formula",
+"C7H16NO2"
+],
+[
+"ChEBI",
+"CHEBI:15355"
+],
+[
+"KEGG",
+"C01996"
+],
+[
+"InChI",
+"InChI=1S/C7H16NO2/c1-7(9)10-6-5-8(2,3)4/h5-6H2,1-4H3/q+1"
+],
+[
+"InChIKey",
+"OIPILFWXSMYKGL-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "Ca2+",
+"class": "SimpleChemical",
+"box": [
+583.0,
+195.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"blood plasma"
+],
+[
+"Full name",
+"calcium(2+)"
+],
+[
+"Synonyms",
+"CALCIUM ION; Ca(2+); Ca2+; calcium(2+) ion; calcium(II) cation; calcium, doubly charged positive ion"
+],
+[
+"Formula",
+"Ca"
+],
+[
+"ChEBI",
+"CHEBI:29108"
+],
+[
+"KEGG",
+"C00076"
+],
+[
+"InChI",
+"InChI=1S/Ca/q+2"
+],
+[
+"InChIKey",
+"BHPQYMZQTOCNFJ-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "cortisol",
+"class": "SimpleChemical",
+"box": [
+2123.0,
+195.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"blood plasma"
+],
+[
+"Full name",
+"cortisol"
+],
+[
+"Synonyms",
+"(11beta)-11,17,21-trihydroxypregn-4-ene-3,20-dione; 11beta,17,21-trihydroxypregn-4-ene-3,20-dione; 11beta,17alpha,21-Trihydroxy-4-pregnene-3,20-dione; 11beta-hydrocortisone; 17-hydroxycorticosterone; 4-pregnen-11beta,17alpha,21-triol-3,20-dione; Hydrocortisone; Kendall's compound F; Reichstein's substance M; hidrocortisona; hydrocortisonum"
+],
+[
+"Definition",
+"A 17α-hydroxy-C21-steroid that is pregn-4-ene substituted by oxo groups at positions 3 and 20 and hydroxy groups at positions 11, 17 and 21. Cortisol is a corticosteroid hormone or glucocorticoid produced by zona fasciculata of the adrenal cortex, which is a part of the adrenal gland. It is usually referred to as the \"stress hormone\" as it is involved in response to stress and anxiety, controlled by corticotropin-releasing hormone (CRH). It increases blood pressure and blood sugar, and reduces immune responses."
+],
+[
+"Formula",
+"C21H30O5"
+],
+[
+"ChEBI",
+"CHEBI:17650"
+],
+[
+"KEGG",
+"C00735"
+],
+[
+"InChI",
+"InChI=1S/C21H30O5/c1-19-7-5-13(23)9-12(19)3-4-14-15-6-8-21(26,17(25)11-22)20(15,2)10-16(24)18(14)19/h9,14-16,18,22,24,26H,3-8,10-11H2,1-2H3/t14-,15-,16-,18+,19-,20-,21-/m0/s1"
+],
+[
+"InChIKey",
+"JYGXADMDTFJGBT-VWUMJDOOSA-N"
+]
+]
+},
+{
+"label": "noradrenaline",
+"class": "SimpleChemical",
+"box": [
+1843.0,
+55.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"blood plasma"
+]
+]
+},
+{
+"label": "adrenaline",
+"class": "SimpleChemical",
+"box": [
+2263.0,
+55.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"blood plasma"
+]
+]
+},
+{
+"label": "noradrenaline",
+"class": "SimpleChemical",
+"box": [
+2483.0,
+55.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"blood plasma"
+]
+]
+},
+{
+"label": "renin",
+"class": "Macromolecule",
+"box": [
+3023.0,
+55.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"blood plasma"
+],
+[
+"Full name",
+"Renin"
+],
+[
+"Alternative names",
+"Angiotensinogenase"
+],
+[
+"Function",
+"Renin is a highly specific endopeptidase, whose only known function is to generate angiotensin I from angiotensinogen in the plasma, initiating a cascade of reactions that produce an elevation of blood pressure and increased sodium retention by the kidney"
+],
+[
+"Location",
+"Secreted, Membrane"
+],
+[
+"HGNC",
+"HGNC:9958"
+],
+[
+"HGNC symbol",
+"REN"
+],
+[
+"Entrez",
+"5972"
+],
+[
+"Ensembl",
+"ENSG00000143839"
+],
+[
+"RefSeq",
+"NM_000537"
+],
+[
+"UniProt",
+"P00797"
+]
+]
+},
+{
+"label": "angiotensinogen",
+"class": "Macromolecule",
+"box": [
+3143.0,
+195.0,
+120.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"blood plasma"
+],
+[
+"Full name",
+"Angiotensinogen"
+],
+[
+"Alternative names",
+"Serpin A8"
+],
+[
+"Function",
+"Essential component of the renin-angiotensin system (RAS), a potent regulator of blood pressure, body fluid and electrolyte homeostasis"
+],
+[
+"Location",
+"Secreted"
+],
+[
+"HGNC",
+"HGNC:333"
+],
+[
+"HGNC symbol",
+"AGT"
+],
+[
+"Previous symbols",
+"SERPINA8"
+],
+[
+"Entrez",
+"183"
+],
+[
+"Ensembl",
+"ENSG00000135744"
+],
+[
+"RefSeq",
+"NM_000029"
+],
+[
+"UniProt",
+"P01019"
+]
+]
+},
+{
+"label": "angiotensin I",
+"class": "Macromolecule",
+"box": [
+3291.0,
+55.0,
+104.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"blood plasma"
+],
+[
+"Full name",
+"Angiotensinogen"
+],
+[
+"Alternative names",
+"Serpin A8"
+],
+[
+"Function",
+"Essential component of the renin-angiotensin system (RAS), a potent regulator of blood pressure, body fluid and electrolyte homeostasis"
+],
+[
+"Location",
+"Secreted"
+],
+[
+"UniProt",
+"P01019"
+]
+]
+},
+{
+"label": "ACE",
+"class": "Macromolecule",
+"box": [
+3443.0,
+195.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"blood plasma"
+],
+[
+"Full name",
+"Angiotensin-converting enzyme"
+],
+[
+"Alternative names",
+"Dipeptidyl carboxypeptidase I; Kininase II"
+],
+[
+"Function",
+"Dipeptidyl carboxypeptidase that removes dipeptides from the C-terminus of a variety of circulating hormones, such as angiotensin I, bradykinin or enkephalins, thereby playing a key role in the regulation of blood pressure, electrolyte homeostasis or synaptic plasticity. Composed of two similar catalytic domains, each possessing a functional active site, with different selectivity for substrates."
+],
+[
+"Location",
+"Cell membrane, Cytoplasm, Secreted"
+],
+[
+"HGNC",
+"HGNC:2707"
+],
+[
+"HGNC symbol",
+"ACE"
+],
+[
+"Previous symbols",
+"DCP1"
+],
+[
+"Alias symbols",
+"ACE1, CD143"
+],
+[
+"Entrez",
+"1636"
+],
+[
+"Ensembl",
+"ENSG00000159640"
+],
+[
+"RefSeq",
+"NM_000789"
+],
+[
+"UniProt",
+"P12821"
+]
+]
+},
+{
+"label": "angiotensin II",
+"class": "Macromolecule",
+"box": [
+3567.0,
+55.0,
+112.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"blood plasma"
+],
+[
+"Full name",
+"Angiotensinogen"
+],
+[
+"Alternative names",
+"Serpin A8"
+],
+[
+"Function",
+"Essential component of the renin-angiotensin system (RAS), a potent regulator of blood pressure, body fluid and electrolyte homeostasis"
+],
+[
+"Location",
+"Secreted"
+],
+[
+"UniProt",
+"P01019"
+]
+]
+},
+{
+"id": "b3p0vm2u",
+"label": "",
+"class": "Process",
+"box": [
+171.0,
+63.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+""
+],
+"out": [
+"acetylcholine"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Guérineau NC",
+"journal": "IUBMB Life",
+"title": "Cholinergic and peptidergic neurotransmission in the adrenal medulla: A dynamic control of stimulus-secretion coupling.",
+"year": "2020",
+"db": "pubmed",
+"id": "31301221"
+}
+]
+},
+{
+"id": "jixzj4yw",
+"label": "",
+"class": "Process",
+"box": [
+3191.0,
+63.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"angiotensinogen"
+],
+"out": [
+"angiotensin I"
+],
+"by": [
+"renin"
+]
+},
+"references": [
+{
+"authors": "Fyhrquist F et al.",
+"journal": "J Intern Med",
+"title": "Renin-angiotensin system revisited.",
+"year": "2008",
+"db": "pubmed",
+"id": "18793332"
+}
+]
+},
+{
+"id": "on2kgtru",
+"label": "",
+"class": "Process",
+"box": [
+3471.0,
+63.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"angiotensin I"
+],
+"out": [
+"angiotensin II"
+],
+"by": [
+"ACE"
+]
+},
+"references": [
+{
+"authors": "Fyhrquist F et al.",
+"journal": "J Intern Med",
+"title": "Renin-angiotensin system revisited.",
+"year": "2008",
+"db": "pubmed",
+"id": "18793332"
+},
+{
+"authors": "Münzel T et al.",
+"journal": "Eur Heart J",
+"title": "Effects of noise on vascular function, oxidative stress, and inflammation: mechanistic insight from studies in mice.",
+"year": "2017",
+"db": "pubmed",
+"id": "28329261"
+}
+]
+}
+]
+}

@@ -540,6 +540,60 @@
 "hasText": true
 },
 {
+"id": "noise-hpa",
+"title": "The HPA arm: from the stress signal to cortisol",
+"topic": "The HPA arm: from the stress signal to cortisol",
+"group": "NoiseMap",
+"kind": null,
+"tag": "draft",
+"tab": null,
+"image": "files/noise-hpa.svg",
+"width": 3814.0,
+"height": 1434.0,
+"scale": 1,
+"annotation": "data/noise-hpa.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/noise-hpa.graphml"
+},
+{
+"label": "SVG",
+"url": "files/noise-hpa.svg"
+}
+],
+"data": "data/noise-hpa-text.json",
+"hasText": true
+},
+{
+"id": "noise-sympathetic",
+"title": "The sympathetic arm: catecholamines and the renin route",
+"topic": "The sympathetic arm: catecholamines and the renin route",
+"group": "NoiseMap",
+"kind": null,
+"tag": "draft",
+"tab": null,
+"image": "files/noise-sympathetic.svg",
+"width": 3738.0,
+"height": 1222.0,
+"scale": 1,
+"annotation": "data/noise-sympathetic.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/noise-sympathetic.graphml"
+},
+{
+"label": "SVG",
+"url": "files/noise-sympathetic.svg"
+}
+],
+"data": "data/noise-sympathetic-text.json",
+"hasText": true
+},
+{
 "id": "noise-entry",
 "title": "Noise entry: stress hormones to the vascular ROS interface",
 "topic": "Noise entry: stress hormones to the vascular ROS interface",
@@ -564,6 +618,87 @@
 }
 ],
 "data": "data/noise-entry-text.json",
+"hasText": true
+},
+{
+"id": "vascular-inflammation",
+"title": "Vascular inflammation: NF-kB, VCAM-1 and the adherent leucocyte",
+"topic": "Vascular inflammation: NF-kB, VCAM-1 and the adherent leucocyte",
+"group": "NoiseMap",
+"kind": null,
+"tag": "draft",
+"tab": null,
+"image": "files/vascular-inflammation.svg",
+"width": 2934.0,
+"height": 1470.0,
+"scale": 1,
+"annotation": "data/vascular-inflammation.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/vascular-inflammation.graphml"
+},
+{
+"label": "SVG",
+"url": "files/vascular-inflammation.svg"
+}
+],
+"data": "data/vascular-inflammation-text.json",
+"hasText": true
+},
+{
+"id": "noise-brain",
+"title": "Noise in the brain: the microglial oxidase and the neuronal synthase",
+"topic": "Noise in the brain: the microglial oxidase and the neuronal synthase",
+"group": "NoiseMap",
+"kind": null,
+"tag": "draft",
+"tab": null,
+"image": "files/noise-brain.svg",
+"width": 1770.0,
+"height": 1714.0,
+"scale": 1,
+"annotation": "data/noise-brain.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/noise-brain.graphml"
+},
+{
+"label": "SVG",
+"url": "files/noise-brain.svg"
+}
+],
+"data": "data/noise-brain-text.json",
+"hasText": true
+},
+{
+"id": "noise-clock",
+"title": "Night-time noise: FOXO3, the antioxidant defence and the clock",
+"topic": "Night-time noise: FOXO3, the antioxidant defence and the clock",
+"group": "NoiseMap",
+"kind": null,
+"tag": "draft",
+"tab": null,
+"image": "files/noise-clock.svg",
+"width": 3278.0,
+"height": 1898.0,
+"scale": 1,
+"annotation": "data/noise-clock.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/noise-clock.graphml"
+},
+{
+"label": "SVG",
+"url": "files/noise-clock.svg"
+}
+],
+"data": "data/noise-clock-text.json",
 "hasText": true
 }
 ]
