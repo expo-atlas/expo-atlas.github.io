@@ -25,9 +25,9 @@
 "references": [
 {
 "authors": "Wild AC et al.",
-"year": "1999",
-"title": "Regulation of gamma-glutamylcysteine synthetase subunit gene expression by the transcription factor Nrf2.",
 "journal": "J Biol Chem",
+"title": "Regulation of gamma-glutamylcysteine synthetase subunit gene expression by the transcription factor Nrf2.",
+"year": "1999",
 "db": "pubmed",
 "id": "10559251"
 }
@@ -56,9 +56,9 @@
 "references": [
 {
 "authors": "Wild AC et al.",
-"year": "1999",
-"title": "Regulation of gamma-glutamylcysteine synthetase subunit gene expression by the transcription factor Nrf2.",
 "journal": "J Biol Chem",
+"title": "Regulation of gamma-glutamylcysteine synthetase subunit gene expression by the transcription factor Nrf2.",
+"year": "1999",
 "db": "pubmed",
 "id": "10559251"
 }
@@ -88,9 +88,9 @@
 "references": [
 {
 "authors": "Lu SC",
-"year": "2009",
-"title": "Regulation of glutathione synthesis.",
 "journal": "Mol Aspects Med",
+"title": "Regulation of glutathione synthesis.",
+"year": "2009",
 "db": "pubmed",
 "id": "18601945"
 }
@@ -122,9 +122,9 @@
 "references": [
 {
 "authors": "Lu SC",
-"year": "2009",
-"title": "Regulation of glutathione synthesis.",
 "journal": "Mol Aspects Med",
+"title": "Regulation of glutathione synthesis.",
+"year": "2009",
 "db": "pubmed",
 "id": "18601945"
 }
@@ -156,9 +156,9 @@
 "references": [
 {
 "authors": "Njålsson R",
-"year": "2005",
-"title": "Glutathione synthetase deficiency.",
 "journal": "Cell Mol Life Sci",
+"title": "Glutathione synthetase deficiency.",
+"year": "2005",
 "db": "pubmed",
 "id": "15990954"
 }
@@ -191,9 +191,9 @@
 "references": [
 {
 "authors": "Lubos E et al.",
-"year": "2011",
-"title": "Glutathione peroxidase-1 in health and disease: from molecular mechanisms to therapeutic opportunities.",
 "journal": "Antioxid Redox Signal",
+"title": "Glutathione peroxidase-1 in health and disease: from molecular mechanisms to therapeutic opportunities.",
+"year": "2011",
 "db": "pubmed",
 "id": "21087145"
 }
@@ -225,17 +225,17 @@
 "references": [
 {
 "authors": "Hubatsch I et al.",
-"year": "1998",
-"title": "Human glutathione transferase A4-4: an alpha class enzyme with high catalytic efficiency in the conjugation of 4-hydroxynonenal and other genotoxic products of lipid peroxidation.",
 "journal": "Biochem J",
+"title": "Human glutathione transferase A4-4: an alpha class enzyme with high catalytic efficiency in the conjugation of 4-hydroxynonenal and other genotoxic products of lipid peroxidation.",
+"year": "1998",
 "db": "pubmed",
 "id": "9461507"
 },
 {
 "authors": "Dwivedi S et al.",
-"year": "2006",
-"title": "The course of CCl4 induced hepatotoxicity is altered in mGSTA4-4 null (-/-) mice.",
 "journal": "Toxicology",
+"title": "The course of CCl4 induced hepatotoxicity is altered in mGSTA4-4 null (-/-) mice.",
+"year": "2006",
 "db": "pubmed",
 "id": "16325313"
 }

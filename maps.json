@@ -216,60 +216,6 @@
 "hasText": true
 },
 {
-"id": "trial-nrf2-core-gr-td",
-"title": "NRF2 core, grown, top to bottom (v04)",
-"topic": "NRF2 core, grown, top to bottom (v04)",
-"group": "Trials",
-"kind": null,
-"tag": "draft",
-"tab": null,
-"image": "files/trial-nrf2-core-gr-td.svg",
-"width": 1242.0,
-"height": 1670.0,
-"scale": 1,
-"annotation": "data/trial-nrf2-core-gr-td.json",
-"imageError": null,
-"downloads": [
-{
-"label": "GraphML",
-"url": "files/trial-nrf2-core-gr-td.graphml"
-},
-{
-"label": "SVG",
-"url": "files/trial-nrf2-core-gr-td.svg"
-}
-],
-"data": "data/trial-nrf2-core-gr-td-text.json",
-"hasText": true
-},
-{
-"id": "trial-nrf2-core-gr-lr",
-"title": "NRF2 core, grown, left to right (v05)",
-"topic": "NRF2 core, grown, left to right (v05)",
-"group": "Trials",
-"kind": null,
-"tag": "draft",
-"tab": null,
-"image": "files/trial-nrf2-core-gr-lr.svg",
-"width": 1658.0,
-"height": 1262.0,
-"scale": 1,
-"annotation": "data/trial-nrf2-core-gr-lr.json",
-"imageError": null,
-"downloads": [
-{
-"label": "GraphML",
-"url": "files/trial-nrf2-core-gr-lr.graphml"
-},
-{
-"label": "SVG",
-"url": "files/trial-nrf2-core-gr-lr.svg"
-}
-],
-"data": "data/trial-nrf2-core-gr-lr-text.json",
-"hasText": true
-},
-{
 "id": "metal-redox",
 "title": "Metal Fenton chemistry",
 "topic": "Metal Fenton chemistry",

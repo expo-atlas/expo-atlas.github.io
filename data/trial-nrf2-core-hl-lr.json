@@ -367,9 +367,9 @@
 "references": [
 {
 "authors": "Nguyen T et al.",
-"year": "2003",
-"title": "Increased protein stability as a mechanism that enhances Nrf2-mediated transcriptional activation of the antioxidant response element. Degradation of Nrf2 by the 26 S proteasome.",
 "journal": "J Biol Chem",
+"title": "Increased protein stability as a mechanism that enhances Nrf2-mediated transcriptional activation of the antioxidant response element. Degradation of Nrf2 by the 26 S proteasome.",
+"year": "2003",
 "db": "pubmed",
 "id": "12446695"
 }
@@ -398,9 +398,9 @@
 "references": [
 {
 "authors": "Theodore M et al.",
-"year": "2008",
-"title": "Multiple nuclear localization signals function in the nuclear import of the transcription factor Nrf2.",
 "journal": "J Biol Chem",
+"title": "Multiple nuclear localization signals function in the nuclear import of the transcription factor Nrf2.",
+"year": "2008",
 "db": "pubmed",
 "id": "18238777"
 }
@@ -430,17 +430,17 @@
 "references": [
 {
 "authors": "Itoh K et al.",
-"year": "1997",
-"title": "An Nrf2/small Maf heterodimer mediates the induction of phase II detoxifying enzyme genes through antioxidant response elements.",
 "journal": "Biochem Biophys Res Commun",
+"title": "An Nrf2/small Maf heterodimer mediates the induction of phase II detoxifying enzyme genes through antioxidant response elements.",
+"year": "1997",
 "db": "pubmed",
 "id": "9240432"
 },
 {
 "authors": "Kimura M et al.",
-"year": "2007",
-"title": "Molecular basis distinguishing the DNA binding profile of Nrf2-Maf heterodimer from that of Maf homodimer.",
 "journal": "J Biol Chem",
+"title": "Molecular basis distinguishing the DNA binding profile of Nrf2-Maf heterodimer from that of Maf homodimer.",
+"year": "2007",
 "db": "pubmed",
 "id": "17875642"
 }
@@ -471,9 +471,9 @@
 "references": [
 {
 "authors": "Lee OH et al.",
-"year": "2007",
-"title": "An auto-regulatory loop between stress sensors INrf2 and Nrf2 controls their cellular abundance.",
 "journal": "J Biol Chem",
+"title": "An auto-regulatory loop between stress sensors INrf2 and Nrf2 controls their cellular abundance.",
+"year": "2007",
 "db": "pubmed",
 "id": "17925401"
 }
@@ -1270,17 +1270,17 @@
 "references": [
 {
 "authors": "Kobayashi A et al.",
-"year": "2006",
-"title": "Oxidative and electrophilic stresses activate Nrf2 through inhibition of ubiquitination activity of Keap1.",
 "journal": "Mol Cell Biol",
+"title": "Oxidative and electrophilic stresses activate Nrf2 through inhibition of ubiquitination activity of Keap1.",
+"year": "2006",
 "db": "pubmed",
 "id": "16354693"
 },
 {
 "authors": "Nguyen T et al.",
-"year": "2003",
-"title": "Increased protein stability as a mechanism that enhances Nrf2-mediated transcriptional activation of the antioxidant response element. Degradation of Nrf2 by the 26 S proteasome.",
 "journal": "J Biol Chem",
+"title": "Increased protein stability as a mechanism that enhances Nrf2-mediated transcriptional activation of the antioxidant response element. Degradation of Nrf2 by the 26 S proteasome.",
+"year": "2003",
 "db": "pubmed",
 "id": "12446695"
 }
@@ -1310,17 +1310,17 @@
 "references": [
 {
 "authors": "Tong KI et al.",
-"year": "2006",
-"title": "Keap1 recruits Neh2 through binding to ETGE and DLG motifs: characterization of the two-site molecular recognition model.",
 "journal": "Mol Cell Biol",
+"title": "Keap1 recruits Neh2 through binding to ETGE and DLG motifs: characterization of the two-site molecular recognition model.",
+"year": "2006",
 "db": "pubmed",
 "id": "16581765"
 },
 {
 "authors": "Tong KI et al.",
-"year": "2007",
-"title": "Different electrostatic potentials define ETGE and DLG motifs as hinge and latch in oxidative stress response.",
 "journal": "Mol Cell Biol",
+"title": "Different electrostatic potentials define ETGE and DLG motifs as hinge and latch in oxidative stress response.",
+"year": "2007",
 "db": "pubmed",
 "id": "17785452"
 }
@@ -1351,17 +1351,17 @@
 "references": [
 {
 "authors": "Kobayashi A et al.",
-"year": "2004",
-"title": "Oxidative stress sensor Keap1 functions as an adaptor for Cul3-based E3 ligase to regulate proteasomal degradation of Nrf2.",
 "journal": "Mol Cell Biol",
+"title": "Oxidative stress sensor Keap1 functions as an adaptor for Cul3-based E3 ligase to regulate proteasomal degradation of Nrf2.",
+"year": "2004",
 "db": "pubmed",
 "id": "15282312"
 },
 {
 "authors": "Zhang DD et al.",
-"year": "2004",
-"title": "Keap1 is a redox-regulated substrate adaptor protein for a Cul3-dependent ubiquitin ligase complex.",
 "journal": "Mol Cell Biol",
+"title": "Keap1 is a redox-regulated substrate adaptor protein for a Cul3-dependent ubiquitin ligase complex.",
+"year": "2004",
 "db": "pubmed",
 "id": "15572695"
 }
@@ -1392,17 +1392,17 @@
 "references": [
 {
 "authors": "Nguyen T et al.",
-"year": "2003",
-"title": "Increased protein stability as a mechanism that enhances Nrf2-mediated transcriptional activation of the antioxidant response element. Degradation of Nrf2 by the 26 S proteasome.",
 "journal": "J Biol Chem",
+"title": "Increased protein stability as a mechanism that enhances Nrf2-mediated transcriptional activation of the antioxidant response element. Degradation of Nrf2 by the 26 S proteasome.",
+"year": "2003",
 "db": "pubmed",
 "id": "12446695"
 },
 {
 "authors": "Kobayashi A et al.",
-"year": "2004",
-"title": "Oxidative stress sensor Keap1 functions as an adaptor for Cul3-based E3 ligase to regulate proteasomal degradation of Nrf2.",
 "journal": "Mol Cell Biol",
+"title": "Oxidative stress sensor Keap1 functions as an adaptor for Cul3-based E3 ligase to regulate proteasomal degradation of Nrf2.",
+"year": "2004",
 "db": "pubmed",
 "id": "15282312"
 }
@@ -1433,9 +1433,9 @@
 "references": [
 {
 "authors": "Suzuki T et al.",
-"year": "2019",
-"title": "Molecular Mechanism of Cellular Oxidative Stress Sensing by Keap1.",
 "journal": "Cell Rep",
+"title": "Molecular Mechanism of Cellular Oxidative Stress Sensing by Keap1.",
+"year": "2019",
 "db": "pubmed",
 "id": "31315052"
 }
@@ -1465,9 +1465,9 @@
 "references": [
 {
 "authors": "Levonen AL et al.",
-"year": "2004",
-"title": "Cellular mechanisms of redox cell signalling: role of cysteine modification in controlling antioxidant defences in response to electrophilic lipid oxidation products.",
 "journal": "Biochem J",
+"title": "Cellular mechanisms of redox cell signalling: role of cysteine modification in controlling antioxidant defences in response to electrophilic lipid oxidation products.",
+"year": "2004",
 "db": "pubmed",
 "id": "14616092"
 }
@@ -1497,17 +1497,17 @@
 "references": [
 {
 "authors": "Miura T et al.",
-"year": "2011",
-"title": "Initial response and cellular protection through the Keap1/Nrf2 system during the exposure of primary mouse hepatocytes to 1,2-naphthoquinone.",
 "journal": "Chem Res Toxicol",
+"title": "Initial response and cellular protection through the Keap1/Nrf2 system during the exposure of primary mouse hepatocytes to 1,2-naphthoquinone.",
+"year": "2011",
 "db": "pubmed",
 "id": "21384861"
 },
 {
 "authors": "Shinkai Y et al.",
-"year": "2015",
-"title": "Reactive Sulfur Species-Mediated Activation of the Keap1-Nrf2 Pathway by 1,2-Naphthoquinone through Sulfenic Acids Formation under Oxidative Stress.",
 "journal": "Chem Res Toxicol",
+"title": "Reactive Sulfur Species-Mediated Activation of the Keap1-Nrf2 Pathway by 1,2-Naphthoquinone through Sulfenic Acids Formation under Oxidative Stress.",
+"year": "2015",
 "db": "pubmed",
 "id": "25807370"
 }
@@ -1536,9 +1536,9 @@
 "references": [
 {
 "authors": "Kobayashi A et al.",
-"year": "2004",
-"title": "Oxidative stress sensor Keap1 functions as an adaptor for Cul3-based E3 ligase to regulate proteasomal degradation of Nrf2.",
 "journal": "Mol Cell Biol",
+"title": "Oxidative stress sensor Keap1 functions as an adaptor for Cul3-based E3 ligase to regulate proteasomal degradation of Nrf2.",
+"year": "2004",
 "db": "pubmed",
 "id": "15282312"
 }
