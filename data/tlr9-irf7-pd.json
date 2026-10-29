@@ -1110,7 +1110,7 @@
 "class": "Macromolecule",
 "box": [
 1921.0,
-425.0,
+405.0,
 80.0,
 40.0
 ],
@@ -1166,7 +1166,7 @@
 "class": "Macromolecule",
 "box": [
 2017.0,
-425.0,
+405.0,
 80.0,
 40.0
 ],
@@ -1222,7 +1222,7 @@
 "class": "Macromolecule",
 "box": [
 1825.0,
-425.0,
+405.0,
 80.0,
 40.0
 ],
@@ -1765,10 +1765,7 @@
 "IRF7"
 ],
 "by": [
-"Myddosome",
-"CHUK",
-"TRAF6",
-"TRAF3"
+"AND"
 ]
 },
 "references": [
