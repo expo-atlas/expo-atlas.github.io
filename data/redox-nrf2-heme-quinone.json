@@ -11,6 +11,10 @@
 ],
 "props": [
 [
+"Compartment",
+"cytoplasm"
+],
+[
 "Full name",
 "Transcription regulator protein BACH1"
 ],
@@ -67,6 +71,10 @@
 ],
 "props": [
 [
+"Compartment",
+"cytoplasm"
+],
+[
 "Full name",
 "Heme oxygenase 1"
 ],
@@ -109,6 +117,22 @@
 ]
 },
 {
+"label": "",
+"class": "EmptySet",
+"box": [
+870.0,
+508.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
 "label": "NQO1",
 "class": "NucleicAcidFeature",
 "box": [
@@ -118,6 +142,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "Full name",
 "NAD(P)H dehydrogenase [quinone] 1"
@@ -169,6 +197,22 @@
 ]
 },
 {
+"label": "",
+"class": "EmptySet",
+"box": [
+870.0,
+238.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
 "label": "BACH1",
 "class": "NucleicAcidFeature",
 "box": [
@@ -178,6 +222,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "Full name",
 "Transcription regulator protein BACH1"
@@ -225,6 +273,22 @@
 ]
 },
 {
+"label": "",
+"class": "EmptySet",
+"box": [
+956.0,
+968.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
 "label": "1,2-naphthoquinone",
 "class": "SimpleChemical",
 "box": [
@@ -235,8 +299,28 @@
 ],
 "props": [
 [
+"Compartment",
+"cytoplasm"
+],
+[
 "ChEBI",
 "CHEBI:27921"
+]
+]
+},
+{
+"label": "1,2-naphthalenediol",
+"class": "SimpleChemical",
+"box": [
+1237.0,
+153.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
 ]
 ]
 },
@@ -250,6 +334,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "Full name",
 "dioxygen"
@@ -295,6 +383,10 @@
 ],
 "props": [
 [
+"Compartment",
+"cytoplasm"
+],
+[
 "Full name",
 "superoxide"
 ],
@@ -338,6 +430,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "Full name",
 "Heme oxygenase 1"
@@ -390,6 +486,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "Full name",
 "NAD(P)H dehydrogenase [quinone] 1"
@@ -451,6 +551,10 @@
 ],
 "props": [
 [
+"Compartment",
+"cytoplasm"
+],
+[
 "Full name",
 "NADPH"
 ],
@@ -498,6 +602,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "Full name",
 "NADPH"
@@ -547,6 +655,10 @@
 ],
 "props": [
 [
+"Compartment",
+"cytoplasm"
+],
+[
 "Full name",
 "heme"
 ],
@@ -578,6 +690,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "Full name",
 "biliverdin"
@@ -626,6 +742,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "Full name",
 "iron(2+)"
@@ -884,6 +1004,10 @@
 ],
 "props": [
 [
+"Compartment",
+"nucleus"
+],
+[
 "Full name",
 "Heme oxygenase 1"
 ],
@@ -926,6 +1050,22 @@
 ]
 },
 {
+"label": "AND",
+"class": "Operator",
+"box": [
+264.0,
+428.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+]
+]
+},
+{
 "label": "NQO1",
 "class": "NucleicAcidFeature",
 "box": [
@@ -935,6 +1075,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"nucleus"
+],
 [
 "Full name",
 "NAD(P)H dehydrogenase [quinone] 1"
@@ -986,6 +1130,22 @@
 ]
 },
 {
+"label": "AND",
+"class": "Operator",
+"box": [
+264.0,
+158.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+]
+]
+},
+{
 "label": "BACH1",
 "class": "NucleicAcidFeature",
 "box": [
@@ -995,6 +1155,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"nucleus"
+],
 [
 "Full name",
 "Transcription regulator protein BACH1"
@@ -1042,6 +1206,38 @@
 ]
 },
 {
+"label": "AND",
+"class": "Operator",
+"box": [
+264.0,
+968.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+]
+]
+},
+{
+"label": "NRF2:MAFG",
+"class": "Complex",
+"box": [
+47.0,
+528.2,
+104.0,
+149.5
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+]
+]
+},
+{
 "label": "NRF2",
 "class": "Macromolecule",
 "box": [
@@ -1051,6 +1247,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"nucleus"
+],
 [
 "PTM",
 " at Lys"
@@ -1112,6 +1312,10 @@
 ],
 "props": [
 [
+"Compartment",
+"nucleus"
+],
+[
 "Full name",
 "Transcription factor MafG"
 ],
@@ -1168,6 +1372,10 @@
 ],
 "props": [
 [
+"Compartment",
+"nucleus"
+],
+[
 "Full name",
 "Transcription factor MafG"
 ],
@@ -1214,6 +1422,22 @@
 ]
 },
 {
+"label": "BACH1:MAFG",
+"class": "Complex",
+"box": [
+307.0,
+522.8,
+104.0,
+140.5
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+]
+]
+},
+{
 "label": "BACH1",
 "class": "Macromolecule",
 "box": [
@@ -1223,6 +1447,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"nucleus"
+],
 [
 "Full name",
 "Transcription regulator protein BACH1"
@@ -1280,6 +1508,10 @@
 ],
 "props": [
 [
+"Compartment",
+"nucleus"
+],
+[
 "Full name",
 "Transcription factor MafG"
 ],
@@ -1335,6 +1567,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"nucleus"
+],
 [
 "Full name",
 "Transcription regulator protein BACH1"
@@ -1392,6 +1628,10 @@
 ],
 "props": [
 [
+"Compartment",
+"nucleus"
+],
+[
 "Full name",
 "heme"
 ],
@@ -1423,6 +1663,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"nucleus"
+],
 [
 "Full name",
 "Heme oxygenase 1"
@@ -1466,6 +1710,22 @@
 ]
 },
 {
+"label": "",
+"class": "EmptySet",
+"box": [
+344.0,
+348.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+]
+]
+},
+{
 "label": "NQO1",
 "class": "NucleicAcidFeature",
 "box": [
@@ -1475,6 +1735,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"nucleus"
+],
 [
 "Full name",
 "NAD(P)H dehydrogenase [quinone] 1"
@@ -1526,6 +1790,22 @@
 ]
 },
 {
+"label": "",
+"class": "EmptySet",
+"box": [
+344.0,
+238.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+]
+]
+},
+{
 "label": "BACH1",
 "class": "NucleicAcidFeature",
 "box": [
@@ -1535,6 +1815,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"nucleus"
+],
 [
 "Full name",
 "Transcription regulator protein BACH1"
@@ -1578,6 +1862,22 @@
 [
 "UniProt",
 "O14867"
+]
+]
+},
+{
+"label": "",
+"class": "EmptySet",
+"box": [
+344.0,
+1048.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
 ]
 ]
 },

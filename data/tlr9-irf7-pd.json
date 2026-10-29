@@ -1,6 +1,22 @@
 {
 "nodes": [
 {
+"label": "TLR9:UNC93B1",
+"class": "Complex",
+"box": [
+303.0,
+524.8,
+104.0,
+140.5
+],
+"props": [
+[
+"Compartment",
+"endosome"
+]
+]
+},
+{
 "label": "TLR9",
 "class": "Macromolecule",
 "box": [
@@ -10,6 +26,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"endosome"
+],
 [
 "Full name",
 "Toll-like receptor 9"
@@ -63,6 +83,10 @@
 ],
 "props": [
 [
+"Compartment",
+"endosome"
+],
+[
 "Full name",
 "Protein unc-93 homolog B1"
 ],
@@ -114,6 +138,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"endosome"
+],
 [
 "Full name",
 "Toll-like receptor 9"
@@ -167,6 +195,10 @@
 ],
 "props": [
 [
+"Compartment",
+"endosome"
+],
+[
 "Full name",
 "Protein unc-93 homolog B1"
 ],
@@ -218,6 +250,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"endosome"
+],
 [
 "Full name",
 "Legumain"
@@ -279,6 +315,10 @@
 ],
 "props": [
 [
+"Compartment",
+"endosome"
+],
+[
 "Full name",
 "Cathepsin B"
 ],
@@ -330,6 +370,14 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"endosome"
+],
+[
+"Unit of information",
+"C-terminal fragment"
+],
 [
 "Full name",
 "Toll-like receptor 9"
@@ -383,6 +431,14 @@
 ],
 "props": [
 [
+"Compartment",
+"endosome"
+],
+[
+"Unit of information",
+"C-terminal fragment\ntrimmed"
+],
+[
 "Full name",
 "Toll-like receptor 9"
 ],
@@ -435,6 +491,14 @@
 ],
 "props": [
 [
+"Compartment",
+"endosome"
+],
+[
+"Unit of information",
+"N-terminal fragment"
+],
+[
 "Full name",
 "Toll-like receptor 9"
 ],
@@ -477,6 +541,38 @@
 ]
 },
 {
+"label": "CpG-DNA",
+"class": "NucleicAcidFeature",
+"box": [
+1051.0,
+485.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"endosome"
+]
+]
+},
+{
+"label": "CpG:TLR9 dimer",
+"class": "Complex",
+"box": [
+1157.5,
+521.8,
+157.0,
+146.5
+],
+"props": [
+[
+"Compartment",
+"endosome"
+]
+]
+},
+{
 "label": "TLR9-C trimmed",
 "class": "Macromolecule",
 "box": [
@@ -486,6 +582,14 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"endosome"
+],
+[
+"Unit of information",
+"C-terminal fragment\ntrimmed"
+],
 [
 "Full name",
 "Toll-like receptor 9"
@@ -525,6 +629,22 @@
 [
 "UniProt",
 "Q9NR96"
+]
+]
+},
+{
+"label": "CpG-DNA",
+"class": "NucleicAcidFeature",
+"box": [
+1196.0,
+591.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"endosome"
 ]
 ]
 },
@@ -696,6 +816,10 @@
 ],
 "props": [
 [
+"Compartment",
+"cytoplasm"
+],
+[
 "Full name",
 "Myeloid differentiation primary response protein MyD88"
 ],
@@ -743,6 +867,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "Full name",
 "Interleukin-1 receptor-associated kinase 4"
@@ -800,6 +928,10 @@
 ],
 "props": [
 [
+"Compartment",
+"cytoplasm"
+],
+[
 "PTM",
 " at Thr209"
 ],
@@ -846,6 +978,22 @@
 ]
 },
 {
+"label": "TLR9:MyD88",
+"class": "Complex",
+"box": [
+1501.5,
+521.8,
+157.0,
+146.5
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
 "label": "TLR9-C trimmed",
 "class": "Macromolecule",
 "box": [
@@ -855,6 +1003,14 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Unit of information",
+"C-terminal fragment\ntrimmed"
+],
 [
 "Full name",
 "Toll-like receptor 9"
@@ -908,6 +1064,10 @@
 ],
 "props": [
 [
+"Compartment",
+"cytoplasm"
+],
+[
 "Full name",
 "Myeloid differentiation primary response protein MyD88"
 ],
@@ -946,6 +1106,22 @@
 ]
 },
 {
+"label": "Myddosome",
+"class": "Complex",
+"box": [
+1791.0,
+496.2,
+104.0,
+197.5
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
 "label": "MYD88",
 "class": "Macromolecule",
 "box": [
@@ -955,6 +1131,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "Full name",
 "Myeloid differentiation primary response protein MyD88"
@@ -1003,6 +1183,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "Full name",
 "Interleukin-1 receptor-associated kinase 4"
@@ -1060,6 +1244,10 @@
 ],
 "props": [
 [
+"Compartment",
+"cytoplasm"
+],
+[
 "PTM",
 "Phosphorylated at Thr209"
 ],
@@ -1115,6 +1303,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "Full name",
 "TNF receptor-associated factor 6"
@@ -1172,6 +1364,10 @@
 ],
 "props": [
 [
+"Compartment",
+"cytoplasm"
+],
+[
 "Full name",
 "TNF receptor-associated factor 3"
 ],
@@ -1227,6 +1423,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "Full name",
 "Inhibitor of nuclear factor kappa-B kinase subunit alpha"
@@ -1288,6 +1488,10 @@
 ],
 "props": [
 [
+"Compartment",
+"cytoplasm"
+],
+[
 "Full name",
 "Osteopontin"
 ],
@@ -1348,6 +1552,10 @@
 ],
 "props": [
 [
+"Compartment",
+"cytoplasm"
+],
+[
 "PTM",
 " at Ser477"
 ],
@@ -1390,6 +1598,22 @@
 ]
 },
 {
+"label": "AND",
+"class": "Operator",
+"box": [
+1946.0,
+500.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
 "label": "IRF7",
 "class": "Macromolecule",
 "box": [
@@ -1399,6 +1623,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "PTM",
 "Phosphorylated at Ser477, by TBK1 and IKKE"
@@ -1452,6 +1680,10 @@
 ],
 "props": [
 [
+"Compartment",
+"cytoplasm"
+],
+[
 "Full name",
 "Interferon alpha-1"
 ],
@@ -1498,6 +1730,22 @@
 ]
 },
 {
+"label": "",
+"class": "EmptySet",
+"box": [
+2052.0,
+50.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
 "label": "IFNB1",
 "class": "NucleicAcidFeature",
 "box": [
@@ -1507,6 +1755,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "Full name",
 "Interferon beta"
@@ -1558,6 +1810,22 @@
 ]
 },
 {
+"label": "",
+"class": "EmptySet",
+"box": [
+2052.0,
+250.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
 "label": "IFN-alpha",
 "class": "Macromolecule",
 "box": [
@@ -1567,6 +1835,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "Full name",
 "Interferon alpha-1"
@@ -1623,6 +1895,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "Full name",
 "Interferon beta"
@@ -1905,6 +2181,10 @@
 ],
 "props": [
 [
+"Compartment",
+"nucleus"
+],
+[
 "PTM",
 "Phosphorylated at Ser477, by TBK1 and IKKE"
 ],
@@ -1957,6 +2237,10 @@
 ],
 "props": [
 [
+"Compartment",
+"nucleus"
+],
+[
 "Full name",
 "Interferon alpha-1"
 ],
@@ -1999,6 +2283,22 @@
 [
 "UniProt",
 "P0DY56"
+]
+]
+},
+{
+"label": "AND",
+"class": "Operator",
+"box": [
+2704.0,
+200.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
 ]
 ]
 },
@@ -2013,6 +2313,10 @@
 ],
 "props": [
 [
+"Compartment",
+"nucleus"
+],
+[
 "Full name",
 "Interferon beta"
 ],
@@ -2063,6 +2367,22 @@
 ]
 },
 {
+"label": "AND",
+"class": "Operator",
+"box": [
+2500.0,
+400.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+]
+]
+},
+{
 "label": "IFNA1",
 "class": "NucleicAcidFeature",
 "box": [
@@ -2072,6 +2392,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"nucleus"
+],
 [
 "Full name",
 "Interferon alpha-1"
@@ -2119,6 +2443,22 @@
 ]
 },
 {
+"label": "",
+"class": "EmptySet",
+"box": [
+2790.0,
+130.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+]
+]
+},
+{
 "label": "IFNB1",
 "class": "NucleicAcidFeature",
 "box": [
@@ -2128,6 +2468,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"nucleus"
+],
 [
 "Full name",
 "Interferon beta"
@@ -2175,6 +2519,22 @@
 [
 "UniProt",
 "P01574"
+]
+]
+},
+{
+"label": "",
+"class": "EmptySet",
+"box": [
+2586.0,
+330.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
 ]
 ]
 },
@@ -2255,6 +2615,10 @@
 ],
 "props": [
 [
+"Compartment",
+"cytoplasm"
+],
+[
 "Full name",
 "Toll-like receptor 9"
 ],
@@ -2306,6 +2670,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "Full name",
 "Protein unc-93 homolog B1"

@@ -9,7 +9,7 @@
   <key for="node" id="ng" yfiles.type="nodegraphics"/>
   <key for="graphml" id="res" yfiles.type="resources"/>
   <key for="edge" id="eg" yfiles.type="edgegraphics"/>
-  <key attr.name="Dev id" attr.type="string" for="node" id="dev_node"/><key attr.name="Dev id" attr.type="string" for="edge" id="dev_edge"/><graph edgedefault="directed" id="G"><node id="u5mr0eeh" yfiles.foldertype="group"><data key="ng">
+  <key attr.name="Dev id" attr.type="string" for="node" id="dev_node"/><key attr.name="Dev id" attr.type="string" for="edge" id="dev_edge"/><key attr.name="Compartment" attr.type="string" for="node" id="d111"/><graph edgedefault="directed" id="G"><node id="u5mr0eeh" yfiles.foldertype="group"><data key="ng">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
@@ -35,7 +35,7 @@
           </y:Realizers>
         </y:ProxyAutoBoundsNode>
       </data>
-      <graph edgedefault="directed" id="u5mr0eeh:"><node id="erw23vs6"><data key="d0">NCF1</data><data key="ng">
+      <graph edgedefault="directed" id="u5mr0eeh:"><node id="erw23vs6"><data key="d111">cytoplasm</data><data key="d0">NCF1</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="20.0" y="436.0"/>
               <y:Fill color="#EFEDE7" transparent="false"/>
@@ -70,7 +70,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        <data key="dev_node">erw23vs6</data></node><node id="o263c8ds"><data key="d0">NCF2</data><data key="ng">
+        <data key="dev_node">erw23vs6</data></node><node id="o263c8ds"><data key="d111">cytoplasm</data><data key="d0">NCF2</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="140.0" y="346.0"/>
               <y:Fill color="#EFEDE7" transparent="false"/>
@@ -81,7 +81,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        <data key="dev_node">o263c8ds</data></node><node id="qfftlwvv"><data key="d0">NCF4</data><data key="ng">
+        <data key="dev_node">o263c8ds</data></node><node id="qfftlwvv"><data key="d111">cytoplasm</data><data key="d0">NCF4</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="140.0" y="526.0"/>
               <y:Fill color="#EFEDE7" transparent="false"/>
@@ -92,7 +92,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        <data key="dev_node">qfftlwvv</data></node><node id="mg11i9ki" yfiles.foldertype="group"><data key="ng">
+        <data key="dev_node">qfftlwvv</data></node><node id="mg11i9ki" yfiles.foldertype="group"><data key="d111">cytoplasm</data><data key="ng">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
@@ -124,7 +124,7 @@
           </y:Realizers>
         </y:ProxyAutoBoundsNode>
       </data>
-      <graph edgedefault="directed" id="mg11i9ki:"><node id="zb1d8h1w"><data key="d0">NCF1</data><data key="ng">
+      <graph edgedefault="directed" id="mg11i9ki:"><node id="zb1d8h1w"><data key="d111">cytoplasm</data><data key="d0">NCF1</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="260.0" y="377.75"/>
               <y:Fill color="#EFEDE7" transparent="false"/>
@@ -159,7 +159,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        <data key="dev_node">zb1d8h1w</data></node><node id="wauprxtu"><data key="d0">NCF2</data><data key="ng">
+        <data key="dev_node">zb1d8h1w</data></node><node id="wauprxtu"><data key="d111">cytoplasm</data><data key="d0">NCF2</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="260.0" y="434.75"/>
               <y:Fill color="#EFEDE7" transparent="false"/>
@@ -170,7 +170,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        <data key="dev_node">wauprxtu</data></node><node id="nf9s6fq6"><data key="d0">NCF4</data><data key="ng">
+        <data key="dev_node">wauprxtu</data></node><node id="nf9s6fq6"><data key="d111">cytoplasm</data><data key="d0">NCF4</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="260.0" y="482.75"/>
               <y:Fill color="#EFEDE7" transparent="false"/>
@@ -181,7 +181,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        <data key="dev_node">nf9s6fq6</data></node></graph><data key="dev_node">mg11i9ki</data></node><node id="b2vkgzxl"><data key="ng">
+        <data key="dev_node">nf9s6fq6</data></node></graph><data key="dev_node">mg11i9ki</data></node><node id="b2vkgzxl"><data key="d111">cytoplasm</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="358.0" y="316.0"/>
           <y:Fill color="#EFEDE7" transparent="false"/>
@@ -189,7 +189,7 @@
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="5.75" xml:space="preserve" y="9.75" hasText="true">ATP<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
-    <data key="d1">CHEBI:30616</data><data key="dev_node">b2vkgzxl</data></node><node id="wd5dc6j6"><data key="ng">
+    <data key="d1">CHEBI:30616</data><data key="dev_node">b2vkgzxl</data></node><node id="wd5dc6j6"><data key="d111">cytoplasm</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="438.0" y="316.0"/>
           <y:Fill color="#EFEDE7" transparent="false"/>
@@ -197,7 +197,7 @@
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="5.75" xml:space="preserve" y="9.75" hasText="true">ADP<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
-    <data key="d1">CHEBI:456216</data><data key="dev_node">wd5dc6j6</data></node><node id="c9cyl29r" yfiles.foldertype="group"><data key="ng">
+    <data key="d1">CHEBI:456216</data><data key="dev_node">wd5dc6j6</data></node><node id="c9cyl29r" yfiles.foldertype="group"><data key="d111">cytoplasm</data><data key="ng">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
@@ -229,7 +229,7 @@
           </y:Realizers>
         </y:ProxyAutoBoundsNode>
       </data>
-      <graph edgedefault="directed" id="c9cyl29r:"><node id="eq4t87lk"><data key="d0">MYD88</data><data key="ng">
+      <graph edgedefault="directed" id="c9cyl29r:"><node id="eq4t87lk"><data key="d111">cytoplasm</data><data key="d0">MYD88</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="378.0" y="551.75"/>
               <y:Fill color="#EFEDE7" transparent="false"/>
@@ -240,7 +240,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        <data key="dev_node">eq4t87lk</data></node><node id="mpngegqy"><data key="d0">IRAK4</data><data key="ng">
+        <data key="dev_node">eq4t87lk</data></node><node id="mpngegqy"><data key="d111">cytoplasm</data><data key="d0">IRAK4</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="378.0" y="599.75"/>
               <y:Fill color="#EFEDE7" transparent="false"/>
@@ -251,7 +251,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        <data key="dev_node">mpngegqy</data></node></graph><data key="dev_node">c9cyl29r</data></node><node id="ztsh075d" yfiles.foldertype="group"><data key="ng">
+        <data key="dev_node">mpngegqy</data></node></graph><data key="dev_node">c9cyl29r</data></node><node id="ztsh075d" yfiles.foldertype="group"><data key="d111">cytoplasm</data><data key="ng">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
@@ -283,7 +283,7 @@
           </y:Realizers>
         </y:ProxyAutoBoundsNode>
       </data>
-      <graph edgedefault="directed" id="ztsh075d:"><node id="rabixuq7"><data key="d0">NCF1</data><data key="ng">
+      <graph edgedefault="directed" id="ztsh075d:"><node id="rabixuq7"><data key="d111">cytoplasm</data><data key="d0">NCF1</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="496.0" y="377.75"/>
               <y:Fill color="#EFEDE7" transparent="false"/>
@@ -320,7 +320,7 @@
           </data>
         <data key="d2">P@T133
 P@S288
-P@T356</data><data key="dev_node">rabixuq7</data></node><node id="k4rioz85"><data key="d0">NCF2</data><data key="ng">
+P@T356</data><data key="dev_node">rabixuq7</data></node><node id="k4rioz85"><data key="d111">cytoplasm</data><data key="d0">NCF2</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="496.0" y="434.75"/>
               <y:Fill color="#EFEDE7" transparent="false"/>
@@ -331,7 +331,7 @@ P@T356</data><data key="dev_node">rabixuq7</data></node><node id="k4rioz85"><dat
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        <data key="dev_node">k4rioz85</data></node><node id="muuhpjzq"><data key="d0">NCF4</data><data key="ng">
+        <data key="dev_node">k4rioz85</data></node><node id="muuhpjzq"><data key="d111">cytoplasm</data><data key="d0">NCF4</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="496.0" y="482.75"/>
               <y:Fill color="#EFEDE7" transparent="false"/>
@@ -342,7 +342,7 @@ P@T356</data><data key="dev_node">rabixuq7</data></node><node id="k4rioz85"><dat
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        <data key="dev_node">muuhpjzq</data></node></graph><data key="dev_node">ztsh075d</data></node><node id="p7xik4iw" yfiles.foldertype="group"><data key="ng">
+        <data key="dev_node">muuhpjzq</data></node></graph><data key="dev_node">ztsh075d</data></node><node id="p7xik4iw" yfiles.foldertype="group"><data key="d111">cytoplasm</data><data key="ng">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
@@ -374,7 +374,7 @@ P@T356</data><data key="dev_node">rabixuq7</data></node><node id="k4rioz85"><dat
           </y:Realizers>
         </y:ProxyAutoBoundsNode>
       </data>
-      <graph edgedefault="directed" id="p7xik4iw:"><node id="qwfhsuah"><data key="d0">RAC1</data><data key="ng">
+      <graph edgedefault="directed" id="p7xik4iw:"><node id="qwfhsuah"><data key="d111">cytoplasm</data><data key="d0">RAC1</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="616.0" y="401.75"/>
               <y:Fill color="#EFEDE7" transparent="false"/>
@@ -385,7 +385,7 @@ P@T356</data><data key="dev_node">rabixuq7</data></node><node id="k4rioz85"><dat
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        <data key="dev_node">qwfhsuah</data></node><node id="fonofvex"><data key="ng">
+        <data key="dev_node">qwfhsuah</data></node><node id="fonofvex"><data key="d111">cytoplasm</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="636.0" y="449.75"/>
           <y:Fill color="#EFEDE7" transparent="false"/>
@@ -393,7 +393,7 @@ P@T356</data><data key="dev_node">rabixuq7</data></node><node id="k4rioz85"><dat
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="5.75" xml:space="preserve" y="9.75" hasText="true">GTP<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
-    <data key="d1">CHEBI:15996</data><data key="dev_node">fonofvex</data></node></graph><data key="dev_node">p7xik4iw</data></node><node id="nfirrhtx"><data key="ng">
+    <data key="d1">CHEBI:15996</data><data key="dev_node">fonofvex</data></node></graph><data key="dev_node">p7xik4iw</data></node><node id="nfirrhtx"><data key="d111">cytoplasm</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="998.0" y="320.0"/>
           <y:Fill color="#EFEDE7" transparent="false"/>
@@ -401,7 +401,7 @@ P@T356</data><data key="dev_node">rabixuq7</data></node><node id="k4rioz85"><dat
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="47.5" x="-3.75" xml:space="preserve" y="9.75" hasText="true">NADPH<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
-    <data key="d1">CHEBI:16474</data><data key="dev_node">nfirrhtx</data></node><node id="uzr0ifu3"><data key="ng">
+    <data key="d1">CHEBI:16474</data><data key="dev_node">nfirrhtx</data></node><node id="uzr0ifu3"><data key="d111">cytoplasm</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="1098.0" y="320.0"/>
           <y:Fill color="#EFEDE7" transparent="false"/>
@@ -409,7 +409,7 @@ P@T356</data><data key="dev_node">rabixuq7</data></node><node id="k4rioz85"><dat
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="47.5" x="-3.75" xml:space="preserve" y="9.75" hasText="true">NADP+<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
-    <data key="d1">CHEBI:18009</data><data key="dev_node">uzr0ifu3</data></node><node id="pd2cyqzw"><data key="ng">
+    <data key="d1">CHEBI:18009</data><data key="dev_node">uzr0ifu3</data></node><node id="pd2cyqzw"><data key="d111">cytoplasm</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="1178.0" y="320.0"/>
           <y:Fill color="#EFEDE7" transparent="false"/>
@@ -449,29 +449,29 @@ P@T356</data><data key="dev_node">rabixuq7</data></node><node id="k4rioz85"><dat
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
-              <y:Geometry height="299.25" width="1272.0" x="-20.0" y="-36.0"/>
+              <y:Geometry height="387.25" width="1272.0" x="-20.0" y="-124.0"/>
               <y:Fill color="#F8F8F8" transparent="false"/>
               <y:BorderStyle color="#999999" type="line" width="2.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="171.0" x="8.0" xml:space="preserve" y="2.0" hasText="true">phagosome membrane</y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="85.5" x="8.0" xml:space="preserve" y="2.0" hasText="true">phagosome</y:NodeLabel>
               <y:Shape type="roundrectangle"/>
               <y:State autoResize="false" closed="false" closedHeight="80.0" closedWidth="80.0" innerGraphDisplayEnabled="false"/>
-              <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
-              <y:BorderInsets bottom="25" bottomF="25.0" left="265" leftF="265.0" right="92" rightF="91.75" top="17" topF="17.25"/>
+              <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="14" topF="13.5"/>
+              <y:BorderInsets bottom="25" bottomF="25.0" left="265" leftF="265.0" right="92" rightF="91.75" top="0" topF="0.0"/>
             </y:GroupNode>
             <y:GroupNode>
               <y:Geometry height="740.0" width="1280.0" x="75.0" y="515.0"/>
               <y:Fill color="#F8F8F8" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="15.77734375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="49.7275390625" x="615.13623046875" xml:space="preserve" y="0.0">phagosome membrane</y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="15.77734375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="49.7275390625" x="615.13623046875" xml:space="preserve" y="0.0">phagosome</y:NodeLabel>
               <y:Shape type="roundrectangle"/>
               <y:State closed="true" closedHeight="740.0" closedWidth="1280.0" innerGraphDisplayEnabled="false"/>
               <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
-              <y:BorderInsets bottom="25" bottomF="25.0" left="265" leftF="265.0" right="92" rightF="91.75" top="22" topF="21.97265625"/>
+              <y:BorderInsets bottom="25" bottomF="25.0" left="265" leftF="265.0" right="92" rightF="91.75" top="3" topF="3.22265625"/>
             </y:GroupNode>
           </y:Realizers>
         </y:ProxyAutoBoundsNode>
       </data>
-      <graph edgedefault="directed" id="hvrn9d8a:"><node id="vge63jei"><data key="d0">CYBB</data><data key="ng">
+      <graph edgedefault="directed" id="hvrn9d8a:"><node id="vge63jei"><data key="d111">phagosome (membrane)</data><data key="d0">CYBB</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="260.0" y="64.0"/>
               <y:Fill color="#EFEDE7" transparent="false"/>
@@ -482,7 +482,7 @@ P@T356</data><data key="dev_node">rabixuq7</data></node><node id="k4rioz85"><dat
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        <data key="dev_node">vge63jei</data></node><node id="lkirobmr"><data key="d0">CYBA</data><data key="ng">
+        <data key="dev_node">vge63jei</data></node><node id="lkirobmr"><data key="d111">phagosome (membrane)</data><data key="d0">CYBA</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="260.0" y="136.0"/>
               <y:Fill color="#EFEDE7" transparent="false"/>
@@ -493,7 +493,7 @@ P@T356</data><data key="dev_node">rabixuq7</data></node><node id="k4rioz85"><dat
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        <data key="dev_node">lkirobmr</data></node><node id="hmntpvqp" yfiles.foldertype="group"><data key="ng">
+        <data key="dev_node">lkirobmr</data></node><node id="hmntpvqp" yfiles.foldertype="group"><data key="d111">phagosome (membrane)</data><data key="ng">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
@@ -525,7 +525,7 @@ P@T356</data><data key="dev_node">rabixuq7</data></node><node id="k4rioz85"><dat
           </y:Realizers>
         </y:ProxyAutoBoundsNode>
       </data>
-      <graph edgedefault="directed" id="hmntpvqp:"><node id="lap7qm7e"><data key="d0">CYBB</data><data key="ng">
+      <graph edgedefault="directed" id="hmntpvqp:"><node id="lap7qm7e"><data key="d111">phagosome (membrane)</data><data key="d0">CYBB</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="498.0" y="65.75"/>
               <y:Fill color="#EFEDE7" transparent="false"/>
@@ -536,7 +536,7 @@ P@T356</data><data key="dev_node">rabixuq7</data></node><node id="k4rioz85"><dat
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        <data key="dev_node">lap7qm7e</data></node><node id="a3tg8dme"><data key="d0">CYBA</data><data key="ng">
+        <data key="dev_node">lap7qm7e</data></node><node id="a3tg8dme"><data key="d111">phagosome (membrane)</data><data key="d0">CYBA</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="498.0" y="113.75"/>
               <y:Fill color="#EFEDE7" transparent="false"/>
@@ -547,7 +547,7 @@ P@T356</data><data key="dev_node">rabixuq7</data></node><node id="k4rioz85"><dat
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        <data key="dev_node">a3tg8dme</data></node></graph><data key="dev_node">hmntpvqp</data></node><node id="y28wv97s" yfiles.foldertype="group"><data key="ng">
+        <data key="dev_node">a3tg8dme</data></node></graph><data key="dev_node">hmntpvqp</data></node><node id="y28wv97s" yfiles.foldertype="group"><data key="d111">phagosome (membrane)</data><data key="ng">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
@@ -579,7 +579,7 @@ P@T356</data><data key="dev_node">rabixuq7</data></node><node id="k4rioz85"><dat
           </y:Realizers>
         </y:ProxyAutoBoundsNode>
       </data>
-      <graph edgedefault="directed" id="y28wv97s:"><node id="cg7uvkks"><data key="d0">CYBB</data><data key="ng">
+      <graph edgedefault="directed" id="y28wv97s:"><node id="cg7uvkks"><data key="d111">phagosome (membrane)</data><data key="d0">CYBB</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="734.0" y="32.75"/>
               <y:Fill color="#EFEDE7" transparent="false"/>
@@ -590,7 +590,7 @@ P@T356</data><data key="dev_node">rabixuq7</data></node><node id="k4rioz85"><dat
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        <data key="dev_node">cg7uvkks</data></node><node id="if5nmwx8"><data key="d0">CYBA</data><data key="ng">
+        <data key="dev_node">cg7uvkks</data></node><node id="if5nmwx8"><data key="d111">phagosome (membrane)</data><data key="d0">CYBA</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="822.0" y="32.75"/>
               <y:Fill color="#EFEDE7" transparent="false"/>
@@ -601,7 +601,7 @@ P@T356</data><data key="dev_node">rabixuq7</data></node><node id="k4rioz85"><dat
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        <data key="dev_node">if5nmwx8</data></node><node id="j572m7ne"><data key="d0">RAC1</data><data key="ng">
+        <data key="dev_node">if5nmwx8</data></node><node id="j572m7ne"><data key="d111">phagosome (membrane)</data><data key="d0">RAC1</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="734.0" y="146.75"/>
               <y:Fill color="#EFEDE7" transparent="false"/>
@@ -612,7 +612,7 @@ P@T356</data><data key="dev_node">rabixuq7</data></node><node id="k4rioz85"><dat
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        <data key="dev_node">j572m7ne</data></node><node id="lbhfyig8"><data key="ng">
+        <data key="dev_node">j572m7ne</data></node><node id="lbhfyig8"><data key="d111">phagosome (membrane)</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="822.0" y="146.75"/>
           <y:Fill color="#EFEDE7" transparent="false"/>
@@ -620,7 +620,7 @@ P@T356</data><data key="dev_node">rabixuq7</data></node><node id="k4rioz85"><dat
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="5.75" xml:space="preserve" y="9.75" hasText="true">GTP<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
-    <data key="d1">CHEBI:15996</data><data key="dev_node">lbhfyig8</data></node><node id="xyhnu4bl"><data key="d0">NCF1</data><data key="ng">
+    <data key="d1">CHEBI:15996</data><data key="dev_node">lbhfyig8</data></node><node id="xyhnu4bl"><data key="d111">phagosome (membrane)</data><data key="d0">NCF1</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="734.0" y="89.75"/>
               <y:Fill color="#EFEDE7" transparent="false"/>
@@ -657,7 +657,7 @@ P@T356</data><data key="dev_node">rabixuq7</data></node><node id="k4rioz85"><dat
           </data>
         <data key="d2">P@T133
 P@S288
-P@T356</data><data key="dev_node">xyhnu4bl</data></node><node id="kgmvk8i0"><data key="d0">NCF2</data><data key="ng">
+P@T356</data><data key="dev_node">xyhnu4bl</data></node><node id="kgmvk8i0"><data key="d111">phagosome (membrane)</data><data key="d0">NCF2</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="822.0" y="89.75"/>
               <y:Fill color="#EFEDE7" transparent="false"/>
@@ -668,7 +668,7 @@ P@T356</data><data key="dev_node">xyhnu4bl</data></node><node id="kgmvk8i0"><dat
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        <data key="dev_node">kgmvk8i0</data></node><node id="vhx2ui8k"><data key="d0">NCF4</data><data key="ng">
+        <data key="dev_node">kgmvk8i0</data></node><node id="vhx2ui8k"><data key="d111">phagosome (membrane)</data><data key="d0">NCF4</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="910.0" y="89.75"/>
               <y:Fill color="#EFEDE7" transparent="false"/>
@@ -679,7 +679,23 @@ P@T356</data><data key="dev_node">xyhnu4bl</data></node><node id="kgmvk8i0"><dat
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        <data key="dev_node">vhx2ui8k</data></node></graph><data key="dev_node">y28wv97s</data></node><node id="xzqvclx9"><data key="ng">
+        <data key="dev_node">vhx2ui8k</data></node></graph><data key="dev_node">y28wv97s</data></node><node id="p6uqlhk3"><data key="d111">phagosome (lumen)</data><data key="ng">
+        <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
+          <y:Geometry height="40.0" width="40.0" x="998.0" y="-90.0"/>
+          <y:Fill color="#EFEDE7" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="19.0" x="10.5" xml:space="preserve" y="9.75" hasText="true">O2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    <data key="d1">CHEBI:15379</data><data key="dev_node">p6uqlhk3</data></node><node id="jn84x6yd"><data key="d111">phagosome (lumen)</data><data key="ng">
+        <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
+          <y:Geometry height="40.0" width="40.0" x="1098.0" y="-90.0"/>
+          <y:Fill color="#EFEDE7" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.0" x="1.0" xml:space="preserve" y="9.75" hasText="true">O2.-<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    <data key="d1">CHEBI:18421</data><data key="dev_node">jn84x6yd</data></node><node id="xzqvclx9"><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="20.0" width="20.0" x="410.0" y="110.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -721,49 +737,7 @@ P@T356</data><data key="dev_node">xyhnu4bl</data></node><node id="kgmvk8i0"><dat
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    <data key="d3">pubmed:15238208 pubmed:36241643 pubmed:14630319 pubmed:22881869</data><data key="d4">in vitro</data><data key="d5">The holoenzyme oxidises NADPH on the cytosolic face and reduces oxygen on the far face of the membrane, making superoxide in the lumen</data><data key="dev_node">we3grl30</data></node></graph><data key="dev_node">hvrn9d8a</data></node><node id="k5jlfz0x" yfiles.foldertype="group"><data key="ng">
-        <y:ProxyAutoBoundsNode>
-          <y:Realizers active="0">
-            <y:GroupNode>
-              <y:Geometry height="112.0" width="1272.0" x="-20.0" y="-148.0"/>
-              <y:Fill color="#F8F8F8" transparent="false"/>
-              <y:BorderStyle color="#999999" type="line" width="2.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="142.5" x="8.0" xml:space="preserve" y="2.0" hasText="true">phagosome lumen</y:NodeLabel>
-              <y:Shape type="roundrectangle"/>
-              <y:State autoResize="false" closed="false" closedHeight="80.0" closedWidth="80.0" innerGraphDisplayEnabled="false"/>
-              <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="12" topF="11.5"/>
-              <y:BorderInsets bottom="25" bottomF="25.0" left="1003" leftF="1003.0" right="99" rightF="99.0" top="0" topF="0.0"/>
-            </y:GroupNode>
-            <y:GroupNode>
-              <y:Geometry height="740.0" width="1280.0" x="75.0" y="515.0"/>
-              <y:Fill color="#F8F8F8" transparent="false"/>
-              <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="15.77734375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="49.7275390625" x="615.13623046875" xml:space="preserve" y="0.0">phagosome lumen</y:NodeLabel>
-              <y:Shape type="roundrectangle"/>
-              <y:State closed="true" closedHeight="740.0" closedWidth="1280.0" innerGraphDisplayEnabled="false"/>
-              <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
-              <y:BorderInsets bottom="25" bottomF="25.0" left="1003" leftF="1003.0" right="99" rightF="99.0" top="1" topF="1.22265625"/>
-            </y:GroupNode>
-          </y:Realizers>
-        </y:ProxyAutoBoundsNode>
-      </data>
-      <graph edgedefault="directed" id="k5jlfz0x:"><node id="p6uqlhk3"><data key="ng">
-        <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
-          <y:Geometry height="40.0" width="40.0" x="998.0" y="-116.0"/>
-          <y:Fill color="#EFEDE7" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="19.0" x="10.5" xml:space="preserve" y="9.75" hasText="true">O2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-        </y:GenericNode>
-      </data>
-    <data key="d1">CHEBI:15379</data><data key="dev_node">p6uqlhk3</data></node><node id="jn84x6yd"><data key="ng">
-        <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
-          <y:Geometry height="40.0" width="40.0" x="1098.0" y="-116.0"/>
-          <y:Fill color="#EFEDE7" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.0" x="1.0" xml:space="preserve" y="9.75" hasText="true">O2.-<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-        </y:GenericNode>
-      </data>
-    <data key="d1">CHEBI:18421</data><data key="dev_node">jn84x6yd</data></node></graph><data key="dev_node">k5jlfz0x</data></node><edge id="xzqvclx9_c0" source="vge63jei" target="xzqvclx9">
+    <data key="d3">pubmed:15238208 pubmed:36241643 pubmed:14630319 pubmed:22881869</data><data key="d4">in vitro</data><data key="d5">The holoenzyme oxidises NADPH on the cytosolic face and reduces oxygen on the far face of the membrane, making superoxide in the lumen</data><data key="dev_node">we3grl30</data></node></graph><data key="dev_node">hvrn9d8a</data></node><edge id="xzqvclx9_c0" source="vge63jei" target="xzqvclx9">
       <data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>

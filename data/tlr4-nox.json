@@ -1,6 +1,22 @@
 {
 "nodes": [
 {
+"label": "TLR4:MD2",
+"class": "Complex",
+"box": [
+243.0,
+396.8,
+104.0,
+140.5
+],
+"props": [
+[
+"Compartment",
+"plasma membrane"
+]
+]
+},
+{
 "label": "TLR4",
 "class": "Macromolecule",
 "box": [
@@ -10,6 +26,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"plasma membrane"
+],
 [
 "Full name",
 "Toll-like receptor 4"
@@ -67,6 +87,10 @@
 ],
 "props": [
 [
+"Compartment",
+"plasma membrane"
+],
+[
 "Full name",
 "Lymphocyte antigen 96"
 ],
@@ -113,6 +137,22 @@
 ]
 },
 {
+"label": "endotoxin:TLR4:MD2",
+"class": "Complex",
+"box": [
+240.2,
+67.3,
+109.5,
+188.5
+],
+"props": [
+[
+"Compartment",
+"plasma membrane"
+]
+]
+},
+{
 "label": "endotoxin",
 "class": "SimpleChemical",
 "box": [
@@ -122,6 +162,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"plasma membrane"
+],
 [
 "Full name",
 "lipopolysaccharide"
@@ -154,6 +198,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"plasma membrane"
+],
 [
 "Full name",
 "Toll-like receptor 4"
@@ -210,6 +258,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"plasma membrane"
+],
 [
 "Full name",
 "Lymphocyte antigen 96"
@@ -310,6 +362,10 @@
 ],
 "props": [
 [
+"Compartment",
+"cytoplasm"
+],
+[
 "Full name",
 "Toll/interleukin-1 receptor domain-containing adapter protein"
 ],
@@ -366,6 +422,10 @@
 ],
 "props": [
 [
+"Compartment",
+"cytoplasm"
+],
+[
 "Full name",
 "Myeloid differentiation primary response protein MyD88"
 ],
@@ -404,6 +464,22 @@
 ]
 },
 {
+"label": "TLR4:TIRAP:MyD88",
+"class": "Complex",
+"box": [
+568.3,
+67.3,
+104.0,
+188.5
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
 "label": "TLR4",
 "class": "Macromolecule",
 "box": [
@@ -413,6 +489,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "Full name",
 "Toll-like receptor 4"
@@ -470,6 +550,10 @@
 ],
 "props": [
 [
+"Compartment",
+"cytoplasm"
+],
+[
 "Full name",
 "Toll/interleukin-1 receptor domain-containing adapter protein"
 ],
@@ -526,6 +610,10 @@
 ],
 "props": [
 [
+"Compartment",
+"cytoplasm"
+],
+[
 "Full name",
 "Myeloid differentiation primary response protein MyD88"
 ],
@@ -574,6 +662,10 @@
 ],
 "props": [
 [
+"Compartment",
+"cytoplasm"
+],
+[
 "Full name",
 "Interleukin-1 receptor-associated kinase 4"
 ],
@@ -620,6 +712,22 @@
 ]
 },
 {
+"label": "Myddosome",
+"class": "Complex",
+"box": [
+839.7,
+91.3,
+104.0,
+140.5
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
 "label": "MyD88",
 "class": "Macromolecule",
 "box": [
@@ -629,6 +737,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "Full name",
 "Myeloid differentiation primary response protein MyD88"
@@ -677,6 +789,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "Full name",
 "Interleukin-1 receptor-associated kinase 4"
@@ -807,6 +923,10 @@
 ],
 "props": [
 [
+"Compartment",
+"extracellular space"
+],
+[
 "Full name",
 "lipopolysaccharide"
 ],
@@ -838,6 +958,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"extracellular space"
+],
 [
 "Full name",
 "Lipopolysaccharide-binding protein"
@@ -894,6 +1018,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"extracellular space"
+],
 [
 "Full name",
 "Monocyte differentiation antigen CD14"

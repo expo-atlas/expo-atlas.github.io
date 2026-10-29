@@ -9,7 +9,7 @@
   <key for="node" id="ng" yfiles.type="nodegraphics"/>
   <key for="graphml" id="res" yfiles.type="resources"/>
   <key for="edge" id="eg" yfiles.type="edgegraphics"/>
-  <key attr.name="Dev id" attr.type="string" for="node" id="dev_node"/><key attr.name="Dev id" attr.type="string" for="edge" id="dev_edge"/><graph edgedefault="directed" id="G"><node id="ej9u5hxr" yfiles.foldertype="group"><data key="ng">
+  <key attr.name="Dev id" attr.type="string" for="node" id="dev_node"/><key attr.name="Dev id" attr.type="string" for="edge" id="dev_edge"/><key attr.name="Compartment" attr.type="string" for="node" id="d111"/><graph edgedefault="directed" id="G"><node id="ej9u5hxr" yfiles.foldertype="group"><data key="ng">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
@@ -35,7 +35,7 @@
           </y:Realizers>
         </y:ProxyAutoBoundsNode>
       </data>
-      <graph edgedefault="directed" id="ej9u5hxr:"><node id="iy7bjj9d"><data key="d0">GCLC</data><data key="ng">
+      <graph edgedefault="directed" id="ej9u5hxr:"><node id="iy7bjj9d"><data key="d111">cytoplasm</data><data key="d0">GCLC</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.NucleicAcidFeature">
           <y:Geometry height="40.0" width="80.0" x="478.0" y="180.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -54,7 +54,7 @@
           </y:StyleProperties>
         </y:GenericNode>
       </data>
-    <data key="dev_node">iy7bjj9d</data></node><node id="qjkejsbl"><data key="ng">
+    <data key="dev_node">iy7bjj9d</data></node><node id="qjkejsbl"><data key="d111">cytoplasm</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.EmptySet">
           <y:Geometry height="30.0" width="30.0" x="609.0" y="265.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -68,7 +68,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    <data key="dev_node">qjkejsbl</data></node><node id="pw0wrq3q"><data key="ng">
+    <data key="dev_node">qjkejsbl</data></node><node id="pw0wrq3q"><data key="d111">cytoplasm</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="1486.0" y="90.0"/>
           <y:Fill color="#EFEDE7" transparent="false"/>
@@ -76,7 +76,7 @@
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.0" x="1.0" xml:space="preserve" y="9.75" hasText="true">H2O2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
-    <data key="d2">CHEBI:16240</data><data key="dev_node">pw0wrq3q</data></node><node id="skz7qcct"><data key="ng">
+    <data key="d2">CHEBI:16240</data><data key="dev_node">pw0wrq3q</data></node><node id="skz7qcct"><data key="d111">cytoplasm</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="1572.0" y="110.0"/>
           <y:Fill color="#EFEDE7" transparent="false"/>
@@ -84,7 +84,7 @@
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="5.75" xml:space="preserve" y="9.75" hasText="true">H2O<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
-    <data key="d2">CHEBI:15377</data><data key="dev_node">skz7qcct</data></node><node id="w9jrbaa6"><data key="ng">
+    <data key="d2">CHEBI:15377</data><data key="dev_node">skz7qcct</data></node><node id="w9jrbaa6"><data key="d111">cytoplasm</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="1290.0" y="350.0"/>
           <y:Fill color="#EFEDE7" transparent="false"/>
@@ -92,7 +92,7 @@
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="152.0" x="-56.0" xml:space="preserve" y="9.75" hasText="true">4-hydroxynonenal<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
-    <data key="d2">CHEBI:58266</data><data key="dev_node">w9jrbaa6</data></node><node id="tl5jcu0s"><data key="d0">GCLC</data><data key="ng">
+    <data key="d2">CHEBI:58266</data><data key="dev_node">w9jrbaa6</data></node><node id="tl5jcu0s"><data key="d111">cytoplasm</data><data key="d0">GCLC</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="690.0" y="180.0"/>
               <y:Fill color="#EFEDE7" transparent="false"/>
@@ -103,7 +103,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        <data key="dev_node">tl5jcu0s</data></node><node id="j21zy64v"><data key="d0">GCLM</data><data key="ng">
+        <data key="dev_node">tl5jcu0s</data></node><node id="j21zy64v"><data key="d111">cytoplasm</data><data key="d0">GCLM</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="786.0" y="270.0"/>
               <y:Fill color="#EFEDE7" transparent="false"/>
@@ -114,7 +114,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        <data key="dev_node">j21zy64v</data></node><node id="std9ntu2" yfiles.foldertype="group"><data key="ng">
+        <data key="dev_node">j21zy64v</data></node><node id="std9ntu2" yfiles.foldertype="group"><data key="d111">cytoplasm</data><data key="ng">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
@@ -146,7 +146,7 @@
           </y:Realizers>
         </y:ProxyAutoBoundsNode>
       </data>
-      <graph edgedefault="directed" id="std9ntu2:"><node id="ymxw103s"><data key="d0">GCLC</data><data key="ng">
+      <graph edgedefault="directed" id="std9ntu2:"><node id="ymxw103s"><data key="d111">cytoplasm</data><data key="d0">GCLC</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="904.0" y="145.75"/>
               <y:Fill color="#EFEDE7" transparent="false"/>
@@ -157,7 +157,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        <data key="dev_node">ymxw103s</data></node><node id="k1f02x52"><data key="d0">GCLM</data><data key="ng">
+        <data key="dev_node">ymxw103s</data></node><node id="k1f02x52"><data key="d111">cytoplasm</data><data key="d0">GCLM</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="904.0" y="193.75"/>
               <y:Fill color="#EFEDE7" transparent="false"/>
@@ -168,7 +168,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        <data key="dev_node">k1f02x52</data></node></graph><data key="dev_node">std9ntu2</data></node><node id="ij06g7c6"><data key="d0">GSS</data><data key="ng">
+        <data key="dev_node">k1f02x52</data></node></graph><data key="dev_node">std9ntu2</data></node><node id="ij06g7c6"><data key="d111">cytoplasm</data><data key="d0">GSS</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="1294.0" y="90.0"/>
               <y:Fill color="#EFEDE7" transparent="false"/>
@@ -179,7 +179,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        <data key="dev_node">ij06g7c6</data></node><node id="dsn3xa0q"><data key="d0">GPX1</data><data key="ng">
+        <data key="dev_node">ij06g7c6</data></node><node id="dsn3xa0q"><data key="d111">cytoplasm</data><data key="d0">GPX1</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="1466.0" y="270.0"/>
               <y:Fill color="#EFEDE7" transparent="false"/>
@@ -190,7 +190,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        <data key="dev_node">dsn3xa0q</data></node><node id="qef9qk8j"><data key="d0">GSTA4</data><data key="ng">
+        <data key="dev_node">dsn3xa0q</data></node><node id="qef9qk8j"><data key="d111">cytoplasm</data><data key="d0">GSTA4</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="1380.0" y="440.0"/>
               <y:Fill color="#EFEDE7" transparent="false"/>
@@ -201,7 +201,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        <data key="dev_node">qef9qk8j</data></node><node id="w72fbj93"><data key="ng">
+        <data key="dev_node">qef9qk8j</data></node><node id="w72fbj93"><data key="d111">cytoplasm</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="1400.0" y="180.0"/>
           <y:Fill color="#EFEDE7" transparent="false"/>
@@ -209,7 +209,7 @@
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="5.75" xml:space="preserve" y="9.75" hasText="true">GSH<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
-    <data key="d2">CHEBI:16856</data><data key="dev_node">w72fbj93</data></node><node id="jlpcq5jd"><data key="ng">
+    <data key="d2">CHEBI:16856</data><data key="dev_node">w72fbj93</data></node><node id="jlpcq5jd"><data key="d111">cytoplasm</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="1572.0" y="250.0"/>
           <y:Fill color="#EFEDE7" transparent="false"/>
@@ -217,7 +217,7 @@
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.0" x="1.0" xml:space="preserve" y="9.75" hasText="true">GSSG<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
-    <data key="d2">CHEBI:17858</data><data key="dev_node">jlpcq5jd</data></node><node id="ys9a26fs"><data key="ng">
+    <data key="d2">CHEBI:17858</data><data key="dev_node">jlpcq5jd</data></node><node id="ys9a26fs"><data key="d111">cytoplasm</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="1510.0" y="350.0"/>
           <y:Fill color="#EFEDE7" transparent="false"/>
@@ -225,7 +225,7 @@
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="142.5" x="-51.25" xml:space="preserve" y="9.75" hasText="true">HNE-glutathione<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
-    <data key="dev_node">ys9a26fs</data></node><node id="s65nuom8"><data key="ng">
+    <data key="dev_node">ys9a26fs</data></node><node id="s65nuom8"><data key="d111">cytoplasm</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="1042.0" y="90.0"/>
           <y:Fill color="#EFEDE7" transparent="false"/>
@@ -233,7 +233,7 @@
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="85.5" x="-22.75" xml:space="preserve" y="9.75" hasText="true">glutamate<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
-    <data key="d2">CHEBI:29985</data><data key="dev_node">s65nuom8</data></node><node id="wh6l88j9"><data key="ng">
+    <data key="d2">CHEBI:29985</data><data key="dev_node">s65nuom8</data></node><node id="wh6l88j9"><data key="d111">cytoplasm</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="1042.0" y="270.0"/>
           <y:Fill color="#EFEDE7" transparent="false"/>
@@ -241,7 +241,7 @@
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="76.0" x="-18.0" xml:space="preserve" y="9.75" hasText="true">cysteine<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
-    <data key="d2">CHEBI:35235</data><data key="dev_node">wh6l88j9</data></node><node id="prgsywek"><data key="ng">
+    <data key="d2">CHEBI:35235</data><data key="dev_node">wh6l88j9</data></node><node id="prgsywek"><data key="d111">cytoplasm</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="1178.0" y="180.0"/>
           <y:Fill color="#EFEDE7" transparent="false"/>
@@ -249,7 +249,7 @@
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="209.0" x="-84.5" xml:space="preserve" y="9.75" hasText="true">gamma-glutamylcysteine<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
-    <data key="dev_node">prgsywek</data></node><node id="g5u2twrj"><data key="ng">
+    <data key="dev_node">prgsywek</data></node><node id="g5u2twrj"><data key="d111">cytoplasm</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="1314.0" y="270.0"/>
           <y:Fill color="#EFEDE7" transparent="false"/>
@@ -367,7 +367,7 @@
           </y:Realizers>
         </y:ProxyAutoBoundsNode>
       </data>
-      <graph edgedefault="directed" id="qcb79b61:"><node id="fsu2v26c"><data key="d0">GCLC</data><data key="ng">
+      <graph edgedefault="directed" id="qcb79b61:"><node id="fsu2v26c"><data key="d111">nucleus</data><data key="d0">GCLC</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.NucleicAcidFeature">
           <y:Geometry height="40.0" width="80.0" x="16.0" y="250.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -386,7 +386,7 @@
           </y:StyleProperties>
         </y:GenericNode>
       </data>
-    <data key="dev_node">fsu2v26c</data></node><node id="jasub3kb"><data key="ng">
+    <data key="dev_node">fsu2v26c</data></node><node id="jasub3kb"><data key="d111">nucleus</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Operator">
           <y:Geometry height="30.0" width="30.0" x="161.0" y="255.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -394,7 +394,7 @@
           <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="28.5" x="0.75" xml:space="preserve" y="4.75" hasText="true">AND<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
-    <data key="dev_node">jasub3kb</data></node><node id="ps5h5swx" yfiles.foldertype="group"><data key="ng">
+    <data key="dev_node">jasub3kb</data></node><node id="ps5h5swx" yfiles.foldertype="group"><data key="d111">nucleus</data><data key="ng">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
@@ -426,7 +426,7 @@
           </y:Realizers>
         </y:ProxyAutoBoundsNode>
       </data>
-      <graph edgedefault="directed" id="ps5h5swx:"><node id="g80d8non"><data key="d0">NFE2L2</data><data key="d1">@K</data><data key="ng">
+      <graph edgedefault="directed" id="ps5h5swx:"><node id="g80d8non"><data key="d111">nucleus</data><data key="d0">NFE2L2</data><data key="d1">@K</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="136.0" y="340.25"/>
               <y:Fill color="#EFEDE7" transparent="false"/>
@@ -445,7 +445,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        <data key="dev_node">g80d8non</data></node><node id="kb2n1x45"><data key="d0">MAFG</data><data key="ng">
+        <data key="dev_node">g80d8non</data></node><node id="kb2n1x45"><data key="d111">nucleus</data><data key="d0">MAFG</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="136.0" y="388.25"/>
               <y:Fill color="#EFEDE7" transparent="false"/>
@@ -456,7 +456,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        <data key="dev_node">kb2n1x45</data></node></graph><data key="dev_node">ps5h5swx</data></node><node id="cuuoxo66"><data key="d0">GCLC</data><data key="ng">
+        <data key="dev_node">kb2n1x45</data></node></graph><data key="dev_node">ps5h5swx</data></node><node id="cuuoxo66"><data key="d111">nucleus</data><data key="d0">GCLC</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.NucleicAcidFeature">
           <y:Geometry height="40.0" width="80.0" x="242.0" y="180.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -475,7 +475,7 @@
           </y:StyleProperties>
         </y:GenericNode>
       </data>
-    <data key="dev_node">cuuoxo66</data></node><node id="k7j8v7ix"><data key="ng">
+    <data key="dev_node">cuuoxo66</data></node><node id="k7j8v7ix"><data key="d111">nucleus</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.EmptySet">
           <y:Geometry height="30.0" width="30.0" x="75.0" y="185.0"/>
           <y:Fill transparent="false" hasColor="false"/>

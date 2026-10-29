@@ -5,11 +5,15 @@
 "class": "Macromolecule",
 "box": [
 1229.3,
-599.0,
+575.0,
 80.0,
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "Full name",
 "Neutrophil cytosol factor 1"
@@ -61,11 +65,15 @@
 "class": "Macromolecule",
 "box": [
 1349.3,
-509.0,
+485.0,
 80.0,
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "Full name",
 "Neutrophil cytosol factor 2"
@@ -117,11 +125,15 @@
 "class": "Macromolecule",
 "box": [
 1349.3,
-689.0,
+665.0,
 80.0,
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "Full name",
 "Neutrophil cytosol factor 4"
@@ -169,15 +181,35 @@
 ]
 },
 {
+"label": "NCF1:NCF2:NCF4",
+"class": "Complex",
+"box": [
+1457.3,
+491.8,
+104.0,
+206.5
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
 "label": "NCF1",
 "class": "Macromolecule",
 "box": [
 1469.3,
-540.8,
+516.8,
 80.0,
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "Full name",
 "Neutrophil cytosol factor 1"
@@ -229,11 +261,15 @@
 "class": "Macromolecule",
 "box": [
 1469.3,
-597.8,
+573.8,
 80.0,
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "Full name",
 "Neutrophil cytosol factor 2"
@@ -285,11 +321,15 @@
 "class": "Macromolecule",
 "box": [
 1469.3,
-645.8,
+621.8,
 80.0,
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "Full name",
 "Neutrophil cytosol factor 4"
@@ -341,11 +381,15 @@
 "class": "SimpleChemical",
 "box": [
 1567.3,
-479.0,
+455.0,
 40.0,
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "Full name",
 "ATP(4-)"
@@ -381,11 +425,15 @@
 "class": "SimpleChemical",
 "box": [
 1647.3,
-479.0,
+455.0,
 40.0,
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "Full name",
 "ADP(3-)"
@@ -417,15 +465,35 @@
 ]
 },
 {
+"label": "NCF1-P:NCF2:NCF4",
+"class": "Complex",
+"box": [
+1693.3,
+491.8,
+104.0,
+206.5
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
 "label": "NCF1",
 "class": "Macromolecule",
 "box": [
 1705.3,
-540.8,
+516.8,
 80.0,
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "PTM",
 "Phosphorylated at Thr133\nPhosphorylated at Ser288\nPhosphorylated at Thr356"
@@ -481,11 +549,15 @@
 "class": "Macromolecule",
 "box": [
 1705.3,
-597.8,
+573.8,
 80.0,
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "Full name",
 "Neutrophil cytosol factor 2"
@@ -537,11 +609,15 @@
 "class": "Macromolecule",
 "box": [
 1705.3,
-645.8,
+621.8,
 80.0,
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "Full name",
 "Neutrophil cytosol factor 4"
@@ -589,15 +665,35 @@
 ]
 },
 {
+"label": "RAC1:GTP",
+"class": "Complex",
+"box": [
+1813.3,
+524.8,
+104.0,
+140.5
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
 "label": "RAC1",
 "class": "Macromolecule",
 "box": [
 1825.3,
-564.8,
+540.8,
 80.0,
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "Full name",
 "Ras-related C3 botulinum toxin substrate 1"
@@ -649,11 +745,15 @@
 "class": "SimpleChemical",
 "box": [
 1845.3,
-612.8,
+588.8,
 40.0,
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "Full name",
 "GTP"
@@ -689,11 +789,15 @@
 "class": "SimpleChemical",
 "box": [
 2207.3,
-483.0,
+459.0,
 40.0,
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "Full name",
 "NADPH"
@@ -737,11 +841,15 @@
 "class": "SimpleChemical",
 "box": [
 2307.3,
-483.0,
+459.0,
 40.0,
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "Full name",
 "NADP(+)"
@@ -777,11 +885,15 @@
 "class": "SimpleChemical",
 "box": [
 2387.3,
-483.0,
+459.0,
 40.0,
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "Full name",
 "hydron"
@@ -822,7 +934,7 @@
 "class": "Process",
 "box": [
 1377.3,
-607.0,
+583.0,
 24.0,
 24.0
 ],
@@ -863,7 +975,7 @@
 "class": "Process",
 "box": [
 1615.3,
-607.0,
+583.0,
 24.0,
 24.0
 ],
@@ -905,11 +1017,15 @@
 "class": "Macromolecule",
 "box": [
 1469.3,
-227.0,
+203.0,
 80.0,
 40.0
 ],
 "props": [
+[
+"Compartment",
+"phagosome (membrane)"
+],
 [
 "Full name",
 "NADPH oxidase 2"
@@ -965,11 +1081,15 @@
 "class": "Macromolecule",
 "box": [
 1469.3,
-299.0,
+275.0,
 80.0,
 40.0
 ],
 "props": [
+[
+"Compartment",
+"phagosome (membrane)"
+],
 [
 "Full name",
 "Cytochrome b-245 light chain"
@@ -1017,15 +1137,35 @@
 ]
 },
 {
+"label": "cytochrome b558",
+"class": "Complex",
+"box": [
+1695.3,
+188.8,
+104.0,
+140.5
+],
+"props": [
+[
+"Compartment",
+"phagosome (membrane)"
+]
+]
+},
+{
 "label": "CYBB",
 "class": "Macromolecule",
 "box": [
 1707.3,
-228.8,
+204.8,
 80.0,
 40.0
 ],
 "props": [
+[
+"Compartment",
+"phagosome (membrane)"
+],
 [
 "Full name",
 "NADPH oxidase 2"
@@ -1081,11 +1221,15 @@
 "class": "Macromolecule",
 "box": [
 1707.3,
-276.8,
+252.8,
 80.0,
 40.0
 ],
 "props": [
+[
+"Compartment",
+"phagosome (membrane)"
+],
 [
 "Full name",
 "Cytochrome b-245 light chain"
@@ -1133,15 +1277,35 @@
 ]
 },
 {
+"label": "NOX2 holoenzyme",
+"class": "Complex",
+"box": [
+1931.3,
+155.8,
+280.0,
+206.5
+],
+"props": [
+[
+"Compartment",
+"phagosome (membrane)"
+]
+]
+},
+{
 "label": "CYBB",
 "class": "Macromolecule",
 "box": [
 1943.3,
-195.8,
+171.8,
 80.0,
 40.0
 ],
 "props": [
+[
+"Compartment",
+"phagosome (membrane)"
+],
 [
 "Full name",
 "NADPH oxidase 2"
@@ -1197,11 +1361,15 @@
 "class": "Macromolecule",
 "box": [
 2031.3,
-195.8,
+171.8,
 80.0,
 40.0
 ],
 "props": [
+[
+"Compartment",
+"phagosome (membrane)"
+],
 [
 "Full name",
 "Cytochrome b-245 light chain"
@@ -1253,11 +1421,15 @@
 "class": "Macromolecule",
 "box": [
 1943.3,
-309.8,
+285.8,
 80.0,
 40.0
 ],
 "props": [
+[
+"Compartment",
+"phagosome (membrane)"
+],
 [
 "Full name",
 "Ras-related C3 botulinum toxin substrate 1"
@@ -1309,11 +1481,15 @@
 "class": "SimpleChemical",
 "box": [
 2031.3,
-309.8,
+285.8,
 40.0,
 40.0
 ],
 "props": [
+[
+"Compartment",
+"phagosome (membrane)"
+],
 [
 "Full name",
 "GTP"
@@ -1349,11 +1525,15 @@
 "class": "Macromolecule",
 "box": [
 1943.3,
-252.8,
+228.8,
 80.0,
 40.0
 ],
 "props": [
+[
+"Compartment",
+"phagosome (membrane)"
+],
 [
 "PTM",
 "Phosphorylated at Thr133\nPhosphorylated at Ser288\nPhosphorylated at Thr356"
@@ -1409,11 +1589,15 @@
 "class": "Macromolecule",
 "box": [
 2031.3,
-252.8,
+228.8,
 80.0,
 40.0
 ],
 "props": [
+[
+"Compartment",
+"phagosome (membrane)"
+],
 [
 "Full name",
 "Neutrophil cytosol factor 2"
@@ -1465,11 +1649,15 @@
 "class": "Macromolecule",
 "box": [
 2119.3,
-252.8,
+228.8,
 80.0,
 40.0
 ],
 "props": [
+[
+"Compartment",
+"phagosome (membrane)"
+],
 [
 "Full name",
 "Neutrophil cytosol factor 4"
@@ -1517,12 +1705,108 @@
 ]
 },
 {
+"label": "O2",
+"class": "SimpleChemical",
+"box": [
+2207.3,
+49.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"phagosome (lumen)"
+],
+[
+"Full name",
+"dioxygen"
+],
+[
+"Synonyms",
+"Disauerstoff; E 948; E-948; E948; O(2); O2; OXYGEN MOLECULE; Oxygen; [OO]; dioxygene; molecular oxygen"
+],
+[
+"Formula",
+"O2"
+],
+[
+"ChEBI",
+"CHEBI:15379"
+],
+[
+"KEGG",
+"C00007"
+],
+[
+"HMDB",
+"HMDB0001377"
+],
+[
+"InChI",
+"InChI=1S/O2/c1-2"
+],
+[
+"InChIKey",
+"MYMOFIZGZYHOMD-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "O2.-",
+"class": "SimpleChemical",
+"box": [
+2307.3,
+49.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"phagosome (lumen)"
+],
+[
+"Full name",
+"superoxide"
+],
+[
+"Synonyms",
+"(O2)(.-); Dioxid(1-); Hyperoxid; O2(-); O2(.-); O2-; O2.-; Superoxide anion; dioxidanidyl; dioxide(.1-); dioxide(1-); hiperoxido; hyperoxide; superoxide anion radical; superoxide radical; superoxide radical anion; superoxido; superoxyde"
+],
+[
+"Formula",
+"O2"
+],
+[
+"ChEBI",
+"CHEBI:18421"
+],
+[
+"KEGG",
+"C00704"
+],
+[
+"HMDB",
+"HMDB0002168"
+],
+[
+"InChI",
+"InChI=1S/HO2/c1-2/h1H/p-1"
+],
+[
+"InChIKey",
+"OUUQCZGPVNCOIJ-UHFFFAOYSA-M"
+]
+]
+},
+{
 "id": "xzqvclx9_redox-nox",
 "label": "",
 "class": "Process",
 "box": [
 1617.3,
-271.0,
+247.0,
 24.0,
 24.0
 ],
@@ -1570,7 +1854,7 @@
 "class": "Process",
 "box": [
 1853.3,
-271.0,
+247.0,
 24.0,
 24.0
 ],
@@ -1627,7 +1911,7 @@
 "class": "Process",
 "box": [
 2265.3,
-271.0,
+247.0,
 24.0,
 24.0
 ],
@@ -1692,6 +1976,10 @@
 ],
 "props": [
 [
+"Compartment",
+"cytoplasm"
+],
+[
 "Full name",
 "Toll/interleukin-1 receptor domain-containing adapter protein"
 ],
@@ -1748,6 +2036,10 @@
 ],
 "props": [
 [
+"Compartment",
+"cytoplasm"
+],
+[
 "Full name",
 "Myeloid differentiation primary response protein MyD88"
 ],
@@ -1786,6 +2078,22 @@
 ]
 },
 {
+"label": "TLR4:TIRAP:MyD88",
+"class": "Complex",
+"box": [
+568.1,
+67.3,
+104.0,
+188.5
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
 "label": "TLR4",
 "class": "Macromolecule",
 "box": [
@@ -1795,6 +2103,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "Full name",
 "Toll-like receptor 4"
@@ -1852,6 +2164,10 @@
 ],
 "props": [
 [
+"Compartment",
+"cytoplasm"
+],
+[
 "Full name",
 "Toll/interleukin-1 receptor domain-containing adapter protein"
 ],
@@ -1908,6 +2224,10 @@
 ],
 "props": [
 [
+"Compartment",
+"cytoplasm"
+],
+[
 "Full name",
 "Myeloid differentiation primary response protein MyD88"
 ],
@@ -1956,6 +2276,10 @@
 ],
 "props": [
 [
+"Compartment",
+"cytoplasm"
+],
+[
 "Full name",
 "Interleukin-1 receptor-associated kinase 4"
 ],
@@ -2002,6 +2326,22 @@
 ]
 },
 {
+"label": "Myddosome",
+"class": "Complex",
+"box": [
+839.4,
+91.3,
+104.0,
+140.5
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
 "label": "MyD88",
 "class": "Macromolecule",
 "box": [
@@ -2011,6 +2351,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "Full name",
 "Myeloid differentiation primary response protein MyD88"
@@ -2059,6 +2403,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "Full name",
 "Interleukin-1 receptor-associated kinase 4"
@@ -2179,90 +2527,18 @@
 ]
 },
 {
-"label": "O2",
-"class": "SimpleChemical",
+"label": "TLR4:MD2",
+"class": "Complex",
 "box": [
-2207.3,
-47.0,
-40.0,
-40.0
+242.7,
+396.8,
+104.0,
+140.5
 ],
 "props": [
 [
-"Full name",
-"dioxygen"
-],
-[
-"Synonyms",
-"Disauerstoff; E 948; E-948; E948; O(2); O2; OXYGEN MOLECULE; Oxygen; [OO]; dioxygene; molecular oxygen"
-],
-[
-"Formula",
-"O2"
-],
-[
-"ChEBI",
-"CHEBI:15379"
-],
-[
-"KEGG",
-"C00007"
-],
-[
-"HMDB",
-"HMDB0001377"
-],
-[
-"InChI",
-"InChI=1S/O2/c1-2"
-],
-[
-"InChIKey",
-"MYMOFIZGZYHOMD-UHFFFAOYSA-N"
-]
-]
-},
-{
-"label": "O2.-",
-"class": "SimpleChemical",
-"box": [
-2307.3,
-47.0,
-40.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"superoxide"
-],
-[
-"Synonyms",
-"(O2)(.-); Dioxid(1-); Hyperoxid; O2(-); O2(.-); O2-; O2.-; Superoxide anion; dioxidanidyl; dioxide(.1-); dioxide(1-); hiperoxido; hyperoxide; superoxide anion radical; superoxide radical; superoxide radical anion; superoxido; superoxyde"
-],
-[
-"Formula",
-"O2"
-],
-[
-"ChEBI",
-"CHEBI:18421"
-],
-[
-"KEGG",
-"C00704"
-],
-[
-"HMDB",
-"HMDB0002168"
-],
-[
-"InChI",
-"InChI=1S/HO2/c1-2/h1H/p-1"
-],
-[
-"InChIKey",
-"OUUQCZGPVNCOIJ-UHFFFAOYSA-M"
+"Compartment",
+"plasma membrane"
 ]
 ]
 },
@@ -2276,6 +2552,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"plasma membrane"
+],
 [
 "Full name",
 "Toll-like receptor 4"
@@ -2333,6 +2613,10 @@
 ],
 "props": [
 [
+"Compartment",
+"plasma membrane"
+],
+[
 "Full name",
 "Lymphocyte antigen 96"
 ],
@@ -2379,6 +2663,22 @@
 ]
 },
 {
+"label": "endotoxin:TLR4:MD2",
+"class": "Complex",
+"box": [
+240.0,
+67.3,
+109.5,
+188.5
+],
+"props": [
+[
+"Compartment",
+"plasma membrane"
+]
+]
+},
+{
 "label": "endotoxin",
 "class": "SimpleChemical",
 "box": [
@@ -2388,6 +2688,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"plasma membrane"
+],
 [
 "Full name",
 "lipopolysaccharide"
@@ -2420,6 +2724,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"plasma membrane"
+],
 [
 "Full name",
 "Toll-like receptor 4"
@@ -2476,6 +2784,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"plasma membrane"
+],
 [
 "Full name",
 "Lymphocyte antigen 96"
@@ -2576,6 +2888,10 @@
 ],
 "props": [
 [
+"Compartment",
+"extracellular space"
+],
+[
 "Full name",
 "lipopolysaccharide"
 ],
@@ -2607,6 +2923,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"extracellular space"
+],
 [
 "Full name",
 "Lipopolysaccharide-binding protein"
@@ -2663,6 +2983,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"extracellular space"
+],
 [
 "Full name",
 "Monocyte differentiation antigen CD14"

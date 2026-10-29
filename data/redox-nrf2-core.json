@@ -11,6 +11,10 @@
 ],
 "props": [
 [
+"Compartment",
+"cytoplasm"
+],
+[
 "Full name",
 "Nuclear factor erythroid 2-related factor 2"
 ],
@@ -57,6 +61,22 @@
 ]
 },
 {
+"label": "",
+"class": "EmptySet",
+"box": [
+561.0,
+374.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
 "label": "KEAP1",
 "class": "NucleicAcidFeature",
 "box": [
@@ -66,6 +86,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "Full name",
 "Kelch-like ECH-associated protein 1"
@@ -113,6 +137,22 @@
 ]
 },
 {
+"label": "",
+"class": "EmptySet",
+"box": [
+396.0,
+68.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
 "label": "NRF2",
 "class": "Macromolecule",
 "box": [
@@ -122,6 +162,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "PTM",
 " at Lys"
@@ -173,6 +217,22 @@
 ]
 },
 {
+"label": "KEAP1:CUL3:RBX1",
+"class": "Complex",
+"box": [
+398.0,
+486.2,
+198.0,
+149.5
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
 "label": "KEAP1",
 "class": "Macromolecule",
 "box": [
@@ -182,6 +242,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "PTM",
 " at Cys226"
@@ -242,6 +306,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "Full name",
 "Cullin-3"
@@ -291,6 +359,10 @@
 ],
 "props": [
 [
+"Compartment",
+"cytoplasm"
+],
+[
 "Full name",
 "E3 ubiquitin-protein ligase RBX1"
 ],
@@ -337,6 +409,22 @@
 ]
 },
 {
+"label": "KEAP1:CUL3:RBX1:NRF2",
+"class": "Complex",
+"box": [
+563.0,
+658.8,
+198.0,
+164.5
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
 "label": "KEAP1",
 "class": "Macromolecule",
 "box": [
@@ -346,6 +434,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "PTM",
 " at Cys226"
@@ -407,6 +499,10 @@
 ],
 "props": [
 [
+"Compartment",
+"cytoplasm"
+],
+[
 "Full name",
 "Cullin-3"
 ],
@@ -454,6 +550,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "Full name",
 "E3 ubiquitin-protein ligase RBX1"
@@ -510,6 +610,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "PTM",
 " at Lys"
@@ -571,6 +675,10 @@
 ],
 "props": [
 [
+"Compartment",
+"cytoplasm"
+],
+[
 "PTM",
 "Ubiquitinated at Lys"
 ],
@@ -621,6 +729,70 @@
 ]
 },
 {
+"label": "ubiquitin",
+"class": "SimpleChemical",
+"box": [
+401.0,
+651.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
+"label": "26S proteasome",
+"class": "Macromolecule",
+"box": [
+537.0,
+945.0,
+112.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
+"label": "",
+"class": "EmptySet",
+"box": [
+659.0,
+860.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
+"label": "KEAP1:CUL3:RBX1",
+"class": "Complex",
+"box": [
+68.0,
+486.2,
+198.0,
+149.5
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
 "label": "KEAP1",
 "class": "Macromolecule",
 "box": [
@@ -630,6 +802,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "PTM",
 " at Cys226"
@@ -691,6 +867,10 @@
 ],
 "props": [
 [
+"Compartment",
+"cytoplasm"
+],
+[
 "Full name",
 "Cullin-3"
 ],
@@ -739,6 +919,10 @@
 ],
 "props": [
 [
+"Compartment",
+"cytoplasm"
+],
+[
 "Full name",
 "E3 ubiquitin-protein ligase RBX1"
 ],
@@ -785,6 +969,22 @@
 ]
 },
 {
+"label": "KEAP1:CUL3:RBX1",
+"class": "Complex",
+"box": [
+68.0,
+276.2,
+198.0,
+149.5
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
 "label": "KEAP1",
 "class": "Macromolecule",
 "box": [
@@ -794,6 +994,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "PTM",
 "ox at Cys226"
@@ -855,6 +1059,10 @@
 ],
 "props": [
 [
+"Compartment",
+"cytoplasm"
+],
+[
 "Full name",
 "Cullin-3"
 ],
@@ -902,6 +1110,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "Full name",
 "E3 ubiquitin-protein ligase RBX1"
@@ -959,6 +1171,10 @@
 ],
 "props": [
 [
+"Compartment",
+"cytoplasm"
+],
+[
 "Full name",
 "hydrogen peroxide"
 ],
@@ -1006,6 +1222,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "Full name",
 "water"
@@ -1055,6 +1275,10 @@
 ],
 "props": [
 [
+"Compartment",
+"cytoplasm"
+],
+[
 "Full name",
 "5-hydroxy-L-tryptophan zwitterion"
 ],
@@ -1094,6 +1318,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"cytoplasm"
+],
 [
 "ChEBI",
 "CHEBI:27921"
@@ -1412,6 +1640,10 @@
 ],
 "props": [
 [
+"Compartment",
+"nucleus"
+],
+[
 "Full name",
 "Nuclear factor erythroid 2-related factor 2"
 ],
@@ -1468,6 +1700,10 @@
 ],
 "props": [
 [
+"Compartment",
+"nucleus"
+],
+[
 "Full name",
 "Kelch-like ECH-associated protein 1"
 ],
@@ -1514,6 +1750,22 @@
 ]
 },
 {
+"label": "AND",
+"class": "Operator",
+"box": [
+1156.0,
+138.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+]
+]
+},
+{
 "label": "NRF2",
 "class": "Macromolecule",
 "box": [
@@ -1523,6 +1775,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"nucleus"
+],
 [
 "PTM",
 " at Lys"
@@ -1574,6 +1830,22 @@
 ]
 },
 {
+"label": "NRF2:MAFG",
+"class": "Complex",
+"box": [
+1119.0,
+400.2,
+104.0,
+149.5
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+]
+]
+},
+{
 "label": "NRF2",
 "class": "Macromolecule",
 "box": [
@@ -1583,6 +1855,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"nucleus"
+],
 [
 "PTM",
 " at Lys"
@@ -1644,6 +1920,10 @@
 ],
 "props": [
 [
+"Compartment",
+"nucleus"
+],
+[
 "Full name",
 "Transcription factor MafG"
 ],
@@ -1699,6 +1979,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"nucleus"
+],
 [
 "Full name",
 "Transcription factor MafG"
@@ -1756,6 +2040,10 @@
 ],
 "props": [
 [
+"Compartment",
+"nucleus"
+],
+[
 "Full name",
 "Nuclear factor erythroid 2-related factor 2"
 ],
@@ -1802,6 +2090,22 @@
 ]
 },
 {
+"label": "",
+"class": "EmptySet",
+"box": [
+1048.0,
+368.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+]
+]
+},
+{
 "label": "KEAP1",
 "class": "NucleicAcidFeature",
 "box": [
@@ -1811,6 +2115,10 @@
 40.0
 ],
 "props": [
+[
+"Compartment",
+"nucleus"
+],
 [
 "Full name",
 "Kelch-like ECH-associated protein 1"
@@ -1854,6 +2162,22 @@
 [
 "UniProt",
 "Q14145"
+]
+]
+},
+{
+"label": "",
+"class": "EmptySet",
+"box": [
+1242.0,
+68.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
 ]
 ]
 },
