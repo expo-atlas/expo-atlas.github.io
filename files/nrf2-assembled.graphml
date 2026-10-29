@@ -769,7 +769,15 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    <data key="dev_node">o9ajjycg</data></node><node id="exudwj3a_redox-nrf2-heme-quinone"><data key="d111">cytoplasm</data><data key="ng">
+    <data key="dev_node">o9ajjycg</data></node><node id="k6h3hx7d_redox-nrf2-heme-quinone"><data key="d111">cytoplasm</data><data key="ng">
+        <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
+          <y:Geometry height="40.0" width="40.0" x="366.0" y="1252.0"/>
+          <y:Fill color="#EFEDE7" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="171.0" x="-65.5" xml:space="preserve" y="9.75" hasText="true">1,2-naphthoquinone<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    <data key="d2">CHEBI:27921</data><data key="dev_node">k6h3hx7d</data></node><node id="exudwj3a_redox-nrf2-heme-quinone"><data key="d111">cytoplasm</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="206.0" y="1142.0"/>
           <y:Fill color="#EFEDE7" transparent="false"/>
@@ -988,7 +996,15 @@
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="5.75" xml:space="preserve" y="9.75" hasText="true">H2O<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
-    <data key="d2">CHEBI:15377</data><data key="dev_node">skz7qcct</data></node><node id="tl5jcu0s_redox-nrf2-glutathione"><data key="d111">cytoplasm</data><data key="d0">GCLC</data><data key="ng">
+    <data key="d2">CHEBI:15377</data><data key="dev_node">skz7qcct</data></node><node id="w9jrbaa6_redox-nrf2-glutathione"><data key="d111">cytoplasm</data><data key="ng">
+        <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
+          <y:Geometry height="40.0" width="40.0" x="-106.0" y="2418.0"/>
+          <y:Fill color="#EFEDE7" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="152.0" x="-56.0" xml:space="preserve" y="9.75" hasText="true">4-hydroxynonenal<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    <data key="d2">CHEBI:58266</data><data key="dev_node">w9jrbaa6</data></node><node id="tl5jcu0s_redox-nrf2-glutathione"><data key="d111">cytoplasm</data><data key="d0">GCLC</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="454.0" y="2248.0"/>
               <y:Fill color="#EFEDE7" transparent="false"/>
@@ -2932,7 +2948,7 @@
         </y:PolyLineEdge>
       </data>
     <data key="dev_edge">azzzt7kc_m0</data></edge>
-    <edge id="pqqa9rh3_c0_redox-nrf2-heme-quinone" source="k6h3hx7d_redox-nrf2-core" target="pqqa9rh3_redox-nrf2-heme-quinone">
+    <edge id="pqqa9rh3_c0_redox-nrf2-heme-quinone" source="k6h3hx7d_redox-nrf2-heme-quinone" target="pqqa9rh3_redox-nrf2-heme-quinone">
       <data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -2992,7 +3008,7 @@
         </y:PolyLineEdge>
       </data>
     <data key="dev_edge">k7a8saa7_c1</data></edge>
-    <edge id="k7a8saa7_p0_redox-nrf2-heme-quinone" source="k7a8saa7_redox-nrf2-heme-quinone" target="k6h3hx7d_redox-nrf2-core">
+    <edge id="k7a8saa7_p0_redox-nrf2-heme-quinone" source="k7a8saa7_redox-nrf2-heme-quinone" target="k6h3hx7d_redox-nrf2-heme-quinone">
       <data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -3272,7 +3288,7 @@
         </y:PolyLineEdge>
       </data>
     <data key="dev_edge">froe1iv9_m0</data></edge>
-    <edge id="i1gqz5q3_c0_redox-nrf2-glutathione" source="w9jrbaa6_redox-nrf2-core" target="i1gqz5q3_redox-nrf2-glutathione">
+    <edge id="i1gqz5q3_c0_redox-nrf2-glutathione" source="w9jrbaa6_redox-nrf2-glutathione" target="i1gqz5q3_redox-nrf2-glutathione">
       <data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
