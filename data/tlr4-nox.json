@@ -1,508 +1,11 @@
 {
 "nodes": [
 {
-"label": "TIRAP",
-"class": "Macromolecule",
-"box": [
-657.0,
-447.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Toll/interleukin-1 receptor domain-containing adapter protein"
-],
-[
-"Alternative names",
-"Adaptor protein Wyatt; MyD88 adapter-like protein"
-],
-[
-"Function",
-"Adapter involved in TLR2, TLR4 and RAGE signaling pathways in the innate immune response. Acts via IRAK2 and TRAF-6, leading to the activation of NF-kappa-B, MAPK1, MAPK3 and JNK, and resulting in cytokine secretion and the inflammatory response."
-],
-[
-"Location",
-"Cytoplasm, Cell membrane, Membrane"
-],
-[
-"HGNC",
-"HGNC:17192"
-],
-[
-"HGNC symbol",
-"TIRAP"
-],
-[
-"Alias symbols",
-"Mal, wyatt"
-],
-[
-"Entrez",
-"114609"
-],
-[
-"Ensembl",
-"ENSG00000150455"
-],
-[
-"RefSeq",
-"NM_148910"
-],
-[
-"UniProt",
-"P58753"
-]
-]
-},
-{
-"label": "MYD88",
-"class": "Macromolecule",
-"box": [
-797.0,
-447.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Myeloid differentiation primary response protein MyD88"
-],
-[
-"Function",
-"Adapter protein involved in the Toll-like receptor and IL-1 receptor signaling pathway in the innate immune response. Acts via IRAK1, IRAK2, IRF7 and TRAF6, leading to NF-kappa-B activation, cytokine secretion and the inflammatory response."
-],
-[
-"Location",
-"Cytoplasm, Nucleus"
-],
-[
-"HGNC",
-"HGNC:7562"
-],
-[
-"HGNC symbol",
-"MYD88"
-],
-[
-"Entrez",
-"4615"
-],
-[
-"Ensembl",
-"ENSG00000172936"
-],
-[
-"RefSeq",
-"NM_002468"
-],
-[
-"UniProt",
-"Q99836"
-]
-]
-},
-{
-"label": "TLR4",
-"class": "Macromolecule",
-"box": [
-884.0,
-148.8,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Toll-like receptor 4"
-],
-[
-"Alternative names",
-"hToll"
-],
-[
-"Function",
-"Transmembrane receptor that functions as a pattern recognition receptor recognizing pathogen- and damage-associated molecular patterns (PAMPs and DAMPs) to induce innate immune responses via downstream signaling pathways. At the plasma membrane, cooperates with LY96 to mediate the innate immune response to bacterial lipopolysaccharide (LPS)."
-],
-[
-"Location",
-"Cell membrane, Early endosome, Cell projection, ruffle"
-],
-[
-"HGNC",
-"HGNC:11850"
-],
-[
-"HGNC symbol",
-"TLR4"
-],
-[
-"Alias symbols",
-"hToll, CD284, TLR-4, ARMD10"
-],
-[
-"Entrez",
-"7099"
-],
-[
-"Ensembl",
-"ENSG00000136869"
-],
-[
-"RefSeq",
-"NM_138554"
-],
-[
-"UniProt",
-"O00206"
-]
-]
-},
-{
-"label": "TIRAP",
-"class": "Macromolecule",
-"box": [
-884.0,
-196.8,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Toll/interleukin-1 receptor domain-containing adapter protein"
-],
-[
-"Alternative names",
-"Adaptor protein Wyatt; MyD88 adapter-like protein"
-],
-[
-"Function",
-"Adapter involved in TLR2, TLR4 and RAGE signaling pathways in the innate immune response. Acts via IRAK2 and TRAF-6, leading to the activation of NF-kappa-B, MAPK1, MAPK3 and JNK, and resulting in cytokine secretion and the inflammatory response."
-],
-[
-"Location",
-"Cytoplasm, Cell membrane, Membrane"
-],
-[
-"HGNC",
-"HGNC:17192"
-],
-[
-"HGNC symbol",
-"TIRAP"
-],
-[
-"Alias symbols",
-"Mal, wyatt"
-],
-[
-"Entrez",
-"114609"
-],
-[
-"Ensembl",
-"ENSG00000150455"
-],
-[
-"RefSeq",
-"NM_148910"
-],
-[
-"UniProt",
-"P58753"
-]
-]
-},
-{
-"label": "MyD88",
-"class": "Macromolecule",
-"box": [
-884.0,
-244.8,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Myeloid differentiation primary response protein MyD88"
-],
-[
-"Function",
-"Adapter protein involved in the Toll-like receptor and IL-1 receptor signaling pathway in the innate immune response. Acts via IRAK1, IRAK2, IRF7 and TRAF6, leading to NF-kappa-B activation, cytokine secretion and the inflammatory response."
-],
-[
-"Location",
-"Cytoplasm, Nucleus"
-],
-[
-"HGNC",
-"HGNC:7562"
-],
-[
-"HGNC symbol",
-"MYD88"
-],
-[
-"Entrez",
-"4615"
-],
-[
-"Ensembl",
-"ENSG00000172936"
-],
-[
-"RefSeq",
-"NM_002468"
-],
-[
-"UniProt",
-"Q99836"
-]
-]
-},
-{
-"label": "IRAK4",
-"class": "Macromolecule",
-"box": [
-1156.0,
-447.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Interleukin-1 receptor-associated kinase 4"
-],
-[
-"Alternative names",
-"Renal carcinoma antigen NY-REN-64"
-],
-[
-"Function",
-"Serine/threonine-protein kinase that plays a critical role in initiating innate immune response against foreign pathogens. Involved in Toll-like receptor (TLR) and IL-1R signaling pathways."
-],
-[
-"Location",
-"Cytoplasm"
-],
-[
-"HGNC",
-"HGNC:17967"
-],
-[
-"HGNC symbol",
-"IRAK4"
-],
-[
-"Alias symbols",
-"NY-REN-64"
-],
-[
-"Entrez",
-"51135"
-],
-[
-"Ensembl",
-"ENSG00000198001"
-],
-[
-"RefSeq",
-"NM_001114182"
-],
-[
-"UniProt",
-"Q9NWZ3"
-]
-]
-},
-{
-"label": "MyD88",
-"class": "Macromolecule",
-"box": [
-1313.0,
-172.8,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Myeloid differentiation primary response protein MyD88"
-],
-[
-"Function",
-"Adapter protein involved in the Toll-like receptor and IL-1 receptor signaling pathway in the innate immune response. Acts via IRAK1, IRAK2, IRF7 and TRAF6, leading to NF-kappa-B activation, cytokine secretion and the inflammatory response."
-],
-[
-"Location",
-"Cytoplasm, Nucleus"
-],
-[
-"HGNC",
-"HGNC:7562"
-],
-[
-"HGNC symbol",
-"MYD88"
-],
-[
-"Entrez",
-"4615"
-],
-[
-"Ensembl",
-"ENSG00000172936"
-],
-[
-"RefSeq",
-"NM_002468"
-],
-[
-"UniProt",
-"Q99836"
-]
-]
-},
-{
-"label": "IRAK4",
-"class": "Macromolecule",
-"box": [
-1313.0,
-220.8,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Interleukin-1 receptor-associated kinase 4"
-],
-[
-"Alternative names",
-"Renal carcinoma antigen NY-REN-64"
-],
-[
-"Function",
-"Serine/threonine-protein kinase that plays a critical role in initiating innate immune response against foreign pathogens. Involved in Toll-like receptor (TLR) and IL-1R signaling pathways."
-],
-[
-"Location",
-"Cytoplasm"
-],
-[
-"HGNC",
-"HGNC:17967"
-],
-[
-"HGNC symbol",
-"IRAK4"
-],
-[
-"Alias symbols",
-"NY-REN-64"
-],
-[
-"Entrez",
-"51135"
-],
-[
-"Ensembl",
-"ENSG00000198001"
-],
-[
-"RefSeq",
-"NM_001114182"
-],
-[
-"UniProt",
-"Q9NWZ3"
-]
-]
-},
-{
-"id": "kdvjfh9e",
-"label": "",
-"class": "Process",
-"box": [
-755.0,
-215.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"endotoxin:TLR4:MD2",
-"TIRAP",
-"MYD88"
-],
-"out": [
-"TLR4:TIRAP:MyD88"
-],
-"by": []
-},
-"references": [
-{
-"authors": "Kagan JC et al.",
-"journal": "Cell",
-"title": "Phosphoinositide-mediated adaptor recruitment controls Toll-like receptor signaling.",
-"year": "2006",
-"db": "pubmed",
-"id": "16751103"
-}
-]
-},
-{
-"id": "rbgsvcub",
-"label": "",
-"class": "Process",
-"box": [
-1184.0,
-215.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"TLR4:TIRAP:MyD88",
-"IRAK4"
-],
-"out": [
-"Myddosome"
-],
-"by": []
-},
-"references": [
-{
-"authors": "Lin SC et al.",
-"journal": "Nature",
-"title": "Helical assembly in the MyD88-IRAK4-IRAK2 complex in TLR/IL-1R signalling.",
-"year": "2010",
-"db": "pubmed",
-"id": "20485341"
-},
-{
-"authors": "Motshwene PG et al.",
-"journal": "J Biol Chem",
-"title": "An oligomeric signaling platform formed by the Toll-like receptor signal transducers MyD88 and IRAK-4.",
-"year": "2009",
-"db": "pubmed",
-"id": "19592493"
-}
-]
-},
-{
 "label": "endotoxin",
 "class": "SimpleChemical",
 "box": [
-71.0,
-207.0,
+38.0,
+235.0,
 40.0,
 40.0
 ],
@@ -533,8 +36,8 @@
 "label": "LBP",
 "class": "Macromolecule",
 "box": [
-61.0,
-47.0,
+28.0,
+15.0,
 80.0,
 40.0
 ],
@@ -589,8 +92,8 @@
 "label": "CD14",
 "class": "Macromolecule",
 "box": [
-61.0,
-367.0,
+28.0,
+455.0,
 80.0,
 40.0
 ],
@@ -638,12 +141,436 @@
 ]
 },
 {
+"label": "TIRAP",
+"class": "Macromolecule",
+"box": [
+757.0,
+475.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Toll/interleukin-1 receptor domain-containing adapter protein"
+],
+[
+"Alternative names",
+"Adaptor protein Wyatt; MyD88 adapter-like protein"
+],
+[
+"Function",
+"Adapter involved in TLR2, TLR4 and RAGE signaling pathways in the innate immune response. Acts via IRAK2 and TRAF-6, leading to the activation of NF-kappa-B, MAPK1, MAPK3 and JNK, and resulting in cytokine secretion and the inflammatory response."
+],
+[
+"Location",
+"Cytoplasm, Cell membrane, Membrane"
+],
+[
+"HGNC",
+"HGNC:17192"
+],
+[
+"HGNC symbol",
+"TIRAP"
+],
+[
+"Alias symbols",
+"Mal, wyatt"
+],
+[
+"Entrez",
+"114609"
+],
+[
+"Ensembl",
+"ENSG00000150455"
+],
+[
+"RefSeq",
+"NM_148910"
+],
+[
+"UniProt",
+"P58753"
+]
+]
+},
+{
+"label": "MYD88",
+"class": "Macromolecule",
+"box": [
+897.0,
+475.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Myeloid differentiation primary response protein MyD88"
+],
+[
+"Function",
+"Adapter protein involved in the Toll-like receptor and IL-1 receptor signaling pathway in the innate immune response. Acts via IRAK1, IRAK2, IRF7 and TRAF6, leading to NF-kappa-B activation, cytokine secretion and the inflammatory response."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:7562"
+],
+[
+"HGNC symbol",
+"MYD88"
+],
+[
+"Entrez",
+"4615"
+],
+[
+"Ensembl",
+"ENSG00000172936"
+],
+[
+"RefSeq",
+"NM_002468"
+],
+[
+"UniProt",
+"Q99836"
+]
+]
+},
+{
+"label": "TLR4",
+"class": "Macromolecule",
+"box": [
+984.0,
+176.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Toll-like receptor 4"
+],
+[
+"Alternative names",
+"hToll"
+],
+[
+"Function",
+"Transmembrane receptor that functions as a pattern recognition receptor recognizing pathogen- and damage-associated molecular patterns (PAMPs and DAMPs) to induce innate immune responses via downstream signaling pathways. At the plasma membrane, cooperates with LY96 to mediate the innate immune response to bacterial lipopolysaccharide (LPS)."
+],
+[
+"Location",
+"Cell membrane, Early endosome, Cell projection, ruffle"
+],
+[
+"HGNC",
+"HGNC:11850"
+],
+[
+"HGNC symbol",
+"TLR4"
+],
+[
+"Alias symbols",
+"hToll, CD284, TLR-4, ARMD10"
+],
+[
+"Entrez",
+"7099"
+],
+[
+"Ensembl",
+"ENSG00000136869"
+],
+[
+"RefSeq",
+"NM_138554"
+],
+[
+"UniProt",
+"O00206"
+]
+]
+},
+{
+"label": "TIRAP",
+"class": "Macromolecule",
+"box": [
+984.0,
+224.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Toll/interleukin-1 receptor domain-containing adapter protein"
+],
+[
+"Alternative names",
+"Adaptor protein Wyatt; MyD88 adapter-like protein"
+],
+[
+"Function",
+"Adapter involved in TLR2, TLR4 and RAGE signaling pathways in the innate immune response. Acts via IRAK2 and TRAF-6, leading to the activation of NF-kappa-B, MAPK1, MAPK3 and JNK, and resulting in cytokine secretion and the inflammatory response."
+],
+[
+"Location",
+"Cytoplasm, Cell membrane, Membrane"
+],
+[
+"HGNC",
+"HGNC:17192"
+],
+[
+"HGNC symbol",
+"TIRAP"
+],
+[
+"Alias symbols",
+"Mal, wyatt"
+],
+[
+"Entrez",
+"114609"
+],
+[
+"Ensembl",
+"ENSG00000150455"
+],
+[
+"RefSeq",
+"NM_148910"
+],
+[
+"UniProt",
+"P58753"
+]
+]
+},
+{
+"label": "MyD88",
+"class": "Macromolecule",
+"box": [
+984.0,
+272.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Myeloid differentiation primary response protein MyD88"
+],
+[
+"Function",
+"Adapter protein involved in the Toll-like receptor and IL-1 receptor signaling pathway in the innate immune response. Acts via IRAK1, IRAK2, IRF7 and TRAF6, leading to NF-kappa-B activation, cytokine secretion and the inflammatory response."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:7562"
+],
+[
+"HGNC symbol",
+"MYD88"
+],
+[
+"Entrez",
+"4615"
+],
+[
+"Ensembl",
+"ENSG00000172936"
+],
+[
+"RefSeq",
+"NM_002468"
+],
+[
+"UniProt",
+"Q99836"
+]
+]
+},
+{
+"label": "IRAK4",
+"class": "Macromolecule",
+"box": [
+1256.0,
+475.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Interleukin-1 receptor-associated kinase 4"
+],
+[
+"Alternative names",
+"Renal carcinoma antigen NY-REN-64"
+],
+[
+"Function",
+"Serine/threonine-protein kinase that plays a critical role in initiating innate immune response against foreign pathogens. Involved in Toll-like receptor (TLR) and IL-1R signaling pathways."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:17967"
+],
+[
+"HGNC symbol",
+"IRAK4"
+],
+[
+"Alias symbols",
+"NY-REN-64"
+],
+[
+"Entrez",
+"51135"
+],
+[
+"Ensembl",
+"ENSG00000198001"
+],
+[
+"RefSeq",
+"NM_001114182"
+],
+[
+"UniProt",
+"Q9NWZ3"
+]
+]
+},
+{
+"label": "MyD88",
+"class": "Macromolecule",
+"box": [
+1413.0,
+200.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Myeloid differentiation primary response protein MyD88"
+],
+[
+"Function",
+"Adapter protein involved in the Toll-like receptor and IL-1 receptor signaling pathway in the innate immune response. Acts via IRAK1, IRAK2, IRF7 and TRAF6, leading to NF-kappa-B activation, cytokine secretion and the inflammatory response."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:7562"
+],
+[
+"HGNC symbol",
+"MYD88"
+],
+[
+"Entrez",
+"4615"
+],
+[
+"Ensembl",
+"ENSG00000172936"
+],
+[
+"RefSeq",
+"NM_002468"
+],
+[
+"UniProt",
+"Q99836"
+]
+]
+},
+{
+"label": "IRAK4",
+"class": "Macromolecule",
+"box": [
+1413.0,
+248.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Interleukin-1 receptor-associated kinase 4"
+],
+[
+"Alternative names",
+"Renal carcinoma antigen NY-REN-64"
+],
+[
+"Function",
+"Serine/threonine-protein kinase that plays a critical role in initiating innate immune response against foreign pathogens. Involved in Toll-like receptor (TLR) and IL-1R signaling pathways."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:17967"
+],
+[
+"HGNC symbol",
+"IRAK4"
+],
+[
+"Alias symbols",
+"NY-REN-64"
+],
+[
+"Entrez",
+"51135"
+],
+[
+"Ensembl",
+"ENSG00000198001"
+],
+[
+"RefSeq",
+"NM_001114182"
+],
+[
+"UniProt",
+"Q9NWZ3"
+]
+]
+},
+{
 "id": "f1yyjes0",
 "label": "",
 "class": "Process",
 "box": [
-235.0,
-215.0,
+346.0,
+243.0,
 24.0,
 24.0
 ],
@@ -681,11 +608,84 @@
 ]
 },
 {
+"id": "kdvjfh9e",
+"label": "",
+"class": "Process",
+"box": [
+855.0,
+243.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"endotoxin:TLR4:MD2",
+"TIRAP",
+"MYD88"
+],
+"out": [
+"TLR4:TIRAP:MyD88"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Kagan JC et al.",
+"journal": "Cell",
+"title": "Phosphoinositide-mediated adaptor recruitment controls Toll-like receptor signaling.",
+"year": "2006",
+"db": "pubmed",
+"id": "16751103"
+}
+]
+},
+{
+"id": "rbgsvcub",
+"label": "",
+"class": "Process",
+"box": [
+1284.0,
+243.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"TLR4:TIRAP:MyD88",
+"IRAK4"
+],
+"out": [
+"Myddosome"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Lin SC et al.",
+"journal": "Nature",
+"title": "Helical assembly in the MyD88-IRAK4-IRAK2 complex in TLR/IL-1R signalling.",
+"year": "2010",
+"db": "pubmed",
+"id": "20485341"
+},
+{
+"authors": "Motshwene PG et al.",
+"journal": "J Biol Chem",
+"title": "An oligomeric signaling platform formed by the Toll-like receptor signal transducers MyD88 and IRAK-4.",
+"year": "2009",
+"db": "pubmed",
+"id": "19592493"
+}
+]
+},
+{
 "label": "TLR4",
 "class": "Macromolecule",
 "box": [
-375.0,
-412.8,
+318.0,
+440.8,
 80.0,
 40.0
 ],
@@ -740,8 +740,8 @@
 "label": "MD2",
 "class": "Macromolecule",
 "box": [
-375.0,
-460.8,
+318.0,
+488.8,
 80.0,
 40.0
 ],
@@ -796,8 +796,8 @@
 "label": "endotoxin",
 "class": "SimpleChemical",
 "box": [
-395.0,
-148.8,
+495.0,
+176.8,
 40.0,
 40.0
 ],
@@ -828,8 +828,8 @@
 "label": "TLR4",
 "class": "Macromolecule",
 "box": [
-375.0,
-196.8,
+475.0,
+224.8,
 80.0,
 40.0
 ],
@@ -884,8 +884,8 @@
 "label": "MD2",
 "class": "Macromolecule",
 "box": [
-375.0,
-244.8,
+475.0,
+272.8,
 80.0,
 40.0
 ],
