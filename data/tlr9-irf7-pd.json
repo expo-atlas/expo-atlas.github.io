@@ -1,659 +1,77 @@
 {
 "nodes": [
 {
-"label": "TLR9:UNC93B1",
-"class": "Complex",
-"box": [
-303.0,
-524.8,
-104.0,
-140.5
-],
-"props": [
-[
-"Compartment",
-"endosome"
-]
-]
-},
-{
-"label": "TLR9",
-"class": "Macromolecule",
-"box": [
-315.0,
-540.8,
-80.0,
-40.0
-],
-"props": [
-[
-"Compartment",
-"endosome"
-],
-[
-"Full name",
-"Toll-like receptor 9"
-],
-[
-"Function",
-"Key component of innate and adaptive immunity. TLRs (Toll-like receptors) control host immune response against pathogens through recognition of molecular patterns specific to microorganisms."
-],
-[
-"Location",
-"Endoplasmic reticulum membrane, Early endosome membrane, Lysosome, Cytoplasmic vesicle, phagosome, Golgi apparatus membrane"
-],
-[
-"HGNC",
-"HGNC:15633"
-],
-[
-"HGNC symbol",
-"TLR9"
-],
-[
-"Alias symbols",
-"CD289"
-],
-[
-"Entrez",
-"54106"
-],
-[
-"Ensembl",
-"ENSG00000239732"
-],
-[
-"RefSeq",
-"NM_017442"
-],
-[
-"UniProt",
-"Q9NR96"
-]
-]
-},
-{
-"label": "UNC93B1",
-"class": "Macromolecule",
-"box": [
-315.0,
-588.8,
-80.0,
-40.0
-],
-"props": [
-[
-"Compartment",
-"endosome"
-],
-[
-"Full name",
-"Protein unc-93 homolog B1"
-],
-[
-"Function",
-"Plays an important role in innate and adaptive immunity by regulating nucleotide-sensing Toll-like receptor (TLR) signaling. Required for the transport of a subset of TLRs (including TLR3, TLR7 and TLR9) from the endoplasmic reticulum to endolysosomes where they can engage pathogen nucleotides and activate signaling cascades."
-],
-[
-"Location",
-"Endoplasmic reticulum membrane, Endosome, Lysosome, Cytoplasmic vesicle, phagosome"
-],
-[
-"HGNC",
-"HGNC:13481"
-],
-[
-"HGNC symbol",
-"UNC93B1"
-],
-[
-"Alias symbols",
-"UNC93, UNC-93B"
-],
-[
-"Entrez",
-"81622"
-],
-[
-"Ensembl",
-"ENSG00000110057"
-],
-[
-"RefSeq",
-"NM_030930"
-],
-[
-"UniProt",
-"Q9H1C4"
-]
-]
-},
-{
-"label": "TLR9",
-"class": "Macromolecule",
-"box": [
-539.0,
-575.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Compartment",
-"endosome"
-],
-[
-"Full name",
-"Toll-like receptor 9"
-],
-[
-"Function",
-"Key component of innate and adaptive immunity. TLRs (Toll-like receptors) control host immune response against pathogens through recognition of molecular patterns specific to microorganisms."
-],
-[
-"Location",
-"Endoplasmic reticulum membrane, Early endosome membrane, Lysosome, Cytoplasmic vesicle, phagosome, Golgi apparatus membrane"
-],
-[
-"HGNC",
-"HGNC:15633"
-],
-[
-"HGNC symbol",
-"TLR9"
-],
-[
-"Alias symbols",
-"CD289"
-],
-[
-"Entrez",
-"54106"
-],
-[
-"Ensembl",
-"ENSG00000239732"
-],
-[
-"RefSeq",
-"NM_017442"
-],
-[
-"UniProt",
-"Q9NR96"
-]
-]
-},
-{
-"label": "UNC93B1",
-"class": "Macromolecule",
-"box": [
-433.0,
-665.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Compartment",
-"endosome"
-],
-[
-"Full name",
-"Protein unc-93 homolog B1"
-],
-[
-"Function",
-"Plays an important role in innate and adaptive immunity by regulating nucleotide-sensing Toll-like receptor (TLR) signaling. Required for the transport of a subset of TLRs (including TLR3, TLR7 and TLR9) from the endoplasmic reticulum to endolysosomes where they can engage pathogen nucleotides and activate signaling cascades."
-],
-[
-"Location",
-"Endoplasmic reticulum membrane, Endosome, Lysosome, Cytoplasmic vesicle, phagosome"
-],
-[
-"HGNC",
-"HGNC:13481"
-],
-[
-"HGNC symbol",
-"UNC93B1"
-],
-[
-"Alias symbols",
-"UNC93, UNC-93B"
-],
-[
-"Entrez",
-"81622"
-],
-[
-"Ensembl",
-"ENSG00000110057"
-],
-[
-"RefSeq",
-"NM_030930"
-],
-[
-"UniProt",
-"Q9H1C4"
-]
-]
-},
-{
-"label": "LGMN",
-"class": "Macromolecule",
-"box": [
-635.0,
-485.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Compartment",
-"endosome"
-],
-[
-"Full name",
-"Legumain"
-],
-[
-"Alternative names",
-"Asparaginyl endopeptidase; Protease, cysteine 1"
-],
-[
-"Function",
-"Has a strict specificity for hydrolysis of asparaginyl bonds. Can also cleave aspartyl bonds slowly, especially under acidic conditions."
-],
-[
-"Location",
-"Lysosome"
-],
-[
-"HGNC",
-"HGNC:9472"
-],
-[
-"HGNC symbol",
-"LGMN"
-],
-[
-"Previous symbols",
-"PRSC1"
-],
-[
-"Alias symbols",
-"LGMN1"
-],
-[
-"Entrez",
-"5641"
-],
-[
-"Ensembl",
-"ENSG00000100600"
-],
-[
-"RefSeq",
-"NM_005606"
-],
-[
-"UniProt",
-"Q99538"
-]
-]
-},
-{
-"label": "CTSB",
-"class": "Macromolecule",
-"box": [
-827.0,
-485.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Compartment",
-"endosome"
-],
-[
-"Full name",
-"Cathepsin B"
-],
-[
-"Alternative names",
-"APP secretase; Cathepsin B1"
-],
-[
-"Function",
-"Thiol protease which is believed to participate in intracellular degradation and turnover of proteins. Cleaves matrix extracellular phosphoglycoprotein MEPE."
-],
-[
-"Location",
-"Lysosome, Melanosome, Secreted, extracellular space, Apical cell membrane"
-],
-[
-"HGNC",
-"HGNC:2527"
-],
-[
-"HGNC symbol",
-"CTSB"
-],
-[
-"Entrez",
-"1508"
-],
-[
-"Ensembl",
-"ENSG00000164733"
-],
-[
-"RefSeq",
-"NM_147780"
-],
-[
-"UniProt",
-"P07858"
-]
-]
-},
-{
-"label": "TLR9-C",
-"class": "Macromolecule",
-"box": [
-731.0,
-575.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Compartment",
-"endosome"
-],
-[
-"Unit of information",
-"C-terminal fragment"
-],
-[
-"Full name",
-"Toll-like receptor 9"
-],
-[
-"Function",
-"Key component of innate and adaptive immunity. TLRs (Toll-like receptors) control host immune response against pathogens through recognition of molecular patterns specific to microorganisms."
-],
-[
-"Location",
-"Endoplasmic reticulum membrane, Early endosome membrane, Lysosome, Cytoplasmic vesicle, phagosome, Golgi apparatus membrane"
-],
-[
-"HGNC",
-"HGNC:15633"
-],
-[
-"HGNC symbol",
-"TLR9"
-],
-[
-"Alias symbols",
-"CD289"
-],
-[
-"Entrez",
-"54106"
-],
-[
-"Ensembl",
-"ENSG00000239732"
-],
-[
-"RefSeq",
-"NM_017442"
-],
-[
-"UniProt",
-"Q9NR96"
-]
-]
-},
-{
-"label": "TLR9-C trimmed",
-"class": "Macromolecule",
-"box": [
-923.0,
-575.0,
-112.0,
-40.0
-],
-"props": [
-[
-"Compartment",
-"endosome"
-],
-[
-"Unit of information",
-"C-terminal fragment\ntrimmed"
-],
-[
-"Full name",
-"Toll-like receptor 9"
-],
-[
-"Function",
-"Key component of innate and adaptive immunity. TLRs (Toll-like receptors) control host immune response against pathogens through recognition of molecular patterns specific to microorganisms."
-],
-[
-"Location",
-"Endoplasmic reticulum membrane, Early endosome membrane, Lysosome, Cytoplasmic vesicle, phagosome, Golgi apparatus membrane"
-],
-[
-"HGNC",
-"HGNC:15633"
-],
-[
-"HGNC symbol",
-"TLR9"
-],
-[
-"Alias symbols",
-"CD289"
-],
-[
-"Entrez",
-"54106"
-],
-[
-"Ensembl",
-"ENSG00000239732"
-],
-[
-"RefSeq",
-"NM_017442"
-],
-[
-"UniProt",
-"Q9NR96"
-]
-]
-},
-{
-"label": "TLR9-N",
-"class": "Macromolecule",
-"box": [
-939.0,
-685.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Compartment",
-"endosome"
-],
-[
-"Unit of information",
-"N-terminal fragment"
-],
-[
-"Full name",
-"Toll-like receptor 9"
-],
-[
-"Function",
-"Key component of innate and adaptive immunity. TLRs (Toll-like receptors) control host immune response against pathogens through recognition of molecular patterns specific to microorganisms."
-],
-[
-"Location",
-"Endoplasmic reticulum membrane, Early endosome membrane, Lysosome, Cytoplasmic vesicle, phagosome, Golgi apparatus membrane"
-],
-[
-"HGNC",
-"HGNC:15633"
-],
-[
-"HGNC symbol",
-"TLR9"
-],
-[
-"Alias symbols",
-"CD289"
-],
-[
-"Entrez",
-"54106"
-],
-[
-"Ensembl",
-"ENSG00000239732"
-],
-[
-"RefSeq",
-"NM_017442"
-],
-[
-"UniProt",
-"Q9NR96"
-]
-]
-},
-{
-"label": "CpG-DNA",
-"class": "NucleicAcidFeature",
-"box": [
-1051.0,
-485.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Compartment",
-"endosome"
-]
-]
-},
-{
-"label": "CpG:TLR9 dimer",
-"class": "Complex",
-"box": [
-1157.5,
-521.8,
-157.0,
-146.5
-],
-"props": [
-[
-"Compartment",
-"endosome"
-]
-]
-},
-{
-"label": "TLR9-C trimmed",
-"class": "Macromolecule",
-"box": [
-1180.0,
-537.8,
-112.0,
-40.0
-],
-"props": [
-[
-"Compartment",
-"endosome"
-],
-[
-"Unit of information",
-"C-terminal fragment\ntrimmed"
-],
-[
-"Full name",
-"Toll-like receptor 9"
-],
-[
-"Function",
-"Key component of innate and adaptive immunity. TLRs (Toll-like receptors) control host immune response against pathogens through recognition of molecular patterns specific to microorganisms."
-],
-[
-"Location",
-"Endoplasmic reticulum membrane, Early endosome membrane, Lysosome, Cytoplasmic vesicle, phagosome, Golgi apparatus membrane"
-],
-[
-"HGNC",
-"HGNC:15633"
-],
-[
-"HGNC symbol",
-"TLR9"
-],
-[
-"Alias symbols",
-"CD289"
-],
-[
-"Entrez",
-"54106"
-],
-[
-"Ensembl",
-"ENSG00000239732"
-],
-[
-"RefSeq",
-"NM_017442"
-],
-[
-"UniProt",
-"Q9NR96"
-]
-]
-},
-{
-"label": "CpG-DNA",
-"class": "NucleicAcidFeature",
-"box": [
-1196.0,
-591.8,
-80.0,
-40.0
-],
-"props": [
-[
-"Compartment",
-"endosome"
-]
-]
-},
-{
-"id": "ifao43ew",
+"id": "es6kulov",
 "label": "",
 "class": "Process",
 "box": [
-461.0,
+1735.0,
+333.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+""
+],
+"out": [
+"IFN-beta"
+],
+"by": [
+"IFNB1"
+]
+},
+"references": [
+{
+"authors": "Honda K et al.",
+"journal": "Nature",
+"title": "IRF-7 is the master regulator of type-I interferon-dependent immune responses.",
+"year": "2005",
+"db": "pubmed",
+"id": "15800576"
+}
+]
+},
+{
+"id": "ms419mxt",
+"label": "",
+"class": "Process",
+"box": [
+1735.0,
+133.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+""
+],
+"out": [
+"IFN-alpha"
+],
+"by": [
+"IFNA1"
+]
+},
+"references": [
+{
+"authors": "Honda K et al.",
+"journal": "Nature",
+"title": "IRF-7 is the master regulator of type-I interferon-dependent immune responses.",
+"year": "2005",
+"db": "pubmed",
+"id": "15800576"
+}
+]
+},
+{
+"id": "t1psxaxu",
+"label": "",
+"class": "Process",
+"box": [
+1841.0,
 583.0,
 24.0,
 24.0
@@ -661,31 +79,122 @@
 "props": [],
 "reaction": {
 "in": [
-"TLR9:UNC93B1"
+"IRF7"
 ],
 "out": [
-"TLR9",
-"UNC93B1"
+"IRF7"
+],
+"by": [
+"SPP1"
+]
+},
+"references": [
+{
+"authors": "Shinohara ML et al.",
+"journal": "Nat Immunol",
+"title": "Osteopontin expression is essential for interferon-alpha production by plasmacytoid dendritic cells.",
+"year": "2006",
+"db": "pubmed",
+"id": "16604075"
+}
+]
+},
+{
+"id": "k7iuwfc2",
+"label": "",
+"class": "Process",
+"box": [
+1629.0,
+583.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"IRF7"
+],
+"out": [
+"IRF7"
+],
+"by": [
+"AND"
+]
+},
+"references": [
+{
+"authors": "Uematsu S et al.",
+"journal": "J Exp Med",
+"title": "Interleukin-1 receptor-associated kinase-1 plays an essential role for Toll-like receptor (TLR)7- and TLR9-mediated interferon-{alpha} induction.",
+"year": "2005",
+"db": "pubmed",
+"id": "15767370"
+},
+{
+"authors": "Hoshino K et al.",
+"journal": "Nature",
+"title": "IkappaB kinase-alpha is critical for interferon-alpha production induced by Toll-like receptors 7 and 9.",
+"year": "2006",
+"db": "pubmed",
+"id": "16612387"
+},
+{
+"authors": "Kawai T et al.",
+"journal": "Nat Immunol",
+"title": "Interferon-alpha induction through Toll-like receptors involves a direct interaction of IRF7 with MyD88 and TRAF6.",
+"year": "2004",
+"db": "pubmed",
+"id": "15361868"
+}
+]
+},
+{
+"id": "eo5ygg5x",
+"label": "",
+"class": "Process",
+"box": [
+1393.0,
+583.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"TLR9:MyD88",
+"IRAK4",
+"IRAK1"
+],
+"out": [
+"Myddosome"
 ],
 "by": []
 },
 "references": [
 {
-"authors": "Miyake K et al.",
-"journal": "Int Immunol",
-"title": "Dynamic control of nucleic-acid-sensing Toll-like receptors by the endosomal compartment.",
-"year": "2021",
+"authors": "Lin SC et al.",
+"journal": "Nature",
+"title": "Helical assembly in the MyD88-IRAK4-IRAK2 complex in TLR/IL-1R signalling.",
+"year": "2010",
 "db": "pubmed",
-"id": "34223897"
+"id": "20485341"
+},
+{
+"authors": "Li S et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "IRAK-4: a novel member of the IRAK family with the properties of an IRAK-kinase.",
+"year": "2002",
+"db": "pubmed",
+"id": "11960013"
 }
 ]
 },
 {
-"id": "qribf17m",
+"id": "qgyzcyh2",
 "label": "",
 "class": "Process",
 "box": [
-663.0,
+1103.0,
 583.0,
 24.0,
 24.0
@@ -693,25 +202,15 @@
 "props": [],
 "reaction": {
 "in": [
-"TLR9"
+"CpG:TLR9 dimer",
+"MYD88"
 ],
 "out": [
-"TLR9-C",
-"TLR9-N"
+"TLR9:MyD88"
 ],
-"by": [
-"LGMN"
-]
+"by": []
 },
 "references": [
-{
-"authors": "Ewald SE et al.",
-"journal": "J Exp Med",
-"title": "Nucleic acid recognition by Toll-like receptors is coupled to stepwise processing by cathepsins and asparagine endopeptidase.",
-"year": "2011",
-"db": "pubmed",
-"id": "21402738"
-},
 {
 "authors": "Ewald SE et al.",
 "journal": "Nature",
@@ -723,11 +222,11 @@
 ]
 },
 {
-"id": "zc4o12de",
+"id": "x5kj9cit",
 "label": "",
 "class": "Process",
 "box": [
-855.0,
+171.0,
 583.0,
 24.0,
 24.0
@@ -735,73 +234,30 @@
 "props": [],
 "reaction": {
 "in": [
-"TLR9-C"
+"TLR9",
+"UNC93B1"
 ],
 "out": [
-"TLR9-C trimmed"
+"TLR9:UNC93B1"
 ],
-"by": [
-"CTSB"
-]
+"by": []
 },
 "references": [
 {
-"authors": "Ewald SE et al.",
-"journal": "J Exp Med",
-"title": "Nucleic acid recognition by Toll-like receptors is coupled to stepwise processing by cathepsins and asparagine endopeptidase.",
-"year": "2011",
-"db": "pubmed",
-"id": "21402738"
-}
-]
-},
-{
-"id": "is8j8rpe",
-"label": "",
-"class": "Process",
-"box": [
-1079.0,
-583.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"CpG-DNA",
-"TLR9-C trimmed"
-],
-"out": [
-"CpG:TLR9 dimer"
-],
-"by": [
-"TLR9-N"
-]
-},
-"references": [
-{
-"authors": "Ohto U et al.",
+"authors": "Kim YM et al.",
 "journal": "Nature",
-"title": "Structural basis of CpG and inhibitory DNA recognition by Toll-like receptor 9.",
-"year": "2015",
+"title": "UNC93B1 delivers nucleotide-sensing toll-like receptors to endolysosomes.",
+"year": "2008",
 "db": "pubmed",
-"id": "25686612"
+"id": "18305481"
 },
 {
-"authors": "Hemmi H et al.",
-"journal": "Nature",
-"title": "A Toll-like receptor recognizes bacterial DNA.",
-"year": "2000",
+"authors": "Lee BL et al.",
+"journal": "Elife",
+"title": "UNC93B1 mediates differential trafficking of endosomal TLRs.",
+"year": "2013",
 "db": "pubmed",
-"id": "11130078"
-},
-{
-"authors": "Lee S et al.",
-"journal": "J Immunol",
-"title": "Negative self-regulation of TLR9 signaling by its N-terminal proteolytic cleavage product.",
-"year": "2014",
-"db": "pubmed",
-"id": "25187653"
+"id": "23426999"
 }
 ]
 },
@@ -866,7 +322,7 @@
 "class": "Macromolecule",
 "box": [
 143.0,
-665.0,
+485.0,
 80.0,
 40.0
 ],
@@ -921,8 +377,8 @@
 "label": "MYD88",
 "class": "Macromolecule",
 "box": [
-1395.0,
-665.0,
+1075.0,
+485.0,
 80.0,
 40.0
 ],
@@ -973,7 +429,7 @@
 "label": "IRAK4",
 "class": "Macromolecule",
 "box": [
-1633.0,
+1313.0,
 715.0,
 80.0,
 40.0
@@ -1033,7 +489,7 @@
 "label": "IRAK1",
 "class": "Macromolecule",
 "box": [
-1737.0,
+1417.0,
 715.0,
 80.0,
 40.0
@@ -1093,7 +549,7 @@
 "label": "TLR9:MyD88",
 "class": "Complex",
 "box": [
-1501.5,
+1181.5,
 521.8,
 157.0,
 146.5
@@ -1109,7 +565,7 @@
 "label": "TLR9-C trimmed",
 "class": "Macromolecule",
 "box": [
-1524.0,
+1204.0,
 537.8,
 112.0,
 40.0
@@ -1169,7 +625,7 @@
 "label": "MYD88",
 "class": "Macromolecule",
 "box": [
-1540.0,
+1220.0,
 591.8,
 80.0,
 40.0
@@ -1221,7 +677,7 @@
 "label": "Myddosome",
 "class": "Complex",
 "box": [
-1791.0,
+1471.0,
 496.2,
 104.0,
 197.5
@@ -1237,7 +693,7 @@
 "label": "MYD88",
 "class": "Macromolecule",
 "box": [
-1803.0,
+1483.0,
 512.2,
 80.0,
 40.0
@@ -1289,7 +745,7 @@
 "label": "IRAK4",
 "class": "Macromolecule",
 "box": [
-1803.0,
+1483.0,
 560.2,
 80.0,
 40.0
@@ -1349,7 +805,7 @@
 "label": "IRAK1",
 "class": "Macromolecule",
 "box": [
-1803.0,
+1483.0,
 617.2,
 80.0,
 40.0
@@ -1409,7 +865,7 @@
 "label": "TRAF6",
 "class": "Macromolecule",
 "box": [
-1921.0,
+1601.0,
 405.0,
 80.0,
 40.0
@@ -1469,7 +925,7 @@
 "label": "TRAF3",
 "class": "Macromolecule",
 "box": [
-2017.0,
+1697.0,
 405.0,
 80.0,
 40.0
@@ -1529,7 +985,7 @@
 "label": "CHUK",
 "class": "Macromolecule",
 "box": [
-1825.0,
+1505.0,
 405.0,
 80.0,
 40.0
@@ -1593,7 +1049,7 @@
 "label": "SPP1",
 "class": "Macromolecule",
 "box": [
-2133.0,
+1813.0,
 665.0,
 80.0,
 40.0
@@ -1657,7 +1113,7 @@
 "label": "IRF7",
 "class": "Macromolecule",
 "box": [
-1921.0,
+1601.0,
 685.0,
 80.0,
 40.0
@@ -1713,7 +1169,7 @@
 "label": "AND",
 "class": "Operator",
 "box": [
-1946.0,
+1626.0,
 500.0,
 30.0,
 30.0
@@ -1729,7 +1185,7 @@
 "label": "IRF7",
 "class": "Macromolecule",
 "box": [
-2027.0,
+1707.0,
 575.0,
 80.0,
 40.0
@@ -1785,7 +1241,7 @@
 "label": "IFNA1",
 "class": "NucleicAcidFeature",
 "box": [
-2133.0,
+1813.0,
 125.0,
 80.0,
 40.0
@@ -1845,7 +1301,7 @@
 "label": "",
 "class": "EmptySet",
 "box": [
-2052.0,
+1732.0,
 50.0,
 30.0,
 30.0
@@ -1861,7 +1317,7 @@
 "label": "IFNB1",
 "class": "NucleicAcidFeature",
 "box": [
-2133.0,
+1813.0,
 325.0,
 80.0,
 40.0
@@ -1925,7 +1381,7 @@
 "label": "",
 "class": "EmptySet",
 "box": [
-2052.0,
+1732.0,
 250.0,
 30.0,
 30.0
@@ -1941,7 +1397,7 @@
 "label": "IFN-alpha",
 "class": "Macromolecule",
 "box": [
-1921.0,
+1601.0,
 125.0,
 80.0,
 40.0
@@ -2001,7 +1457,7 @@
 "label": "IFN-beta",
 "class": "Macromolecule",
 "box": [
-1921.0,
+1601.0,
 325.0,
 80.0,
 40.0
@@ -2062,207 +1518,12 @@
 ]
 },
 {
-"id": "x5kj9cit",
+"id": "qwtpafny",
 "label": "",
 "class": "Process",
 "box": [
-171.0,
-583.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"TLR9",
-"UNC93B1"
-],
-"out": [
-"TLR9:UNC93B1"
-],
-"by": []
-},
-"references": [
-{
-"authors": "Kim YM et al.",
-"journal": "Nature",
-"title": "UNC93B1 delivers nucleotide-sensing toll-like receptors to endolysosomes.",
-"year": "2008",
-"db": "pubmed",
-"id": "18305481"
-},
-{
-"authors": "Lee BL et al.",
-"journal": "Elife",
-"title": "UNC93B1 mediates differential trafficking of endosomal TLRs.",
-"year": "2013",
-"db": "pubmed",
-"id": "23426999"
-}
-]
-},
-{
-"id": "qgyzcyh2",
-"label": "",
-"class": "Process",
-"box": [
-1423.0,
-583.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"CpG:TLR9 dimer",
-"MYD88"
-],
-"out": [
-"TLR9:MyD88"
-],
-"by": []
-},
-"references": [
-{
-"authors": "Ewald SE et al.",
-"journal": "Nature",
-"title": "The ectodomain of Toll-like receptor 9 is cleaved to generate a functional receptor.",
-"year": "2008",
-"db": "pubmed",
-"id": "18820679"
-}
-]
-},
-{
-"id": "eo5ygg5x",
-"label": "",
-"class": "Process",
-"box": [
-1713.0,
-583.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"TLR9:MyD88",
-"IRAK4",
-"IRAK1"
-],
-"out": [
-"Myddosome"
-],
-"by": []
-},
-"references": [
-{
-"authors": "Lin SC et al.",
-"journal": "Nature",
-"title": "Helical assembly in the MyD88-IRAK4-IRAK2 complex in TLR/IL-1R signalling.",
-"year": "2010",
-"db": "pubmed",
-"id": "20485341"
-},
-{
-"authors": "Li S et al.",
-"journal": "Proc Natl Acad Sci U S A",
-"title": "IRAK-4: a novel member of the IRAK family with the properties of an IRAK-kinase.",
-"year": "2002",
-"db": "pubmed",
-"id": "11960013"
-}
-]
-},
-{
-"id": "k7iuwfc2",
-"label": "",
-"class": "Process",
-"box": [
-1949.0,
-583.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"IRF7"
-],
-"out": [
-"IRF7"
-],
-"by": [
-"AND"
-]
-},
-"references": [
-{
-"authors": "Uematsu S et al.",
-"journal": "J Exp Med",
-"title": "Interleukin-1 receptor-associated kinase-1 plays an essential role for Toll-like receptor (TLR)7- and TLR9-mediated interferon-{alpha} induction.",
-"year": "2005",
-"db": "pubmed",
-"id": "15767370"
-},
-{
-"authors": "Hoshino K et al.",
-"journal": "Nature",
-"title": "IkappaB kinase-alpha is critical for interferon-alpha production induced by Toll-like receptors 7 and 9.",
-"year": "2006",
-"db": "pubmed",
-"id": "16612387"
-},
-{
-"authors": "Kawai T et al.",
-"journal": "Nat Immunol",
-"title": "Interferon-alpha induction through Toll-like receptors involves a direct interaction of IRF7 with MyD88 and TRAF6.",
-"year": "2004",
-"db": "pubmed",
-"id": "15361868"
-}
-]
-},
-{
-"id": "t1psxaxu",
-"label": "",
-"class": "Process",
-"box": [
-2161.0,
-583.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"IRF7"
-],
-"out": [
-"IRF7"
-],
-"by": [
-"SPP1"
-]
-},
-"references": [
-{
-"authors": "Shinohara ML et al.",
-"journal": "Nat Immunol",
-"title": "Osteopontin expression is essential for interferon-alpha production by plasmacytoid dendritic cells.",
-"year": "2006",
-"db": "pubmed",
-"id": "16604075"
-}
-]
-},
-{
-"id": "ms419mxt",
-"label": "",
-"class": "Process",
-"box": [
-2055.0,
-133.0,
+2183.0,
+333.0,
 24.0,
 24.0
 ],
@@ -2272,10 +1533,10 @@
 ""
 ],
 "out": [
-"IFN-alpha"
+"IFNB1"
 ],
 "by": [
-"IFNA1"
+"AND"
 ]
 },
 "references": [
@@ -2290,12 +1551,12 @@
 ]
 },
 {
-"id": "es6kulov",
+"id": "tjchqzgw",
 "label": "",
 "class": "Process",
 "box": [
-2055.0,
-333.0,
+2387.0,
+133.0,
 24.0,
 24.0
 ],
@@ -2305,10 +1566,10 @@
 ""
 ],
 "out": [
-"IFN-beta"
+"IFNA1"
 ],
 "by": [
-"IFNB1"
+"AND"
 ]
 },
 "references": [
@@ -2326,7 +1587,7 @@
 "label": "IRF7",
 "class": "Macromolecule",
 "box": [
-2475.0,
+2155.0,
 575.0,
 80.0,
 40.0
@@ -2382,7 +1643,7 @@
 "label": "IFNA1",
 "class": "NucleicAcidFeature",
 "box": [
-2799.0,
+2479.0,
 195.0,
 80.0,
 40.0
@@ -2442,7 +1703,7 @@
 "label": "AND",
 "class": "Operator",
 "box": [
-2704.0,
+2384.0,
 200.0,
 30.0,
 30.0
@@ -2458,7 +1719,7 @@
 "label": "IFNB1",
 "class": "NucleicAcidFeature",
 "box": [
-2595.0,
+2275.0,
 395.0,
 80.0,
 40.0
@@ -2522,7 +1783,7 @@
 "label": "AND",
 "class": "Operator",
 "box": [
-2500.0,
+2180.0,
 400.0,
 30.0,
 30.0
@@ -2538,7 +1799,7 @@
 "label": "IFNA1",
 "class": "NucleicAcidFeature",
 "box": [
-2573.0,
+2253.0,
 125.0,
 80.0,
 40.0
@@ -2598,7 +1859,7 @@
 "label": "",
 "class": "EmptySet",
 "box": [
-2790.0,
+2470.0,
 130.0,
 30.0,
 30.0
@@ -2614,7 +1875,7 @@
 "label": "IFNB1",
 "class": "NucleicAcidFeature",
 "box": [
-2369.0,
+2049.0,
 325.0,
 80.0,
 40.0
@@ -2678,7 +1939,7 @@
 "label": "",
 "class": "EmptySet",
 "box": [
-2586.0,
+2266.0,
 330.0,
 30.0,
 30.0
@@ -2691,69 +1952,808 @@
 ]
 },
 {
-"id": "tjchqzgw",
+"id": "is8j8rpe",
 "label": "",
 "class": "Process",
 "box": [
-2707.0,
-133.0,
+907.0,
+953.0,
 24.0,
 24.0
 ],
 "props": [],
 "reaction": {
 "in": [
-""
+"CpG-DNA",
+"TLR9-C trimmed"
 ],
 "out": [
-"IFNA1"
+"CpG:TLR9 dimer"
 ],
 "by": [
-"AND"
+"TLR9-N"
 ]
 },
 "references": [
 {
-"authors": "Honda K et al.",
+"authors": "Ohto U et al.",
 "journal": "Nature",
-"title": "IRF-7 is the master regulator of type-I interferon-dependent immune responses.",
-"year": "2005",
+"title": "Structural basis of CpG and inhibitory DNA recognition by Toll-like receptor 9.",
+"year": "2015",
 "db": "pubmed",
-"id": "15800576"
+"id": "25686612"
+},
+{
+"authors": "Hemmi H et al.",
+"journal": "Nature",
+"title": "A Toll-like receptor recognizes bacterial DNA.",
+"year": "2000",
+"db": "pubmed",
+"id": "11130078"
+},
+{
+"authors": "Lee S et al.",
+"journal": "J Immunol",
+"title": "Negative self-regulation of TLR9 signaling by its N-terminal proteolytic cleavage product.",
+"year": "2014",
+"db": "pubmed",
+"id": "25187653"
 }
 ]
 },
 {
-"id": "qwtpafny",
+"id": "zc4o12de",
 "label": "",
 "class": "Process",
 "box": [
-2503.0,
-333.0,
+683.0,
+953.0,
 24.0,
 24.0
 ],
 "props": [],
 "reaction": {
 "in": [
-""
+"TLR9-C"
 ],
 "out": [
-"IFNB1"
+"TLR9-C trimmed"
 ],
 "by": [
-"AND"
+"CTSB"
 ]
 },
 "references": [
 {
-"authors": "Honda K et al.",
-"journal": "Nature",
-"title": "IRF-7 is the master regulator of type-I interferon-dependent immune responses.",
-"year": "2005",
+"authors": "Ewald SE et al.",
+"journal": "J Exp Med",
+"title": "Nucleic acid recognition by Toll-like receptors is coupled to stepwise processing by cathepsins and asparagine endopeptidase.",
+"year": "2011",
 "db": "pubmed",
-"id": "15800576"
+"id": "21402738"
 }
+]
+},
+{
+"id": "qribf17m",
+"label": "",
+"class": "Process",
+"box": [
+491.0,
+953.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"TLR9"
+],
+"out": [
+"TLR9-C",
+"TLR9-N"
+],
+"by": [
+"LGMN"
+]
+},
+"references": [
+{
+"authors": "Ewald SE et al.",
+"journal": "J Exp Med",
+"title": "Nucleic acid recognition by Toll-like receptors is coupled to stepwise processing by cathepsins and asparagine endopeptidase.",
+"year": "2011",
+"db": "pubmed",
+"id": "21402738"
+},
+{
+"authors": "Ewald SE et al.",
+"journal": "Nature",
+"title": "The ectodomain of Toll-like receptor 9 is cleaved to generate a functional receptor.",
+"year": "2008",
+"db": "pubmed",
+"id": "18820679"
+}
+]
+},
+{
+"id": "ifao43ew",
+"label": "",
+"class": "Process",
+"box": [
+289.0,
+953.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"TLR9:UNC93B1"
+],
+"out": [
+"TLR9",
+"UNC93B1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Miyake K et al.",
+"journal": "Int Immunol",
+"title": "Dynamic control of nucleic-acid-sensing Toll-like receptors by the endosomal compartment.",
+"year": "2021",
+"db": "pubmed",
+"id": "34223897"
+}
+]
+},
+{
+"label": "TLR9:UNC93B1",
+"class": "Complex",
+"box": [
+131.0,
+894.7,
+104.0,
+140.5
+],
+"props": [
+[
+"Compartment",
+"endosome"
+]
+]
+},
+{
+"label": "TLR9",
+"class": "Macromolecule",
+"box": [
+143.0,
+910.7,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"endosome"
+],
+[
+"Full name",
+"Toll-like receptor 9"
+],
+[
+"Function",
+"Key component of innate and adaptive immunity. TLRs (Toll-like receptors) control host immune response against pathogens through recognition of molecular patterns specific to microorganisms."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Early endosome membrane, Lysosome, Cytoplasmic vesicle, phagosome, Golgi apparatus membrane"
+],
+[
+"HGNC",
+"HGNC:15633"
+],
+[
+"HGNC symbol",
+"TLR9"
+],
+[
+"Alias symbols",
+"CD289"
+],
+[
+"Entrez",
+"54106"
+],
+[
+"Ensembl",
+"ENSG00000239732"
+],
+[
+"RefSeq",
+"NM_017442"
+],
+[
+"UniProt",
+"Q9NR96"
+]
+]
+},
+{
+"label": "UNC93B1",
+"class": "Macromolecule",
+"box": [
+143.0,
+958.7,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"endosome"
+],
+[
+"Full name",
+"Protein unc-93 homolog B1"
+],
+[
+"Function",
+"Plays an important role in innate and adaptive immunity by regulating nucleotide-sensing Toll-like receptor (TLR) signaling. Required for the transport of a subset of TLRs (including TLR3, TLR7 and TLR9) from the endoplasmic reticulum to endolysosomes where they can engage pathogen nucleotides and activate signaling cascades."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Endosome, Lysosome, Cytoplasmic vesicle, phagosome"
+],
+[
+"HGNC",
+"HGNC:13481"
+],
+[
+"HGNC symbol",
+"UNC93B1"
+],
+[
+"Alias symbols",
+"UNC93, UNC-93B"
+],
+[
+"Entrez",
+"81622"
+],
+[
+"Ensembl",
+"ENSG00000110057"
+],
+[
+"RefSeq",
+"NM_030930"
+],
+[
+"UniProt",
+"Q9H1C4"
+]
+]
+},
+{
+"label": "TLR9",
+"class": "Macromolecule",
+"box": [
+367.0,
+945.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"endosome"
+],
+[
+"Full name",
+"Toll-like receptor 9"
+],
+[
+"Function",
+"Key component of innate and adaptive immunity. TLRs (Toll-like receptors) control host immune response against pathogens through recognition of molecular patterns specific to microorganisms."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Early endosome membrane, Lysosome, Cytoplasmic vesicle, phagosome, Golgi apparatus membrane"
+],
+[
+"HGNC",
+"HGNC:15633"
+],
+[
+"HGNC symbol",
+"TLR9"
+],
+[
+"Alias symbols",
+"CD289"
+],
+[
+"Entrez",
+"54106"
+],
+[
+"Ensembl",
+"ENSG00000239732"
+],
+[
+"RefSeq",
+"NM_017442"
+],
+[
+"UniProt",
+"Q9NR96"
+]
+]
+},
+{
+"label": "UNC93B1",
+"class": "Macromolecule",
+"box": [
+261.0,
+1035.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"endosome"
+],
+[
+"Full name",
+"Protein unc-93 homolog B1"
+],
+[
+"Function",
+"Plays an important role in innate and adaptive immunity by regulating nucleotide-sensing Toll-like receptor (TLR) signaling. Required for the transport of a subset of TLRs (including TLR3, TLR7 and TLR9) from the endoplasmic reticulum to endolysosomes where they can engage pathogen nucleotides and activate signaling cascades."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Endosome, Lysosome, Cytoplasmic vesicle, phagosome"
+],
+[
+"HGNC",
+"HGNC:13481"
+],
+[
+"HGNC symbol",
+"UNC93B1"
+],
+[
+"Alias symbols",
+"UNC93, UNC-93B"
+],
+[
+"Entrez",
+"81622"
+],
+[
+"Ensembl",
+"ENSG00000110057"
+],
+[
+"RefSeq",
+"NM_030930"
+],
+[
+"UniProt",
+"Q9H1C4"
+]
+]
+},
+{
+"label": "LGMN",
+"class": "Macromolecule",
+"box": [
+463.0,
+855.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"endosome"
+],
+[
+"Full name",
+"Legumain"
+],
+[
+"Alternative names",
+"Asparaginyl endopeptidase; Protease, cysteine 1"
+],
+[
+"Function",
+"Has a strict specificity for hydrolysis of asparaginyl bonds. Can also cleave aspartyl bonds slowly, especially under acidic conditions."
+],
+[
+"Location",
+"Lysosome"
+],
+[
+"HGNC",
+"HGNC:9472"
+],
+[
+"HGNC symbol",
+"LGMN"
+],
+[
+"Previous symbols",
+"PRSC1"
+],
+[
+"Alias symbols",
+"LGMN1"
+],
+[
+"Entrez",
+"5641"
+],
+[
+"Ensembl",
+"ENSG00000100600"
+],
+[
+"RefSeq",
+"NM_005606"
+],
+[
+"UniProt",
+"Q99538"
+]
+]
+},
+{
+"label": "CTSB",
+"class": "Macromolecule",
+"box": [
+655.0,
+855.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"endosome"
+],
+[
+"Full name",
+"Cathepsin B"
+],
+[
+"Alternative names",
+"APP secretase; Cathepsin B1"
+],
+[
+"Function",
+"Thiol protease which is believed to participate in intracellular degradation and turnover of proteins. Cleaves matrix extracellular phosphoglycoprotein MEPE."
+],
+[
+"Location",
+"Lysosome, Melanosome, Secreted, extracellular space, Apical cell membrane"
+],
+[
+"HGNC",
+"HGNC:2527"
+],
+[
+"HGNC symbol",
+"CTSB"
+],
+[
+"Entrez",
+"1508"
+],
+[
+"Ensembl",
+"ENSG00000164733"
+],
+[
+"RefSeq",
+"NM_147780"
+],
+[
+"UniProt",
+"P07858"
+]
+]
+},
+{
+"label": "TLR9-C",
+"class": "Macromolecule",
+"box": [
+559.0,
+945.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"endosome"
+],
+[
+"Unit of information",
+"C-terminal fragment"
+],
+[
+"Full name",
+"Toll-like receptor 9"
+],
+[
+"Function",
+"Key component of innate and adaptive immunity. TLRs (Toll-like receptors) control host immune response against pathogens through recognition of molecular patterns specific to microorganisms."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Early endosome membrane, Lysosome, Cytoplasmic vesicle, phagosome, Golgi apparatus membrane"
+],
+[
+"HGNC",
+"HGNC:15633"
+],
+[
+"HGNC symbol",
+"TLR9"
+],
+[
+"Alias symbols",
+"CD289"
+],
+[
+"Entrez",
+"54106"
+],
+[
+"Ensembl",
+"ENSG00000239732"
+],
+[
+"RefSeq",
+"NM_017442"
+],
+[
+"UniProt",
+"Q9NR96"
+]
+]
+},
+{
+"label": "TLR9-C trimmed",
+"class": "Macromolecule",
+"box": [
+751.0,
+945.0,
+112.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"endosome"
+],
+[
+"Unit of information",
+"C-terminal fragment\ntrimmed"
+],
+[
+"Full name",
+"Toll-like receptor 9"
+],
+[
+"Function",
+"Key component of innate and adaptive immunity. TLRs (Toll-like receptors) control host immune response against pathogens through recognition of molecular patterns specific to microorganisms."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Early endosome membrane, Lysosome, Cytoplasmic vesicle, phagosome, Golgi apparatus membrane"
+],
+[
+"HGNC",
+"HGNC:15633"
+],
+[
+"HGNC symbol",
+"TLR9"
+],
+[
+"Alias symbols",
+"CD289"
+],
+[
+"Entrez",
+"54106"
+],
+[
+"Ensembl",
+"ENSG00000239732"
+],
+[
+"RefSeq",
+"NM_017442"
+],
+[
+"UniProt",
+"Q9NR96"
+]
+]
+},
+{
+"label": "TLR9-N",
+"class": "Macromolecule",
+"box": [
+767.0,
+1055.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"endosome"
+],
+[
+"Unit of information",
+"N-terminal fragment"
+],
+[
+"Full name",
+"Toll-like receptor 9"
+],
+[
+"Function",
+"Key component of innate and adaptive immunity. TLRs (Toll-like receptors) control host immune response against pathogens through recognition of molecular patterns specific to microorganisms."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Early endosome membrane, Lysosome, Cytoplasmic vesicle, phagosome, Golgi apparatus membrane"
+],
+[
+"HGNC",
+"HGNC:15633"
+],
+[
+"HGNC symbol",
+"TLR9"
+],
+[
+"Alias symbols",
+"CD289"
+],
+[
+"Entrez",
+"54106"
+],
+[
+"Ensembl",
+"ENSG00000239732"
+],
+[
+"RefSeq",
+"NM_017442"
+],
+[
+"UniProt",
+"Q9NR96"
+]
+]
+},
+{
+"label": "CpG-DNA",
+"class": "NucleicAcidFeature",
+"box": [
+879.0,
+855.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"endosome"
+]
+]
+},
+{
+"label": "CpG:TLR9 dimer",
+"class": "Complex",
+"box": [
+985.5,
+891.8,
+157.0,
+146.5
+],
+"props": [
+[
+"Compartment",
+"endosome"
+]
+]
+},
+{
+"label": "TLR9-C trimmed",
+"class": "Macromolecule",
+"box": [
+1008.0,
+907.8,
+112.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"endosome"
+],
+[
+"Unit of information",
+"C-terminal fragment\ntrimmed"
+],
+[
+"Full name",
+"Toll-like receptor 9"
+],
+[
+"Function",
+"Key component of innate and adaptive immunity. TLRs (Toll-like receptors) control host immune response against pathogens through recognition of molecular patterns specific to microorganisms."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Early endosome membrane, Lysosome, Cytoplasmic vesicle, phagosome, Golgi apparatus membrane"
+],
+[
+"HGNC",
+"HGNC:15633"
+],
+[
+"HGNC symbol",
+"TLR9"
+],
+[
+"Alias symbols",
+"CD289"
+],
+[
+"Entrez",
+"54106"
+],
+[
+"Ensembl",
+"ENSG00000239732"
+],
+[
+"RefSeq",
+"NM_017442"
+],
+[
+"UniProt",
+"Q9NR96"
+]
+]
+},
+{
+"label": "CpG-DNA",
+"class": "NucleicAcidFeature",
+"box": [
+1024.0,
+961.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"endosome"
+]
 ]
 }
 ]
