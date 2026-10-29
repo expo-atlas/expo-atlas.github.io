@@ -89,8 +89,8 @@
 "tag": "draft",
 "tab": null,
 "image": "files/redox-nrf2-core.svg",
-"width": 1482.0,
-"height": 1598.0,
+"width": 1642.0,
+"height": 1054.0,
 "scale": 1,
 "annotation": "data/redox-nrf2-core.json",
 "imageError": null,
@@ -159,60 +159,6 @@
 }
 ],
 "data": "data/redox-nrf2-glutathione-text.json",
-"hasText": true
-},
-{
-"id": "trial-nrf2-core-hl-td",
-"title": "NRF2 core, human-like, top to bottom (v02)",
-"topic": "NRF2 core, human-like, top to bottom (v02)",
-"group": "Trials",
-"kind": null,
-"tag": "draft",
-"tab": null,
-"image": "files/trial-nrf2-core-hl-td.svg",
-"width": 1482.0,
-"height": 1598.0,
-"scale": 1,
-"annotation": "data/trial-nrf2-core-hl-td.json",
-"imageError": null,
-"downloads": [
-{
-"label": "GraphML",
-"url": "files/trial-nrf2-core-hl-td.graphml"
-},
-{
-"label": "SVG",
-"url": "files/trial-nrf2-core-hl-td.svg"
-}
-],
-"data": "data/trial-nrf2-core-hl-td-text.json",
-"hasText": true
-},
-{
-"id": "trial-nrf2-core-hl-lr",
-"title": "NRF2 core, human-like, left to right (v03)",
-"topic": "NRF2 core, human-like, left to right (v03)",
-"group": "Trials",
-"kind": null,
-"tag": "draft",
-"tab": null,
-"image": "files/trial-nrf2-core-hl-lr.svg",
-"width": 1626.0,
-"height": 1486.0,
-"scale": 1,
-"annotation": "data/trial-nrf2-core-hl-lr.json",
-"imageError": null,
-"downloads": [
-{
-"label": "GraphML",
-"url": "files/trial-nrf2-core-hl-lr.graphml"
-},
-{
-"label": "SVG",
-"url": "files/trial-nrf2-core-hl-lr.svg"
-}
-],
-"data": "data/trial-nrf2-core-hl-lr-text.json",
 "hasText": true
 },
 {
