@@ -1,252 +1,11 @@
 {
 "nodes": [
 {
-"id": "n458uu5e",
-"label": "",
-"class": "Process",
-"box": [
-868.3,
-391.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"GCLC"
-],
-"out": [
-"GCLC"
-],
-"by": [
-"NRF2:MAFG"
-]
-},
-"references": [
-{
-"authors": "Wild AC et al.",
-"journal": "J Biol Chem",
-"title": "Regulation of gamma-glutamylcysteine synthetase subunit gene expression by the transcription factor Nrf2.",
-"year": "1999",
-"db": "pubmed",
-"id": "10559251"
-}
-]
-},
-{
-"id": "hvk7rowt",
-"label": "",
-"class": "Process",
-"box": [
-1275.0,
-937.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"GCLC"
-],
-"out": [
-"GCLC"
-],
-"by": []
-},
-"references": [
-{
-"authors": "Wild AC et al.",
-"journal": "J Biol Chem",
-"title": "Regulation of gamma-glutamylcysteine synthetase subunit gene expression by the transcription factor Nrf2.",
-"year": "1999",
-"db": "pubmed",
-"id": "10559251"
-}
-]
-},
-{
-"id": "famtlxo3",
-"label": "",
-"class": "Process",
-"box": [
-1415.0,
-1216.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"GCLC",
-"GCLM"
-],
-"out": [
-"GCLC:GCLM"
-],
-"by": []
-},
-"references": [
-{
-"authors": "Lu SC",
-"journal": "Mol Aspects Med",
-"title": "Regulation of glutathione synthesis.",
-"year": "2009",
-"db": "pubmed",
-"id": "18601945"
-}
-]
-},
-{
-"id": "kfpq87j7",
-"label": "",
-"class": "Process",
-"box": [
-1475.0,
-1485.2,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"glutamate",
-"cysteine"
-],
-"out": [
-"gamma-glutamylcysteine"
-],
-"by": [
-"GCLC:GCLM"
-]
-},
-"references": [
-{
-"authors": "Lu SC",
-"journal": "Mol Aspects Med",
-"title": "Regulation of glutathione synthesis.",
-"year": "2009",
-"db": "pubmed",
-"id": "18601945"
-}
-]
-},
-{
-"id": "qlzy8qjx",
-"label": "",
-"class": "Process",
-"box": [
-1020.0,
-1495.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"gamma-glutamylcysteine",
-"glycine"
-],
-"out": [
-"GSH"
-],
-"by": [
-"GSS"
-]
-},
-"references": [
-{
-"authors": "Njålsson R",
-"journal": "Cell Mol Life Sci",
-"title": "Glutathione synthetase deficiency.",
-"year": "2005",
-"db": "pubmed",
-"id": "15990954"
-}
-]
-},
-{
-"id": "froe1iv9",
-"label": "",
-"class": "Process",
-"box": [
-575.0,
-1208.2,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"H2O2",
-"GSH"
-],
-"out": [
-"H2O",
-"GSSG"
-],
-"by": [
-"GPX1"
-]
-},
-"references": [
-{
-"authors": "Lubos E et al.",
-"journal": "Antioxid Redox Signal",
-"title": "Glutathione peroxidase-1 in health and disease: from molecular mechanisms to therapeutic opportunities.",
-"year": "2011",
-"db": "pubmed",
-"id": "21087145"
-}
-]
-},
-{
-"id": "i1gqz5q3",
-"label": "",
-"class": "Process",
-"box": [
-375.0,
-1249.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"4-hydroxynonenal",
-"GSH"
-],
-"out": [
-"HNE-glutathione"
-],
-"by": [
-"GSTA4"
-]
-},
-"references": [
-{
-"authors": "Hubatsch I et al.",
-"journal": "Biochem J",
-"title": "Human glutathione transferase A4-4: an alpha class enzyme with high catalytic efficiency in the conjugation of 4-hydroxynonenal and other genotoxic products of lipid peroxidation.",
-"year": "1998",
-"db": "pubmed",
-"id": "9461507"
-},
-{
-"authors": "Dwivedi S et al.",
-"journal": "Toxicology",
-"title": "The course of CCl4 induced hepatotoxicity is altered in mGSTA4-4 null (-/-) mice.",
-"year": "2006",
-"db": "pubmed",
-"id": "16325313"
-}
-]
-},
-{
 "label": "GCLC",
 "class": "NucleicAcidFeature",
 "box": [
-1227.0,
-77.0,
+271.0,
+247.0,
 80.0,
 40.0
 ],
@@ -301,8 +60,8 @@
 "label": "NRF2",
 "class": "Macromolecule",
 "box": [
-67.0,
-335.0,
+61.0,
+217.2,
 80.0,
 40.0
 ],
@@ -361,8 +120,8 @@
 "label": "MAFG",
 "class": "Macromolecule",
 "box": [
-67.0,
-389.0,
+61.0,
+265.2,
 80.0,
 40.0
 ],
@@ -414,11 +173,44 @@
 ]
 },
 {
+"id": "n458uu5e",
+"label": "",
+"class": "Process",
+"box": [
+395.0,
+255.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"GCLC"
+],
+"out": [
+"GCLC"
+],
+"by": [
+"NRF2:MAFG"
+]
+},
+"references": [
+{
+"authors": "Wild AC et al.",
+"journal": "J Biol Chem",
+"title": "Regulation of gamma-glutamylcysteine synthetase subunit gene expression by the transcription factor Nrf2.",
+"year": "1999",
+"db": "pubmed",
+"id": "10559251"
+}
+]
+},
+{
 "label": "GCLC",
 "class": "NucleicAcidFeature",
 "box": [
-1227.0,
-701.0,
+583.0,
+247.0,
 80.0,
 40.0
 ],
@@ -473,8 +265,8 @@
 "label": "H2O2",
 "class": "SimpleChemical",
 "box": [
-727.0,
-1085.0,
+1708.0,
+47.0,
 40.0,
 40.0
 ],
@@ -521,8 +313,8 @@
 "label": "H2O",
 "class": "SimpleChemical",
 "box": [
-487.0,
-1301.0,
+1813.0,
+157.0,
 40.0,
 40.0
 ],
@@ -569,8 +361,8 @@
 "label": "4-hydroxynonenal",
 "class": "SimpleChemical",
 "box": [
-547.0,
-941.0,
+1372.0,
+567.0,
 40.0,
 40.0
 ],
@@ -609,8 +401,8 @@
 "label": "GCLC",
 "class": "Macromolecule",
 "box": [
-1267.0,
-1157.0,
+775.0,
+247.0,
 80.0,
 40.0
 ],
@@ -665,8 +457,8 @@
 "label": "GCLM",
 "class": "Macromolecule",
 "box": [
-1507.0,
-1157.0,
+871.0,
+447.0,
 80.0,
 40.0
 ],
@@ -713,8 +505,8 @@
 "label": "GCLC",
 "class": "Macromolecule",
 "box": [
-1387.0,
-1274.6,
+988.0,
+212.8,
 80.0,
 40.0
 ],
@@ -769,8 +561,8 @@
 "label": "GCLM",
 "class": "Macromolecule",
 "box": [
-1387.0,
-1327.4,
+988.0,
+260.8,
 80.0,
 40.0
 ],
@@ -817,8 +609,8 @@
 "label": "GSS",
 "class": "Macromolecule",
 "box": [
-1067.0,
-1565.0,
+1417.0,
+47.0,
 80.0,
 40.0
 ],
@@ -865,8 +657,8 @@
 "label": "GPX1",
 "class": "Macromolecule",
 "box": [
-727.0,
-1253.0,
+1688.0,
+447.0,
 80.0,
 40.0
 ],
@@ -917,8 +709,8 @@
 "label": "GSTA4",
 "class": "Macromolecule",
 "box": [
-267.0,
-1397.0,
+1572.0,
+717.0,
 80.0,
 40.0
 ],
@@ -969,8 +761,8 @@
 "label": "GSH",
 "class": "SimpleChemical",
 "box": [
-547.0,
-1157.0,
+1592.0,
+247.0,
 40.0,
 40.0
 ],
@@ -1017,8 +809,8 @@
 "label": "GSSG",
 "class": "SimpleChemical",
 "box": [
-327.0,
-1205.0,
+1813.0,
+337.0,
 40.0,
 40.0
 ],
@@ -1057,8 +849,8 @@
 "label": "glutamate",
 "class": "SimpleChemical",
 "box": [
-1567.0,
-1469.0,
+1016.0,
+447.0,
 40.0,
 40.0
 ],
@@ -1097,8 +889,8 @@
 "label": "cysteine",
 "class": "SimpleChemical",
 "box": [
-1567.0,
-1565.0,
+1216.0,
+455.0,
 40.0,
 40.0
 ],
@@ -1133,8 +925,8 @@
 "label": "glycine",
 "class": "SimpleChemical",
 "box": [
-1087.0,
-1661.0,
+1437.0,
+447.0,
 40.0,
 40.0
 ],
@@ -1175,6 +967,214 @@
 "InChIKey",
 "DHMQDGOQFOQNFH-UHFFFAOYSA-N"
 ]
+]
+},
+{
+"id": "hvk7rowt",
+"label": "",
+"class": "Process",
+"box": [
+707.0,
+255.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"GCLC"
+],
+"out": [
+"GCLC"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Wild AC et al.",
+"journal": "J Biol Chem",
+"title": "Regulation of gamma-glutamylcysteine synthetase subunit gene expression by the transcription factor Nrf2.",
+"year": "1999",
+"db": "pubmed",
+"id": "10559251"
+}
+]
+},
+{
+"id": "famtlxo3",
+"label": "",
+"class": "Process",
+"box": [
+899.0,
+255.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"GCLC",
+"GCLM"
+],
+"out": [
+"GCLC:GCLM"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Lu SC",
+"journal": "Mol Aspects Med",
+"title": "Regulation of glutathione synthesis.",
+"year": "2009",
+"db": "pubmed",
+"id": "18601945"
+}
+]
+},
+{
+"id": "kfpq87j7",
+"label": "",
+"class": "Process",
+"box": [
+1124.0,
+255.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"glutamate",
+"cysteine"
+],
+"out": [
+"gamma-glutamylcysteine"
+],
+"by": [
+"GCLC:GCLM"
+]
+},
+"references": [
+{
+"authors": "Lu SC",
+"journal": "Mol Aspects Med",
+"title": "Regulation of glutathione synthesis.",
+"year": "2009",
+"db": "pubmed",
+"id": "18601945"
+}
+]
+},
+{
+"id": "qlzy8qjx",
+"label": "",
+"class": "Process",
+"box": [
+1445.0,
+255.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"gamma-glutamylcysteine",
+"glycine"
+],
+"out": [
+"GSH"
+],
+"by": [
+"GSS"
+]
+},
+"references": [
+{
+"authors": "Njålsson R",
+"journal": "Cell Mol Life Sci",
+"title": "Glutathione synthetase deficiency.",
+"year": "2005",
+"db": "pubmed",
+"id": "15990954"
+}
+]
+},
+{
+"id": "froe1iv9",
+"label": "",
+"class": "Process",
+"box": [
+1716.0,
+255.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"H2O2",
+"GSH"
+],
+"out": [
+"H2O",
+"GSSG"
+],
+"by": [
+"GPX1"
+]
+},
+"references": [
+{
+"authors": "Lubos E et al.",
+"journal": "Antioxid Redox Signal",
+"title": "Glutathione peroxidase-1 in health and disease: from molecular mechanisms to therapeutic opportunities.",
+"year": "2011",
+"db": "pubmed",
+"id": "21087145"
+}
+]
+},
+{
+"id": "i1gqz5q3",
+"label": "",
+"class": "Process",
+"box": [
+1600.0,
+575.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"4-hydroxynonenal",
+"GSH"
+],
+"out": [
+"HNE-glutathione"
+],
+"by": [
+"GSTA4"
+]
+},
+"references": [
+{
+"authors": "Hubatsch I et al.",
+"journal": "Biochem J",
+"title": "Human glutathione transferase A4-4: an alpha class enzyme with high catalytic efficiency in the conjugation of 4-hydroxynonenal and other genotoxic products of lipid peroxidation.",
+"year": "1998",
+"db": "pubmed",
+"id": "9461507"
+},
+{
+"authors": "Dwivedi S et al.",
+"journal": "Toxicology",
+"title": "The course of CCl4 induced hepatotoxicity is altered in mGSTA4-4 null (-/-) mice.",
+"year": "2006",
+"db": "pubmed",
+"id": "16325313"
+}
 ]
 }
 ]

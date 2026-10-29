@@ -1286,6 +1286,110 @@
 ]
 },
 {
+"label": "MyD88",
+"class": "Macromolecule",
+"box": [
+384.0,
+860.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Myeloid differentiation primary response protein MyD88"
+],
+[
+"Function",
+"Adapter protein involved in the Toll-like receptor and IL-1 receptor signaling pathway in the innate immune response. Acts via IRAK1, IRAK2, IRF7 and TRAF6, leading to NF-kappa-B activation, cytokine secretion and the inflammatory response."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:7562"
+],
+[
+"HGNC symbol",
+"MYD88"
+],
+[
+"Entrez",
+"4615"
+],
+[
+"Ensembl",
+"ENSG00000172936"
+],
+[
+"RefSeq",
+"NM_002468"
+],
+[
+"UniProt",
+"Q99836"
+]
+]
+},
+{
+"label": "IRAK4",
+"class": "Macromolecule",
+"box": [
+384.0,
+908.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Interleukin-1 receptor-associated kinase 4"
+],
+[
+"Alternative names",
+"Renal carcinoma antigen NY-REN-64"
+],
+[
+"Function",
+"Serine/threonine-protein kinase that plays a critical role in initiating innate immune response against foreign pathogens. Involved in Toll-like receptor (TLR) and IL-1R signaling pathways."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:17967"
+],
+[
+"HGNC symbol",
+"IRAK4"
+],
+[
+"Alias symbols",
+"NY-REN-64"
+],
+[
+"Entrez",
+"51135"
+],
+[
+"Ensembl",
+"ENSG00000198001"
+],
+[
+"RefSeq",
+"NM_001114182"
+],
+[
+"UniProt",
+"Q9NWZ3"
+]
+]
+},
+{
 "label": "NCF1",
 "class": "Macromolecule",
 "box": [

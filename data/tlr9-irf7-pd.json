@@ -1,495 +1,11 @@
 {
 "nodes": [
 {
-"id": "x5kj9cit",
-"label": "",
-"class": "Process",
-"box": [
-229.7,
-474.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"TLR9",
-"UNC93B1"
-],
-"out": [
-"TLR9:UNC93B1"
-],
-"by": []
-},
-"references": [
-{
-"authors": "Kim YM et al.",
-"journal": "Nature",
-"title": "UNC93B1 delivers nucleotide-sensing toll-like receptors to endolysosomes.",
-"year": "2008",
-"db": "pubmed",
-"id": "18305481"
-},
-{
-"authors": "Lee BL et al.",
-"journal": "Elife",
-"title": "UNC93B1 mediates differential trafficking of endosomal TLRs.",
-"year": "2013",
-"db": "pubmed",
-"id": "23426999"
-}
-]
-},
-{
-"id": "ifao43ew",
-"label": "",
-"class": "Process",
-"box": [
-436.3,
-194.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"TLR9:UNC93B1"
-],
-"out": [
-"TLR9",
-"UNC93B1"
-],
-"by": []
-},
-"references": [
-{
-"authors": "Miyake K et al.",
-"journal": "Int Immunol",
-"title": "Dynamic control of nucleic-acid-sensing Toll-like receptors by the endosomal compartment.",
-"year": "2021",
-"db": "pubmed",
-"id": "34223897"
-}
-]
-},
-{
-"id": "qribf17m",
-"label": "",
-"class": "Process",
-"box": [
-763.0,
-225.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"TLR9"
-],
-"out": [
-"TLR9",
-"TLR9 N-fragment"
-],
-"by": [
-"LGMN"
-]
-},
-"references": [
-{
-"authors": "Ewald SE et al.",
-"journal": "J Exp Med",
-"title": "Nucleic acid recognition by Toll-like receptors is coupled to stepwise processing by cathepsins and asparagine endopeptidase.",
-"year": "2011",
-"db": "pubmed",
-"id": "21402738"
-},
-{
-"authors": "Ewald SE et al.",
-"journal": "Nature",
-"title": "The ectodomain of Toll-like receptor 9 is cleaved to generate a functional receptor.",
-"year": "2008",
-"db": "pubmed",
-"id": "18820679"
-}
-]
-},
-{
-"id": "zc4o12de",
-"label": "",
-"class": "Process",
-"box": [
-929.7,
-183.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"TLR9"
-],
-"out": [
-"TLR9"
-],
-"by": [
-"CTSB"
-]
-},
-"references": [
-{
-"authors": "Ewald SE et al.",
-"journal": "J Exp Med",
-"title": "Nucleic acid recognition by Toll-like receptors is coupled to stepwise processing by cathepsins and asparagine endopeptidase.",
-"year": "2011",
-"db": "pubmed",
-"id": "21402738"
-}
-]
-},
-{
-"id": "is8j8rpe",
-"label": "",
-"class": "Process",
-"box": [
-1063.0,
-275.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"CpG-DNA",
-"TLR9"
-],
-"out": [
-"CpG:TLR9 dimer"
-],
-"by": [
-"TLR9 N-fragment"
-]
-},
-"references": [
-{
-"authors": "Ohto U et al.",
-"journal": "Nature",
-"title": "Structural basis of CpG and inhibitory DNA recognition by Toll-like receptor 9.",
-"year": "2015",
-"db": "pubmed",
-"id": "25686612"
-},
-{
-"authors": "Hemmi H et al.",
-"journal": "Nature",
-"title": "A Toll-like receptor recognizes bacterial DNA.",
-"year": "2000",
-"db": "pubmed",
-"id": "11130078"
-},
-{
-"authors": "Lee S et al.",
-"journal": "J Immunol",
-"title": "Negative self-regulation of TLR9 signaling by its N-terminal proteolytic cleavage product.",
-"year": "2014",
-"db": "pubmed",
-"id": "25187653"
-}
-]
-},
-{
-"id": "qgyzcyh2",
-"label": "",
-"class": "Process",
-"box": [
-1423.0,
-452.7,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"CpG:TLR9 dimer",
-"MYD88"
-],
-"out": [
-"TLR9:MyD88"
-],
-"by": []
-},
-"references": [
-{
-"authors": "Ewald SE et al.",
-"journal": "Nature",
-"title": "The ectodomain of Toll-like receptor 9 is cleaved to generate a functional receptor.",
-"year": "2008",
-"db": "pubmed",
-"id": "18820679"
-}
-]
-},
-{
-"id": "eo5ygg5x",
-"label": "",
-"class": "Process",
-"box": [
-1603.0,
-721.5,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"TLR9:MyD88",
-"IRAK4",
-"IRAK1"
-],
-"out": [
-"Myddosome"
-],
-"by": []
-},
-"references": [
-{
-"authors": "Lin SC et al.",
-"journal": "Nature",
-"title": "Helical assembly in the MyD88-IRAK4-IRAK2 complex in TLR/IL-1R signalling.",
-"year": "2010",
-"db": "pubmed",
-"id": "20485341"
-},
-{
-"authors": "Li S et al.",
-"journal": "Proc Natl Acad Sci U S A",
-"title": "IRAK-4: a novel member of the IRAK family with the properties of an IRAK-kinase.",
-"year": "2002",
-"db": "pubmed",
-"id": "11960013"
-}
-]
-},
-{
-"id": "k7iuwfc2",
-"label": "",
-"class": "Process",
-"box": [
-1205.9,
-854.1,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"Myddosome",
-"IRF7"
-],
-"out": [
-"IRF7",
-"Myddosome"
-],
-"by": [
-"CHUK",
-"TRAF6",
-"TRAF3"
-]
-},
-"references": [
-{
-"authors": "Uematsu S et al.",
-"journal": "J Exp Med",
-"title": "Interleukin-1 receptor-associated kinase-1 plays an essential role for Toll-like receptor (TLR)7- and TLR9-mediated interferon-{alpha} induction.",
-"year": "2005",
-"db": "pubmed",
-"id": "15767370"
-},
-{
-"authors": "Hoshino K et al.",
-"journal": "Nature",
-"title": "IkappaB kinase-alpha is critical for interferon-alpha production induced by Toll-like receptors 7 and 9.",
-"year": "2006",
-"db": "pubmed",
-"id": "16612387"
-},
-{
-"authors": "Kawai T et al.",
-"journal": "Nat Immunol",
-"title": "Interferon-alpha induction through Toll-like receptors involves a direct interaction of IRF7 with MyD88 and TRAF6.",
-"year": "2004",
-"db": "pubmed",
-"id": "15361868"
-}
-]
-},
-{
-"id": "t1psxaxu",
-"label": "",
-"class": "Process",
-"box": [
-1583.0,
-1143.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"IRF7"
-],
-"out": [
-"IRF7"
-],
-"by": [
-"SPP1"
-]
-},
-"references": [
-{
-"authors": "Shinohara ML et al.",
-"journal": "Nat Immunol",
-"title": "Osteopontin expression is essential for interferon-alpha production by plasmacytoid dendritic cells.",
-"year": "2006",
-"db": "pubmed",
-"id": "16604075"
-}
-]
-},
-{
-"id": "tjchqzgw",
-"label": "",
-"class": "Process",
-"box": [
-1116.3,
-1335.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"IFNA1"
-],
-"out": [
-"IFNA1"
-],
-"by": [
-"IRF7"
-]
-},
-"references": [
-{
-"authors": "Honda K et al.",
-"journal": "Nature",
-"title": "IRF-7 is the master regulator of type-I interferon-dependent immune responses.",
-"year": "2005",
-"db": "pubmed",
-"id": "15800576"
-}
-]
-},
-{
-"id": "qwtpafny",
-"label": "",
-"class": "Process",
-"box": [
-1676.3,
-1335.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"IFNB1"
-],
-"out": [
-"IFNB1"
-],
-"by": [
-"IRF7"
-]
-},
-"references": [
-{
-"authors": "Honda K et al.",
-"journal": "Nature",
-"title": "IRF-7 is the master regulator of type-I interferon-dependent immune responses.",
-"year": "2005",
-"db": "pubmed",
-"id": "15800576"
-}
-]
-},
-{
-"id": "ms419mxt",
-"label": "",
-"class": "Process",
-"box": [
-863.0,
-1167.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"IFNA1"
-],
-"out": [
-"IFN-alpha"
-],
-"by": []
-},
-"references": [
-{
-"authors": "Honda K et al.",
-"journal": "Nature",
-"title": "IRF-7 is the master regulator of type-I interferon-dependent immune responses.",
-"year": "2005",
-"db": "pubmed",
-"id": "15800576"
-}
-]
-},
-{
-"id": "es6kulov",
-"label": "",
-"class": "Process",
-"box": [
-1823.0,
-1167.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"IFNB1"
-],
-"out": [
-"IFN-beta"
-],
-"by": []
-},
-"references": [
-{
-"authors": "Honda K et al.",
-"journal": "Nature",
-"title": "IRF-7 is the master regulator of type-I interferon-dependent immune responses.",
-"year": "2005",
-"db": "pubmed",
-"id": "15800576"
-}
-]
-},
-{
 "label": "TLR9",
 "class": "Macromolecule",
 "box": [
-195.0,
-196.6,
+455.0,
+237.2,
 80.0,
 40.0
 ],
@@ -544,8 +60,8 @@
 "label": "UNC93B1",
 "class": "Macromolecule",
 "box": [
-195.0,
-249.4,
+455.0,
+285.2,
 80.0,
 40.0
 ],
@@ -596,8 +112,8 @@
 "label": "TLR9",
 "class": "Macromolecule",
 "box": [
-515.0,
-223.0,
+699.0,
+267.0,
 80.0,
 40.0
 ],
@@ -652,8 +168,8 @@
 "label": "UNC93B1",
 "class": "Macromolecule",
 "box": [
-515.0,
-103.0,
+563.0,
+467.0,
 80.0,
 40.0
 ],
@@ -704,8 +220,8 @@
 "label": "LGMN",
 "class": "Macromolecule",
 "box": [
-715.0,
-79.0,
+795.0,
+67.0,
 80.0,
 40.0
 ],
@@ -764,8 +280,8 @@
 "label": "CTSB",
 "class": "Macromolecule",
 "box": [
-995.0,
-79.0,
+1027.0,
+67.0,
 80.0,
 40.0
 ],
@@ -816,8 +332,8 @@
 "label": "TLR9",
 "class": "Macromolecule",
 "box": [
-855.0,
-223.0,
+931.0,
+267.0,
 80.0,
 40.0
 ],
@@ -872,8 +388,8 @@
 "label": "TLR9 N-fragment",
 "class": "Macromolecule",
 "box": [
-855.0,
-343.0,
+795.0,
+467.0,
 80.0,
 40.0
 ],
@@ -924,8 +440,8 @@
 "label": "TLR9",
 "class": "Macromolecule",
 "box": [
-1235.0,
-124.6,
+1381.0,
+234.2,
 80.0,
 40.0
 ],
@@ -977,11 +493,168 @@
 ]
 },
 {
+"id": "ifao43ew",
+"label": "",
+"class": "Process",
+"box": [
+591.0,
+275.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"TLR9:UNC93B1"
+],
+"out": [
+"TLR9",
+"UNC93B1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Miyake K et al.",
+"journal": "Int Immunol",
+"title": "Dynamic control of nucleic-acid-sensing Toll-like receptors by the endosomal compartment.",
+"year": "2021",
+"db": "pubmed",
+"id": "34223897"
+}
+]
+},
+{
+"id": "qribf17m",
+"label": "",
+"class": "Process",
+"box": [
+823.0,
+275.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"TLR9"
+],
+"out": [
+"TLR9",
+"TLR9 N-fragment"
+],
+"by": [
+"LGMN"
+]
+},
+"references": [
+{
+"authors": "Ewald SE et al.",
+"journal": "J Exp Med",
+"title": "Nucleic acid recognition by Toll-like receptors is coupled to stepwise processing by cathepsins and asparagine endopeptidase.",
+"year": "2011",
+"db": "pubmed",
+"id": "21402738"
+},
+{
+"authors": "Ewald SE et al.",
+"journal": "Nature",
+"title": "The ectodomain of Toll-like receptor 9 is cleaved to generate a functional receptor.",
+"year": "2008",
+"db": "pubmed",
+"id": "18820679"
+}
+]
+},
+{
+"id": "zc4o12de",
+"label": "",
+"class": "Process",
+"box": [
+1055.0,
+275.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"TLR9"
+],
+"out": [
+"TLR9"
+],
+"by": [
+"CTSB"
+]
+},
+"references": [
+{
+"authors": "Ewald SE et al.",
+"journal": "J Exp Med",
+"title": "Nucleic acid recognition by Toll-like receptors is coupled to stepwise processing by cathepsins and asparagine endopeptidase.",
+"year": "2011",
+"db": "pubmed",
+"id": "21402738"
+}
+]
+},
+{
+"id": "is8j8rpe",
+"label": "",
+"class": "Process",
+"box": [
+1295.0,
+275.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"CpG-DNA",
+"TLR9"
+],
+"out": [
+"CpG:TLR9 dimer"
+],
+"by": [
+"TLR9 N-fragment"
+]
+},
+"references": [
+{
+"authors": "Ohto U et al.",
+"journal": "Nature",
+"title": "Structural basis of CpG and inhibitory DNA recognition by Toll-like receptor 9.",
+"year": "2015",
+"db": "pubmed",
+"id": "25686612"
+},
+{
+"authors": "Hemmi H et al.",
+"journal": "Nature",
+"title": "A Toll-like receptor recognizes bacterial DNA.",
+"year": "2000",
+"db": "pubmed",
+"id": "11130078"
+},
+{
+"authors": "Lee S et al.",
+"journal": "J Immunol",
+"title": "Negative self-regulation of TLR9 signaling by its N-terminal proteolytic cleavage product.",
+"year": "2014",
+"db": "pubmed",
+"id": "25187653"
+}
+]
+},
+{
 "label": "TLR9",
 "class": "Macromolecule",
 "box": [
-75.0,
-583.0,
+55.0,
+177.0,
 80.0,
 40.0
 ],
@@ -1036,8 +709,8 @@
 "label": "UNC93B1",
 "class": "Macromolecule",
 "box": [
-335.0,
-583.0,
+55.0,
+357.0,
 80.0,
 40.0
 ],
@@ -1088,8 +761,8 @@
 "label": "MYD88",
 "class": "Macromolecule",
 "box": [
-1675.0,
-583.0,
+1532.0,
+467.0,
 80.0,
 40.0
 ],
@@ -1136,8 +809,8 @@
 "label": "IRAK4",
 "class": "Macromolecule",
 "box": [
-1875.0,
-679.0,
+1697.0,
+467.0,
 80.0,
 40.0
 ],
@@ -1192,8 +865,8 @@
 "label": "IRAK1",
 "class": "Macromolecule",
 "box": [
-1875.0,
-775.0,
+1817.0,
+467.0,
 80.0,
 40.0
 ],
@@ -1248,8 +921,8 @@
 "label": "TLR9",
 "class": "Macromolecule",
 "box": [
-1275.0,
-556.6,
+1646.0,
+234.2,
 80.0,
 40.0
 ],
@@ -1304,8 +977,8 @@
 "label": "MYD88",
 "class": "Macromolecule",
 "box": [
-1275.0,
-609.4,
+1646.0,
+288.2,
 80.0,
 40.0
 ],
@@ -1352,8 +1025,8 @@
 "label": "MYD88",
 "class": "Macromolecule",
 "box": [
-1275.0,
-751.0,
+1874.0,
+204.2,
 80.0,
 40.0
 ],
@@ -1400,8 +1073,8 @@
 "label": "IRAK4",
 "class": "Macromolecule",
 "box": [
-1275.0,
-799.0,
+1874.0,
+252.2,
 80.0,
 40.0
 ],
@@ -1456,8 +1129,8 @@
 "label": "IRAK1",
 "class": "Macromolecule",
 "box": [
-1275.0,
-847.0,
+1874.0,
+309.2,
 80.0,
 40.0
 ],
@@ -1512,8 +1185,8 @@
 "label": "TRAF6",
 "class": "Macromolecule",
 "box": [
-875.0,
-703.0,
+2102.0,
+467.0,
 80.0,
 40.0
 ],
@@ -1568,8 +1241,8 @@
 "label": "TRAF3",
 "class": "Macromolecule",
 "box": [
-875.0,
-799.0,
+2212.0,
+467.0,
 80.0,
 40.0
 ],
@@ -1624,8 +1297,8 @@
 "label": "CHUK",
 "class": "Macromolecule",
 "box": [
-875.0,
-895.0,
+1992.0,
+467.0,
 80.0,
 40.0
 ],
@@ -1684,8 +1357,8 @@
 "label": "SPP1",
 "class": "Macromolecule",
 "box": [
-1875.0,
-1015.0,
+2343.0,
+467.0,
 80.0,
 40.0
 ],
@@ -1744,8 +1417,8 @@
 "label": "IRF7",
 "class": "Macromolecule",
 "box": [
-1675.0,
-895.0,
+2102.0,
+67.0,
 80.0,
 40.0
 ],
@@ -1796,8 +1469,8 @@
 "label": "IRF7",
 "class": "Macromolecule",
 "box": [
-1395.0,
-1015.0,
+2227.0,
+267.0,
 80.0,
 40.0
 ],
@@ -1848,8 +1521,8 @@
 "label": "IFNA1",
 "class": "NucleicAcidFeature",
 "box": [
-835.0,
-1111.0,
+3011.0,
+147.0,
 80.0,
 40.0
 ],
@@ -1904,8 +1577,8 @@
 "label": "IFNB1",
 "class": "NucleicAcidFeature",
 "box": [
-1795.0,
-1111.0,
+3011.0,
+387.0,
 80.0,
 40.0
 ],
@@ -1964,8 +1637,8 @@
 "label": "IFN-alpha",
 "class": "Macromolecule",
 "box": [
-835.0,
-1207.0,
+3203.0,
+147.0,
 80.0,
 40.0
 ],
@@ -2020,8 +1693,8 @@
 "label": "IFN-beta",
 "class": "Macromolecule",
 "box": [
-1795.0,
-1207.0,
+3203.0,
+387.0,
 80.0,
 40.0
 ],
@@ -2077,11 +1750,272 @@
 ]
 },
 {
+"id": "x5kj9cit",
+"label": "",
+"class": "Process",
+"box": [
+283.0,
+275.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"TLR9",
+"UNC93B1"
+],
+"out": [
+"TLR9:UNC93B1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Kim YM et al.",
+"journal": "Nature",
+"title": "UNC93B1 delivers nucleotide-sensing toll-like receptors to endolysosomes.",
+"year": "2008",
+"db": "pubmed",
+"id": "18305481"
+},
+{
+"authors": "Lee BL et al.",
+"journal": "Elife",
+"title": "UNC93B1 mediates differential trafficking of endosomal TLRs.",
+"year": "2013",
+"db": "pubmed",
+"id": "23426999"
+}
+]
+},
+{
+"id": "qgyzcyh2",
+"label": "",
+"class": "Process",
+"box": [
+1560.0,
+275.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"CpG:TLR9 dimer",
+"MYD88"
+],
+"out": [
+"TLR9:MyD88"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Ewald SE et al.",
+"journal": "Nature",
+"title": "The ectodomain of Toll-like receptor 9 is cleaved to generate a functional receptor.",
+"year": "2008",
+"db": "pubmed",
+"id": "18820679"
+}
+]
+},
+{
+"id": "eo5ygg5x",
+"label": "",
+"class": "Process",
+"box": [
+1785.0,
+275.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"TLR9:MyD88",
+"IRAK4",
+"IRAK1"
+],
+"out": [
+"Myddosome"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Lin SC et al.",
+"journal": "Nature",
+"title": "Helical assembly in the MyD88-IRAK4-IRAK2 complex in TLR/IL-1R signalling.",
+"year": "2010",
+"db": "pubmed",
+"id": "20485341"
+},
+{
+"authors": "Li S et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "IRAK-4: a novel member of the IRAK family with the properties of an IRAK-kinase.",
+"year": "2002",
+"db": "pubmed",
+"id": "11960013"
+}
+]
+},
+{
+"id": "k7iuwfc2",
+"label": "",
+"class": "Process",
+"box": [
+2130.0,
+275.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Myddosome",
+"IRF7"
+],
+"out": [
+"IRF7",
+"Myddosome"
+],
+"by": [
+"CHUK",
+"TRAF6",
+"TRAF3"
+]
+},
+"references": [
+{
+"authors": "Uematsu S et al.",
+"journal": "J Exp Med",
+"title": "Interleukin-1 receptor-associated kinase-1 plays an essential role for Toll-like receptor (TLR)7- and TLR9-mediated interferon-{alpha} induction.",
+"year": "2005",
+"db": "pubmed",
+"id": "15767370"
+},
+{
+"authors": "Hoshino K et al.",
+"journal": "Nature",
+"title": "IkappaB kinase-alpha is critical for interferon-alpha production induced by Toll-like receptors 7 and 9.",
+"year": "2006",
+"db": "pubmed",
+"id": "16612387"
+},
+{
+"authors": "Kawai T et al.",
+"journal": "Nat Immunol",
+"title": "Interferon-alpha induction through Toll-like receptors involves a direct interaction of IRF7 with MyD88 and TRAF6.",
+"year": "2004",
+"db": "pubmed",
+"id": "15361868"
+}
+]
+},
+{
+"id": "t1psxaxu",
+"label": "",
+"class": "Process",
+"box": [
+2371.0,
+275.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"IRF7"
+],
+"out": [
+"IRF7"
+],
+"by": [
+"SPP1"
+]
+},
+"references": [
+{
+"authors": "Shinohara ML et al.",
+"journal": "Nat Immunol",
+"title": "Osteopontin expression is essential for interferon-alpha production by plasmacytoid dendritic cells.",
+"year": "2006",
+"db": "pubmed",
+"id": "16604075"
+}
+]
+},
+{
+"id": "ms419mxt",
+"label": "",
+"class": "Process",
+"box": [
+3135.0,
+155.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"IFNA1"
+],
+"out": [
+"IFN-alpha"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Honda K et al.",
+"journal": "Nature",
+"title": "IRF-7 is the master regulator of type-I interferon-dependent immune responses.",
+"year": "2005",
+"db": "pubmed",
+"id": "15800576"
+}
+]
+},
+{
+"id": "es6kulov",
+"label": "",
+"class": "Process",
+"box": [
+3135.0,
+395.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"IFNB1"
+],
+"out": [
+"IFN-beta"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Honda K et al.",
+"journal": "Nature",
+"title": "IRF-7 is the master regulator of type-I interferon-dependent immune responses.",
+"year": "2005",
+"db": "pubmed",
+"id": "15800576"
+}
+]
+},
+{
 "label": "IRF7",
 "class": "Macromolecule",
 "box": [
-1395.0,
-1375.0,
+2499.0,
+267.0,
 80.0,
 40.0
 ],
@@ -2132,8 +2066,8 @@
 "label": "IFNA1",
 "class": "NucleicAcidFeature",
 "box": [
-1035.0,
-1495.0,
+2699.0,
+147.0,
 80.0,
 40.0
 ],
@@ -2188,8 +2122,8 @@
 "label": "IFNB1",
 "class": "NucleicAcidFeature",
 "box": [
-1755.0,
-1495.0,
+2699.0,
+387.0,
 80.0,
 40.0
 ],
@@ -2242,6 +2176,72 @@
 "UniProt",
 "P01574"
 ]
+]
+},
+{
+"id": "tjchqzgw",
+"label": "",
+"class": "Process",
+"box": [
+2823.0,
+155.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"IFNA1"
+],
+"out": [
+"IFNA1"
+],
+"by": [
+"IRF7"
+]
+},
+"references": [
+{
+"authors": "Honda K et al.",
+"journal": "Nature",
+"title": "IRF-7 is the master regulator of type-I interferon-dependent immune responses.",
+"year": "2005",
+"db": "pubmed",
+"id": "15800576"
+}
+]
+},
+{
+"id": "qwtpafny",
+"label": "",
+"class": "Process",
+"box": [
+2823.0,
+395.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"IFNB1"
+],
+"out": [
+"IFNB1"
+],
+"by": [
+"IRF7"
+]
+},
+"references": [
+{
+"authors": "Honda K et al.",
+"journal": "Nature",
+"title": "IRF-7 is the master regulator of type-I interferon-dependent immune responses.",
+"year": "2005",
+"db": "pubmed",
+"id": "15800576"
+}
 ]
 }
 ]

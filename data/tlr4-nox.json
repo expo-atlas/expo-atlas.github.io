@@ -4,8 +4,8 @@
 "label": "endotoxin",
 "class": "SimpleChemical",
 "box": [
-75.0,
-95.0,
+71.0,
+267.0,
 40.0,
 40.0
 ],
@@ -36,7 +36,7 @@
 "label": "LBP",
 "class": "Macromolecule",
 "box": [
-615.0,
+61.0,
 47.0,
 80.0,
 40.0
@@ -92,8 +92,8 @@
 "label": "CD14",
 "class": "Macromolecule",
 "box": [
-615.0,
-287.0,
+61.0,
+487.0,
 80.0,
 40.0
 ],
@@ -145,8 +145,8 @@
 "label": "",
 "class": "Process",
 "box": [
-643.0,
-175.0,
+379.0,
+275.0,
 24.0,
 24.0
 ],
@@ -184,11 +184,267 @@
 ]
 },
 {
+"label": "TLR4",
+"class": "Macromolecule",
+"box": [
+351.0,
+472.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Toll-like receptor 4"
+],
+[
+"Alternative names",
+"hToll"
+],
+[
+"Function",
+"Transmembrane receptor that functions as a pattern recognition receptor recognizing pathogen- and damage-associated molecular patterns (PAMPs and DAMPs) to induce innate immune responses via downstream signaling pathways. At the plasma membrane, cooperates with LY96 to mediate the innate immune response to bacterial lipopolysaccharide (LPS)."
+],
+[
+"Location",
+"Cell membrane, Early endosome, Cell projection, ruffle"
+],
+[
+"HGNC",
+"HGNC:11850"
+],
+[
+"HGNC symbol",
+"TLR4"
+],
+[
+"Alias symbols",
+"hToll, CD284, TLR-4, ARMD10"
+],
+[
+"Entrez",
+"7099"
+],
+[
+"Ensembl",
+"ENSG00000136869"
+],
+[
+"RefSeq",
+"NM_138554"
+],
+[
+"UniProt",
+"O00206"
+]
+]
+},
+{
+"label": "MD2",
+"class": "Macromolecule",
+"box": [
+351.0,
+520.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Lymphocyte antigen 96"
+],
+[
+"Alternative names",
+"ESOP-1; Protein MD-2"
+],
+[
+"Function",
+"Binds bacterial lipopolysaccharide (LPS). Cooperates with TLR4 in the innate immune response to bacterial lipopolysaccharide (LPS), and with TLR2 in the response to cell wall components from Gram-positive and Gram-negative bacteria."
+],
+[
+"Location",
+"Secreted, extracellular space, Secreted"
+],
+[
+"HGNC",
+"HGNC:17156"
+],
+[
+"HGNC symbol",
+"LY96"
+],
+[
+"Alias symbols",
+"MD-2"
+],
+[
+"Entrez",
+"23643"
+],
+[
+"Ensembl",
+"ENSG00000154589"
+],
+[
+"RefSeq",
+"NM_015364"
+],
+[
+"UniProt",
+"Q9Y6Y9"
+]
+]
+},
+{
+"label": "endotoxin",
+"class": "SimpleChemical",
+"box": [
+528.0,
+208.8,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"lipopolysaccharide"
+],
+[
+"Synonyms",
+"LPS; lipopolysaccharides"
+],
+[
+"Definition",
+"Liposaccharide natural compounds consisting of a trisaccharide repeating unit (two heptose units and octulosonic acid) with oligosaccharide side chains and 3-hydroxytetradecanoic acid units (they are a major constituent of the cell walls of Gram-negative bacteria)."
+],
+[
+"ChEBI",
+"CHEBI:16412"
+],
+[
+"KEGG",
+"C00338"
+]
+]
+},
+{
+"label": "TLR4",
+"class": "Macromolecule",
+"box": [
+508.0,
+256.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Toll-like receptor 4"
+],
+[
+"Alternative names",
+"hToll"
+],
+[
+"Function",
+"Transmembrane receptor that functions as a pattern recognition receptor recognizing pathogen- and damage-associated molecular patterns (PAMPs and DAMPs) to induce innate immune responses via downstream signaling pathways. At the plasma membrane, cooperates with LY96 to mediate the innate immune response to bacterial lipopolysaccharide (LPS)."
+],
+[
+"Location",
+"Cell membrane, Early endosome, Cell projection, ruffle"
+],
+[
+"HGNC",
+"HGNC:11850"
+],
+[
+"HGNC symbol",
+"TLR4"
+],
+[
+"Alias symbols",
+"hToll, CD284, TLR-4, ARMD10"
+],
+[
+"Entrez",
+"7099"
+],
+[
+"Ensembl",
+"ENSG00000136869"
+],
+[
+"RefSeq",
+"NM_138554"
+],
+[
+"UniProt",
+"O00206"
+]
+]
+},
+{
+"label": "MD2",
+"class": "Macromolecule",
+"box": [
+508.0,
+304.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Lymphocyte antigen 96"
+],
+[
+"Alternative names",
+"ESOP-1; Protein MD-2"
+],
+[
+"Function",
+"Binds bacterial lipopolysaccharide (LPS). Cooperates with TLR4 in the innate immune response to bacterial lipopolysaccharide (LPS), and with TLR2 in the response to cell wall components from Gram-positive and Gram-negative bacteria."
+],
+[
+"Location",
+"Secreted, extracellular space, Secreted"
+],
+[
+"HGNC",
+"HGNC:17156"
+],
+[
+"HGNC symbol",
+"LY96"
+],
+[
+"Alias symbols",
+"MD-2"
+],
+[
+"Entrez",
+"23643"
+],
+[
+"Ensembl",
+"ENSG00000154589"
+],
+[
+"RefSeq",
+"NM_015364"
+],
+[
+"UniProt",
+"Q9Y6Y9"
+]
+]
+},
+{
 "label": "TIRAP",
 "class": "Macromolecule",
 "box": [
-535.0,
-551.0,
+790.0,
+507.0,
 80.0,
 40.0
 ],
@@ -243,8 +499,168 @@
 "label": "MYD88",
 "class": "Macromolecule",
 "box": [
-1375.0,
-551.0,
+930.0,
+507.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Myeloid differentiation primary response protein MyD88"
+],
+[
+"Function",
+"Adapter protein involved in the Toll-like receptor and IL-1 receptor signaling pathway in the innate immune response. Acts via IRAK1, IRAK2, IRF7 and TRAF6, leading to NF-kappa-B activation, cytokine secretion and the inflammatory response."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:7562"
+],
+[
+"HGNC symbol",
+"MYD88"
+],
+[
+"Entrez",
+"4615"
+],
+[
+"Ensembl",
+"ENSG00000172936"
+],
+[
+"RefSeq",
+"NM_002468"
+],
+[
+"UniProt",
+"Q99836"
+]
+]
+},
+{
+"label": "TLR4",
+"class": "Macromolecule",
+"box": [
+1017.0,
+208.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Toll-like receptor 4"
+],
+[
+"Alternative names",
+"hToll"
+],
+[
+"Function",
+"Transmembrane receptor that functions as a pattern recognition receptor recognizing pathogen- and damage-associated molecular patterns (PAMPs and DAMPs) to induce innate immune responses via downstream signaling pathways. At the plasma membrane, cooperates with LY96 to mediate the innate immune response to bacterial lipopolysaccharide (LPS)."
+],
+[
+"Location",
+"Cell membrane, Early endosome, Cell projection, ruffle"
+],
+[
+"HGNC",
+"HGNC:11850"
+],
+[
+"HGNC symbol",
+"TLR4"
+],
+[
+"Alias symbols",
+"hToll, CD284, TLR-4, ARMD10"
+],
+[
+"Entrez",
+"7099"
+],
+[
+"Ensembl",
+"ENSG00000136869"
+],
+[
+"RefSeq",
+"NM_138554"
+],
+[
+"UniProt",
+"O00206"
+]
+]
+},
+{
+"label": "TIRAP",
+"class": "Macromolecule",
+"box": [
+1017.0,
+256.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Toll/interleukin-1 receptor domain-containing adapter protein"
+],
+[
+"Alternative names",
+"Adaptor protein Wyatt; MyD88 adapter-like protein"
+],
+[
+"Function",
+"Adapter involved in TLR2, TLR4 and RAGE signaling pathways in the innate immune response. Acts via IRAK2 and TRAF-6, leading to the activation of NF-kappa-B, MAPK1, MAPK3 and JNK, and resulting in cytokine secretion and the inflammatory response."
+],
+[
+"Location",
+"Cytoplasm, Cell membrane, Membrane"
+],
+[
+"HGNC",
+"HGNC:17192"
+],
+[
+"HGNC symbol",
+"TIRAP"
+],
+[
+"Alias symbols",
+"Mal, wyatt"
+],
+[
+"Entrez",
+"114609"
+],
+[
+"Ensembl",
+"ENSG00000150455"
+],
+[
+"RefSeq",
+"NM_148910"
+],
+[
+"UniProt",
+"P58753"
+]
+]
+},
+{
+"label": "MyD88",
+"class": "Macromolecule",
+"box": [
+1017.0,
+304.8,
 80.0,
 40.0
 ],
@@ -291,8 +707,112 @@
 "label": "IRAK4",
 "class": "Macromolecule",
 "box": [
-495.0,
-851.0,
+1289.0,
+507.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Interleukin-1 receptor-associated kinase 4"
+],
+[
+"Alternative names",
+"Renal carcinoma antigen NY-REN-64"
+],
+[
+"Function",
+"Serine/threonine-protein kinase that plays a critical role in initiating innate immune response against foreign pathogens. Involved in Toll-like receptor (TLR) and IL-1R signaling pathways."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:17967"
+],
+[
+"HGNC symbol",
+"IRAK4"
+],
+[
+"Alias symbols",
+"NY-REN-64"
+],
+[
+"Entrez",
+"51135"
+],
+[
+"Ensembl",
+"ENSG00000198001"
+],
+[
+"RefSeq",
+"NM_001114182"
+],
+[
+"UniProt",
+"Q9NWZ3"
+]
+]
+},
+{
+"label": "MyD88",
+"class": "Macromolecule",
+"box": [
+1446.0,
+232.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Myeloid differentiation primary response protein MyD88"
+],
+[
+"Function",
+"Adapter protein involved in the Toll-like receptor and IL-1 receptor signaling pathway in the innate immune response. Acts via IRAK1, IRAK2, IRF7 and TRAF6, leading to NF-kappa-B activation, cytokine secretion and the inflammatory response."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:7562"
+],
+[
+"HGNC symbol",
+"MYD88"
+],
+[
+"Entrez",
+"4615"
+],
+[
+"Ensembl",
+"ENSG00000172936"
+],
+[
+"RefSeq",
+"NM_002468"
+],
+[
+"UniProt",
+"Q99836"
+]
+]
+},
+{
+"label": "IRAK4",
+"class": "Macromolecule",
+"box": [
+1446.0,
+280.8,
 80.0,
 40.0
 ],
@@ -348,8 +868,8 @@
 "label": "",
 "class": "Process",
 "box": [
-1003.0,
-655.0,
+888.0,
+275.0,
 24.0,
 24.0
 ],
@@ -381,8 +901,8 @@
 "label": "",
 "class": "Process",
 "box": [
-1003.0,
-895.0,
+1317.0,
+275.0,
 24.0,
 24.0
 ],
