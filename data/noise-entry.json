@@ -1,0 +1,3124 @@
+{
+"nodes": [
+{
+"label": "NOS3",
+"class": "Macromolecule",
+"box": [
+103.0,
+899.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"Nitric oxide synthase 3"
+],
+[
+"Alternative names",
+"Constitutive NOS; EC-NOS; NOS type III; Nitric oxide synthase, endothelial"
+],
+[
+"Function",
+"Produces nitric oxide (NO) which is implicated in vascular smooth muscle relaxation through a cGMP-mediated signal transduction pathway. NO mediates vascular endothelial growth factor (VEGF)-induced angiogenesis in coronary vessels and promotes blood clotting through the activation of platelets"
+],
+[
+"Location",
+"Cell membrane, Membrane, caveola, Cytoplasm, cytoskeleton, Golgi apparatus"
+],
+[
+"HGNC",
+"HGNC:7876"
+],
+[
+"HGNC symbol",
+"NOS3"
+],
+[
+"Alias symbols",
+"ECNOS, eNOS"
+],
+[
+"Entrez",
+"4846"
+],
+[
+"Ensembl",
+"ENSG00000164867"
+],
+[
+"RefSeq",
+"NM_000603"
+],
+[
+"UniProt",
+"P29474"
+]
+]
+},
+{
+"label": "NOS3",
+"class": "Macromolecule",
+"box": [
+333.0,
+899.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"PTM",
+"Phosphorylated at Ser1177, by AMPK"
+],
+[
+"Full name",
+"Nitric oxide synthase 3"
+],
+[
+"Alternative names",
+"Constitutive NOS; EC-NOS; NOS type III; Nitric oxide synthase, endothelial"
+],
+[
+"Function",
+"Produces nitric oxide (NO) which is implicated in vascular smooth muscle relaxation through a cGMP-mediated signal transduction pathway. NO mediates vascular endothelial growth factor (VEGF)-induced angiogenesis in coronary vessels and promotes blood clotting through the activation of platelets"
+],
+[
+"Location",
+"Cell membrane, Membrane, caveola, Cytoplasm, cytoskeleton, Golgi apparatus"
+],
+[
+"HGNC",
+"HGNC:7876"
+],
+[
+"HGNC symbol",
+"NOS3"
+],
+[
+"Alias symbols",
+"ECNOS, eNOS"
+],
+[
+"Entrez",
+"4846"
+],
+[
+"Ensembl",
+"ENSG00000164867"
+],
+[
+"RefSeq",
+"NM_000603"
+],
+[
+"UniProt",
+"P29474"
+]
+]
+},
+{
+"label": "NOS3",
+"class": "Macromolecule",
+"box": [
+493.0,
+1219.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"PTM",
+"G at Cys689\nPhosphorylated at Ser1177, by AMPK"
+],
+[
+"Full name",
+"Nitric oxide synthase 3"
+],
+[
+"Alternative names",
+"Constitutive NOS; EC-NOS; NOS type III; Nitric oxide synthase, endothelial"
+],
+[
+"Function",
+"Produces nitric oxide (NO) which is implicated in vascular smooth muscle relaxation through a cGMP-mediated signal transduction pathway. NO mediates vascular endothelial growth factor (VEGF)-induced angiogenesis in coronary vessels and promotes blood clotting through the activation of platelets"
+],
+[
+"Location",
+"Cell membrane, Membrane, caveola, Cytoplasm, cytoskeleton, Golgi apparatus"
+],
+[
+"HGNC",
+"HGNC:7876"
+],
+[
+"HGNC symbol",
+"NOS3"
+],
+[
+"Alias symbols",
+"ECNOS, eNOS"
+],
+[
+"Entrez",
+"4846"
+],
+[
+"Ensembl",
+"ENSG00000164867"
+],
+[
+"RefSeq",
+"NM_000603"
+],
+[
+"UniProt",
+"P29474"
+]
+]
+},
+{
+"label": "BH4",
+"class": "SimpleChemical",
+"box": [
+473.0,
+1079.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
+"label": "BH4",
+"class": "SimpleChemical",
+"box": [
+1271.0,
+1359.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
+"label": "BH3.",
+"class": "SimpleChemical",
+"box": [
+1411.0,
+1219.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
+"label": "NOS3-P:BH4",
+"class": "Complex",
+"box": [
+585.0,
+868.2,
+152.0,
+101.5
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
+"label": "NOS3",
+"class": "Macromolecule",
+"box": [
+597.0,
+893.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"PTM",
+"Phosphorylated at Ser1177, by AMPK"
+],
+[
+"Full name",
+"Nitric oxide synthase 3"
+],
+[
+"Alternative names",
+"Constitutive NOS; EC-NOS; NOS type III; Nitric oxide synthase, endothelial"
+],
+[
+"Function",
+"Produces nitric oxide (NO) which is implicated in vascular smooth muscle relaxation through a cGMP-mediated signal transduction pathway. NO mediates vascular endothelial growth factor (VEGF)-induced angiogenesis in coronary vessels and promotes blood clotting through the activation of platelets"
+],
+[
+"Location",
+"Cell membrane, Membrane, caveola, Cytoplasm, cytoskeleton, Golgi apparatus"
+],
+[
+"HGNC",
+"HGNC:7876"
+],
+[
+"HGNC symbol",
+"NOS3"
+],
+[
+"Alias symbols",
+"ECNOS, eNOS"
+],
+[
+"Entrez",
+"4846"
+],
+[
+"Ensembl",
+"ENSG00000164867"
+],
+[
+"RefSeq",
+"NM_000603"
+],
+[
+"UniProt",
+"P29474"
+]
+]
+},
+{
+"label": "BH4",
+"class": "SimpleChemical",
+"box": [
+685.0,
+893.2,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
+"label": "L-arginine",
+"class": "SimpleChemical",
+"box": [
+691.0,
+1079.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
+"label": "L-citrulline",
+"class": "SimpleChemical",
+"box": [
+711.0,
+759.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
+"label": "NO",
+"class": "SimpleChemical",
+"box": [
+921.0,
+899.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"nitric oxide"
+],
+[
+"Synonyms",
+"(.)NO; (NO)(.); EDRF; NO; NO(.); Nitrogen monoxide; Stickstoff(II)-oxid; Stickstoffmonoxid; [NO]; endothelium-derived relaxing factor; mononitrogen monoxide; monoxido de nitrogeno; monoxyde d'azote; nitrogen monooxide; nitrosyl; oxido de nitrogeno(II); oxido nitrico; oxidonitrogen(.); oxoazanyl; oxyde azotique; oxyde nitrique"
+],
+[
+"Definition",
+"A nitrogen oxide which is a free radical, each molecule of which consists of one nitrogen and one oxygen atom."
+],
+[
+"Formula",
+"NO"
+],
+[
+"ChEBI",
+"CHEBI:16480"
+],
+[
+"KEGG",
+"C00533"
+],
+[
+"InChI",
+"InChI=1S/NO/c1-2"
+],
+[
+"InChIKey",
+"MWUXSHHQAYIFBG-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "O2",
+"class": "SimpleChemical",
+"box": [
+791.0,
+651.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"dioxygen"
+],
+[
+"Synonyms",
+"Disauerstoff; E 948; E-948; E948; O(2); O2; OXYGEN MOLECULE; Oxygen; [OO]; dioxygene; molecular oxygen"
+],
+[
+"Formula",
+"O2"
+],
+[
+"ChEBI",
+"CHEBI:15379"
+],
+[
+"KEGG",
+"C00007"
+],
+[
+"HMDB",
+"HMDB0001377"
+],
+[
+"InChI",
+"InChI=1S/O2/c1-2"
+],
+[
+"InChIKey",
+"MYMOFIZGZYHOMD-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "O2",
+"class": "SimpleChemical",
+"box": [
+781.0,
+1079.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"dioxygen"
+],
+[
+"Synonyms",
+"Disauerstoff; E 948; E-948; E948; O(2); O2; OXYGEN MOLECULE; Oxygen; [OO]; dioxygene; molecular oxygen"
+],
+[
+"Formula",
+"O2"
+],
+[
+"ChEBI",
+"CHEBI:15379"
+],
+[
+"KEGG",
+"C00007"
+],
+[
+"HMDB",
+"HMDB0001377"
+],
+[
+"InChI",
+"InChI=1S/O2/c1-2"
+],
+[
+"InChIKey",
+"MYMOFIZGZYHOMD-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "O2",
+"class": "SimpleChemical",
+"box": [
+681.0,
+1359.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"dioxygen"
+],
+[
+"Synonyms",
+"Disauerstoff; E 948; E-948; E948; O(2); O2; OXYGEN MOLECULE; Oxygen; [OO]; dioxygene; molecular oxygen"
+],
+[
+"Formula",
+"O2"
+],
+[
+"ChEBI",
+"CHEBI:15379"
+],
+[
+"KEGG",
+"C00007"
+],
+[
+"HMDB",
+"HMDB0001377"
+],
+[
+"InChI",
+"InChI=1S/O2/c1-2"
+],
+[
+"InChIKey",
+"MYMOFIZGZYHOMD-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "O2.-",
+"class": "SimpleChemical",
+"box": [
+841.0,
+1219.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"superoxide"
+],
+[
+"Synonyms",
+"(O2)(.-); Dioxid(1-); Hyperoxid; O2(-); O2(.-); O2-; O2.-; Superoxide anion; dioxidanidyl; dioxide(.1-); dioxide(1-); hiperoxido; hyperoxide; superoxide anion radical; superoxide radical; superoxide radical anion; superoxido; superoxyde"
+],
+[
+"Formula",
+"O2"
+],
+[
+"ChEBI",
+"CHEBI:18421"
+],
+[
+"KEGG",
+"C00704"
+],
+[
+"HMDB",
+"HMDB0002168"
+],
+[
+"InChI",
+"InChI=1S/HO2/c1-2/h1H/p-1"
+],
+[
+"InChIKey",
+"OUUQCZGPVNCOIJ-UHFFFAOYSA-M"
+]
+]
+},
+{
+"label": "ONOO-",
+"class": "SimpleChemical",
+"box": [
+1131.0,
+1219.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"peroxynitrite"
+],
+[
+"Synonyms",
+"[NO(OO)](-); azoperoxoite; oxidoperoxidonitrate(1-)"
+],
+[
+"Definition",
+"The nitrogen oxoanion formed by loss of a proton from peroxynitrous acid."
+],
+[
+"Formula",
+"NO3"
+],
+[
+"ChEBI",
+"CHEBI:25941"
+],
+[
+"KEGG",
+"C16845"
+],
+[
+"InChI",
+"InChI=1S/HNO3/c2-1-4-3/h3H/p-1"
+],
+[
+"InChIKey",
+"CMFNMSMUKZHDEY-UHFFFAOYSA-M"
+]
+]
+},
+{
+"label": "ONOO-",
+"class": "SimpleChemical",
+"box": [
+1491.0,
+651.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"peroxynitrite"
+],
+[
+"Synonyms",
+"[NO(OO)](-); azoperoxoite; oxidoperoxidonitrate(1-)"
+],
+[
+"Definition",
+"The nitrogen oxoanion formed by loss of a proton from peroxynitrous acid."
+],
+[
+"Formula",
+"NO3"
+],
+[
+"ChEBI",
+"CHEBI:25941"
+],
+[
+"KEGG",
+"C16845"
+],
+[
+"InChI",
+"InChI=1S/HNO3/c2-1-4-3/h3H/p-1"
+],
+[
+"InChIKey",
+"CMFNMSMUKZHDEY-UHFFFAOYSA-M"
+]
+]
+},
+{
+"label": "NADPH",
+"class": "SimpleChemical",
+"box": [
+711.0,
+651.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"NADPH"
+],
+[
+"Synonyms",
+"2'-O-phosphonoadenosine 5'-{3-[1-(3-carbamoyl-1,4-dihydropyridin-1-yl)-1,4-anhydro-D-ribitol-5-yl] dihydrogen diphosphate}; NADPH DIHYDRO-NICOTINAMIDE-ADENINE-DINUCLEOTIDE PHOSPHATE; Reduced nicotinamide adenine dinucleotide phosphate; TPNH; dihydronicotinamide-adenine dinucleotide phosphate; reduced nicotinamide-adenine dinucleotide phosphate"
+],
+[
+"Definition",
+"The reduced form of NADP+; used in anabolic reactions, such as lipid and nucleic acid synthesis, which require NADPH as a reducing agent."
+],
+[
+"Formula",
+"C21H30N7O17P3"
+],
+[
+"ChEBI",
+"CHEBI:16474"
+],
+[
+"KEGG",
+"C00005"
+],
+[
+"HMDB",
+"HMDB0000221"
+],
+[
+"InChI",
+"InChI=1S/C21H30N7O17P3/c22-17-12-19(25-7-24-17)28(8-26-12)21-16(44-46(33,34)35)14(30)11(43-21)6-41-48(38,39)45-47(36,37)40-5-10-13(29)15(31)20(42-10)27-3-1-2-9(4-27)18(23)32/h1,3-4,7-8,10-11,13-16,20-21,29-31H,2,5-6H2,(H2,23,32)(H,36,37)(H,38,39)(H2,22,24,25)(H2,33,34,35)/t10-,11-,13-,14-,15-,16-,20-,21-/m1/s1"
+],
+[
+"InChIKey",
+"ACFIXJIJDZMPPO-NNYOXOHSSA-N"
+]
+]
+},
+{
+"label": "NADP+",
+"class": "SimpleChemical",
+"box": [
+991.0,
+651.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"NADP(+)"
+],
+[
+"Synonyms",
+"2'-O-phosphonoadenosine 5'-{3-[1-(3-carbamoylpyridinio)-1,4-anhydro-D-ribitol-5-yl] dihydrogen diphosphate}; NADP; NADP+; Nicotinamide adenine dinucleotide phosphate; TPN; Triphosphopyridine nucleotide; beta-Nicotinamide adenine dinucleotide phosphate; oxidized nicotinamide-adenine dinucleotide phosphate"
+],
+[
+"Formula",
+"C21H29N7O17P3"
+],
+[
+"ChEBI",
+"CHEBI:18009"
+],
+[
+"KEGG",
+"C00006"
+],
+[
+"InChI",
+"InChI=1S/C21H28N7O17P3/c22-17-12-19(25-7-24-17)28(8-26-12)21-16(44-46(33,34)35)14(30)11(43-21)6-41-48(38,39)45-47(36,37)40-5-10-13(29)15(31)20(42-10)27-3-1-2-9(4-27)18(23)32/h1-4,7-8,10-11,13-16,20-21,29-31H,5-6H2,(H7-,22,23,24,25,32,33,34,35,36,37,38,39)/p+1/t10-,11-,13-,14-,15-,16-,20-,21-/m1/s1"
+],
+[
+"InChIKey",
+"XJLXINKUBYWONI-NNYOXOHSSA-O"
+]
+]
+},
+{
+"label": "NADPH",
+"class": "SimpleChemical",
+"box": [
+601.0,
+1359.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"NADPH"
+],
+[
+"Synonyms",
+"2'-O-phosphonoadenosine 5'-{3-[1-(3-carbamoyl-1,4-dihydropyridin-1-yl)-1,4-anhydro-D-ribitol-5-yl] dihydrogen diphosphate}; NADPH DIHYDRO-NICOTINAMIDE-ADENINE-DINUCLEOTIDE PHOSPHATE; Reduced nicotinamide adenine dinucleotide phosphate; TPNH; dihydronicotinamide-adenine dinucleotide phosphate; reduced nicotinamide-adenine dinucleotide phosphate"
+],
+[
+"Definition",
+"The reduced form of NADP+; used in anabolic reactions, such as lipid and nucleic acid synthesis, which require NADPH as a reducing agent."
+],
+[
+"Formula",
+"C21H30N7O17P3"
+],
+[
+"ChEBI",
+"CHEBI:16474"
+],
+[
+"KEGG",
+"C00005"
+],
+[
+"HMDB",
+"HMDB0000221"
+],
+[
+"InChI",
+"InChI=1S/C21H30N7O17P3/c22-17-12-19(25-7-24-17)28(8-26-12)21-16(44-46(33,34)35)14(30)11(43-21)6-41-48(38,39)45-47(36,37)40-5-10-13(29)15(31)20(42-10)27-3-1-2-9(4-27)18(23)32/h1,3-4,7-8,10-11,13-16,20-21,29-31H,2,5-6H2,(H2,23,32)(H,36,37)(H,38,39)(H2,22,24,25)(H2,33,34,35)/t10-,11-,13-,14-,15-,16-,20-,21-/m1/s1"
+],
+[
+"InChIKey",
+"ACFIXJIJDZMPPO-NNYOXOHSSA-N"
+]
+]
+},
+{
+"label": "NADP+",
+"class": "SimpleChemical",
+"box": [
+761.0,
+1359.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"NADP(+)"
+],
+[
+"Synonyms",
+"2'-O-phosphonoadenosine 5'-{3-[1-(3-carbamoylpyridinio)-1,4-anhydro-D-ribitol-5-yl] dihydrogen diphosphate}; NADP; NADP+; Nicotinamide adenine dinucleotide phosphate; TPN; Triphosphopyridine nucleotide; beta-Nicotinamide adenine dinucleotide phosphate; oxidized nicotinamide-adenine dinucleotide phosphate"
+],
+[
+"Formula",
+"C21H29N7O17P3"
+],
+[
+"ChEBI",
+"CHEBI:18009"
+],
+[
+"KEGG",
+"C00006"
+],
+[
+"InChI",
+"InChI=1S/C21H28N7O17P3/c22-17-12-19(25-7-24-17)28(8-26-12)21-16(44-46(33,34)35)14(30)11(43-21)6-41-48(38,39)45-47(36,37)40-5-10-13(29)15(31)20(42-10)27-3-1-2-9(4-27)18(23)32/h1-4,7-8,10-11,13-16,20-21,29-31H,5-6H2,(H7-,22,23,24,25,32,33,34,35,36,37,38,39)/p+1/t10-,11-,13-,14-,15-,16-,20-,21-/m1/s1"
+],
+[
+"InChIKey",
+"XJLXINKUBYWONI-NNYOXOHSSA-O"
+]
+]
+},
+{
+"label": "GSSG",
+"class": "SimpleChemical",
+"box": [
+233.0,
+1219.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"glutathione disulfide"
+],
+[
+"Synonyms",
+"(2S,2'S)-5,5'-[disulfanediylbis({(2R)-3-[(carboxymethyl)amino]-3-oxopropane-1,2-diyl}imino)]bis(2-amino-5-oxopentanoic acid); GSSG; OXIDIZED GLUTATHIONE DISULFIDE; Oxidized glutathione; Oxiglutatione; glutathione disulphide; oxidised glutathione"
+],
+[
+"Formula",
+"C20H32N6O12S2"
+],
+[
+"ChEBI",
+"CHEBI:17858"
+],
+[
+"KEGG",
+"C00127"
+],
+[
+"InChI",
+"InChI=1S/C20H32N6O12S2/c21-9(19(35)36)1-3-13(27)25-11(17(33)23-5-15(29)30)7-39-40-8-12(18(34)24-6-16(31)32)26-14(28)4-2-10(22)20(37)38/h9-12H,1-8,21-22H2,(H,23,33)(H,24,34)(H,25,27)(H,26,28)(H,29,30)(H,31,32)(H,35,36)(H,37,38)/t9-,10-,11-,12-/m0/s1"
+],
+[
+"InChIKey",
+"YPZRWBKMTBYPTK-BJDJZHNGSA-N"
+]
+]
+},
+{
+"label": "GSH",
+"class": "SimpleChemical",
+"box": [
+353.0,
+1359.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"glutathione"
+],
+[
+"Synonyms",
+"5-L-Glutamyl-L-cysteinylglycine; GSH; Glutathione-SH; L-gamma-glutamyl-L-cysteinylglycine; N-(N-gamma-L-Glutamyl-L-cysteinyl)glycine; Reduced glutathione; gamma-L-Glutamyl-L-cysteinyl-glycine"
+],
+[
+"Definition",
+"A tripeptide compound consisting of glutamic acid attached via its side chain to the N-terminus of cysteinylglycine."
+],
+[
+"Formula",
+"C10H17N3O6S"
+],
+[
+"ChEBI",
+"CHEBI:16856"
+],
+[
+"KEGG",
+"C00051"
+],
+[
+"HMDB",
+"HMDB0000125"
+],
+[
+"InChI",
+"InChI=1S/C10H17N3O6S/c11-5(10(18)19)1-2-7(14)13-6(4-20)9(17)12-3-8(15)16/h5-6,20H,1-4,11H2,(H,12,17)(H,13,14)(H,15,16)(H,18,19)/t5-,6-/m0/s1"
+],
+[
+"InChIKey",
+"RWSXRVCMGQZWBV-WDSKDSINSA-N"
+]
+]
+},
+{
+"label": "ATP",
+"class": "SimpleChemical",
+"box": [
+173.0,
+779.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"ATP(4-)"
+],
+[
+"Synonyms",
+"ATP; adenosine 5'-triphosphate(4-)"
+],
+[
+"Definition",
+"A nucleoside triphosphate(4−) obtained by global deprotonation of the triphosphate OH groups of ATP; major species present at pH 7.3."
+],
+[
+"Formula",
+"C10H12N5O13P3"
+],
+[
+"ChEBI",
+"CHEBI:30616"
+],
+[
+"InChI",
+"InChI=1S/C10H16N5O13P3/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(26-10)1-25-30(21,22)28-31(23,24)27-29(18,19)20/h2-4,6-7,10,16-17H,1H2,(H,21,22)(H,23,24)(H2,11,12,13)(H2,18,19,20)/p-4/t4-,6-,7-,10-/m1/s1"
+],
+[
+"InChIKey",
+"ZKHQWZAMYRWXGA-KQYNXXCUSA-J"
+]
+]
+},
+{
+"label": "ADP",
+"class": "SimpleChemical",
+"box": [
+293.0,
+779.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"ADP(3-)"
+],
+[
+"Synonyms",
+"5'-O-[(phosphonatooxy)phosphinato]adenosine; ADP; ADP trianion; adenosine 5'-diphosphate"
+],
+[
+"Definition",
+"A nucleoside 5'-diphosphate(3−) arising from deprotonation of all three diphosphate OH groups of adenosine 5'-diphosphate (ADP); major species present at pH 7.3."
+],
+[
+"Formula",
+"C10H12N5O10P2"
+],
+[
+"ChEBI",
+"CHEBI:456216"
+],
+[
+"InChI",
+"InChI=1S/C10H15N5O10P2/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(24-10)1-23-27(21,22)25-26(18,19)20/h2-4,6-7,10,16-17H,1H2,(H,21,22)(H2,11,12,13)(H2,18,19,20)/p-3/t4-,6-,7-,10-/m1/s1"
+],
+[
+"InChIKey",
+"XTWYTFMLZFPYCI-KQYNXXCUSA-K"
+]
+]
+},
+{
+"label": "ATP",
+"class": "SimpleChemical",
+"box": [
+2061.0,
+1039.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"ATP(4-)"
+],
+[
+"Synonyms",
+"ATP; adenosine 5'-triphosphate(4-)"
+],
+[
+"Definition",
+"A nucleoside triphosphate(4−) obtained by global deprotonation of the triphosphate OH groups of ATP; major species present at pH 7.3."
+],
+[
+"Formula",
+"C10H12N5O13P3"
+],
+[
+"ChEBI",
+"CHEBI:30616"
+],
+[
+"InChI",
+"InChI=1S/C10H16N5O13P3/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(26-10)1-25-30(21,22)28-31(23,24)27-29(18,19)20/h2-4,6-7,10,16-17H,1H2,(H,21,22)(H,23,24)(H2,11,12,13)(H2,18,19,20)/p-4/t4-,6-,7-,10-/m1/s1"
+],
+[
+"InChIKey",
+"ZKHQWZAMYRWXGA-KQYNXXCUSA-J"
+]
+]
+},
+{
+"label": "ADP",
+"class": "SimpleChemical",
+"box": [
+2181.0,
+1039.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"ADP(3-)"
+],
+[
+"Synonyms",
+"5'-O-[(phosphonatooxy)phosphinato]adenosine; ADP; ADP trianion; adenosine 5'-diphosphate"
+],
+[
+"Definition",
+"A nucleoside 5'-diphosphate(3−) arising from deprotonation of all three diphosphate OH groups of adenosine 5'-diphosphate (ADP); major species present at pH 7.3."
+],
+[
+"Formula",
+"C10H12N5O10P2"
+],
+[
+"ChEBI",
+"CHEBI:456216"
+],
+[
+"InChI",
+"InChI=1S/C10H15N5O10P2/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(24-10)1-23-27(21,22)25-26(18,19)20/h2-4,6-7,10,16-17H,1H2,(H,21,22)(H2,11,12,13)(H2,18,19,20)/p-3/t4-,6-,7-,10-/m1/s1"
+],
+[
+"InChIKey",
+"XTWYTFMLZFPYCI-KQYNXXCUSA-K"
+]
+]
+},
+{
+"label": "GUCY1A1:GUCY1B1",
+"class": "Complex",
+"box": [
+985.0,
+732.8,
+192.0,
+92.5
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
+"label": "GUCY1A1",
+"class": "Macromolecule",
+"box": [
+997.0,
+748.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"Guanylate cyclase soluble subunit alpha-1"
+],
+[
+"Alternative names",
+"Guanylate cyclase soluble subunit alpha-3; Soluble guanylate cyclase large subunit"
+],
+[
+"Function",
+"Alpha subunit of soluble guanylate cyclase (sGC), a key enzyme in nitric oxide (NO) signaling. sGC functions as a heterodimer consisting of one alpha and one beta subunit. It serves as the primary intracellular receptor for NO, which binds to a heme prosthetic group located on the beta subunit."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:4685"
+],
+[
+"HGNC symbol",
+"GUCY1A1"
+],
+[
+"Previous symbols",
+"GUC1A3, GUCY1A3"
+],
+[
+"Alias symbols",
+"GC-SA3"
+],
+[
+"Entrez",
+"2982"
+],
+[
+"Ensembl",
+"ENSG00000164116"
+],
+[
+"RefSeq",
+"NM_000856"
+],
+[
+"UniProt",
+"Q02108"
+]
+]
+},
+{
+"label": "GUCY1B1",
+"class": "Macromolecule",
+"box": [
+1085.0,
+748.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"Guanylate cyclase soluble subunit beta-1"
+],
+[
+"Alternative names",
+"Guanylate cyclase soluble subunit beta-3; Soluble guanylate cyclase small subunit"
+],
+[
+"Function",
+"Beta subunit of soluble guanylate cyclase (sGC), a key enzyme in nitric oxide (NO) signaling. sGC functions as a heterodimer consisting of one alpha and one beta subunit. It serves as the primary intracellular receptor for NO, which binds to a heme prosthetic group located on the beta subunit."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:4687"
+],
+[
+"HGNC symbol",
+"GUCY1B1"
+],
+[
+"Previous symbols",
+"GUC1B3, GUCY1B3"
+],
+[
+"Alias symbols",
+"GC-SB3, GC-S-beta-1"
+],
+[
+"Entrez",
+"2983"
+],
+[
+"Ensembl",
+"ENSG00000061918"
+],
+[
+"RefSeq",
+"NM_000857"
+],
+[
+"UniProt",
+"Q02153"
+]
+]
+},
+{
+"label": "GUCY1A1:GUCY1B1:NO",
+"class": "Complex",
+"box": [
+1171.0,
+872.8,
+240.0,
+92.5
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
+"label": "GUCY1A1",
+"class": "Macromolecule",
+"box": [
+1183.0,
+888.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"Guanylate cyclase soluble subunit alpha-1"
+],
+[
+"Alternative names",
+"Guanylate cyclase soluble subunit alpha-3; Soluble guanylate cyclase large subunit"
+],
+[
+"Function",
+"Alpha subunit of soluble guanylate cyclase (sGC), a key enzyme in nitric oxide (NO) signaling. sGC functions as a heterodimer consisting of one alpha and one beta subunit. It serves as the primary intracellular receptor for NO, which binds to a heme prosthetic group located on the beta subunit."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:4685"
+],
+[
+"HGNC symbol",
+"GUCY1A1"
+],
+[
+"Previous symbols",
+"GUC1A3, GUCY1A3"
+],
+[
+"Alias symbols",
+"GC-SA3"
+],
+[
+"Entrez",
+"2982"
+],
+[
+"Ensembl",
+"ENSG00000164116"
+],
+[
+"RefSeq",
+"NM_000856"
+],
+[
+"UniProt",
+"Q02108"
+]
+]
+},
+{
+"label": "GUCY1B1",
+"class": "Macromolecule",
+"box": [
+1271.0,
+888.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"Guanylate cyclase soluble subunit beta-1"
+],
+[
+"Alternative names",
+"Guanylate cyclase soluble subunit beta-3; Soluble guanylate cyclase small subunit"
+],
+[
+"Function",
+"Beta subunit of soluble guanylate cyclase (sGC), a key enzyme in nitric oxide (NO) signaling. sGC functions as a heterodimer consisting of one alpha and one beta subunit. It serves as the primary intracellular receptor for NO, which binds to a heme prosthetic group located on the beta subunit."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:4687"
+],
+[
+"HGNC symbol",
+"GUCY1B1"
+],
+[
+"Previous symbols",
+"GUC1B3, GUCY1B3"
+],
+[
+"Alias symbols",
+"GC-SB3, GC-S-beta-1"
+],
+[
+"Entrez",
+"2983"
+],
+[
+"Ensembl",
+"ENSG00000061918"
+],
+[
+"RefSeq",
+"NM_000857"
+],
+[
+"UniProt",
+"Q02153"
+]
+]
+},
+{
+"label": "NO",
+"class": "SimpleChemical",
+"box": [
+1359.0,
+888.8,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"nitric oxide"
+],
+[
+"Synonyms",
+"(.)NO; (NO)(.); EDRF; NO; NO(.); Nitrogen monoxide; Stickstoff(II)-oxid; Stickstoffmonoxid; [NO]; endothelium-derived relaxing factor; mononitrogen monoxide; monoxido de nitrogeno; monoxyde d'azote; nitrogen monooxide; nitrosyl; oxido de nitrogeno(II); oxido nitrico; oxidonitrogen(.); oxoazanyl; oxyde azotique; oxyde nitrique"
+],
+[
+"Definition",
+"A nitrogen oxide which is a free radical, each molecule of which consists of one nitrogen and one oxygen atom."
+],
+[
+"Formula",
+"NO"
+],
+[
+"ChEBI",
+"CHEBI:16480"
+],
+[
+"KEGG",
+"C00533"
+],
+[
+"InChI",
+"InChI=1S/NO/c1-2"
+],
+[
+"InChIKey",
+"MWUXSHHQAYIFBG-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "GTP",
+"class": "SimpleChemical",
+"box": [
+1451.0,
+759.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"GTP(4-)"
+],
+[
+"Synonyms",
+"GTP; guanosine 5'-triphosphate(4-)"
+],
+[
+"Definition",
+"A nucleoside triphosphate(4−) obtained by global deprotonation of the triphosphate OH groups of GTP; major species present at pH 7.3."
+],
+[
+"Formula",
+"C10H12N5O14P3"
+],
+[
+"ChEBI",
+"CHEBI:37565"
+],
+[
+"InChI",
+"InChI=1S/C10H16N5O14P3/c11-10-13-7-4(8(18)14-10)12-2-15(7)9-6(17)5(16)3(27-9)1-26-31(22,23)29-32(24,25)28-30(19,20)21/h2-3,5-6,9,16-17H,1H2,(H,22,23)(H,24,25)(H2,19,20,21)(H3,11,13,14,18)/p-4/t3-,5-,6-,9-/m1/s1"
+],
+[
+"InChIKey",
+"XKMLYUALXHKNFT-UUOKFMHZSA-J"
+]
+]
+},
+{
+"label": "cGMP",
+"class": "SimpleChemical",
+"box": [
+1621.0,
+899.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"3',5'-cyclic GMP"
+],
+[
+"Synonyms",
+"Cyclic GMP; Guanosine 3',5'-cyclic monophosphate; Guanosine 3',5'-cyclic phosphate; Guanosine cyclic monophosphate; cGMP; guanosine 3',5'-(hydrogen phosphate)"
+],
+[
+"Definition",
+"A 3',5'-cyclic purine nucleotide in which the purine nucleobase is specified as guanidine."
+],
+[
+"Formula",
+"C10H12N5O7P"
+],
+[
+"ChEBI",
+"CHEBI:16356"
+],
+[
+"KEGG",
+"C00942"
+],
+[
+"HMDB",
+"HMDB0001314"
+],
+[
+"InChI",
+"InChI=1S/C10H12N5O7P/c11-10-13-7-4(8(17)14-10)12-2-15(7)9-5(16)6-3(21-9)1-20-23(18,19)22-6/h2-3,5-6,9,16H,1H2,(H,18,19)(H3,11,13,14,17)/t3-,5-,6-,9-/m1/s1"
+],
+[
+"InChIKey",
+"ZOOGRGPOEVQQDX-UUOKFMHZSA-N"
+]
+]
+},
+{
+"label": "PPi",
+"class": "SimpleChemical",
+"box": [
+1541.0,
+759.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
+"label": "PRKG1",
+"class": "Macromolecule",
+"box": [
+1741.0,
+759.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"cGMP-dependent protein kinase 1"
+],
+[
+"Alternative names",
+"cGMP-dependent protein kinase I"
+],
+[
+"Function",
+"Serine/threonine protein kinase that acts as a key mediator of the nitric oxide (NO)/cGMP signaling pathway. GMP binding activates PRKG1, which phosphorylates serines and threonines on many cellular proteins."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:9414"
+],
+[
+"HGNC symbol",
+"PRKG1"
+],
+[
+"Previous symbols",
+"PRKGR1B, PRKG1B"
+],
+[
+"Alias symbols",
+"PGK, PKG, PKG1"
+],
+[
+"Entrez",
+"5592"
+],
+[
+"Ensembl",
+"ENSG00000185532"
+],
+[
+"RefSeq",
+"NM_001098512"
+],
+[
+"UniProt",
+"Q13976"
+]
+]
+},
+{
+"label": "PRKG1:cGMP",
+"class": "Complex",
+"box": [
+1885.0,
+872.8,
+152.0,
+92.5
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
+"label": "PRKG1",
+"class": "Macromolecule",
+"box": [
+1897.0,
+888.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"cGMP-dependent protein kinase 1"
+],
+[
+"Alternative names",
+"cGMP-dependent protein kinase I"
+],
+[
+"Function",
+"Serine/threonine protein kinase that acts as a key mediator of the nitric oxide (NO)/cGMP signaling pathway. GMP binding activates PRKG1, which phosphorylates serines and threonines on many cellular proteins."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:9414"
+],
+[
+"HGNC symbol",
+"PRKG1"
+],
+[
+"Previous symbols",
+"PRKGR1B, PRKG1B"
+],
+[
+"Alias symbols",
+"PGK, PKG, PKG1"
+],
+[
+"Entrez",
+"5592"
+],
+[
+"Ensembl",
+"ENSG00000185532"
+],
+[
+"RefSeq",
+"NM_001098512"
+],
+[
+"UniProt",
+"Q13976"
+]
+]
+},
+{
+"label": "cGMP",
+"class": "SimpleChemical",
+"box": [
+1985.0,
+888.8,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"3',5'-cyclic GMP"
+],
+[
+"Synonyms",
+"Cyclic GMP; Guanosine 3',5'-cyclic monophosphate; Guanosine 3',5'-cyclic phosphate; Guanosine cyclic monophosphate; cGMP; guanosine 3',5'-(hydrogen phosphate)"
+],
+[
+"Definition",
+"A 3',5'-cyclic purine nucleotide in which the purine nucleobase is specified as guanidine."
+],
+[
+"Formula",
+"C10H12N5O7P"
+],
+[
+"ChEBI",
+"CHEBI:16356"
+],
+[
+"KEGG",
+"C00942"
+],
+[
+"HMDB",
+"HMDB0001314"
+],
+[
+"InChI",
+"InChI=1S/C10H12N5O7P/c11-10-13-7-4(8(17)14-10)12-2-15(7)9-5(16)6-3(21-9)1-20-23(18,19)22-6/h2-3,5-6,9,16H,1H2,(H,18,19)(H3,11,13,14,17)/t3-,5-,6-,9-/m1/s1"
+],
+[
+"InChIKey",
+"ZOOGRGPOEVQQDX-UUOKFMHZSA-N"
+]
+]
+},
+{
+"label": "VASP",
+"class": "Macromolecule",
+"box": [
+2101.0,
+759.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"Vasodilator-stimulated phosphoprotein"
+],
+[
+"Function",
+"Ena/VASP proteins are actin-associated proteins involved in a range of processes dependent on cytoskeleton remodeling and cell polarity such as axon guidance, lamellipodial and filopodial dynamics, platelet activation and cell migration. VASP promotes actin filament elongation."
+],
+[
+"Location",
+"Cytoplasm, Cytoplasm, cytoskeleton, Cell junction, focal adhesion, Cell junction, tight junction, Cell projection, lamellipodium membrane, Cell projection, filopodium membrane"
+],
+[
+"HGNC",
+"HGNC:12652"
+],
+[
+"HGNC symbol",
+"VASP"
+],
+[
+"Entrez",
+"7408"
+],
+[
+"Ensembl",
+"ENSG00000125753"
+],
+[
+"RefSeq",
+"NM_003370"
+],
+[
+"UniProt",
+"P50552"
+]
+]
+},
+{
+"label": "VASP",
+"class": "Macromolecule",
+"box": [
+2241.0,
+899.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"PTM",
+"Phosphorylated at Ser239, by PKA and PKG/PRKG1"
+],
+[
+"Full name",
+"Vasodilator-stimulated phosphoprotein"
+],
+[
+"Function",
+"Ena/VASP proteins are actin-associated proteins involved in a range of processes dependent on cytoskeleton remodeling and cell polarity such as axon guidance, lamellipodial and filopodial dynamics, platelet activation and cell migration. VASP promotes actin filament elongation."
+],
+[
+"Location",
+"Cytoplasm, Cytoplasm, cytoskeleton, Cell junction, focal adhesion, Cell junction, tight junction, Cell projection, lamellipodium membrane, Cell projection, filopodium membrane"
+],
+[
+"HGNC",
+"HGNC:12652"
+],
+[
+"HGNC symbol",
+"VASP"
+],
+[
+"Entrez",
+"7408"
+],
+[
+"Ensembl",
+"ENSG00000125753"
+],
+[
+"RefSeq",
+"NM_003370"
+],
+[
+"UniProt",
+"P50552"
+]
+]
+},
+{
+"label": "big endothelin-1",
+"class": "Macromolecule",
+"box": [
+1587.0,
+651.0,
+128.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"Endothelin-1"
+],
+[
+"Alternative names",
+"Preproendothelin-1"
+],
+[
+"Function",
+"Endothelins are endothelium-derived vasoconstrictor peptides. Probable ligand for G protein-coupled receptors EDNRA and EDNRB which activates PTK2B, BCAR1, BCAR3 and, GTPases RAP1 and RHOA cascade in glomerular mesangial cells."
+],
+[
+"Location",
+"Secreted"
+],
+[
+"UniProt",
+"P05305"
+]
+]
+},
+{
+"label": "ET-1",
+"class": "Macromolecule",
+"box": [
+1751.0,
+651.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"Endothelin-1"
+],
+[
+"Alternative names",
+"Preproendothelin-1"
+],
+[
+"Function",
+"Endothelins are endothelium-derived vasoconstrictor peptides. Probable ligand for G protein-coupled receptors EDNRA and EDNRB which activates PTK2B, BCAR1, BCAR3 and, GTPases RAP1 and RHOA cascade in glomerular mesangial cells."
+],
+[
+"Location",
+"Secreted"
+],
+[
+"UniProt",
+"P05305"
+]
+]
+},
+{
+"id": "e2kzz4br",
+"label": "",
+"class": "Process",
+"box": [
+241.0,
+907.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"NOS3",
+"ATP"
+],
+"out": [
+"NOS3",
+"ADP"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Münzel T et al.",
+"journal": "Eur Heart J",
+"title": "Effects of noise on vascular function, oxidative stress, and inflammation: mechanistic insight from studies in mice.",
+"year": "2017",
+"db": "pubmed",
+"id": "28329261"
+}
+]
+},
+{
+"id": "y9w44wnc",
+"label": "",
+"class": "Process",
+"box": [
+481.0,
+907.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"NOS3",
+"BH4"
+],
+"out": [
+"NOS3-P:BH4"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Kuzkaya N et al.",
+"journal": "J Biol Chem",
+"title": "Interactions of peroxynitrite, tetrahydrobiopterin, ascorbic acid, and thiols: implications for uncoupling endothelial nitric-oxide synthase.",
+"year": "2003",
+"db": "pubmed",
+"id": "12692136"
+},
+{
+"authors": "Chen CA et al.",
+"journal": "Nature",
+"title": "S-glutathionylation uncouples eNOS and regulates its cellular and vascular function.",
+"year": "2010",
+"db": "pubmed",
+"id": "21179168"
+}
+]
+},
+{
+"id": "g1bi99vx",
+"label": "",
+"class": "Process",
+"box": [
+809.0,
+907.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"L-arginine",
+"O2"
+],
+"out": [
+"L-citrulline",
+"NO"
+],
+"by": [
+"NOS3-P:BH4"
+]
+},
+"references": [
+{
+"authors": "Chen CA et al.",
+"journal": "Nature",
+"title": "S-glutathionylation uncouples eNOS and regulates its cellular and vascular function.",
+"year": "2010",
+"db": "pubmed",
+"id": "21179168"
+}
+]
+},
+{
+"id": "rb1hifud",
+"label": "",
+"class": "Process",
+"box": [
+361.0,
+1227.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"NOS3",
+"GSSG"
+],
+"out": [
+"NOS3",
+"GSH"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Chen CA et al.",
+"journal": "Nature",
+"title": "S-glutathionylation uncouples eNOS and regulates its cellular and vascular function.",
+"year": "2010",
+"db": "pubmed",
+"id": "21179168"
+},
+{
+"authors": "Münzel T et al.",
+"journal": "Eur Heart J",
+"title": "Effects of noise on vascular function, oxidative stress, and inflammation: mechanistic insight from studies in mice.",
+"year": "2017",
+"db": "pubmed",
+"id": "28329261"
+}
+]
+},
+{
+"id": "c3xndln0",
+"label": "",
+"class": "Process",
+"box": [
+689.0,
+1227.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"NADPH",
+"O2"
+],
+"out": [
+"NADP+",
+"O2.-"
+],
+"by": [
+"NOS3"
+]
+},
+"references": [
+{
+"authors": "Chen CA et al.",
+"journal": "Nature",
+"title": "S-glutathionylation uncouples eNOS and regulates its cellular and vascular function.",
+"year": "2010",
+"db": "pubmed",
+"id": "21179168"
+},
+{
+"authors": "Münzel T et al.",
+"journal": "Eur Heart J",
+"title": "Effects of noise on vascular function, oxidative stress, and inflammation: mechanistic insight from studies in mice.",
+"year": "2017",
+"db": "pubmed",
+"id": "28329261"
+}
+]
+},
+{
+"id": "qmyg72ye",
+"label": "",
+"class": "Process",
+"box": [
+999.0,
+1227.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"NO",
+"O2.-"
+],
+"out": [
+"ONOO-"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Kuzkaya N et al.",
+"journal": "J Biol Chem",
+"title": "Interactions of peroxynitrite, tetrahydrobiopterin, ascorbic acid, and thiols: implications for uncoupling endothelial nitric-oxide synthase.",
+"year": "2003",
+"db": "pubmed",
+"id": "12692136"
+},
+{
+"authors": "Münzel T et al.",
+"journal": "Eur Heart J",
+"title": "Effects of noise on vascular function, oxidative stress, and inflammation: mechanistic insight from studies in mice.",
+"year": "2017",
+"db": "pubmed",
+"id": "28329261"
+}
+]
+},
+{
+"id": "miirza4a",
+"label": "",
+"class": "Process",
+"box": [
+1279.0,
+1227.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"ONOO-",
+"BH4"
+],
+"out": [
+"BH3."
+],
+"by": []
+},
+"references": [
+{
+"authors": "Kuzkaya N et al.",
+"journal": "J Biol Chem",
+"title": "Interactions of peroxynitrite, tetrahydrobiopterin, ascorbic acid, and thiols: implications for uncoupling endothelial nitric-oxide synthase.",
+"year": "2003",
+"db": "pubmed",
+"id": "12692136"
+}
+]
+},
+{
+"id": "mg3vwi7z",
+"label": "",
+"class": "Process",
+"box": [
+1899.0,
+659.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"ET-1"
+],
+"out": [
+"ET-1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Münzel T et al.",
+"journal": "Eur Heart J",
+"title": "Effects of noise on vascular function, oxidative stress, and inflammation: mechanistic insight from studies in mice.",
+"year": "2017",
+"db": "pubmed",
+"id": "28329261"
+}
+]
+},
+{
+"id": "inqdqyeh",
+"label": "",
+"class": "Process",
+"box": [
+1069.0,
+907.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"GUCY1A1:GUCY1B1",
+"NO"
+],
+"out": [
+"GUCY1A1:GUCY1B1:NO"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Derbyshire ER et al.",
+"journal": "Annu Rev Biochem",
+"title": "Structure and regulation of soluble guanylate cyclase.",
+"year": "2012",
+"db": "pubmed",
+"id": "22404633"
+}
+]
+},
+{
+"id": "nmn75ytk",
+"label": "",
+"class": "Process",
+"box": [
+1459.0,
+907.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"GTP"
+],
+"out": [
+"cGMP",
+"PPi"
+],
+"by": [
+"GUCY1A1:GUCY1B1:NO"
+]
+},
+"references": [
+{
+"authors": "Derbyshire ER et al.",
+"journal": "Annu Rev Biochem",
+"title": "Structure and regulation of soluble guanylate cyclase.",
+"year": "2012",
+"db": "pubmed",
+"id": "22404633"
+}
+]
+},
+{
+"id": "ngxbg6k1",
+"label": "",
+"class": "Process",
+"box": [
+1769.0,
+907.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PRKG1",
+"cGMP"
+],
+"out": [
+"PRKG1:cGMP"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Oelze M et al.",
+"journal": "Circ Res",
+"title": "Vasodilator-stimulated phosphoprotein serine 239 phosphorylation as a sensitive monitor of defective nitric oxide/cGMP signaling and endothelial dysfunction.",
+"year": "2000",
+"db": "pubmed",
+"id": "11090544"
+}
+]
+},
+{
+"id": "ym8t3i8w",
+"label": "",
+"class": "Process",
+"box": [
+2129.0,
+907.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"VASP",
+"ATP"
+],
+"out": [
+"VASP",
+"ADP"
+],
+"by": [
+"PRKG1:cGMP"
+]
+},
+"references": [
+{
+"authors": "Oelze M et al.",
+"journal": "Circ Res",
+"title": "Vasodilator-stimulated phosphoprotein serine 239 phosphorylation as a sensitive monitor of defective nitric oxide/cGMP signaling and endothelial dysfunction.",
+"year": "2000",
+"db": "pubmed",
+"id": "11090544"
+},
+{
+"authors": "Münzel T et al.",
+"journal": "Eur Heart J",
+"title": "Effects of noise on vascular function, oxidative stress, and inflammation: mechanistic insight from studies in mice.",
+"year": "2017",
+"db": "pubmed",
+"id": "28329261"
+}
+]
+},
+{
+"label": "",
+"class": "EmptySet",
+"box": [
+48.0,
+104.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"blood plasma"
+]
+]
+},
+{
+"label": "",
+"class": "EmptySet",
+"box": [
+48.0,
+224.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"blood plasma"
+]
+]
+},
+{
+"label": "",
+"class": "EmptySet",
+"box": [
+48.0,
+344.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"blood plasma"
+]
+]
+},
+{
+"label": "noradrenaline",
+"class": "SimpleChemical",
+"box": [
+273.0,
+49.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"blood plasma"
+]
+]
+},
+{
+"label": "adrenaline",
+"class": "SimpleChemical",
+"box": [
+273.0,
+149.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"blood plasma"
+]
+]
+},
+{
+"label": "cortisol",
+"class": "SimpleChemical",
+"box": [
+273.0,
+339.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"blood plasma"
+],
+[
+"Full name",
+"cortisol"
+],
+[
+"Synonyms",
+"(11beta)-11,17,21-trihydroxypregn-4-ene-3,20-dione; 11beta,17,21-trihydroxypregn-4-ene-3,20-dione; 11beta,17alpha,21-Trihydroxy-4-pregnene-3,20-dione; 11beta-hydrocortisone; 17-hydroxycorticosterone; 4-pregnen-11beta,17alpha,21-triol-3,20-dione; Hydrocortisone; Kendall's compound F; Reichstein's substance M; hidrocortisona; hydrocortisonum"
+],
+[
+"Definition",
+"A 17α-hydroxy-C21-steroid that is pregn-4-ene substituted by oxo groups at positions 3 and 20 and hydroxy groups at positions 11, 17 and 21. Cortisol is a corticosteroid hormone or glucocorticoid produced by zona fasciculata of the adrenal cortex, which is a part of the adrenal gland. It is usually referred to as the \"stress hormone\" as it is involved in response to stress and anxiety, controlled by corticotropin-releasing hormone (CRH). It increases blood pressure and blood sugar, and reduces immune responses."
+],
+[
+"Formula",
+"C21H30O5"
+],
+[
+"ChEBI",
+"CHEBI:17650"
+],
+[
+"KEGG",
+"C00735"
+],
+[
+"InChI",
+"InChI=1S/C21H30O5/c1-19-7-5-13(23)9-12(19)3-4-14-15-6-8-21(26,17(25)11-22)20(15,2)10-16(24)18(14)19/h9,14-16,18,22,24,26H,3-8,10-11H2,1-2H3/t14-,15-,16-,18+,19-,20-,21-/m0/s1"
+],
+[
+"InChIKey",
+"JYGXADMDTFJGBT-VWUMJDOOSA-N"
+]
+]
+},
+{
+"label": "angiotensin II",
+"class": "Macromolecule",
+"box": [
+237.0,
+219.0,
+112.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"blood plasma"
+],
+[
+"Full name",
+"Angiotensinogen"
+],
+[
+"Alternative names",
+"Serpin A8"
+],
+[
+"Function",
+"Essential component of the renin-angiotensin system (RAS), a potent regulator of blood pressure, body fluid and electrolyte homeostasis"
+],
+[
+"Location",
+"Secreted"
+],
+[
+"UniProt",
+"P01019"
+]
+]
+},
+{
+"label": "ET-1",
+"class": "Macromolecule",
+"box": [
+1871.0,
+219.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"blood plasma"
+],
+[
+"Full name",
+"Endothelin-1"
+],
+[
+"Alternative names",
+"Preproendothelin-1"
+],
+[
+"Function",
+"Endothelins are endothelium-derived vasoconstrictor peptides. Probable ligand for G protein-coupled receptors EDNRA and EDNRB which activates PTK2B, BCAR1, BCAR3 and, GTPases RAP1 and RHOA cascade in glomerular mesangial cells."
+],
+[
+"Location",
+"Secreted"
+],
+[
+"UniProt",
+"P05305"
+]
+]
+},
+{
+"id": "dbbfsv8m",
+"label": "",
+"class": "Process",
+"box": [
+161.0,
+107.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+""
+],
+"out": [
+"noradrenaline",
+"adrenaline"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Münzel T et al.",
+"journal": "Eur Heart J",
+"title": "Effects of noise on vascular function, oxidative stress, and inflammation: mechanistic insight from studies in mice.",
+"year": "2017",
+"db": "pubmed",
+"id": "28329261"
+},
+{
+"authors": "Arregi A et al.",
+"journal": "Environ Sci Pollut Res Int",
+"title": "Road traffic noise exposure and its impact on health: evidence from animal and human studies-chronic stress, inflammation, and oxidative stress as key components of the complex downstream pathway underlying noise-induced non-auditory health effects.",
+"year": "2024",
+"db": "pubmed",
+"id": "38977550"
+}
+]
+},
+{
+"id": "ud0sftou",
+"label": "",
+"class": "Process",
+"box": [
+161.0,
+227.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+""
+],
+"out": [
+"angiotensin II"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Münzel T et al.",
+"journal": "Eur Heart J",
+"title": "Effects of noise on vascular function, oxidative stress, and inflammation: mechanistic insight from studies in mice.",
+"year": "2017",
+"db": "pubmed",
+"id": "28329261"
+},
+{
+"authors": "Münzel T et al.",
+"journal": "EXCLI J",
+"title": "Transportation noise pollution as a cardiovascular risk factor: from epidemiological evidence to mechanistic insights.",
+"year": "2025",
+"db": "pubmed",
+"id": "41552037"
+}
+]
+},
+{
+"id": "umx631zq",
+"label": "",
+"class": "Process",
+"box": [
+161.0,
+347.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+""
+],
+"out": [
+"cortisol"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Münzel T et al.",
+"journal": "Eur Heart J",
+"title": "Effects of noise on vascular function, oxidative stress, and inflammation: mechanistic insight from studies in mice.",
+"year": "2017",
+"db": "pubmed",
+"id": "28329261"
+},
+{
+"authors": "Arregi A et al.",
+"journal": "Environ Sci Pollut Res Int",
+"title": "Road traffic noise exposure and its impact on health: evidence from animal and human studies-chronic stress, inflammation, and oxidative stress as key components of the complex downstream pathway underlying noise-induced non-auditory health effects.",
+"year": "2024",
+"db": "pubmed",
+"id": "38977550"
+}
+]
+},
+{
+"label": "AGTR1",
+"class": "Macromolecule",
+"box": [
+363.0,
+499.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"plasma membrane"
+],
+[
+"Full name",
+"Type-1 angiotensin II receptor"
+],
+[
+"Alternative names",
+"AT1AR; AT1BR; Angiotensin II type-1 receptor"
+],
+[
+"Function",
+"Receptor for angiotensin II, a vasoconstricting peptide, which acts as a key regulator of blood pressure and sodium retention by the kidney. The activated receptor in turn couples to G-alpha proteins G(q) (GNAQ, GNA11, GNA14 or GNA15) and thus activates phospholipase C and increases the cytosolic Ca(2+) concentrations, which in turn triggers cellular responses such as stimulation of protein kinase C"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:336"
+],
+[
+"HGNC symbol",
+"AGTR1"
+],
+[
+"Previous symbols",
+"AGTR1B"
+],
+[
+"Alias symbols",
+"AT1, AT2R1, AGTR1A, AT2R1A, HAT1R, AG2S, AT2R1B, AT1B, ATR1"
+],
+[
+"Entrez",
+"185"
+],
+[
+"Ensembl",
+"ENSG00000144891"
+],
+[
+"RefSeq",
+"NM_000685"
+],
+[
+"UniProt",
+"P30556"
+]
+]
+},
+{
+"label": "angiotensin II:AGTR1",
+"class": "Complex",
+"box": [
+568.5,
+472.8,
+245.0,
+92.5
+],
+"props": [
+[
+"Compartment",
+"plasma membrane"
+]
+]
+},
+{
+"label": "angiotensin II",
+"class": "Macromolecule",
+"box": [
+591.0,
+488.8,
+112.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"plasma membrane"
+],
+[
+"Full name",
+"Angiotensinogen"
+],
+[
+"Alternative names",
+"Serpin A8"
+],
+[
+"Function",
+"Essential component of the renin-angiotensin system (RAS), a potent regulator of blood pressure, body fluid and electrolyte homeostasis"
+],
+[
+"Location",
+"Secreted"
+],
+[
+"UniProt",
+"P01019"
+]
+]
+},
+{
+"label": "AGTR1",
+"class": "Macromolecule",
+"box": [
+721.5,
+488.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"plasma membrane"
+],
+[
+"Full name",
+"Type-1 angiotensin II receptor"
+],
+[
+"Alternative names",
+"AT1AR; AT1BR; Angiotensin II type-1 receptor"
+],
+[
+"Function",
+"Receptor for angiotensin II, a vasoconstricting peptide, which acts as a key regulator of blood pressure and sodium retention by the kidney. The activated receptor in turn couples to G-alpha proteins G(q) (GNAQ, GNA11, GNA14 or GNA15) and thus activates phospholipase C and increases the cytosolic Ca(2+) concentrations, which in turn triggers cellular responses such as stimulation of protein kinase C"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:336"
+],
+[
+"HGNC symbol",
+"AGTR1"
+],
+[
+"Previous symbols",
+"AGTR1B"
+],
+[
+"Alias symbols",
+"AT1, AT2R1, AGTR1A, AT2R1A, HAT1R, AG2S, AT2R1B, AT1B, ATR1"
+],
+[
+"Entrez",
+"185"
+],
+[
+"Ensembl",
+"ENSG00000144891"
+],
+[
+"RefSeq",
+"NM_000685"
+],
+[
+"UniProt",
+"P30556"
+]
+]
+},
+{
+"label": "NOX2 holoenzyme",
+"class": "Complex",
+"box": [
+946.0,
+489.0,
+150.0,
+60.0
+],
+"props": [
+[
+"Compartment",
+"plasma membrane"
+]
+]
+},
+{
+"label": "ECE1",
+"class": "Macromolecule",
+"box": [
+1471.0,
+499.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"plasma membrane"
+],
+[
+"Full name",
+"Endothelin-converting enzyme 1"
+],
+[
+"Function",
+"Converts big endothelin-1 to endothelin-1"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:3146"
+],
+[
+"HGNC symbol",
+"ECE1"
+],
+[
+"Previous symbols",
+"ECE"
+],
+[
+"Entrez",
+"1889"
+],
+[
+"Ensembl",
+"ENSG00000117298"
+],
+[
+"RefSeq",
+"NM_001397"
+],
+[
+"UniProt",
+"P42892"
+]
+]
+},
+{
+"id": "o9ubrqzp",
+"label": "",
+"class": "Process",
+"box": [
+511.0,
+507.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"angiotensin II",
+"AGTR1"
+],
+"out": [
+"angiotensin II:AGTR1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "de Gasparo M et al.",
+"journal": "Pharmacol Rev",
+"title": "International union of pharmacology. XXIII. The angiotensin II receptors.",
+"year": "2000",
+"db": "pubmed",
+"id": "10977869"
+}
+]
+},
+{
+"id": "z7bgmn44",
+"label": "",
+"class": "Process",
+"box": [
+849.0,
+507.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"NADPH",
+"O2"
+],
+"out": [
+"NADP+",
+"O2.-"
+],
+"by": [
+"NOX2 holoenzyme",
+"angiotensin II:AGTR1"
+]
+},
+"references": [
+{
+"authors": "Münzel T et al.",
+"journal": "Eur Heart J",
+"title": "Effects of noise on vascular function, oxidative stress, and inflammation: mechanistic insight from studies in mice.",
+"year": "2017",
+"db": "pubmed",
+"id": "28329261"
+},
+{
+"authors": "Kröller-Schön S et al.",
+"journal": "Eur Heart J",
+"title": "Crucial role for Nox2 and sleep deprivation in aircraft noise-induced vascular and cerebral oxidative stress, inflammation, and gene regulation.",
+"year": "2018",
+"db": "pubmed",
+"id": "29905797"
+},
+{
+"authors": "Frenis K et al.",
+"journal": "Basic Res Cardiol",
+"title": "Ablation of lysozyme M-positive cells prevents aircraft noise-induced vascular damage without improving cerebral side effects.",
+"year": "2021",
+"db": "pubmed",
+"id": "33929610"
+}
+]
+},
+{
+"id": "ygfuj5zf",
+"label": "",
+"class": "Process",
+"box": [
+1639.0,
+507.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"big endothelin-1"
+],
+"out": [
+"ET-1"
+],
+"by": [
+"ECE1",
+"ONOO-"
+]
+},
+"references": [
+{
+"authors": "Schweizer A et al.",
+"journal": "Biochem J",
+"title": "Human endothelin-converting enzyme (ECE-1): three isoforms with distinct subcellular localizations.",
+"year": "1997",
+"db": "pubmed",
+"id": "9396733"
+},
+{
+"authors": "Münzel T et al.",
+"journal": "Eur Heart J",
+"title": "Effects of noise on vascular function, oxidative stress, and inflammation: mechanistic insight from studies in mice.",
+"year": "2017",
+"db": "pubmed",
+"id": "28329261"
+}
+]
+}
+]
+}

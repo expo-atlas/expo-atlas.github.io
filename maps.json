@@ -538,5 +538,32 @@
 ],
 "data": "data/ros-detox-text.json",
 "hasText": true
+},
+{
+"id": "noise-entry",
+"title": "Noise entry: stress hormones to the vascular ROS interface",
+"topic": "Noise entry: stress hormones to the vascular ROS interface",
+"group": "NoiseMap",
+"kind": null,
+"tag": "draft",
+"tab": null,
+"image": "files/noise-entry.svg",
+"width": 2378.0,
+"height": 1446.0,
+"scale": 1,
+"annotation": "data/noise-entry.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/noise-entry.graphml"
+},
+{
+"label": "SVG",
+"url": "files/noise-entry.svg"
+}
+],
+"data": "data/noise-entry-text.json",
+"hasText": true
 }
 ]
