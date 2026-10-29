@@ -4,8 +4,980 @@
 "label": "GCLC",
 "class": "NucleicAcidFeature",
 "box": [
-271.0,
-247.0,
+327.0,
+139.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Glutamate--cysteine ligase catalytic subunit"
+],
+[
+"Alternative names",
+"GCS heavy chain; Gamma-ECS; Gamma-glutamylcysteine synthetase"
+],
+[
+"Function",
+"Catalyzes the ATP-dependent ligation of L-glutamate and L-cysteine and participates in the first and rate-limiting step in glutathione biosynthesis"
+],
+[
+"HGNC",
+"HGNC:4311"
+],
+[
+"HGNC symbol",
+"GCLC"
+],
+[
+"Previous symbols",
+"GLCLC, GLCL"
+],
+[
+"Alias symbols",
+"GCS"
+],
+[
+"Entrez",
+"2729"
+],
+[
+"Ensembl",
+"ENSG00000001084"
+],
+[
+"RefSeq",
+"NM_001197115"
+],
+[
+"UniProt",
+"P48506"
+]
+]
+},
+{
+"label": "H2O2",
+"class": "SimpleChemical",
+"box": [
+1315.0,
+49.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"hydrogen peroxide"
+],
+[
+"Synonyms",
+"H(2)O(2); H2O2; HOOH; Oxydol; [OH(OH)]; bis(hydridooxygen)(O--O); dihydrogen dioxide; dihydrogen peroxide; dihydrogen(peroxide); dioxidane; perhydrol"
+],
+[
+"Definition",
+"An inorganic peroxide consisting of two hydroxy groups joined by a covalent oxygen-oxygen single bond."
+],
+[
+"Formula",
+"H2O2"
+],
+[
+"ChEBI",
+"CHEBI:16240"
+],
+[
+"KEGG",
+"C00027"
+],
+[
+"HMDB",
+"HMDB0003125"
+],
+[
+"InChI",
+"InChI=1S/H2O2/c1-2/h1-2H"
+],
+[
+"InChIKey",
+"MHAJPDPJQMAIIY-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "H2O",
+"class": "SimpleChemical",
+"box": [
+1401.0,
+69.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"water"
+],
+[
+"Synonyms",
+"BOUND WATER; H(2)O; H2O; HOH; Wasser; [OH2]; acqua; agua; aqua; dihydridooxygen; dihydrogen oxide; eau; hydrogen hydroxide; oxidane"
+],
+[
+"Definition",
+"An oxygen hydride consisting of an oxygen atom that is covalently bonded to two hydrogen atoms"
+],
+[
+"Formula",
+"H2O"
+],
+[
+"ChEBI",
+"CHEBI:15377"
+],
+[
+"KEGG",
+"C00001"
+],
+[
+"HMDB",
+"HMDB0002111"
+],
+[
+"InChI",
+"InChI=1S/H2O/h1H2"
+],
+[
+"InChIKey",
+"XLYOFNOQVPJJNP-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "4-hydroxynonenal",
+"class": "SimpleChemical",
+"box": [
+1119.0,
+309.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"5-hydroxy-L-tryptophan zwitterion"
+],
+[
+"Synonyms",
+"(2S)-2-ammonio-3-(5-hydroxy-1H-indol-3-yl)propanoate; (2S)-2-azaniumyl-3-(5-hydroxy-1H-indol-3-yl)propanoate; 5-hydroxy-L-tryptophan"
+],
+[
+"Definition",
+"An amino acid zwitterion arising from transfer of a proton from the carboxy to the amino group of 5-hydroxy-L-tryptophan; major species at pH 7.3."
+],
+[
+"Formula",
+"C11H12N2O3"
+],
+[
+"ChEBI",
+"CHEBI:58266"
+],
+[
+"InChI",
+"InChI=1S/C11H12N2O3/c12-9(11(15)16)3-6-5-13-10-2-1-7(14)4-8(6)10/h1-2,4-5,9,13-14H,3,12H2,(H,15,16)/t9-/m0/s1"
+],
+[
+"InChIKey",
+"LDCYZAJDBXYCGN-VIFPVBQESA-N"
+]
+]
+},
+{
+"label": "GCLC",
+"class": "Macromolecule",
+"box": [
+519.0,
+139.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Glutamate--cysteine ligase catalytic subunit"
+],
+[
+"Alternative names",
+"GCS heavy chain; Gamma-ECS; Gamma-glutamylcysteine synthetase"
+],
+[
+"Function",
+"Catalyzes the ATP-dependent ligation of L-glutamate and L-cysteine and participates in the first and rate-limiting step in glutathione biosynthesis"
+],
+[
+"HGNC",
+"HGNC:4311"
+],
+[
+"HGNC symbol",
+"GCLC"
+],
+[
+"Previous symbols",
+"GLCLC, GLCL"
+],
+[
+"Alias symbols",
+"GCS"
+],
+[
+"Entrez",
+"2729"
+],
+[
+"Ensembl",
+"ENSG00000001084"
+],
+[
+"RefSeq",
+"NM_001197115"
+],
+[
+"UniProt",
+"P48506"
+]
+]
+},
+{
+"label": "GCLM",
+"class": "Macromolecule",
+"box": [
+615.0,
+229.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Glutamate--cysteine ligase regulatory subunit"
+],
+[
+"Alternative names",
+"GCS light chain; Gamma-ECS regulatory subunit; Gamma-glutamylcysteine synthetase regulatory subunit; Glutamate--cysteine ligase modifier subunit"
+],
+[
+"HGNC",
+"HGNC:4312"
+],
+[
+"HGNC symbol",
+"GCLM"
+],
+[
+"Previous symbols",
+"GLCLR"
+],
+[
+"Entrez",
+"2730"
+],
+[
+"Ensembl",
+"ENSG00000023909"
+],
+[
+"RefSeq",
+"NM_002061"
+],
+[
+"UniProt",
+"P48507"
+]
+]
+},
+{
+"label": "GCLC",
+"class": "Macromolecule",
+"box": [
+733.0,
+104.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Glutamate--cysteine ligase catalytic subunit"
+],
+[
+"Alternative names",
+"GCS heavy chain; Gamma-ECS; Gamma-glutamylcysteine synthetase"
+],
+[
+"Function",
+"Catalyzes the ATP-dependent ligation of L-glutamate and L-cysteine and participates in the first and rate-limiting step in glutathione biosynthesis"
+],
+[
+"HGNC",
+"HGNC:4311"
+],
+[
+"HGNC symbol",
+"GCLC"
+],
+[
+"Previous symbols",
+"GLCLC, GLCL"
+],
+[
+"Alias symbols",
+"GCS"
+],
+[
+"Entrez",
+"2729"
+],
+[
+"Ensembl",
+"ENSG00000001084"
+],
+[
+"RefSeq",
+"NM_001197115"
+],
+[
+"UniProt",
+"P48506"
+]
+]
+},
+{
+"label": "GCLM",
+"class": "Macromolecule",
+"box": [
+733.0,
+152.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Glutamate--cysteine ligase regulatory subunit"
+],
+[
+"Alternative names",
+"GCS light chain; Gamma-ECS regulatory subunit; Gamma-glutamylcysteine synthetase regulatory subunit; Glutamate--cysteine ligase modifier subunit"
+],
+[
+"HGNC",
+"HGNC:4312"
+],
+[
+"HGNC symbol",
+"GCLM"
+],
+[
+"Previous symbols",
+"GLCLR"
+],
+[
+"Entrez",
+"2730"
+],
+[
+"Ensembl",
+"ENSG00000023909"
+],
+[
+"RefSeq",
+"NM_002061"
+],
+[
+"UniProt",
+"P48507"
+]
+]
+},
+{
+"label": "GSS",
+"class": "Macromolecule",
+"box": [
+1123.0,
+49.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Glutathione synthetase"
+],
+[
+"Alternative names",
+"Glutathione synthase"
+],
+[
+"Function",
+"Catalyzes the production of glutathione from gamma-glutamylcysteine and glycine in an ATP-dependent manner. Glutathione (gamma-glutamylcysteinylglycine, GSH) is the most abundant intracellular thiol in living aerobic cells and is required for numerous processes including the protection of cells against oxidative damage, amino acid transport, the detoxification of foreign compounds, the maintenance of protein sulfhydryl groups in a reduced state and acts as a cofactor for a number of enzymes."
+],
+[
+"HGNC",
+"HGNC:4624"
+],
+[
+"HGNC symbol",
+"GSS"
+],
+[
+"Entrez",
+"2937"
+],
+[
+"Ensembl",
+"ENSG00000100983"
+],
+[
+"RefSeq",
+"NM_000178"
+],
+[
+"UniProt",
+"P48637"
+]
+]
+},
+{
+"label": "GPX1",
+"class": "Macromolecule",
+"box": [
+1295.0,
+229.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Glutathione peroxidase 1"
+],
+[
+"Alternative names",
+"Cellular glutathione peroxidase; Phospholipid-hydroperoxide glutathione peroxidase GPX1"
+],
+[
+"Function",
+"Catalyzes the reduction of hydroperoxides in a glutathione-dependent manner thus regulating cellular redox homeostasis. Can reduce small soluble hydroperoxides such as H2O2, cumene hydroperoxide and tert-butyl hydroperoxide, as well as several fatty acid-derived hydroperoxides."
+],
+[
+"Location",
+"Cytoplasm, Mitochondrion"
+],
+[
+"HGNC",
+"HGNC:4553"
+],
+[
+"HGNC symbol",
+"GPX1"
+],
+[
+"Entrez",
+"2876"
+],
+[
+"Ensembl",
+"ENSG00000233276"
+],
+[
+"RefSeq",
+"NM_000581"
+],
+[
+"UniProt",
+"P07203"
+]
+]
+},
+{
+"label": "GSTA4",
+"class": "Macromolecule",
+"box": [
+1209.0,
+399.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Glutathione S-transferase A4"
+],
+[
+"Alternative names",
+"GST class-alpha member 4; Glutathione S-transferase A4-4"
+],
+[
+"Function",
+"Conjugation of reduced glutathione to a wide number of exogenous and endogenous hydrophobic electrophiles. This isozyme has a high catalytic efficiency with 4-hydroxyalkenals such as 4-hydroxynonenal (4-HNE)"
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:4629"
+],
+[
+"HGNC symbol",
+"GSTA4"
+],
+[
+"Entrez",
+"2941"
+],
+[
+"Ensembl",
+"ENSG00000170899"
+],
+[
+"RefSeq",
+"NM_001512"
+],
+[
+"UniProt",
+"O15217"
+]
+]
+},
+{
+"label": "GSH",
+"class": "SimpleChemical",
+"box": [
+1229.0,
+139.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"glutathione"
+],
+[
+"Synonyms",
+"5-L-Glutamyl-L-cysteinylglycine; GSH; Glutathione-SH; L-gamma-glutamyl-L-cysteinylglycine; N-(N-gamma-L-Glutamyl-L-cysteinyl)glycine; Reduced glutathione; gamma-L-Glutamyl-L-cysteinyl-glycine"
+],
+[
+"Definition",
+"A tripeptide compound consisting of glutamic acid attached via its side chain to the N-terminus of cysteinylglycine."
+],
+[
+"Formula",
+"C10H17N3O6S"
+],
+[
+"ChEBI",
+"CHEBI:16856"
+],
+[
+"KEGG",
+"C00051"
+],
+[
+"HMDB",
+"HMDB0000125"
+],
+[
+"InChI",
+"InChI=1S/C10H17N3O6S/c11-5(10(18)19)1-2-7(14)13-6(4-20)9(17)12-3-8(15)16/h5-6,20H,1-4,11H2,(H,12,17)(H,13,14)(H,15,16)(H,18,19)/t5-,6-/m0/s1"
+],
+[
+"InChIKey",
+"RWSXRVCMGQZWBV-WDSKDSINSA-N"
+]
+]
+},
+{
+"label": "GSSG",
+"class": "SimpleChemical",
+"box": [
+1401.0,
+209.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"glutathione disulfide"
+],
+[
+"Synonyms",
+"(2S,2'S)-5,5'-[disulfanediylbis({(2R)-3-[(carboxymethyl)amino]-3-oxopropane-1,2-diyl}imino)]bis(2-amino-5-oxopentanoic acid); GSSG; OXIDIZED GLUTATHIONE DISULFIDE; Oxidized glutathione; Oxiglutatione; glutathione disulphide; oxidised glutathione"
+],
+[
+"Formula",
+"C20H32N6O12S2"
+],
+[
+"ChEBI",
+"CHEBI:17858"
+],
+[
+"KEGG",
+"C00127"
+],
+[
+"InChI",
+"InChI=1S/C20H32N6O12S2/c21-9(19(35)36)1-3-13(27)25-11(17(33)23-5-15(29)30)7-39-40-8-12(18(34)24-6-16(31)32)26-14(28)4-2-10(22)20(37)38/h9-12H,1-8,21-22H2,(H,23,33)(H,24,34)(H,25,27)(H,26,28)(H,29,30)(H,31,32)(H,35,36)(H,37,38)/t9-,10-,11-,12-/m0/s1"
+],
+[
+"InChIKey",
+"YPZRWBKMTBYPTK-BJDJZHNGSA-N"
+]
+]
+},
+{
+"label": "glutamate",
+"class": "SimpleChemical",
+"box": [
+871.0,
+49.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"L-glutamate(1-)"
+],
+[
+"Synonyms",
+"(2S)-2-ammoniopentanedioate; L-glutamate; L-glutamic acid monoanion; L-glutamic acid, ion(1-); hydrogen L-glutamate"
+],
+[
+"Definition",
+"An α-amino-acid anion that is the conjugate base of L-glutamic acid, having anionic carboxy groups and a cationic amino group"
+],
+[
+"Formula",
+"C5H8NO4"
+],
+[
+"ChEBI",
+"CHEBI:29985"
+],
+[
+"InChI",
+"InChI=1S/C5H9NO4/c6-3(5(9)10)1-2-4(7)8/h3H,1-2,6H2,(H,7,8)(H,9,10)/p-1/t3-/m0/s1"
+],
+[
+"InChIKey",
+"WHUUTDBJXJRKMK-VKHMYHEASA-M"
+]
+]
+},
+{
+"label": "cysteine",
+"class": "SimpleChemical",
+"box": [
+871.0,
+229.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"L-cysteine zwitterion"
+],
+[
+"Synonyms",
+"(2R)-2-ammonio-3-mercaptopropanoate; (2R)-2-ammonio-3-sulfanylpropanoate; L-cysteine"
+],
+[
+"Formula",
+"C3H7NO2S"
+],
+[
+"ChEBI",
+"CHEBI:35235"
+],
+[
+"InChI",
+"InChI=1S/C3H7NO2S/c4-2(1-7)3(5)6/h2,7H,1,4H2,(H,5,6)/t2-/m0/s1"
+],
+[
+"InChIKey",
+"XUJNEKJLAYXESH-REOHCLBHSA-N"
+]
+]
+},
+{
+"label": "glycine",
+"class": "SimpleChemical",
+"box": [
+1143.0,
+229.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"glycine"
+],
+[
+"Synonyms",
+"Aminoacetic acid; Aminoessigsaeure; G; Gly; Glycin; Glycocoll; Glykokoll; Glyzin; H2N-CH2-COOH; Hgly; Leimzucker; aminoethanoic acid"
+],
+[
+"Definition",
+"The simplest (and the only achiral) proteinogenic amino acid, with a hydrogen atom as its side chain."
+],
+[
+"Formula",
+"C2H5NO2"
+],
+[
+"ChEBI",
+"CHEBI:15428"
+],
+[
+"KEGG",
+"C00037"
+],
+[
+"HMDB",
+"HMDB0000123"
+],
+[
+"InChI",
+"InChI=1S/C2H5NO2/c3-1-2(4)5/h1,3H2,(H,4,5)"
+],
+[
+"InChIKey",
+"DHMQDGOQFOQNFH-UHFFFAOYSA-N"
+]
+]
+},
+{
+"id": "hvk7rowt",
+"label": "",
+"class": "Process",
+"box": [
+451.0,
+147.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"GCLC"
+],
+"out": [
+"GCLC"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Wild AC et al.",
+"journal": "J Biol Chem",
+"title": "Regulation of gamma-glutamylcysteine synthetase subunit gene expression by the transcription factor Nrf2.",
+"year": "1999",
+"db": "pubmed",
+"id": "10559251"
+}
+]
+},
+{
+"id": "famtlxo3",
+"label": "",
+"class": "Process",
+"box": [
+643.0,
+147.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"GCLC",
+"GCLM"
+],
+"out": [
+"GCLC:GCLM"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Lu SC",
+"journal": "Mol Aspects Med",
+"title": "Regulation of glutathione synthesis.",
+"year": "2009",
+"db": "pubmed",
+"id": "18601945"
+}
+]
+},
+{
+"id": "kfpq87j7",
+"label": "",
+"class": "Process",
+"box": [
+879.0,
+147.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"glutamate",
+"cysteine"
+],
+"out": [
+"gamma-glutamylcysteine"
+],
+"by": [
+"GCLC:GCLM"
+]
+},
+"references": [
+{
+"authors": "Lu SC",
+"journal": "Mol Aspects Med",
+"title": "Regulation of glutathione synthesis.",
+"year": "2009",
+"db": "pubmed",
+"id": "18601945"
+}
+]
+},
+{
+"id": "qlzy8qjx",
+"label": "",
+"class": "Process",
+"box": [
+1151.0,
+147.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"gamma-glutamylcysteine",
+"glycine"
+],
+"out": [
+"GSH"
+],
+"by": [
+"GSS"
+]
+},
+"references": [
+{
+"authors": "Njålsson R",
+"journal": "Cell Mol Life Sci",
+"title": "Glutathione synthetase deficiency.",
+"year": "2005",
+"db": "pubmed",
+"id": "15990954"
+}
+]
+},
+{
+"id": "froe1iv9",
+"label": "",
+"class": "Process",
+"box": [
+1323.0,
+147.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"H2O2",
+"GSH"
+],
+"out": [
+"H2O",
+"GSSG"
+],
+"by": [
+"GPX1"
+]
+},
+"references": [
+{
+"authors": "Lubos E et al.",
+"journal": "Antioxid Redox Signal",
+"title": "Glutathione peroxidase-1 in health and disease: from molecular mechanisms to therapeutic opportunities.",
+"year": "2011",
+"db": "pubmed",
+"id": "21087145"
+}
+]
+},
+{
+"id": "i1gqz5q3",
+"label": "",
+"class": "Process",
+"box": [
+1237.0,
+317.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"4-hydroxynonenal",
+"GSH"
+],
+"out": [
+"HNE-glutathione"
+],
+"by": [
+"GSTA4"
+]
+},
+"references": [
+{
+"authors": "Hubatsch I et al.",
+"journal": "Biochem J",
+"title": "Human glutathione transferase A4-4: an alpha class enzyme with high catalytic efficiency in the conjugation of 4-hydroxynonenal and other genotoxic products of lipid peroxidation.",
+"year": "1998",
+"db": "pubmed",
+"id": "9461507"
+},
+{
+"authors": "Dwivedi S et al.",
+"journal": "Toxicology",
+"title": "The course of CCl4 induced hepatotoxicity is altered in mGSTA4-4 null (-/-) mice.",
+"year": "2006",
+"db": "pubmed",
+"id": "16325313"
+}
+]
+},
+{
+"label": "GCLC",
+"class": "NucleicAcidFeature",
+"box": [
+55.0,
+139.0,
 80.0,
 40.0
 ],
@@ -60,8 +1032,8 @@
 "label": "NRF2",
 "class": "Macromolecule",
 "box": [
-61.0,
-217.2,
+151.0,
+229.2,
 80.0,
 40.0
 ],
@@ -120,8 +1092,8 @@
 "label": "MAFG",
 "class": "Macromolecule",
 "box": [
-61.0,
-265.2,
+151.0,
+277.2,
 80.0,
 40.0
 ],
@@ -177,8 +1149,8 @@
 "label": "",
 "class": "Process",
 "box": [
-395.0,
-255.0,
+179.0,
+147.0,
 24.0,
 24.0
 ],
@@ -202,978 +1174,6 @@
 "year": "1999",
 "db": "pubmed",
 "id": "10559251"
-}
-]
-},
-{
-"label": "GCLC",
-"class": "NucleicAcidFeature",
-"box": [
-583.0,
-247.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Glutamate--cysteine ligase catalytic subunit"
-],
-[
-"Alternative names",
-"GCS heavy chain; Gamma-ECS; Gamma-glutamylcysteine synthetase"
-],
-[
-"Function",
-"Catalyzes the ATP-dependent ligation of L-glutamate and L-cysteine and participates in the first and rate-limiting step in glutathione biosynthesis"
-],
-[
-"HGNC",
-"HGNC:4311"
-],
-[
-"HGNC symbol",
-"GCLC"
-],
-[
-"Previous symbols",
-"GLCLC, GLCL"
-],
-[
-"Alias symbols",
-"GCS"
-],
-[
-"Entrez",
-"2729"
-],
-[
-"Ensembl",
-"ENSG00000001084"
-],
-[
-"RefSeq",
-"NM_001197115"
-],
-[
-"UniProt",
-"P48506"
-]
-]
-},
-{
-"label": "H2O2",
-"class": "SimpleChemical",
-"box": [
-1708.0,
-47.0,
-40.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"hydrogen peroxide"
-],
-[
-"Synonyms",
-"H(2)O(2); H2O2; HOOH; Oxydol; [OH(OH)]; bis(hydridooxygen)(O--O); dihydrogen dioxide; dihydrogen peroxide; dihydrogen(peroxide); dioxidane; perhydrol"
-],
-[
-"Definition",
-"An inorganic peroxide consisting of two hydroxy groups joined by a covalent oxygen-oxygen single bond."
-],
-[
-"Formula",
-"H2O2"
-],
-[
-"ChEBI",
-"CHEBI:16240"
-],
-[
-"KEGG",
-"C00027"
-],
-[
-"HMDB",
-"HMDB0003125"
-],
-[
-"InChI",
-"InChI=1S/H2O2/c1-2/h1-2H"
-],
-[
-"InChIKey",
-"MHAJPDPJQMAIIY-UHFFFAOYSA-N"
-]
-]
-},
-{
-"label": "H2O",
-"class": "SimpleChemical",
-"box": [
-1813.0,
-157.0,
-40.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"water"
-],
-[
-"Synonyms",
-"BOUND WATER; H(2)O; H2O; HOH; Wasser; [OH2]; acqua; agua; aqua; dihydridooxygen; dihydrogen oxide; eau; hydrogen hydroxide; oxidane"
-],
-[
-"Definition",
-"An oxygen hydride consisting of an oxygen atom that is covalently bonded to two hydrogen atoms"
-],
-[
-"Formula",
-"H2O"
-],
-[
-"ChEBI",
-"CHEBI:15377"
-],
-[
-"KEGG",
-"C00001"
-],
-[
-"HMDB",
-"HMDB0002111"
-],
-[
-"InChI",
-"InChI=1S/H2O/h1H2"
-],
-[
-"InChIKey",
-"XLYOFNOQVPJJNP-UHFFFAOYSA-N"
-]
-]
-},
-{
-"label": "4-hydroxynonenal",
-"class": "SimpleChemical",
-"box": [
-1372.0,
-567.0,
-40.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"5-hydroxy-L-tryptophan zwitterion"
-],
-[
-"Synonyms",
-"(2S)-2-ammonio-3-(5-hydroxy-1H-indol-3-yl)propanoate; (2S)-2-azaniumyl-3-(5-hydroxy-1H-indol-3-yl)propanoate; 5-hydroxy-L-tryptophan"
-],
-[
-"Definition",
-"An amino acid zwitterion arising from transfer of a proton from the carboxy to the amino group of 5-hydroxy-L-tryptophan; major species at pH 7.3."
-],
-[
-"Formula",
-"C11H12N2O3"
-],
-[
-"ChEBI",
-"CHEBI:58266"
-],
-[
-"InChI",
-"InChI=1S/C11H12N2O3/c12-9(11(15)16)3-6-5-13-10-2-1-7(14)4-8(6)10/h1-2,4-5,9,13-14H,3,12H2,(H,15,16)/t9-/m0/s1"
-],
-[
-"InChIKey",
-"LDCYZAJDBXYCGN-VIFPVBQESA-N"
-]
-]
-},
-{
-"label": "GCLC",
-"class": "Macromolecule",
-"box": [
-775.0,
-247.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Glutamate--cysteine ligase catalytic subunit"
-],
-[
-"Alternative names",
-"GCS heavy chain; Gamma-ECS; Gamma-glutamylcysteine synthetase"
-],
-[
-"Function",
-"Catalyzes the ATP-dependent ligation of L-glutamate and L-cysteine and participates in the first and rate-limiting step in glutathione biosynthesis"
-],
-[
-"HGNC",
-"HGNC:4311"
-],
-[
-"HGNC symbol",
-"GCLC"
-],
-[
-"Previous symbols",
-"GLCLC, GLCL"
-],
-[
-"Alias symbols",
-"GCS"
-],
-[
-"Entrez",
-"2729"
-],
-[
-"Ensembl",
-"ENSG00000001084"
-],
-[
-"RefSeq",
-"NM_001197115"
-],
-[
-"UniProt",
-"P48506"
-]
-]
-},
-{
-"label": "GCLM",
-"class": "Macromolecule",
-"box": [
-871.0,
-447.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Glutamate--cysteine ligase regulatory subunit"
-],
-[
-"Alternative names",
-"GCS light chain; Gamma-ECS regulatory subunit; Gamma-glutamylcysteine synthetase regulatory subunit; Glutamate--cysteine ligase modifier subunit"
-],
-[
-"HGNC",
-"HGNC:4312"
-],
-[
-"HGNC symbol",
-"GCLM"
-],
-[
-"Previous symbols",
-"GLCLR"
-],
-[
-"Entrez",
-"2730"
-],
-[
-"Ensembl",
-"ENSG00000023909"
-],
-[
-"RefSeq",
-"NM_002061"
-],
-[
-"UniProt",
-"P48507"
-]
-]
-},
-{
-"label": "GCLC",
-"class": "Macromolecule",
-"box": [
-988.0,
-212.8,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Glutamate--cysteine ligase catalytic subunit"
-],
-[
-"Alternative names",
-"GCS heavy chain; Gamma-ECS; Gamma-glutamylcysteine synthetase"
-],
-[
-"Function",
-"Catalyzes the ATP-dependent ligation of L-glutamate and L-cysteine and participates in the first and rate-limiting step in glutathione biosynthesis"
-],
-[
-"HGNC",
-"HGNC:4311"
-],
-[
-"HGNC symbol",
-"GCLC"
-],
-[
-"Previous symbols",
-"GLCLC, GLCL"
-],
-[
-"Alias symbols",
-"GCS"
-],
-[
-"Entrez",
-"2729"
-],
-[
-"Ensembl",
-"ENSG00000001084"
-],
-[
-"RefSeq",
-"NM_001197115"
-],
-[
-"UniProt",
-"P48506"
-]
-]
-},
-{
-"label": "GCLM",
-"class": "Macromolecule",
-"box": [
-988.0,
-260.8,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Glutamate--cysteine ligase regulatory subunit"
-],
-[
-"Alternative names",
-"GCS light chain; Gamma-ECS regulatory subunit; Gamma-glutamylcysteine synthetase regulatory subunit; Glutamate--cysteine ligase modifier subunit"
-],
-[
-"HGNC",
-"HGNC:4312"
-],
-[
-"HGNC symbol",
-"GCLM"
-],
-[
-"Previous symbols",
-"GLCLR"
-],
-[
-"Entrez",
-"2730"
-],
-[
-"Ensembl",
-"ENSG00000023909"
-],
-[
-"RefSeq",
-"NM_002061"
-],
-[
-"UniProt",
-"P48507"
-]
-]
-},
-{
-"label": "GSS",
-"class": "Macromolecule",
-"box": [
-1417.0,
-47.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Glutathione synthetase"
-],
-[
-"Alternative names",
-"Glutathione synthase"
-],
-[
-"Function",
-"Catalyzes the production of glutathione from gamma-glutamylcysteine and glycine in an ATP-dependent manner. Glutathione (gamma-glutamylcysteinylglycine, GSH) is the most abundant intracellular thiol in living aerobic cells and is required for numerous processes including the protection of cells against oxidative damage, amino acid transport, the detoxification of foreign compounds, the maintenance of protein sulfhydryl groups in a reduced state and acts as a cofactor for a number of enzymes."
-],
-[
-"HGNC",
-"HGNC:4624"
-],
-[
-"HGNC symbol",
-"GSS"
-],
-[
-"Entrez",
-"2937"
-],
-[
-"Ensembl",
-"ENSG00000100983"
-],
-[
-"RefSeq",
-"NM_000178"
-],
-[
-"UniProt",
-"P48637"
-]
-]
-},
-{
-"label": "GPX1",
-"class": "Macromolecule",
-"box": [
-1688.0,
-447.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Glutathione peroxidase 1"
-],
-[
-"Alternative names",
-"Cellular glutathione peroxidase; Phospholipid-hydroperoxide glutathione peroxidase GPX1"
-],
-[
-"Function",
-"Catalyzes the reduction of hydroperoxides in a glutathione-dependent manner thus regulating cellular redox homeostasis. Can reduce small soluble hydroperoxides such as H2O2, cumene hydroperoxide and tert-butyl hydroperoxide, as well as several fatty acid-derived hydroperoxides."
-],
-[
-"Location",
-"Cytoplasm, Mitochondrion"
-],
-[
-"HGNC",
-"HGNC:4553"
-],
-[
-"HGNC symbol",
-"GPX1"
-],
-[
-"Entrez",
-"2876"
-],
-[
-"Ensembl",
-"ENSG00000233276"
-],
-[
-"RefSeq",
-"NM_000581"
-],
-[
-"UniProt",
-"P07203"
-]
-]
-},
-{
-"label": "GSTA4",
-"class": "Macromolecule",
-"box": [
-1572.0,
-717.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Glutathione S-transferase A4"
-],
-[
-"Alternative names",
-"GST class-alpha member 4; Glutathione S-transferase A4-4"
-],
-[
-"Function",
-"Conjugation of reduced glutathione to a wide number of exogenous and endogenous hydrophobic electrophiles. This isozyme has a high catalytic efficiency with 4-hydroxyalkenals such as 4-hydroxynonenal (4-HNE)"
-],
-[
-"Location",
-"Cytoplasm"
-],
-[
-"HGNC",
-"HGNC:4629"
-],
-[
-"HGNC symbol",
-"GSTA4"
-],
-[
-"Entrez",
-"2941"
-],
-[
-"Ensembl",
-"ENSG00000170899"
-],
-[
-"RefSeq",
-"NM_001512"
-],
-[
-"UniProt",
-"O15217"
-]
-]
-},
-{
-"label": "GSH",
-"class": "SimpleChemical",
-"box": [
-1592.0,
-247.0,
-40.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"glutathione"
-],
-[
-"Synonyms",
-"5-L-Glutamyl-L-cysteinylglycine; GSH; Glutathione-SH; L-gamma-glutamyl-L-cysteinylglycine; N-(N-gamma-L-Glutamyl-L-cysteinyl)glycine; Reduced glutathione; gamma-L-Glutamyl-L-cysteinyl-glycine"
-],
-[
-"Definition",
-"A tripeptide compound consisting of glutamic acid attached via its side chain to the N-terminus of cysteinylglycine."
-],
-[
-"Formula",
-"C10H17N3O6S"
-],
-[
-"ChEBI",
-"CHEBI:16856"
-],
-[
-"KEGG",
-"C00051"
-],
-[
-"HMDB",
-"HMDB0000125"
-],
-[
-"InChI",
-"InChI=1S/C10H17N3O6S/c11-5(10(18)19)1-2-7(14)13-6(4-20)9(17)12-3-8(15)16/h5-6,20H,1-4,11H2,(H,12,17)(H,13,14)(H,15,16)(H,18,19)/t5-,6-/m0/s1"
-],
-[
-"InChIKey",
-"RWSXRVCMGQZWBV-WDSKDSINSA-N"
-]
-]
-},
-{
-"label": "GSSG",
-"class": "SimpleChemical",
-"box": [
-1813.0,
-337.0,
-40.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"glutathione disulfide"
-],
-[
-"Synonyms",
-"(2S,2'S)-5,5'-[disulfanediylbis({(2R)-3-[(carboxymethyl)amino]-3-oxopropane-1,2-diyl}imino)]bis(2-amino-5-oxopentanoic acid); GSSG; OXIDIZED GLUTATHIONE DISULFIDE; Oxidized glutathione; Oxiglutatione; glutathione disulphide; oxidised glutathione"
-],
-[
-"Formula",
-"C20H32N6O12S2"
-],
-[
-"ChEBI",
-"CHEBI:17858"
-],
-[
-"KEGG",
-"C00127"
-],
-[
-"InChI",
-"InChI=1S/C20H32N6O12S2/c21-9(19(35)36)1-3-13(27)25-11(17(33)23-5-15(29)30)7-39-40-8-12(18(34)24-6-16(31)32)26-14(28)4-2-10(22)20(37)38/h9-12H,1-8,21-22H2,(H,23,33)(H,24,34)(H,25,27)(H,26,28)(H,29,30)(H,31,32)(H,35,36)(H,37,38)/t9-,10-,11-,12-/m0/s1"
-],
-[
-"InChIKey",
-"YPZRWBKMTBYPTK-BJDJZHNGSA-N"
-]
-]
-},
-{
-"label": "glutamate",
-"class": "SimpleChemical",
-"box": [
-1016.0,
-447.0,
-40.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"L-glutamate(1-)"
-],
-[
-"Synonyms",
-"(2S)-2-ammoniopentanedioate; L-glutamate; L-glutamic acid monoanion; L-glutamic acid, ion(1-); hydrogen L-glutamate"
-],
-[
-"Definition",
-"An α-amino-acid anion that is the conjugate base of L-glutamic acid, having anionic carboxy groups and a cationic amino group"
-],
-[
-"Formula",
-"C5H8NO4"
-],
-[
-"ChEBI",
-"CHEBI:29985"
-],
-[
-"InChI",
-"InChI=1S/C5H9NO4/c6-3(5(9)10)1-2-4(7)8/h3H,1-2,6H2,(H,7,8)(H,9,10)/p-1/t3-/m0/s1"
-],
-[
-"InChIKey",
-"WHUUTDBJXJRKMK-VKHMYHEASA-M"
-]
-]
-},
-{
-"label": "cysteine",
-"class": "SimpleChemical",
-"box": [
-1216.0,
-455.0,
-40.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"L-cysteine zwitterion"
-],
-[
-"Synonyms",
-"(2R)-2-ammonio-3-mercaptopropanoate; (2R)-2-ammonio-3-sulfanylpropanoate; L-cysteine"
-],
-[
-"Formula",
-"C3H7NO2S"
-],
-[
-"ChEBI",
-"CHEBI:35235"
-],
-[
-"InChI",
-"InChI=1S/C3H7NO2S/c4-2(1-7)3(5)6/h2,7H,1,4H2,(H,5,6)/t2-/m0/s1"
-],
-[
-"InChIKey",
-"XUJNEKJLAYXESH-REOHCLBHSA-N"
-]
-]
-},
-{
-"label": "glycine",
-"class": "SimpleChemical",
-"box": [
-1437.0,
-447.0,
-40.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"glycine"
-],
-[
-"Synonyms",
-"Aminoacetic acid; Aminoessigsaeure; G; Gly; Glycin; Glycocoll; Glykokoll; Glyzin; H2N-CH2-COOH; Hgly; Leimzucker; aminoethanoic acid"
-],
-[
-"Definition",
-"The simplest (and the only achiral) proteinogenic amino acid, with a hydrogen atom as its side chain."
-],
-[
-"Formula",
-"C2H5NO2"
-],
-[
-"ChEBI",
-"CHEBI:15428"
-],
-[
-"KEGG",
-"C00037"
-],
-[
-"HMDB",
-"HMDB0000123"
-],
-[
-"InChI",
-"InChI=1S/C2H5NO2/c3-1-2(4)5/h1,3H2,(H,4,5)"
-],
-[
-"InChIKey",
-"DHMQDGOQFOQNFH-UHFFFAOYSA-N"
-]
-]
-},
-{
-"id": "hvk7rowt",
-"label": "",
-"class": "Process",
-"box": [
-707.0,
-255.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"GCLC"
-],
-"out": [
-"GCLC"
-],
-"by": []
-},
-"references": [
-{
-"authors": "Wild AC et al.",
-"journal": "J Biol Chem",
-"title": "Regulation of gamma-glutamylcysteine synthetase subunit gene expression by the transcription factor Nrf2.",
-"year": "1999",
-"db": "pubmed",
-"id": "10559251"
-}
-]
-},
-{
-"id": "famtlxo3",
-"label": "",
-"class": "Process",
-"box": [
-899.0,
-255.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"GCLC",
-"GCLM"
-],
-"out": [
-"GCLC:GCLM"
-],
-"by": []
-},
-"references": [
-{
-"authors": "Lu SC",
-"journal": "Mol Aspects Med",
-"title": "Regulation of glutathione synthesis.",
-"year": "2009",
-"db": "pubmed",
-"id": "18601945"
-}
-]
-},
-{
-"id": "kfpq87j7",
-"label": "",
-"class": "Process",
-"box": [
-1124.0,
-255.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"glutamate",
-"cysteine"
-],
-"out": [
-"gamma-glutamylcysteine"
-],
-"by": [
-"GCLC:GCLM"
-]
-},
-"references": [
-{
-"authors": "Lu SC",
-"journal": "Mol Aspects Med",
-"title": "Regulation of glutathione synthesis.",
-"year": "2009",
-"db": "pubmed",
-"id": "18601945"
-}
-]
-},
-{
-"id": "qlzy8qjx",
-"label": "",
-"class": "Process",
-"box": [
-1445.0,
-255.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"gamma-glutamylcysteine",
-"glycine"
-],
-"out": [
-"GSH"
-],
-"by": [
-"GSS"
-]
-},
-"references": [
-{
-"authors": "Njålsson R",
-"journal": "Cell Mol Life Sci",
-"title": "Glutathione synthetase deficiency.",
-"year": "2005",
-"db": "pubmed",
-"id": "15990954"
-}
-]
-},
-{
-"id": "froe1iv9",
-"label": "",
-"class": "Process",
-"box": [
-1716.0,
-255.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"H2O2",
-"GSH"
-],
-"out": [
-"H2O",
-"GSSG"
-],
-"by": [
-"GPX1"
-]
-},
-"references": [
-{
-"authors": "Lubos E et al.",
-"journal": "Antioxid Redox Signal",
-"title": "Glutathione peroxidase-1 in health and disease: from molecular mechanisms to therapeutic opportunities.",
-"year": "2011",
-"db": "pubmed",
-"id": "21087145"
-}
-]
-},
-{
-"id": "i1gqz5q3",
-"label": "",
-"class": "Process",
-"box": [
-1600.0,
-575.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"4-hydroxynonenal",
-"GSH"
-],
-"out": [
-"HNE-glutathione"
-],
-"by": [
-"GSTA4"
-]
-},
-"references": [
-{
-"authors": "Hubatsch I et al.",
-"journal": "Biochem J",
-"title": "Human glutathione transferase A4-4: an alpha class enzyme with high catalytic efficiency in the conjugation of 4-hydroxynonenal and other genotoxic products of lipid peroxidation.",
-"year": "1998",
-"db": "pubmed",
-"id": "9461507"
-},
-{
-"authors": "Dwivedi S et al.",
-"journal": "Toxicology",
-"title": "The course of CCl4 induced hepatotoxicity is altered in mGSTA4-4 null (-/-) mice.",
-"year": "2006",
-"db": "pubmed",
-"id": "16325313"
 }
 ]
 }

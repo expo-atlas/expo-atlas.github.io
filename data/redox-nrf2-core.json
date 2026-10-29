@@ -4,8 +4,8 @@
 "label": "NFE2L2",
 "class": "NucleicAcidFeature",
 "box": [
-1375.0,
-183.0,
+622.0,
+163.0,
 80.0,
 40.0
 ],
@@ -60,7 +60,7 @@
 "label": "KEAP1",
 "class": "NucleicAcidFeature",
 "box": [
-1375.0,
+553.0,
 63.0,
 80.0,
 40.0
@@ -116,487 +116,8 @@
 "label": "NRF2",
 "class": "Macromolecule",
 "box": [
-1375.0,
-403.0,
-80.0,
-40.0
-],
-"props": [
-[
-"PTM",
-" at Lys"
-],
-[
-"Full name",
-"Nuclear factor erythroid 2-related factor 2"
-],
-[
-"Alternative names",
-"Nuclear factor, erythroid derived 2, like 2"
-],
-[
-"Function",
-"Transcription factor that plays a key role in the response to oxidative stress: binds to antioxidant response (ARE) elements present in the promoter region of many cytoprotective genes, such as phase 2 detoxifying enzymes, and promotes their expression, thereby neutralizing reactive electrophiles. In normal conditions, ubiquitinated and degraded in the cytoplasm by the BCR(KEAP1) complex."
-],
-[
-"Location",
-"Cytoplasm, cytosol, Nucleus"
-],
-[
-"HGNC",
-"HGNC:7782"
-],
-[
-"HGNC symbol",
-"NFE2L2"
-],
-[
-"Alias symbols",
-"NRF2, NRF-2"
-],
-[
-"Entrez",
-"4780"
-],
-[
-"Ensembl",
-"ENSG00000116044"
-],
-[
-"RefSeq",
-"NM_006164"
-],
-[
-"UniProt",
-"Q16236"
-]
-]
-},
-{
-"label": "NRF2",
-"class": "Macromolecule",
-"box": [
-1655.0,
-373.2,
-80.0,
-40.0
-],
-"props": [
-[
-"PTM",
-" at Lys"
-],
-[
-"Full name",
-"Nuclear factor erythroid 2-related factor 2"
-],
-[
-"Alternative names",
-"Nuclear factor, erythroid derived 2, like 2"
-],
-[
-"Function",
-"Transcription factor that plays a key role in the response to oxidative stress: binds to antioxidant response (ARE) elements present in the promoter region of many cytoprotective genes, such as phase 2 detoxifying enzymes, and promotes their expression, thereby neutralizing reactive electrophiles. In normal conditions, ubiquitinated and degraded in the cytoplasm by the BCR(KEAP1) complex."
-],
-[
-"Location",
-"Cytoplasm, cytosol, Nucleus"
-],
-[
-"HGNC",
-"HGNC:7782"
-],
-[
-"HGNC symbol",
-"NFE2L2"
-],
-[
-"Alias symbols",
-"NRF2, NRF-2"
-],
-[
-"Entrez",
-"4780"
-],
-[
-"Ensembl",
-"ENSG00000116044"
-],
-[
-"RefSeq",
-"NM_006164"
-],
-[
-"UniProt",
-"Q16236"
-]
-]
-},
-{
-"label": "MAFG",
-"class": "Macromolecule",
-"box": [
-1655.0,
-421.2,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Transcription factor MafG"
-],
-[
-"Alternative names",
-"V-maf musculoaponeurotic fibrosarcoma oncogene homolog G; hMAF"
-],
-[
-"Function",
-"Since they lack a putative transactivation domain, the small Mafs behave as transcriptional repressors when they dimerize among themselves. However, they seem to serve as transcriptional activators by dimerizing with other (usually larger) basic-zipper proteins, such as NFE2, NFE2L1 and NFE2L2, and recruiting them to specific DNA-binding sites."
-],
-[
-"Location",
-"Nucleus"
-],
-[
-"HGNC",
-"HGNC:6781"
-],
-[
-"HGNC symbol",
-"MAFG"
-],
-[
-"Alias symbols",
-"MGC13090, MGC20149"
-],
-[
-"Entrez",
-"4097"
-],
-[
-"Ensembl",
-"ENSG00000197063"
-],
-[
-"RefSeq",
-"NM_002359"
-],
-[
-"UniProt",
-"O15525"
-]
-]
-},
-{
-"label": "MAFG",
-"class": "Macromolecule",
-"box": [
-1445.0,
-313.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Transcription factor MafG"
-],
-[
-"Alternative names",
-"V-maf musculoaponeurotic fibrosarcoma oncogene homolog G; hMAF"
-],
-[
-"Function",
-"Since they lack a putative transactivation domain, the small Mafs behave as transcriptional repressors when they dimerize among themselves. However, they seem to serve as transcriptional activators by dimerizing with other (usually larger) basic-zipper proteins, such as NFE2, NFE2L1 and NFE2L2, and recruiting them to specific DNA-binding sites."
-],
-[
-"Location",
-"Nucleus"
-],
-[
-"HGNC",
-"HGNC:6781"
-],
-[
-"HGNC symbol",
-"MAFG"
-],
-[
-"Alias symbols",
-"MGC13090, MGC20149"
-],
-[
-"Entrez",
-"4097"
-],
-[
-"Ensembl",
-"ENSG00000197063"
-],
-[
-"RefSeq",
-"NM_002359"
-],
-[
-"UniProt",
-"O15525"
-]
-]
-},
-{
-"id": "dwobrv1b",
-"label": "",
-"class": "Process",
-"box": [
-1283.0,
-191.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"NFE2L2"
-],
-"out": [
-"NFE2L2"
-],
-"by": []
-},
-"references": [
-{
-"authors": "Nguyen T et al.",
-"journal": "J Biol Chem",
-"title": "Increased protein stability as a mechanism that enhances Nrf2-mediated transcriptional activation of the antioxidant response element. Degradation of Nrf2 by the 26 S proteasome.",
-"year": "2003",
-"db": "pubmed",
-"id": "12446695"
-}
-]
-},
-{
-"id": "cji40zrm",
-"label": "",
-"class": "Process",
-"box": [
-1283.0,
-411.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"NRF2"
-],
-"out": [
-"NRF2"
-],
-"by": []
-},
-"references": [
-{
-"authors": "Theodore M et al.",
-"journal": "J Biol Chem",
-"title": "Multiple nuclear localization signals function in the nuclear import of the transcription factor Nrf2.",
-"year": "2008",
-"db": "pubmed",
-"id": "18238777"
-}
-]
-},
-{
-"id": "zie245jo",
-"label": "",
-"class": "Process",
-"box": [
-1523.0,
-411.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"NRF2",
-"MAFG"
-],
-"out": [
-"NRF2:MAFG"
-],
-"by": []
-},
-"references": [
-{
-"authors": "Itoh K et al.",
-"journal": "Biochem Biophys Res Commun",
-"title": "An Nrf2/small Maf heterodimer mediates the induction of phase II detoxifying enzyme genes through antioxidant response elements.",
-"year": "1997",
-"db": "pubmed",
-"id": "9240432"
-},
-{
-"authors": "Kimura M et al.",
-"journal": "J Biol Chem",
-"title": "Molecular basis distinguishing the DNA binding profile of Nrf2-Maf heterodimer from that of Maf homodimer.",
-"year": "2007",
-"db": "pubmed",
-"id": "17875642"
-}
-]
-},
-{
-"id": "pc8ow4y5",
-"label": "",
-"class": "Process",
-"box": [
-1283.0,
-71.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"KEAP1"
-],
-"out": [
-"KEAP1"
-],
-"by": [
-"NRF2:MAFG"
-]
-},
-"references": [
-{
-"authors": "Lee OH et al.",
-"journal": "J Biol Chem",
-"title": "An auto-regulatory loop between stress sensors INrf2 and Nrf2 controls their cellular abundance.",
-"year": "2007",
-"db": "pubmed",
-"id": "17925401"
-}
-]
-},
-{
-"label": "NFE2L2",
-"class": "NucleicAcidFeature",
-"box": [
-855.0,
-243.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Nuclear factor erythroid 2-related factor 2"
-],
-[
-"Alternative names",
-"Nuclear factor, erythroid derived 2, like 2"
-],
-[
-"Function",
-"Transcription factor that plays a key role in the response to oxidative stress: binds to antioxidant response (ARE) elements present in the promoter region of many cytoprotective genes, such as phase 2 detoxifying enzymes, and promotes their expression, thereby neutralizing reactive electrophiles. In normal conditions, ubiquitinated and degraded in the cytoplasm by the BCR(KEAP1) complex."
-],
-[
-"Location",
-"Cytoplasm, cytosol, Nucleus"
-],
-[
-"HGNC",
-"HGNC:7782"
-],
-[
-"HGNC symbol",
-"NFE2L2"
-],
-[
-"Alias symbols",
-"NRF2, NRF-2"
-],
-[
-"Entrez",
-"4780"
-],
-[
-"Ensembl",
-"ENSG00000116044"
-],
-[
-"RefSeq",
-"NM_006164"
-],
-[
-"UniProt",
-"Q16236"
-]
-]
-},
-{
-"label": "KEAP1",
-"class": "NucleicAcidFeature",
-"box": [
-1075.0,
-63.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Kelch-like ECH-associated protein 1"
-],
-[
-"Alternative names",
-"Cytosolic inhibitor of Nrf2; Kelch-like protein 19"
-],
-[
-"Function",
-"Substrate-specific adapter of a BCR (BTB-CUL3-RBX1) E3 ubiquitin ligase complex that regulates the response to oxidative stress by targeting NFE2L2/NRF2 for ubiquitination. KEAP1 acts as a key sensor of oxidative and electrophilic stress: in normal conditions, the BCR(KEAP1) complex mediates ubiquitination and degradation of NFE2L2/NRF2, a transcription factor regulating expression of many cytoprotective genes."
-],
-[
-"Location",
-"Cytoplasm, Nucleus"
-],
-[
-"HGNC",
-"HGNC:23177"
-],
-[
-"HGNC symbol",
-"KEAP1"
-],
-[
-"Alias symbols",
-"KIAA0132, MGC10630, MGC1114, MGC20887, MGC4407, MGC9454, INrf2, KLHL19"
-],
-[
-"Entrez",
-"9817"
-],
-[
-"Ensembl",
-"ENSG00000079999"
-],
-[
-"RefSeq",
-"NM_012289"
-],
-[
-"UniProt",
-"Q14145"
-]
-]
-},
-{
-"label": "NRF2",
-"class": "Macromolecule",
-"box": [
-855.0,
-403.0,
+622.0,
+335.0,
 80.0,
 40.0
 ],
@@ -655,8 +176,8 @@
 "label": "KEAP1",
 "class": "Macromolecule",
 "box": [
-588.0,
-513.2,
+410.0,
+391.2,
 80.0,
 40.0
 ],
@@ -715,8 +236,8 @@
 "label": "CUL3",
 "class": "Macromolecule",
 "box": [
-682.0,
-513.2,
+504.0,
+391.2,
 80.0,
 40.0
 ],
@@ -763,8 +284,8 @@
 "label": "RBX1",
 "class": "Macromolecule",
 "box": [
-682.0,
-561.2,
+504.0,
+439.2,
 80.0,
 40.0
 ],
@@ -819,8 +340,8 @@
 "label": "KEAP1",
 "class": "Macromolecule",
 "box": [
-808.0,
-745.8,
+575.0,
+563.8,
 80.0,
 40.0
 ],
@@ -879,8 +400,8 @@
 "label": "CUL3",
 "class": "Macromolecule",
 "box": [
-902.0,
-745.8,
+669.0,
+563.8,
 80.0,
 40.0
 ],
@@ -927,8 +448,8 @@
 "label": "RBX1",
 "class": "Macromolecule",
 "box": [
-902.0,
-808.8,
+669.0,
+626.8,
 80.0,
 40.0
 ],
@@ -983,8 +504,8 @@
 "label": "NRF2",
 "class": "Macromolecule",
 "box": [
-808.0,
-808.8,
+575.0,
+626.8,
 80.0,
 40.0
 ],
@@ -1043,8 +564,8 @@
 "label": "NRF2",
 "class": "Macromolecule",
 "box": [
-855.0,
-1063.0,
+457.0,
+735.0,
 80.0,
 40.0
 ],
@@ -1103,8 +624,8 @@
 "label": "KEAP1",
 "class": "Macromolecule",
 "box": [
-248.0,
-793.2,
+80.0,
+391.2,
 80.0,
 40.0
 ],
@@ -1163,8 +684,8 @@
 "label": "CUL3",
 "class": "Macromolecule",
 "box": [
-342.0,
-793.2,
+174.0,
+391.2,
 80.0,
 40.0
 ],
@@ -1211,8 +732,8 @@
 "label": "RBX1",
 "class": "Macromolecule",
 "box": [
-342.0,
-841.2,
+174.0,
+439.2,
 80.0,
 40.0
 ],
@@ -1267,8 +788,8 @@
 "label": "KEAP1",
 "class": "Macromolecule",
 "box": [
-248.0,
-183.2,
+80.0,
+181.2,
 80.0,
 40.0
 ],
@@ -1327,8 +848,8 @@
 "label": "CUL3",
 "class": "Macromolecule",
 "box": [
-342.0,
-183.2,
+174.0,
+181.2,
 80.0,
 40.0
 ],
@@ -1375,8 +896,8 @@
 "label": "RBX1",
 "class": "Macromolecule",
 "box": [
-342.0,
-231.2,
+174.0,
+229.2,
 80.0,
 40.0
 ],
@@ -1431,8 +952,8 @@
 "label": "H2O2",
 "class": "SimpleChemical",
 "box": [
-115.0,
-373.0,
+312.0,
+121.0,
 40.0,
 40.0
 ],
@@ -1479,8 +1000,8 @@
 "label": "H2O",
 "class": "SimpleChemical",
 "box": [
-475.0,
-343.0,
+402.0,
+121.0,
 40.0,
 40.0
 ],
@@ -1527,8 +1048,8 @@
 "label": "4-hydroxynonenal",
 "class": "SimpleChemical",
 "box": [
-115.0,
-543.0,
+312.0,
+331.0,
 40.0,
 40.0
 ],
@@ -1567,8 +1088,8 @@
 "label": "1,2-naphthoquinone",
 "class": "SimpleChemical",
 "box": [
-115.0,
-1103.0,
+312.0,
+631.0,
 40.0,
 40.0
 ],
@@ -1584,8 +1105,8 @@
 "label": "",
 "class": "Process",
 "box": [
-883.0,
-331.0,
+650.0,
+257.0,
 24.0,
 24.0
 ],
@@ -1623,8 +1144,8 @@
 "label": "",
 "class": "Process",
 "box": [
-883.0,
-631.0,
+650.0,
+429.0,
 24.0,
 24.0
 ],
@@ -1663,8 +1184,8 @@
 "label": "",
 "class": "Process",
 "box": [
-883.0,
-951.0,
+485.0,
+609.0,
 24.0,
 24.0
 ],
@@ -1704,8 +1225,8 @@
 "label": "",
 "class": "Process",
 "box": [
-1003.0,
-1071.0,
+581.0,
+743.0,
 24.0,
 24.0
 ],
@@ -1745,8 +1266,8 @@
 "label": "",
 "class": "Process",
 "box": [
-323.0,
-411.0,
+320.0,
+219.0,
 24.0,
 24.0
 ],
@@ -1778,8 +1299,8 @@
 "label": "",
 "class": "Process",
 "box": [
-323.0,
-651.0,
+320.0,
+429.0,
 24.0,
 24.0
 ],
@@ -1810,8 +1331,8 @@
 "label": "",
 "class": "Process",
 "box": [
-323.0,
-1011.0,
+320.0,
+549.0,
 24.0,
 24.0
 ],
@@ -1850,7 +1371,7 @@
 "label": "",
 "class": "Process",
 "box": [
-983.0,
+485.0,
 71.0,
 24.0,
 24.0
@@ -1873,6 +1394,485 @@
 "year": "2004",
 "db": "pubmed",
 "id": "15282312"
+}
+]
+},
+{
+"label": "NFE2L2",
+"class": "NucleicAcidFeature",
+"box": [
+1027.0,
+163.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Nuclear factor erythroid 2-related factor 2"
+],
+[
+"Alternative names",
+"Nuclear factor, erythroid derived 2, like 2"
+],
+[
+"Function",
+"Transcription factor that plays a key role in the response to oxidative stress: binds to antioxidant response (ARE) elements present in the promoter region of many cytoprotective genes, such as phase 2 detoxifying enzymes, and promotes their expression, thereby neutralizing reactive electrophiles. In normal conditions, ubiquitinated and degraded in the cytoplasm by the BCR(KEAP1) complex."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Nucleus"
+],
+[
+"HGNC",
+"HGNC:7782"
+],
+[
+"HGNC symbol",
+"NFE2L2"
+],
+[
+"Alias symbols",
+"NRF2, NRF-2"
+],
+[
+"Entrez",
+"4780"
+],
+[
+"Ensembl",
+"ENSG00000116044"
+],
+[
+"RefSeq",
+"NM_006164"
+],
+[
+"UniProt",
+"Q16236"
+]
+]
+},
+{
+"label": "KEAP1",
+"class": "NucleicAcidFeature",
+"box": [
+1227.0,
+63.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Kelch-like ECH-associated protein 1"
+],
+[
+"Alternative names",
+"Cytosolic inhibitor of Nrf2; Kelch-like protein 19"
+],
+[
+"Function",
+"Substrate-specific adapter of a BCR (BTB-CUL3-RBX1) E3 ubiquitin ligase complex that regulates the response to oxidative stress by targeting NFE2L2/NRF2 for ubiquitination. KEAP1 acts as a key sensor of oxidative and electrophilic stress: in normal conditions, the BCR(KEAP1) complex mediates ubiquitination and degradation of NFE2L2/NRF2, a transcription factor regulating expression of many cytoprotective genes."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:23177"
+],
+[
+"HGNC symbol",
+"KEAP1"
+],
+[
+"Alias symbols",
+"KIAA0132, MGC10630, MGC1114, MGC20887, MGC4407, MGC9454, INrf2, KLHL19"
+],
+[
+"Entrez",
+"9817"
+],
+[
+"Ensembl",
+"ENSG00000079999"
+],
+[
+"RefSeq",
+"NM_012289"
+],
+[
+"UniProt",
+"Q14145"
+]
+]
+},
+{
+"label": "NRF2",
+"class": "Macromolecule",
+"box": [
+917.0,
+335.0,
+80.0,
+40.0
+],
+"props": [
+[
+"PTM",
+" at Lys"
+],
+[
+"Full name",
+"Nuclear factor erythroid 2-related factor 2"
+],
+[
+"Alternative names",
+"Nuclear factor, erythroid derived 2, like 2"
+],
+[
+"Function",
+"Transcription factor that plays a key role in the response to oxidative stress: binds to antioxidant response (ARE) elements present in the promoter region of many cytoprotective genes, such as phase 2 detoxifying enzymes, and promotes their expression, thereby neutralizing reactive electrophiles. In normal conditions, ubiquitinated and degraded in the cytoplasm by the BCR(KEAP1) complex."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Nucleus"
+],
+[
+"HGNC",
+"HGNC:7782"
+],
+[
+"HGNC symbol",
+"NFE2L2"
+],
+[
+"Alias symbols",
+"NRF2, NRF-2"
+],
+[
+"Entrez",
+"4780"
+],
+[
+"Ensembl",
+"ENSG00000116044"
+],
+[
+"RefSeq",
+"NM_006164"
+],
+[
+"UniProt",
+"Q16236"
+]
+]
+},
+{
+"label": "NRF2",
+"class": "Macromolecule",
+"box": [
+1131.0,
+305.2,
+80.0,
+40.0
+],
+"props": [
+[
+"PTM",
+" at Lys"
+],
+[
+"Full name",
+"Nuclear factor erythroid 2-related factor 2"
+],
+[
+"Alternative names",
+"Nuclear factor, erythroid derived 2, like 2"
+],
+[
+"Function",
+"Transcription factor that plays a key role in the response to oxidative stress: binds to antioxidant response (ARE) elements present in the promoter region of many cytoprotective genes, such as phase 2 detoxifying enzymes, and promotes their expression, thereby neutralizing reactive electrophiles. In normal conditions, ubiquitinated and degraded in the cytoplasm by the BCR(KEAP1) complex."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Nucleus"
+],
+[
+"HGNC",
+"HGNC:7782"
+],
+[
+"HGNC symbol",
+"NFE2L2"
+],
+[
+"Alias symbols",
+"NRF2, NRF-2"
+],
+[
+"Entrez",
+"4780"
+],
+[
+"Ensembl",
+"ENSG00000116044"
+],
+[
+"RefSeq",
+"NM_006164"
+],
+[
+"UniProt",
+"Q16236"
+]
+]
+},
+{
+"label": "MAFG",
+"class": "Macromolecule",
+"box": [
+1131.0,
+353.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Transcription factor MafG"
+],
+[
+"Alternative names",
+"V-maf musculoaponeurotic fibrosarcoma oncogene homolog G; hMAF"
+],
+[
+"Function",
+"Since they lack a putative transactivation domain, the small Mafs behave as transcriptional repressors when they dimerize among themselves. However, they seem to serve as transcriptional activators by dimerizing with other (usually larger) basic-zipper proteins, such as NFE2, NFE2L1 and NFE2L2, and recruiting them to specific DNA-binding sites."
+],
+[
+"Location",
+"Nucleus"
+],
+[
+"HGNC",
+"HGNC:6781"
+],
+[
+"HGNC symbol",
+"MAFG"
+],
+[
+"Alias symbols",
+"MGC13090, MGC20149"
+],
+[
+"Entrez",
+"4097"
+],
+[
+"Ensembl",
+"ENSG00000197063"
+],
+[
+"RefSeq",
+"NM_002359"
+],
+[
+"UniProt",
+"O15525"
+]
+]
+},
+{
+"label": "MAFG",
+"class": "Macromolecule",
+"box": [
+1013.0,
+245.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Transcription factor MafG"
+],
+[
+"Alternative names",
+"V-maf musculoaponeurotic fibrosarcoma oncogene homolog G; hMAF"
+],
+[
+"Function",
+"Since they lack a putative transactivation domain, the small Mafs behave as transcriptional repressors when they dimerize among themselves. However, they seem to serve as transcriptional activators by dimerizing with other (usually larger) basic-zipper proteins, such as NFE2, NFE2L1 and NFE2L2, and recruiting them to specific DNA-binding sites."
+],
+[
+"Location",
+"Nucleus"
+],
+[
+"HGNC",
+"HGNC:6781"
+],
+[
+"HGNC symbol",
+"MAFG"
+],
+[
+"Alias symbols",
+"MGC13090, MGC20149"
+],
+[
+"Entrez",
+"4097"
+],
+[
+"Ensembl",
+"ENSG00000197063"
+],
+[
+"RefSeq",
+"NM_002359"
+],
+[
+"UniProt",
+"O15525"
+]
+]
+},
+{
+"id": "dwobrv1b",
+"label": "",
+"class": "Process",
+"box": [
+959.0,
+171.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"NFE2L2"
+],
+"out": [
+"NFE2L2"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Nguyen T et al.",
+"journal": "J Biol Chem",
+"title": "Increased protein stability as a mechanism that enhances Nrf2-mediated transcriptional activation of the antioxidant response element. Degradation of Nrf2 by the 26 S proteasome.",
+"year": "2003",
+"db": "pubmed",
+"id": "12446695"
+}
+]
+},
+{
+"id": "cji40zrm",
+"label": "",
+"class": "Process",
+"box": [
+839.0,
+343.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"NRF2"
+],
+"out": [
+"NRF2"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Theodore M et al.",
+"journal": "J Biol Chem",
+"title": "Multiple nuclear localization signals function in the nuclear import of the transcription factor Nrf2.",
+"year": "2008",
+"db": "pubmed",
+"id": "18238777"
+}
+]
+},
+{
+"id": "zie245jo",
+"label": "",
+"class": "Process",
+"box": [
+1041.0,
+343.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"NRF2",
+"MAFG"
+],
+"out": [
+"NRF2:MAFG"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Itoh K et al.",
+"journal": "Biochem Biophys Res Commun",
+"title": "An Nrf2/small Maf heterodimer mediates the induction of phase II detoxifying enzyme genes through antioxidant response elements.",
+"year": "1997",
+"db": "pubmed",
+"id": "9240432"
+},
+{
+"authors": "Kimura M et al.",
+"journal": "J Biol Chem",
+"title": "Molecular basis distinguishing the DNA binding profile of Nrf2-Maf heterodimer from that of Maf homodimer.",
+"year": "2007",
+"db": "pubmed",
+"id": "17875642"
+}
+]
+},
+{
+"id": "pc8ow4y5",
+"label": "",
+"class": "Process",
+"box": [
+1159.0,
+71.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"KEAP1"
+],
+"out": [
+"KEAP1"
+],
+"by": [
+"NRF2:MAFG"
+]
+},
+"references": [
+{
+"authors": "Lee OH et al.",
+"journal": "J Biol Chem",
+"title": "An auto-regulatory loop between stress sensors INrf2 and Nrf2 controls their cellular abundance.",
+"year": "2007",
+"db": "pubmed",
+"id": "17925401"
 }
 ]
 }

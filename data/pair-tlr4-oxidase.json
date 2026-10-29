@@ -4,8 +4,8 @@
 "label": "NCF1",
 "class": "Macromolecule",
 "box": [
-1612.0,
-485.0,
+1229.3,
+541.0,
 80.0,
 40.0
 ],
@@ -60,8 +60,8 @@
 "label": "NCF2",
 "class": "Macromolecule",
 "box": [
-1612.0,
-645.0,
+1349.3,
+451.0,
 80.0,
 40.0
 ],
@@ -116,8 +116,8 @@
 "label": "NCF4",
 "class": "Macromolecule",
 "box": [
-1612.0,
-805.0,
+1349.3,
+631.0,
 80.0,
 40.0
 ],
@@ -172,8 +172,8 @@
 "label": "NCF1",
 "class": "Macromolecule",
 "box": [
-1833.0,
-586.8,
+1469.3,
+482.8,
 80.0,
 40.0
 ],
@@ -228,8 +228,8 @@
 "label": "NCF2",
 "class": "Macromolecule",
 "box": [
-1833.0,
-643.8,
+1469.3,
+539.8,
 80.0,
 40.0
 ],
@@ -284,8 +284,8 @@
 "label": "NCF4",
 "class": "Macromolecule",
 "box": [
-1833.0,
-691.8,
+1469.3,
+587.8,
 80.0,
 40.0
 ],
@@ -340,8 +340,8 @@
 "label": "ATP",
 "class": "SimpleChemical",
 "box": [
-1937.0,
-455.0,
+1567.3,
+421.0,
 40.0,
 40.0
 ],
@@ -380,8 +380,8 @@
 "label": "ADP",
 "class": "SimpleChemical",
 "box": [
-1985.0,
-455.0,
+1647.3,
+421.0,
 40.0,
 40.0
 ],
@@ -420,8 +420,8 @@
 "label": "NCF1",
 "class": "Macromolecule",
 "box": [
-2058.0,
-586.8,
+1705.3,
+482.8,
 80.0,
 40.0
 ],
@@ -480,8 +480,8 @@
 "label": "NCF2",
 "class": "Macromolecule",
 "box": [
-2058.0,
-643.8,
+1705.3,
+539.8,
 80.0,
 40.0
 ],
@@ -536,8 +536,8 @@
 "label": "NCF4",
 "class": "Macromolecule",
 "box": [
-2058.0,
-691.8,
+1705.3,
+587.8,
 80.0,
 40.0
 ],
@@ -592,8 +592,8 @@
 "label": "RAC1",
 "class": "Macromolecule",
 "box": [
-2210.0,
-610.8,
+1825.3,
+506.8,
 80.0,
 40.0
 ],
@@ -648,8 +648,8 @@
 "label": "GTP",
 "class": "SimpleChemical",
 "box": [
-2230.0,
-658.8,
+1845.3,
+554.8,
 40.0,
 40.0
 ],
@@ -688,8 +688,8 @@
 "label": "NADPH",
 "class": "SimpleChemical",
 "box": [
-2415.0,
-525.0,
+2207.3,
+425.0,
 40.0,
 40.0
 ],
@@ -736,8 +736,8 @@
 "label": "NADP+",
 "class": "SimpleChemical",
 "box": [
-2575.0,
-525.0,
+2307.3,
+425.0,
 40.0,
 40.0
 ],
@@ -776,8 +776,8 @@
 "label": "H+",
 "class": "SimpleChemical",
 "box": [
-2695.0,
-525.0,
+2387.3,
+425.0,
 40.0,
 40.0
 ],
@@ -821,8 +821,8 @@
 "label": "",
 "class": "Process",
 "box": [
-1744.0,
-653.0,
+1377.3,
+549.0,
 24.0,
 24.0
 ],
@@ -862,8 +862,8 @@
 "label": "",
 "class": "Process",
 "box": [
-1969.0,
-653.0,
+1615.3,
+549.0,
 24.0,
 24.0
 ],
@@ -904,8 +904,8 @@
 "label": "CYBB",
 "class": "Macromolecule",
 "box": [
-1880.0,
-125.0,
+1469.3,
+169.0,
 80.0,
 40.0
 ],
@@ -964,8 +964,8 @@
 "label": "CYBA",
 "class": "Macromolecule",
 "box": [
-1880.0,
-285.0,
+1469.3,
+241.0,
 80.0,
 40.0
 ],
@@ -1020,7 +1020,7 @@
 "label": "CYBB",
 "class": "Macromolecule",
 "box": [
-2093.0,
+1707.3,
 170.8,
 80.0,
 40.0
@@ -1080,7 +1080,7 @@
 "label": "CYBA",
 "class": "Macromolecule",
 "box": [
-2093.0,
+1707.3,
 218.8,
 80.0,
 40.0
@@ -1136,7 +1136,7 @@
 "label": "CYBB",
 "class": "Macromolecule",
 "box": [
-2387.0,
+1943.3,
 137.8,
 80.0,
 40.0
@@ -1196,7 +1196,7 @@
 "label": "CYBA",
 "class": "Macromolecule",
 "box": [
-2475.0,
+2031.3,
 137.8,
 80.0,
 40.0
@@ -1252,7 +1252,7 @@
 "label": "RAC1",
 "class": "Macromolecule",
 "box": [
-2387.0,
+1943.3,
 251.8,
 80.0,
 40.0
@@ -1308,7 +1308,7 @@
 "label": "GTP",
 "class": "SimpleChemical",
 "box": [
-2475.0,
+2031.3,
 251.8,
 40.0,
 40.0
@@ -1348,7 +1348,7 @@
 "label": "NCF1",
 "class": "Macromolecule",
 "box": [
-2387.0,
+1943.3,
 194.8,
 80.0,
 40.0
@@ -1408,7 +1408,7 @@
 "label": "NCF2",
 "class": "Macromolecule",
 "box": [
-2475.0,
+2031.3,
 194.8,
 80.0,
 40.0
@@ -1464,7 +1464,7 @@
 "label": "NCF4",
 "class": "Macromolecule",
 "box": [
-2563.0,
+2119.3,
 194.8,
 80.0,
 40.0
@@ -1521,7 +1521,7 @@
 "label": "",
 "class": "Process",
 "box": [
-2013.0,
+1617.3,
 213.0,
 24.0,
 24.0
@@ -1569,7 +1569,7 @@
 "label": "",
 "class": "Process",
 "box": [
-2238.0,
+1853.3,
 213.0,
 24.0,
 24.0
@@ -1626,7 +1626,7 @@
 "label": "",
 "class": "Process",
 "box": [
-2759.0,
+2265.3,
 213.0,
 24.0,
 24.0
@@ -1682,407 +1682,11 @@
 ]
 },
 {
-"label": "TLR4",
-"class": "Macromolecule",
-"box": [
-342.0,
-380.8,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Toll-like receptor 4"
-],
-[
-"Alternative names",
-"hToll"
-],
-[
-"Function",
-"Transmembrane receptor that functions as a pattern recognition receptor recognizing pathogen- and damage-associated molecular patterns (PAMPs and DAMPs) to induce innate immune responses via downstream signaling pathways. At the plasma membrane, cooperates with LY96 to mediate the innate immune response to bacterial lipopolysaccharide (LPS)."
-],
-[
-"Location",
-"Cell membrane, Early endosome, Cell projection, ruffle"
-],
-[
-"HGNC",
-"HGNC:11850"
-],
-[
-"HGNC symbol",
-"TLR4"
-],
-[
-"Alias symbols",
-"hToll, CD284, TLR-4, ARMD10"
-],
-[
-"Entrez",
-"7099"
-],
-[
-"Ensembl",
-"ENSG00000136869"
-],
-[
-"RefSeq",
-"NM_138554"
-],
-[
-"UniProt",
-"O00206"
-]
-]
-},
-{
-"label": "MD2",
-"class": "Macromolecule",
-"box": [
-342.0,
-428.8,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Lymphocyte antigen 96"
-],
-[
-"Alternative names",
-"ESOP-1; Protein MD-2"
-],
-[
-"Function",
-"Binds bacterial lipopolysaccharide (LPS). Cooperates with TLR4 in the innate immune response to bacterial lipopolysaccharide (LPS), and with TLR2 in the response to cell wall components from Gram-positive and Gram-negative bacteria."
-],
-[
-"Location",
-"Secreted, extracellular space, Secreted"
-],
-[
-"HGNC",
-"HGNC:17156"
-],
-[
-"HGNC symbol",
-"LY96"
-],
-[
-"Alias symbols",
-"MD-2"
-],
-[
-"Entrez",
-"23643"
-],
-[
-"Ensembl",
-"ENSG00000154589"
-],
-[
-"RefSeq",
-"NM_015364"
-],
-[
-"UniProt",
-"Q9Y6Y9"
-]
-]
-},
-{
-"label": "endotoxin",
-"class": "SimpleChemical",
-"box": [
-362.0,
-116.8,
-40.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"lipopolysaccharide"
-],
-[
-"Synonyms",
-"LPS; lipopolysaccharides"
-],
-[
-"Definition",
-"Liposaccharide natural compounds consisting of a trisaccharide repeating unit (two heptose units and octulosonic acid) with oligosaccharide side chains and 3-hydroxytetradecanoic acid units (they are a major constituent of the cell walls of Gram-negative bacteria)."
-],
-[
-"ChEBI",
-"CHEBI:16412"
-],
-[
-"KEGG",
-"C00338"
-]
-]
-},
-{
-"label": "TLR4",
-"class": "Macromolecule",
-"box": [
-342.0,
-164.8,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Toll-like receptor 4"
-],
-[
-"Alternative names",
-"hToll"
-],
-[
-"Function",
-"Transmembrane receptor that functions as a pattern recognition receptor recognizing pathogen- and damage-associated molecular patterns (PAMPs and DAMPs) to induce innate immune responses via downstream signaling pathways. At the plasma membrane, cooperates with LY96 to mediate the innate immune response to bacterial lipopolysaccharide (LPS)."
-],
-[
-"Location",
-"Cell membrane, Early endosome, Cell projection, ruffle"
-],
-[
-"HGNC",
-"HGNC:11850"
-],
-[
-"HGNC symbol",
-"TLR4"
-],
-[
-"Alias symbols",
-"hToll, CD284, TLR-4, ARMD10"
-],
-[
-"Entrez",
-"7099"
-],
-[
-"Ensembl",
-"ENSG00000136869"
-],
-[
-"RefSeq",
-"NM_138554"
-],
-[
-"UniProt",
-"O00206"
-]
-]
-},
-{
-"label": "MD2",
-"class": "Macromolecule",
-"box": [
-342.0,
-212.8,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Lymphocyte antigen 96"
-],
-[
-"Alternative names",
-"ESOP-1; Protein MD-2"
-],
-[
-"Function",
-"Binds bacterial lipopolysaccharide (LPS). Cooperates with TLR4 in the innate immune response to bacterial lipopolysaccharide (LPS), and with TLR2 in the response to cell wall components from Gram-positive and Gram-negative bacteria."
-],
-[
-"Location",
-"Secreted, extracellular space, Secreted"
-],
-[
-"HGNC",
-"HGNC:17156"
-],
-[
-"HGNC symbol",
-"LY96"
-],
-[
-"Alias symbols",
-"MD-2"
-],
-[
-"Entrez",
-"23643"
-],
-[
-"Ensembl",
-"ENSG00000154589"
-],
-[
-"RefSeq",
-"NM_015364"
-],
-[
-"UniProt",
-"Q9Y6Y9"
-]
-]
-},
-{
-"label": "endotoxin",
-"class": "SimpleChemical",
-"box": [
-38.0,
-175.0,
-40.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"lipopolysaccharide"
-],
-[
-"Synonyms",
-"LPS; lipopolysaccharides"
-],
-[
-"Definition",
-"Liposaccharide natural compounds consisting of a trisaccharide repeating unit (two heptose units and octulosonic acid) with oligosaccharide side chains and 3-hydroxytetradecanoic acid units (they are a major constituent of the cell walls of Gram-negative bacteria)."
-],
-[
-"ChEBI",
-"CHEBI:16412"
-],
-[
-"KEGG",
-"C00338"
-]
-]
-},
-{
-"label": "LBP",
-"class": "Macromolecule",
-"box": [
-28.0,
-15.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Lipopolysaccharide-binding protein"
-],
-[
-"Function",
-"Plays a role in the innate immune response. Binds to the lipid A moiety of bacterial lipopolysaccharides (LPS), a glycolipid present in the outer membrane of all Gram-negative bacteria."
-],
-[
-"Location",
-"Secreted, Cytoplasmic granule membrane"
-],
-[
-"HGNC",
-"HGNC:6667"
-],
-[
-"HGNC symbol",
-"LPA"
-],
-[
-"Previous symbols",
-"LP"
-],
-[
-"Alias symbols",
-"Lp(a)"
-],
-[
-"Entrez",
-"4018"
-],
-[
-"Ensembl",
-"ENSG00000198670"
-],
-[
-"RefSeq",
-"NM_005577"
-],
-[
-"UniProt",
-"P18428"
-]
-]
-},
-{
-"label": "CD14",
-"class": "Macromolecule",
-"box": [
-28.0,
-335.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Monocyte differentiation antigen CD14"
-],
-[
-"Alternative names",
-"My23 antigen; Myeloid cell-specific leucine-rich glycoprotein"
-],
-[
-"Function",
-"Coreceptor for bacterial lipopolysaccharide. In concert with LBP, binds to monomeric lipopolysaccharide and delivers it to the LY96/TLR4 complex, thereby mediating the innate immune response to bacterial lipopolysaccharide (LPS)."
-],
-[
-"Location",
-"Cell membrane, Secreted, Membrane raft, Golgi apparatus"
-],
-[
-"HGNC",
-"HGNC:1628"
-],
-[
-"HGNC symbol",
-"CD14"
-],
-[
-"Entrez",
-"929"
-],
-[
-"Ensembl",
-"ENSG00000170458"
-],
-[
-"RefSeq",
-"NM_000591"
-],
-[
-"UniProt",
-"P08571"
-]
-]
-},
-{
 "label": "TIRAP",
 "class": "Macromolecule",
 "box": [
-624.0,
-415.0,
+438.4,
+67.3,
 80.0,
 40.0
 ],
@@ -2137,8 +1741,8 @@
 "label": "MYD88",
 "class": "Macromolecule",
 "box": [
-764.0,
-415.0,
+438.4,
+215.8,
 80.0,
 40.0
 ],
@@ -2185,8 +1789,8 @@
 "label": "TLR4",
 "class": "Macromolecule",
 "box": [
-851.0,
-116.8,
+580.1,
+83.3,
 80.0,
 40.0
 ],
@@ -2241,8 +1845,8 @@
 "label": "TIRAP",
 "class": "Macromolecule",
 "box": [
-851.0,
-164.8,
+580.1,
+131.3,
 80.0,
 40.0
 ],
@@ -2297,8 +1901,8 @@
 "label": "MyD88",
 "class": "Macromolecule",
 "box": [
-851.0,
-212.8,
+580.1,
+179.3,
 80.0,
 40.0
 ],
@@ -2345,8 +1949,8 @@
 "label": "IRAK4",
 "class": "Macromolecule",
 "box": [
-1123.0,
-415.0,
+721.7,
+215.8,
 80.0,
 40.0
 ],
@@ -2401,8 +2005,8 @@
 "label": "MyD88",
 "class": "Macromolecule",
 "box": [
-1280.0,
-140.8,
+851.4,
+107.3,
 80.0,
 40.0
 ],
@@ -2449,8 +2053,8 @@
 "label": "IRAK4",
 "class": "Macromolecule",
 "box": [
-1280.0,
-188.8,
+851.4,
+155.3,
 80.0,
 40.0
 ],
@@ -2502,12 +2106,341 @@
 ]
 },
 {
+"id": "kdvjfh9e_tlr4-nox",
+"label": "",
+"class": "Process",
+"box": [
+466.4,
+149.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"endotoxin:TLR4:MD2",
+"TIRAP",
+"MYD88"
+],
+"out": [
+"TLR4:TIRAP:MyD88"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Kagan JC et al.",
+"journal": "Cell",
+"title": "Phosphoinositide-mediated adaptor recruitment controls Toll-like receptor signaling.",
+"year": "2006",
+"db": "pubmed",
+"id": "16751103"
+}
+]
+},
+{
+"id": "rbgsvcub_tlr4-nox",
+"label": "",
+"class": "Process",
+"box": [
+749.7,
+149.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"TLR4:TIRAP:MyD88",
+"IRAK4"
+],
+"out": [
+"Myddosome"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Lin SC et al.",
+"journal": "Nature",
+"title": "Helical assembly in the MyD88-IRAK4-IRAK2 complex in TLR/IL-1R signalling.",
+"year": "2010",
+"db": "pubmed",
+"id": "20485341"
+},
+{
+"authors": "Motshwene PG et al.",
+"journal": "J Biol Chem",
+"title": "An oligomeric signaling platform formed by the Toll-like receptor signal transducers MyD88 and IRAK-4.",
+"year": "2009",
+"db": "pubmed",
+"id": "19592493"
+}
+]
+},
+{
+"label": "TLR4",
+"class": "Macromolecule",
+"box": [
+254.7,
+412.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Toll-like receptor 4"
+],
+[
+"Alternative names",
+"hToll"
+],
+[
+"Function",
+"Transmembrane receptor that functions as a pattern recognition receptor recognizing pathogen- and damage-associated molecular patterns (PAMPs and DAMPs) to induce innate immune responses via downstream signaling pathways. At the plasma membrane, cooperates with LY96 to mediate the innate immune response to bacterial lipopolysaccharide (LPS)."
+],
+[
+"Location",
+"Cell membrane, Early endosome, Cell projection, ruffle"
+],
+[
+"HGNC",
+"HGNC:11850"
+],
+[
+"HGNC symbol",
+"TLR4"
+],
+[
+"Alias symbols",
+"hToll, CD284, TLR-4, ARMD10"
+],
+[
+"Entrez",
+"7099"
+],
+[
+"Ensembl",
+"ENSG00000136869"
+],
+[
+"RefSeq",
+"NM_138554"
+],
+[
+"UniProt",
+"O00206"
+]
+]
+},
+{
+"label": "MD2",
+"class": "Macromolecule",
+"box": [
+254.7,
+460.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Lymphocyte antigen 96"
+],
+[
+"Alternative names",
+"ESOP-1; Protein MD-2"
+],
+[
+"Function",
+"Binds bacterial lipopolysaccharide (LPS). Cooperates with TLR4 in the innate immune response to bacterial lipopolysaccharide (LPS), and with TLR2 in the response to cell wall components from Gram-positive and Gram-negative bacteria."
+],
+[
+"Location",
+"Secreted, extracellular space, Secreted"
+],
+[
+"HGNC",
+"HGNC:17156"
+],
+[
+"HGNC symbol",
+"LY96"
+],
+[
+"Alias symbols",
+"MD-2"
+],
+[
+"Entrez",
+"23643"
+],
+[
+"Ensembl",
+"ENSG00000154589"
+],
+[
+"RefSeq",
+"NM_015364"
+],
+[
+"UniProt",
+"Q9Y6Y9"
+]
+]
+},
+{
+"label": "endotoxin",
+"class": "SimpleChemical",
+"box": [
+274.7,
+83.3,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"lipopolysaccharide"
+],
+[
+"Synonyms",
+"LPS; lipopolysaccharides"
+],
+[
+"Definition",
+"Liposaccharide natural compounds consisting of a trisaccharide repeating unit (two heptose units and octulosonic acid) with oligosaccharide side chains and 3-hydroxytetradecanoic acid units (they are a major constituent of the cell walls of Gram-negative bacteria)."
+],
+[
+"ChEBI",
+"CHEBI:16412"
+],
+[
+"KEGG",
+"C00338"
+]
+]
+},
+{
+"label": "TLR4",
+"class": "Macromolecule",
+"box": [
+254.7,
+131.3,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Toll-like receptor 4"
+],
+[
+"Alternative names",
+"hToll"
+],
+[
+"Function",
+"Transmembrane receptor that functions as a pattern recognition receptor recognizing pathogen- and damage-associated molecular patterns (PAMPs and DAMPs) to induce innate immune responses via downstream signaling pathways. At the plasma membrane, cooperates with LY96 to mediate the innate immune response to bacterial lipopolysaccharide (LPS)."
+],
+[
+"Location",
+"Cell membrane, Early endosome, Cell projection, ruffle"
+],
+[
+"HGNC",
+"HGNC:11850"
+],
+[
+"HGNC symbol",
+"TLR4"
+],
+[
+"Alias symbols",
+"hToll, CD284, TLR-4, ARMD10"
+],
+[
+"Entrez",
+"7099"
+],
+[
+"Ensembl",
+"ENSG00000136869"
+],
+[
+"RefSeq",
+"NM_138554"
+],
+[
+"UniProt",
+"O00206"
+]
+]
+},
+{
+"label": "MD2",
+"class": "Macromolecule",
+"box": [
+254.7,
+179.3,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Lymphocyte antigen 96"
+],
+[
+"Alternative names",
+"ESOP-1; Protein MD-2"
+],
+[
+"Function",
+"Binds bacterial lipopolysaccharide (LPS). Cooperates with TLR4 in the innate immune response to bacterial lipopolysaccharide (LPS), and with TLR2 in the response to cell wall components from Gram-positive and Gram-negative bacteria."
+],
+[
+"Location",
+"Secreted, extracellular space, Secreted"
+],
+[
+"HGNC",
+"HGNC:17156"
+],
+[
+"HGNC symbol",
+"LY96"
+],
+[
+"Alias symbols",
+"MD-2"
+],
+[
+"Entrez",
+"23643"
+],
+[
+"Ensembl",
+"ENSG00000154589"
+],
+[
+"RefSeq",
+"NM_015364"
+],
+[
+"UniProt",
+"Q9Y6Y9"
+]
+]
+},
+{
 "id": "f1yyjes0_tlr4-nox",
 "label": "",
 "class": "Process",
 "box": [
-202.0,
-183.0,
+282.7,
+314.3,
 24.0,
 24.0
 ],
@@ -2545,83 +2478,150 @@
 ]
 },
 {
-"id": "kdvjfh9e_tlr4-nox",
-"label": "",
-"class": "Process",
+"label": "endotoxin",
+"class": "SimpleChemical",
 "box": [
-722.0,
-183.0,
-24.0,
-24.0
+145.6,
+384.3,
+40.0,
+40.0
 ],
-"props": [],
-"reaction": {
-"in": [
-"endotoxin:TLR4:MD2",
-"TIRAP",
-"MYD88"
+"props": [
+[
+"Full name",
+"lipopolysaccharide"
 ],
-"out": [
-"TLR4:TIRAP:MyD88"
+[
+"Synonyms",
+"LPS; lipopolysaccharides"
 ],
-"by": []
-},
-"references": [
-{
-"authors": "Kagan JC et al.",
-"journal": "Cell",
-"title": "Phosphoinositide-mediated adaptor recruitment controls Toll-like receptor signaling.",
-"year": "2006",
-"db": "pubmed",
-"id": "16751103"
-}
+[
+"Definition",
+"Liposaccharide natural compounds consisting of a trisaccharide repeating unit (two heptose units and octulosonic acid) with oligosaccharide side chains and 3-hydroxytetradecanoic acid units (they are a major constituent of the cell walls of Gram-negative bacteria)."
+],
+[
+"ChEBI",
+"CHEBI:16412"
+],
+[
+"KEGG",
+"C00338"
+]
 ]
 },
 {
-"id": "rbgsvcub_tlr4-nox",
-"label": "",
-"class": "Process",
+"label": "LBP",
+"class": "Macromolecule",
 "box": [
-1151.0,
-183.0,
-24.0,
-24.0
+56.7,
+236.3,
+80.0,
+40.0
 ],
-"props": [],
-"reaction": {
-"in": [
-"TLR4:TIRAP:MyD88",
-"IRAK4"
+"props": [
+[
+"Full name",
+"Lipopolysaccharide-binding protein"
 ],
-"out": [
-"Myddosome"
+[
+"Function",
+"Plays a role in the innate immune response. Binds to the lipid A moiety of bacterial lipopolysaccharides (LPS), a glycolipid present in the outer membrane of all Gram-negative bacteria."
 ],
-"by": []
+[
+"Location",
+"Secreted, Cytoplasmic granule membrane"
+],
+[
+"HGNC",
+"HGNC:6667"
+],
+[
+"HGNC symbol",
+"LPA"
+],
+[
+"Previous symbols",
+"LP"
+],
+[
+"Alias symbols",
+"Lp(a)"
+],
+[
+"Entrez",
+"4018"
+],
+[
+"Ensembl",
+"ENSG00000198670"
+],
+[
+"RefSeq",
+"NM_005577"
+],
+[
+"UniProt",
+"P18428"
+]
+]
 },
-"references": [
 {
-"authors": "Lin SC et al.",
-"journal": "Nature",
-"title": "Helical assembly in the MyD88-IRAK4-IRAK2 complex in TLR/IL-1R signalling.",
-"year": "2010",
-"db": "pubmed",
-"id": "20485341"
-},
-{
-"authors": "Motshwene PG et al.",
-"journal": "J Biol Chem",
-"title": "An oligomeric signaling platform formed by the Toll-like receptor signal transducers MyD88 and IRAK-4.",
-"year": "2009",
-"db": "pubmed",
-"id": "19592493"
-}
+"label": "CD14",
+"class": "Macromolecule",
+"box": [
+58.6,
+306.3,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Monocyte differentiation antigen CD14"
+],
+[
+"Alternative names",
+"My23 antigen; Myeloid cell-specific leucine-rich glycoprotein"
+],
+[
+"Function",
+"Coreceptor for bacterial lipopolysaccharide. In concert with LBP, binds to monomeric lipopolysaccharide and delivers it to the LY96/TLR4 complex, thereby mediating the innate immune response to bacterial lipopolysaccharide (LPS)."
+],
+[
+"Location",
+"Cell membrane, Secreted, Membrane raft, Golgi apparatus"
+],
+[
+"HGNC",
+"HGNC:1628"
+],
+[
+"HGNC symbol",
+"CD14"
+],
+[
+"Entrez",
+"929"
+],
+[
+"Ensembl",
+"ENSG00000170458"
+],
+[
+"RefSeq",
+"NM_000591"
+],
+[
+"UniProt",
+"P08571"
+]
 ]
 },
 {
 "label": "O2",
 "class": "SimpleChemical",
 "box": [
-2751.0,
+2207.3,
 15.0,
 40.0,
 40.0
@@ -2665,7 +2665,7 @@
 "label": "O2.-",
 "class": "SimpleChemical",
 "box": [
-2851.0,
+2307.3,
 15.0,
 40.0,
 40.0
