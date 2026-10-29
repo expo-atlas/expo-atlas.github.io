@@ -19,8 +19,8 @@
               <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="85.5" x="8.0" xml:space="preserve" y="2.0" hasText="true">cytoplasm</y:NodeLabel>
               <y:Shape type="roundrectangle"/>
               <y:State autoResize="false" closed="false" closedHeight="80.0" closedWidth="80.0" innerGraphDisplayEnabled="false"/>
-              <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="0" topF="0.0"/>
-              <y:BorderInsets bottom="21" bottomF="20.75" left="25" leftF="25.0" right="19" rightF="19.0" top="32" topF="32.25"/>
+              <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
+              <y:BorderInsets bottom="21" bottomF="20.75" left="25" leftF="25.0" right="19" rightF="19.0" top="17" topF="17.25"/>
             </y:GroupNode>
             <y:GroupNode>
               <y:Geometry height="740.0" width="1280.0" x="75.0" y="515.0"/>
@@ -449,14 +449,14 @@ P@T356</data><data key="dev_node">rabixuq7</data></node><node id="k4rioz85"><dat
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
-              <y:Geometry height="279.25" width="1272.0" x="-20.0" y="-16.0"/>
+              <y:Geometry height="299.25" width="1272.0" x="-20.0" y="-36.0"/>
               <y:Fill color="#F8F8F8" transparent="false"/>
-              <y:BorderStyle color="#7F7FBF" type="line" width="2.0"/>
+              <y:BorderStyle color="#999999" type="line" width="2.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="171.0" x="8.0" xml:space="preserve" y="2.0" hasText="true">phagosome membrane</y:NodeLabel>
               <y:Shape type="roundrectangle"/>
               <y:State autoResize="false" closed="false" closedHeight="80.0" closedWidth="80.0" innerGraphDisplayEnabled="false"/>
-              <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="0" topF="0.0"/>
-              <y:BorderInsets bottom="25" bottomF="25.0" left="265" leftF="265.0" right="92" rightF="91.75" top="12" topF="12.25"/>
+              <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
+              <y:BorderInsets bottom="25" bottomF="25.0" left="265" leftF="265.0" right="92" rightF="91.75" top="17" topF="17.25"/>
             </y:GroupNode>
             <y:GroupNode>
               <y:Geometry height="740.0" width="1280.0" x="75.0" y="515.0"/>
@@ -466,7 +466,7 @@ P@T356</data><data key="dev_node">rabixuq7</data></node><node id="k4rioz85"><dat
               <y:Shape type="roundrectangle"/>
               <y:State closed="true" closedHeight="740.0" closedWidth="1280.0" innerGraphDisplayEnabled="false"/>
               <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
-              <y:BorderInsets bottom="25" bottomF="25.0" left="265" leftF="265.0" right="92" rightF="91.75" top="2" topF="1.97265625"/>
+              <y:BorderInsets bottom="25" bottomF="25.0" left="265" leftF="265.0" right="92" rightF="91.75" top="22" topF="21.97265625"/>
             </y:GroupNode>
           </y:Realizers>
         </y:ProxyAutoBoundsNode>
@@ -721,9 +721,35 @@ P@T356</data><data key="dev_node">xyhnu4bl</data></node><node id="kgmvk8i0"><dat
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    <data key="d3">pubmed:15238208 pubmed:36241643 pubmed:14630319 pubmed:22881869</data><data key="d4">in vitro</data><data key="d5">The holoenzyme oxidises NADPH on the cytosolic face and reduces oxygen on the far face of the membrane, making superoxide in the lumen</data><data key="dev_node">we3grl30</data></node></graph><data key="dev_node">hvrn9d8a</data></node><node id="p6uqlhk3"><data key="ng">
+    <data key="d3">pubmed:15238208 pubmed:36241643 pubmed:14630319 pubmed:22881869</data><data key="d4">in vitro</data><data key="d5">The holoenzyme oxidises NADPH on the cytosolic face and reduces oxygen on the far face of the membrane, making superoxide in the lumen</data><data key="dev_node">we3grl30</data></node></graph><data key="dev_node">hvrn9d8a</data></node><node id="k5jlfz0x" yfiles.foldertype="group"><data key="ng">
+        <y:ProxyAutoBoundsNode>
+          <y:Realizers active="0">
+            <y:GroupNode>
+              <y:Geometry height="112.0" width="1272.0" x="-20.0" y="-148.0"/>
+              <y:Fill color="#F8F8F8" transparent="false"/>
+              <y:BorderStyle color="#999999" type="line" width="2.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="142.5" x="8.0" xml:space="preserve" y="2.0" hasText="true">phagosome lumen</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State autoResize="false" closed="false" closedHeight="80.0" closedWidth="80.0" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="12" topF="11.5"/>
+              <y:BorderInsets bottom="25" bottomF="25.0" left="1003" leftF="1003.0" right="99" rightF="99.0" top="0" topF="0.0"/>
+            </y:GroupNode>
+            <y:GroupNode>
+              <y:Geometry height="740.0" width="1280.0" x="75.0" y="515.0"/>
+              <y:Fill color="#F8F8F8" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="15.77734375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="49.7275390625" x="615.13623046875" xml:space="preserve" y="0.0">phagosome lumen</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="true" closedHeight="740.0" closedWidth="1280.0" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
+              <y:BorderInsets bottom="25" bottomF="25.0" left="1003" leftF="1003.0" right="99" rightF="99.0" top="1" topF="1.22265625"/>
+            </y:GroupNode>
+          </y:Realizers>
+        </y:ProxyAutoBoundsNode>
+      </data>
+      <graph edgedefault="directed" id="k5jlfz0x:"><node id="p6uqlhk3"><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
-          <y:Geometry height="40.0" width="40.0" x="998.0" y="-90.0"/>
+          <y:Geometry height="40.0" width="40.0" x="998.0" y="-116.0"/>
           <y:Fill color="#EFEDE7" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="19.0" x="10.5" xml:space="preserve" y="9.75" hasText="true">O2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -731,13 +757,13 @@ P@T356</data><data key="dev_node">xyhnu4bl</data></node><node id="kgmvk8i0"><dat
       </data>
     <data key="d1">CHEBI:15379</data><data key="dev_node">p6uqlhk3</data></node><node id="jn84x6yd"><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
-          <y:Geometry height="40.0" width="40.0" x="1098.0" y="-90.0"/>
+          <y:Geometry height="40.0" width="40.0" x="1098.0" y="-116.0"/>
           <y:Fill color="#EFEDE7" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.0" x="1.0" xml:space="preserve" y="9.75" hasText="true">O2.-<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
-    <data key="d1">CHEBI:18421</data><data key="dev_node">jn84x6yd</data></node><edge id="xzqvclx9_c0" source="vge63jei" target="xzqvclx9">
+    <data key="d1">CHEBI:18421</data><data key="dev_node">jn84x6yd</data></node></graph><data key="dev_node">k5jlfz0x</data></node><edge id="xzqvclx9_c0" source="vge63jei" target="xzqvclx9">
       <data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>

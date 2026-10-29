@@ -5,7 +5,7 @@
 "class": "Macromolecule",
 "box": [
 1229.3,
-541.0,
+599.0,
 80.0,
 40.0
 ],
@@ -61,7 +61,7 @@
 "class": "Macromolecule",
 "box": [
 1349.3,
-451.0,
+509.0,
 80.0,
 40.0
 ],
@@ -117,7 +117,7 @@
 "class": "Macromolecule",
 "box": [
 1349.3,
-631.0,
+689.0,
 80.0,
 40.0
 ],
@@ -173,7 +173,7 @@
 "class": "Macromolecule",
 "box": [
 1469.3,
-482.8,
+540.8,
 80.0,
 40.0
 ],
@@ -229,7 +229,7 @@
 "class": "Macromolecule",
 "box": [
 1469.3,
-539.8,
+597.8,
 80.0,
 40.0
 ],
@@ -285,7 +285,7 @@
 "class": "Macromolecule",
 "box": [
 1469.3,
-587.8,
+645.8,
 80.0,
 40.0
 ],
@@ -341,7 +341,7 @@
 "class": "SimpleChemical",
 "box": [
 1567.3,
-421.0,
+479.0,
 40.0,
 40.0
 ],
@@ -381,7 +381,7 @@
 "class": "SimpleChemical",
 "box": [
 1647.3,
-421.0,
+479.0,
 40.0,
 40.0
 ],
@@ -421,7 +421,7 @@
 "class": "Macromolecule",
 "box": [
 1705.3,
-482.8,
+540.8,
 80.0,
 40.0
 ],
@@ -481,7 +481,7 @@
 "class": "Macromolecule",
 "box": [
 1705.3,
-539.8,
+597.8,
 80.0,
 40.0
 ],
@@ -537,7 +537,7 @@
 "class": "Macromolecule",
 "box": [
 1705.3,
-587.8,
+645.8,
 80.0,
 40.0
 ],
@@ -593,7 +593,7 @@
 "class": "Macromolecule",
 "box": [
 1825.3,
-506.8,
+564.8,
 80.0,
 40.0
 ],
@@ -649,7 +649,7 @@
 "class": "SimpleChemical",
 "box": [
 1845.3,
-554.8,
+612.8,
 40.0,
 40.0
 ],
@@ -689,7 +689,7 @@
 "class": "SimpleChemical",
 "box": [
 2207.3,
-425.0,
+483.0,
 40.0,
 40.0
 ],
@@ -737,7 +737,7 @@
 "class": "SimpleChemical",
 "box": [
 2307.3,
-425.0,
+483.0,
 40.0,
 40.0
 ],
@@ -777,7 +777,7 @@
 "class": "SimpleChemical",
 "box": [
 2387.3,
-425.0,
+483.0,
 40.0,
 40.0
 ],
@@ -822,7 +822,7 @@
 "class": "Process",
 "box": [
 1377.3,
-549.0,
+607.0,
 24.0,
 24.0
 ],
@@ -863,7 +863,7 @@
 "class": "Process",
 "box": [
 1615.3,
-549.0,
+607.0,
 24.0,
 24.0
 ],
@@ -905,7 +905,7 @@
 "class": "Macromolecule",
 "box": [
 1469.3,
-169.0,
+227.0,
 80.0,
 40.0
 ],
@@ -965,7 +965,7 @@
 "class": "Macromolecule",
 "box": [
 1469.3,
-241.0,
+299.0,
 80.0,
 40.0
 ],
@@ -1021,7 +1021,7 @@
 "class": "Macromolecule",
 "box": [
 1707.3,
-170.8,
+228.8,
 80.0,
 40.0
 ],
@@ -1081,7 +1081,7 @@
 "class": "Macromolecule",
 "box": [
 1707.3,
-218.8,
+276.8,
 80.0,
 40.0
 ],
@@ -1137,7 +1137,7 @@
 "class": "Macromolecule",
 "box": [
 1943.3,
-137.8,
+195.8,
 80.0,
 40.0
 ],
@@ -1197,7 +1197,7 @@
 "class": "Macromolecule",
 "box": [
 2031.3,
-137.8,
+195.8,
 80.0,
 40.0
 ],
@@ -1253,7 +1253,7 @@
 "class": "Macromolecule",
 "box": [
 1943.3,
-251.8,
+309.8,
 80.0,
 40.0
 ],
@@ -1309,7 +1309,7 @@
 "class": "SimpleChemical",
 "box": [
 2031.3,
-251.8,
+309.8,
 40.0,
 40.0
 ],
@@ -1349,7 +1349,7 @@
 "class": "Macromolecule",
 "box": [
 1943.3,
-194.8,
+252.8,
 80.0,
 40.0
 ],
@@ -1409,7 +1409,7 @@
 "class": "Macromolecule",
 "box": [
 2031.3,
-194.8,
+252.8,
 80.0,
 40.0
 ],
@@ -1465,7 +1465,7 @@
 "class": "Macromolecule",
 "box": [
 2119.3,
-194.8,
+252.8,
 80.0,
 40.0
 ],
@@ -1522,7 +1522,7 @@
 "class": "Process",
 "box": [
 1617.3,
-213.0,
+271.0,
 24.0,
 24.0
 ],
@@ -1570,7 +1570,7 @@
 "class": "Process",
 "box": [
 1853.3,
-213.0,
+271.0,
 24.0,
 24.0
 ],
@@ -1627,7 +1627,7 @@
 "class": "Process",
 "box": [
 2265.3,
-213.0,
+271.0,
 24.0,
 24.0
 ],
@@ -2179,6 +2179,94 @@
 ]
 },
 {
+"label": "O2",
+"class": "SimpleChemical",
+"box": [
+2207.3,
+47.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"dioxygen"
+],
+[
+"Synonyms",
+"Disauerstoff; E 948; E-948; E948; O(2); O2; OXYGEN MOLECULE; Oxygen; [OO]; dioxygene; molecular oxygen"
+],
+[
+"Formula",
+"O2"
+],
+[
+"ChEBI",
+"CHEBI:15379"
+],
+[
+"KEGG",
+"C00007"
+],
+[
+"HMDB",
+"HMDB0001377"
+],
+[
+"InChI",
+"InChI=1S/O2/c1-2"
+],
+[
+"InChIKey",
+"MYMOFIZGZYHOMD-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "O2.-",
+"class": "SimpleChemical",
+"box": [
+2307.3,
+47.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"superoxide"
+],
+[
+"Synonyms",
+"(O2)(.-); Dioxid(1-); Hyperoxid; O2(-); O2(.-); O2-; O2.-; Superoxide anion; dioxidanidyl; dioxide(.1-); dioxide(1-); hiperoxido; hyperoxide; superoxide anion radical; superoxide radical; superoxide radical anion; superoxido; superoxyde"
+],
+[
+"Formula",
+"O2"
+],
+[
+"ChEBI",
+"CHEBI:18421"
+],
+[
+"KEGG",
+"C00704"
+],
+[
+"HMDB",
+"HMDB0002168"
+],
+[
+"InChI",
+"InChI=1S/HO2/c1-2/h1H/p-1"
+],
+[
+"InChIKey",
+"OUUQCZGPVNCOIJ-UHFFFAOYSA-M"
+]
+]
+},
+{
 "label": "TLR4",
 "class": "Macromolecule",
 "box": [
@@ -2614,94 +2702,6 @@
 [
 "UniProt",
 "P08571"
-]
-]
-},
-{
-"label": "O2",
-"class": "SimpleChemical",
-"box": [
-2207.3,
-15.0,
-40.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"dioxygen"
-],
-[
-"Synonyms",
-"Disauerstoff; E 948; E-948; E948; O(2); O2; OXYGEN MOLECULE; Oxygen; [OO]; dioxygene; molecular oxygen"
-],
-[
-"Formula",
-"O2"
-],
-[
-"ChEBI",
-"CHEBI:15379"
-],
-[
-"KEGG",
-"C00007"
-],
-[
-"HMDB",
-"HMDB0001377"
-],
-[
-"InChI",
-"InChI=1S/O2/c1-2"
-],
-[
-"InChIKey",
-"MYMOFIZGZYHOMD-UHFFFAOYSA-N"
-]
-]
-},
-{
-"label": "O2.-",
-"class": "SimpleChemical",
-"box": [
-2307.3,
-15.0,
-40.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"superoxide"
-],
-[
-"Synonyms",
-"(O2)(.-); Dioxid(1-); Hyperoxid; O2(-); O2(.-); O2-; O2.-; Superoxide anion; dioxidanidyl; dioxide(.1-); dioxide(1-); hiperoxido; hyperoxide; superoxide anion radical; superoxide radical; superoxide radical anion; superoxido; superoxyde"
-],
-[
-"Formula",
-"O2"
-],
-[
-"ChEBI",
-"CHEBI:18421"
-],
-[
-"KEGG",
-"C00704"
-],
-[
-"HMDB",
-"HMDB0002168"
-],
-[
-"InChI",
-"InChI=1S/HO2/c1-2/h1H/p-1"
-],
-[
-"InChIKey",
-"OUUQCZGPVNCOIJ-UHFFFAOYSA-M"
 ]
 ]
 }
