@@ -806,6 +806,118 @@
 ]
 },
 {
+"label": "TLR9",
+"class": "Macromolecule",
+"box": [
+47.0,
+575.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"Toll-like receptor 9"
+],
+[
+"Function",
+"Key component of innate and adaptive immunity. TLRs (Toll-like receptors) control host immune response against pathogens through recognition of molecular patterns specific to microorganisms."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Early endosome membrane, Lysosome, Cytoplasmic vesicle, phagosome, Golgi apparatus membrane"
+],
+[
+"HGNC",
+"HGNC:15633"
+],
+[
+"HGNC symbol",
+"TLR9"
+],
+[
+"Alias symbols",
+"CD289"
+],
+[
+"Entrez",
+"54106"
+],
+[
+"Ensembl",
+"ENSG00000239732"
+],
+[
+"RefSeq",
+"NM_017442"
+],
+[
+"UniProt",
+"Q9NR96"
+]
+]
+},
+{
+"label": "UNC93B1",
+"class": "Macromolecule",
+"box": [
+143.0,
+665.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"Protein unc-93 homolog B1"
+],
+[
+"Function",
+"Plays an important role in innate and adaptive immunity by regulating nucleotide-sensing Toll-like receptor (TLR) signaling. Required for the transport of a subset of TLRs (including TLR3, TLR7 and TLR9) from the endoplasmic reticulum to endolysosomes where they can engage pathogen nucleotides and activate signaling cascades."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Endosome, Lysosome, Cytoplasmic vesicle, phagosome"
+],
+[
+"HGNC",
+"HGNC:13481"
+],
+[
+"HGNC symbol",
+"UNC93B1"
+],
+[
+"Alias symbols",
+"UNC93, UNC-93B"
+],
+[
+"Entrez",
+"81622"
+],
+[
+"Ensembl",
+"ENSG00000110057"
+],
+[
+"RefSeq",
+"NM_030930"
+],
+[
+"UniProt",
+"Q9H1C4"
+]
+]
+},
+{
 "label": "MYD88",
 "class": "Macromolecule",
 "box": [
@@ -1950,6 +2062,46 @@
 ]
 },
 {
+"id": "x5kj9cit",
+"label": "",
+"class": "Process",
+"box": [
+171.0,
+583.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"TLR9",
+"UNC93B1"
+],
+"out": [
+"TLR9:UNC93B1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Kim YM et al.",
+"journal": "Nature",
+"title": "UNC93B1 delivers nucleotide-sensing toll-like receptors to endolysosomes.",
+"year": "2008",
+"db": "pubmed",
+"id": "18305481"
+},
+{
+"authors": "Lee BL et al.",
+"journal": "Elife",
+"title": "UNC93B1 mediates differential trafficking of endosomal TLRs.",
+"year": "2013",
+"db": "pubmed",
+"id": "23426999"
+}
+]
+},
+{
 "id": "qgyzcyh2",
 "label": "",
 "class": "Process",
@@ -2601,158 +2753,6 @@
 "year": "2005",
 "db": "pubmed",
 "id": "15800576"
-}
-]
-},
-{
-"label": "TLR9",
-"class": "Macromolecule",
-"box": [
-47.0,
-575.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Compartment",
-"cytoplasm"
-],
-[
-"Full name",
-"Toll-like receptor 9"
-],
-[
-"Function",
-"Key component of innate and adaptive immunity. TLRs (Toll-like receptors) control host immune response against pathogens through recognition of molecular patterns specific to microorganisms."
-],
-[
-"Location",
-"Endoplasmic reticulum membrane, Early endosome membrane, Lysosome, Cytoplasmic vesicle, phagosome, Golgi apparatus membrane"
-],
-[
-"HGNC",
-"HGNC:15633"
-],
-[
-"HGNC symbol",
-"TLR9"
-],
-[
-"Alias symbols",
-"CD289"
-],
-[
-"Entrez",
-"54106"
-],
-[
-"Ensembl",
-"ENSG00000239732"
-],
-[
-"RefSeq",
-"NM_017442"
-],
-[
-"UniProt",
-"Q9NR96"
-]
-]
-},
-{
-"label": "UNC93B1",
-"class": "Macromolecule",
-"box": [
-143.0,
-665.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Compartment",
-"cytoplasm"
-],
-[
-"Full name",
-"Protein unc-93 homolog B1"
-],
-[
-"Function",
-"Plays an important role in innate and adaptive immunity by regulating nucleotide-sensing Toll-like receptor (TLR) signaling. Required for the transport of a subset of TLRs (including TLR3, TLR7 and TLR9) from the endoplasmic reticulum to endolysosomes where they can engage pathogen nucleotides and activate signaling cascades."
-],
-[
-"Location",
-"Endoplasmic reticulum membrane, Endosome, Lysosome, Cytoplasmic vesicle, phagosome"
-],
-[
-"HGNC",
-"HGNC:13481"
-],
-[
-"HGNC symbol",
-"UNC93B1"
-],
-[
-"Alias symbols",
-"UNC93, UNC-93B"
-],
-[
-"Entrez",
-"81622"
-],
-[
-"Ensembl",
-"ENSG00000110057"
-],
-[
-"RefSeq",
-"NM_030930"
-],
-[
-"UniProt",
-"Q9H1C4"
-]
-]
-},
-{
-"id": "x5kj9cit",
-"label": "",
-"class": "Process",
-"box": [
-171.0,
-583.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"TLR9",
-"UNC93B1"
-],
-"out": [
-"TLR9:UNC93B1"
-],
-"by": []
-},
-"references": [
-{
-"authors": "Kim YM et al.",
-"journal": "Nature",
-"title": "UNC93B1 delivers nucleotide-sensing toll-like receptors to endolysosomes.",
-"year": "2008",
-"db": "pubmed",
-"id": "18305481"
-},
-{
-"authors": "Lee BL et al.",
-"journal": "Elife",
-"title": "UNC93B1 mediates differential trafficking of endosomal TLRs.",
-"year": "2013",
-"db": "pubmed",
-"id": "23426999"
 }
 ]
 }
