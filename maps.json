@@ -89,8 +89,8 @@
 "tag": "draft",
 "tab": null,
 "image": "files/redox-nrf2-core.svg",
-"width": 1642.0,
-"height": 1054.0,
+"width": 1534.0,
+"height": 1230.0,
 "scale": 1,
 "annotation": "data/redox-nrf2-core.json",
 "imageError": null,
@@ -213,6 +213,33 @@
 }
 ],
 "data": "data/trial-nrf2-core-hl-lr-text.json",
+"hasText": true
+},
+{
+"id": "trial-nrf2-core-v07",
+"title": "NRF2 core, left to right, nucleus at the end of the cytosol row (v07)",
+"topic": "NRF2 core, left to right, nucleus at the end of the cytosol row (v07)",
+"group": "Trials",
+"kind": null,
+"tag": "draft",
+"tab": null,
+"image": "files/trial-nrf2-core-v07.svg",
+"width": 1642.0,
+"height": 1054.0,
+"scale": 1,
+"annotation": "data/trial-nrf2-core-v07.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/trial-nrf2-core-v07.graphml"
+},
+{
+"label": "SVG",
+"url": "files/trial-nrf2-core-v07.svg"
+}
+],
+"data": "data/trial-nrf2-core-v07-text.json",
 "hasText": true
 },
 {
