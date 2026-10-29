@@ -189,6 +189,33 @@
 "hasText": true
 },
 {
+"id": "nrf2-assembled",
+"title": "KEAP1-NRF2: core, heme and quinone, glutathione assembled (draft)",
+"topic": "KEAP1-NRF2: core, heme and quinone, glutathione assembled (draft)",
+"group": "ExposomeMap",
+"kind": null,
+"tag": "draft",
+"tab": null,
+"image": "files/nrf2-assembled.svg",
+"width": 1918.0,
+"height": 2610.0,
+"scale": 1,
+"annotation": "data/nrf2-assembled.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/nrf2-assembled.graphml"
+},
+{
+"label": "SVG",
+"url": "files/nrf2-assembled.svg"
+}
+],
+"data": "data/nrf2-assembled-text.json",
+"hasText": true
+},
+{
 "id": "metal-redox",
 "title": "Metal Fenton chemistry",
 "topic": "Metal Fenton chemistry",

@@ -1,0 +1,5351 @@
+{
+"nodes": [
+{
+"label": "NFE2L2",
+"class": "NucleicAcidFeature",
+"box": [
+1042.0,
+283.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"Nuclear factor erythroid 2-related factor 2"
+],
+[
+"Alternative names",
+"Nuclear factor, erythroid derived 2, like 2"
+],
+[
+"Function",
+"Transcription factor that plays a key role in the response to oxidative stress: binds to antioxidant response (ARE) elements present in the promoter region of many cytoprotective genes, such as phase 2 detoxifying enzymes, and promotes their expression, thereby neutralizing reactive electrophiles. In normal conditions, ubiquitinated and degraded in the cytoplasm by the BCR(KEAP1) complex."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Nucleus"
+],
+[
+"HGNC",
+"HGNC:7782"
+],
+[
+"HGNC symbol",
+"NFE2L2"
+],
+[
+"Alias symbols",
+"NRF2, NRF-2"
+],
+[
+"Entrez",
+"4780"
+],
+[
+"Ensembl",
+"ENSG00000116044"
+],
+[
+"RefSeq",
+"NM_006164"
+],
+[
+"UniProt",
+"Q16236"
+]
+]
+},
+{
+"label": "",
+"class": "EmptySet",
+"box": [
+981.0,
+374.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
+"label": "KEAP1",
+"class": "NucleicAcidFeature",
+"box": [
+983.0,
+63.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"Kelch-like ECH-associated protein 1"
+],
+[
+"Alternative names",
+"Cytosolic inhibitor of Nrf2; Kelch-like protein 19"
+],
+[
+"Function",
+"Substrate-specific adapter of a BCR (BTB-CUL3-RBX1) E3 ubiquitin ligase complex that regulates the response to oxidative stress by targeting NFE2L2/NRF2 for ubiquitination. KEAP1 acts as a key sensor of oxidative and electrophilic stress: in normal conditions, the BCR(KEAP1) complex mediates ubiquitination and degradation of NFE2L2/NRF2, a transcription factor regulating expression of many cytoprotective genes."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:23177"
+],
+[
+"HGNC symbol",
+"KEAP1"
+],
+[
+"Alias symbols",
+"KIAA0132, MGC10630, MGC1114, MGC20887, MGC4407, MGC9454, INrf2, KLHL19"
+],
+[
+"Entrez",
+"9817"
+],
+[
+"Ensembl",
+"ENSG00000079999"
+],
+[
+"RefSeq",
+"NM_012289"
+],
+[
+"UniProt",
+"Q14145"
+]
+]
+},
+{
+"label": "",
+"class": "EmptySet",
+"box": [
+816.0,
+68.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
+"label": "NRF2",
+"class": "Macromolecule",
+"box": [
+1042.0,
+455.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"PTM",
+" at Lys"
+],
+[
+"Full name",
+"Nuclear factor erythroid 2-related factor 2"
+],
+[
+"Alternative names",
+"Nuclear factor, erythroid derived 2, like 2"
+],
+[
+"Function",
+"Transcription factor that plays a key role in the response to oxidative stress: binds to antioxidant response (ARE) elements present in the promoter region of many cytoprotective genes, such as phase 2 detoxifying enzymes, and promotes their expression, thereby neutralizing reactive electrophiles. In normal conditions, ubiquitinated and degraded in the cytoplasm by the BCR(KEAP1) complex."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Nucleus"
+],
+[
+"HGNC",
+"HGNC:7782"
+],
+[
+"HGNC symbol",
+"NFE2L2"
+],
+[
+"Alias symbols",
+"NRF2, NRF-2"
+],
+[
+"Entrez",
+"4780"
+],
+[
+"Ensembl",
+"ENSG00000116044"
+],
+[
+"RefSeq",
+"NM_006164"
+],
+[
+"UniProt",
+"Q16236"
+]
+]
+},
+{
+"label": "KEAP1:CUL3:RBX1",
+"class": "Complex",
+"box": [
+818.0,
+486.2,
+198.0,
+149.5
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
+"label": "KEAP1",
+"class": "Macromolecule",
+"box": [
+830.0,
+511.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"PTM",
+" at Cys226"
+],
+[
+"Full name",
+"Kelch-like ECH-associated protein 1"
+],
+[
+"Alternative names",
+"Cytosolic inhibitor of Nrf2; Kelch-like protein 19"
+],
+[
+"Function",
+"Substrate-specific adapter of a BCR (BTB-CUL3-RBX1) E3 ubiquitin ligase complex that regulates the response to oxidative stress by targeting NFE2L2/NRF2 for ubiquitination. KEAP1 acts as a key sensor of oxidative and electrophilic stress: in normal conditions, the BCR(KEAP1) complex mediates ubiquitination and degradation of NFE2L2/NRF2, a transcription factor regulating expression of many cytoprotective genes."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:23177"
+],
+[
+"HGNC symbol",
+"KEAP1"
+],
+[
+"Alias symbols",
+"KIAA0132, MGC10630, MGC1114, MGC20887, MGC4407, MGC9454, INrf2, KLHL19"
+],
+[
+"Entrez",
+"9817"
+],
+[
+"Ensembl",
+"ENSG00000079999"
+],
+[
+"RefSeq",
+"NM_012289"
+],
+[
+"UniProt",
+"Q14145"
+]
+]
+},
+{
+"label": "CUL3",
+"class": "Macromolecule",
+"box": [
+924.0,
+511.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"Cullin-3"
+],
+[
+"Function",
+"Core component of multiple cullin-RING-based BCR (BTB-CUL3-RBX1) E3 ubiquitin-protein ligase complexes which mediate the ubiquitination and subsequent proteasomal degradation of target proteins. BCR complexes and ARIH1 collaborate in tandem to mediate ubiquitination of target proteins."
+],
+[
+"Location",
+"Nucleus, Golgi apparatus, Cell projection, cilium, flagellum, Cytoplasm, cytoskeleton, spindle, Cytoplasm, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, cytoskeleton, spindle pole"
+],
+[
+"HGNC",
+"HGNC:2553"
+],
+[
+"HGNC symbol",
+"CUL3"
+],
+[
+"Entrez",
+"8452"
+],
+[
+"Ensembl",
+"ENSG00000036257"
+],
+[
+"RefSeq",
+"NM_001257197"
+],
+[
+"UniProt",
+"Q13618"
+]
+]
+},
+{
+"label": "RBX1",
+"class": "Macromolecule",
+"box": [
+924.0,
+559.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"E3 ubiquitin-protein ligase RBX1"
+],
+[
+"Alternative names",
+"E3 ubiquitin-protein transferase RBX1; Protein ZYP; RING finger protein 75; RING-box protein 1; Regulator of cullins 1"
+],
+[
+"Function",
+"E3 ubiquitin ligase component of multiple cullin-RING-based E3 ubiquitin-protein ligase (CRLs) complexes which mediate the ubiquitination and subsequent proteasomal degradation of target proteins, including proteins involved in cell cycle progression, signal transduction, transcription and transcription-coupled nucleotide excision repair. CRLs complexes and ARIH1 collaborate in tandem to mediate ubiquitination of target proteins, ARIH1 mediating addition of the first ubiquitin on CRLs targets."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:9928"
+],
+[
+"HGNC symbol",
+"RBX1"
+],
+[
+"Alias symbols",
+"ROC1, RNF75, BA554C12.1"
+],
+[
+"Entrez",
+"9978"
+],
+[
+"Ensembl",
+"ENSG00000100387"
+],
+[
+"RefSeq",
+"NM_014248"
+],
+[
+"UniProt",
+"P62877"
+]
+]
+},
+{
+"label": "KEAP1:CUL3:RBX1:NRF2",
+"class": "Complex",
+"box": [
+983.0,
+658.8,
+198.0,
+164.5
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
+"label": "KEAP1",
+"class": "Macromolecule",
+"box": [
+995.0,
+683.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"PTM",
+" at Cys226"
+],
+[
+"Full name",
+"Kelch-like ECH-associated protein 1"
+],
+[
+"Alternative names",
+"Cytosolic inhibitor of Nrf2; Kelch-like protein 19"
+],
+[
+"Function",
+"Substrate-specific adapter of a BCR (BTB-CUL3-RBX1) E3 ubiquitin ligase complex that regulates the response to oxidative stress by targeting NFE2L2/NRF2 for ubiquitination. KEAP1 acts as a key sensor of oxidative and electrophilic stress: in normal conditions, the BCR(KEAP1) complex mediates ubiquitination and degradation of NFE2L2/NRF2, a transcription factor regulating expression of many cytoprotective genes."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:23177"
+],
+[
+"HGNC symbol",
+"KEAP1"
+],
+[
+"Alias symbols",
+"KIAA0132, MGC10630, MGC1114, MGC20887, MGC4407, MGC9454, INrf2, KLHL19"
+],
+[
+"Entrez",
+"9817"
+],
+[
+"Ensembl",
+"ENSG00000079999"
+],
+[
+"RefSeq",
+"NM_012289"
+],
+[
+"UniProt",
+"Q14145"
+]
+]
+},
+{
+"label": "CUL3",
+"class": "Macromolecule",
+"box": [
+1089.0,
+683.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"Cullin-3"
+],
+[
+"Function",
+"Core component of multiple cullin-RING-based BCR (BTB-CUL3-RBX1) E3 ubiquitin-protein ligase complexes which mediate the ubiquitination and subsequent proteasomal degradation of target proteins. BCR complexes and ARIH1 collaborate in tandem to mediate ubiquitination of target proteins."
+],
+[
+"Location",
+"Nucleus, Golgi apparatus, Cell projection, cilium, flagellum, Cytoplasm, cytoskeleton, spindle, Cytoplasm, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, cytoskeleton, spindle pole"
+],
+[
+"HGNC",
+"HGNC:2553"
+],
+[
+"HGNC symbol",
+"CUL3"
+],
+[
+"Entrez",
+"8452"
+],
+[
+"Ensembl",
+"ENSG00000036257"
+],
+[
+"RefSeq",
+"NM_001257197"
+],
+[
+"UniProt",
+"Q13618"
+]
+]
+},
+{
+"label": "RBX1",
+"class": "Macromolecule",
+"box": [
+1089.0,
+746.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"E3 ubiquitin-protein ligase RBX1"
+],
+[
+"Alternative names",
+"E3 ubiquitin-protein transferase RBX1; Protein ZYP; RING finger protein 75; RING-box protein 1; Regulator of cullins 1"
+],
+[
+"Function",
+"E3 ubiquitin ligase component of multiple cullin-RING-based E3 ubiquitin-protein ligase (CRLs) complexes which mediate the ubiquitination and subsequent proteasomal degradation of target proteins, including proteins involved in cell cycle progression, signal transduction, transcription and transcription-coupled nucleotide excision repair. CRLs complexes and ARIH1 collaborate in tandem to mediate ubiquitination of target proteins, ARIH1 mediating addition of the first ubiquitin on CRLs targets."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:9928"
+],
+[
+"HGNC symbol",
+"RBX1"
+],
+[
+"Alias symbols",
+"ROC1, RNF75, BA554C12.1"
+],
+[
+"Entrez",
+"9978"
+],
+[
+"Ensembl",
+"ENSG00000100387"
+],
+[
+"RefSeq",
+"NM_014248"
+],
+[
+"UniProt",
+"P62877"
+]
+]
+},
+{
+"label": "NRF2",
+"class": "Macromolecule",
+"box": [
+995.0,
+746.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"PTM",
+" at Lys"
+],
+[
+"Full name",
+"Nuclear factor erythroid 2-related factor 2"
+],
+[
+"Alternative names",
+"Nuclear factor, erythroid derived 2, like 2"
+],
+[
+"Function",
+"Transcription factor that plays a key role in the response to oxidative stress: binds to antioxidant response (ARE) elements present in the promoter region of many cytoprotective genes, such as phase 2 detoxifying enzymes, and promotes their expression, thereby neutralizing reactive electrophiles. In normal conditions, ubiquitinated and degraded in the cytoplasm by the BCR(KEAP1) complex."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Nucleus"
+],
+[
+"HGNC",
+"HGNC:7782"
+],
+[
+"HGNC symbol",
+"NFE2L2"
+],
+[
+"Alias symbols",
+"NRF2, NRF-2"
+],
+[
+"Entrez",
+"4780"
+],
+[
+"Ensembl",
+"ENSG00000116044"
+],
+[
+"RefSeq",
+"NM_006164"
+],
+[
+"UniProt",
+"Q16236"
+]
+]
+},
+{
+"label": "NRF2",
+"class": "Macromolecule",
+"box": [
+877.0,
+855.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"PTM",
+"Ubiquitinated at Lys"
+],
+[
+"Full name",
+"Nuclear factor erythroid 2-related factor 2"
+],
+[
+"Alternative names",
+"Nuclear factor, erythroid derived 2, like 2"
+],
+[
+"Function",
+"Transcription factor that plays a key role in the response to oxidative stress: binds to antioxidant response (ARE) elements present in the promoter region of many cytoprotective genes, such as phase 2 detoxifying enzymes, and promotes their expression, thereby neutralizing reactive electrophiles. In normal conditions, ubiquitinated and degraded in the cytoplasm by the BCR(KEAP1) complex."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Nucleus"
+],
+[
+"HGNC",
+"HGNC:7782"
+],
+[
+"HGNC symbol",
+"NFE2L2"
+],
+[
+"Alias symbols",
+"NRF2, NRF-2"
+],
+[
+"Entrez",
+"4780"
+],
+[
+"Ensembl",
+"ENSG00000116044"
+],
+[
+"RefSeq",
+"NM_006164"
+],
+[
+"UniProt",
+"Q16236"
+]
+]
+},
+{
+"label": "ubiquitin",
+"class": "SimpleChemical",
+"box": [
+821.0,
+651.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
+"label": "26S proteasome",
+"class": "Macromolecule",
+"box": [
+957.0,
+945.0,
+112.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
+"label": "",
+"class": "EmptySet",
+"box": [
+1079.0,
+860.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
+"label": "KEAP1:CUL3:RBX1",
+"class": "Complex",
+"box": [
+488.0,
+486.2,
+198.0,
+149.5
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
+"label": "KEAP1",
+"class": "Macromolecule",
+"box": [
+500.0,
+511.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"PTM",
+" at Cys226"
+],
+[
+"Full name",
+"Kelch-like ECH-associated protein 1"
+],
+[
+"Alternative names",
+"Cytosolic inhibitor of Nrf2; Kelch-like protein 19"
+],
+[
+"Function",
+"Substrate-specific adapter of a BCR (BTB-CUL3-RBX1) E3 ubiquitin ligase complex that regulates the response to oxidative stress by targeting NFE2L2/NRF2 for ubiquitination. KEAP1 acts as a key sensor of oxidative and electrophilic stress: in normal conditions, the BCR(KEAP1) complex mediates ubiquitination and degradation of NFE2L2/NRF2, a transcription factor regulating expression of many cytoprotective genes."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:23177"
+],
+[
+"HGNC symbol",
+"KEAP1"
+],
+[
+"Alias symbols",
+"KIAA0132, MGC10630, MGC1114, MGC20887, MGC4407, MGC9454, INrf2, KLHL19"
+],
+[
+"Entrez",
+"9817"
+],
+[
+"Ensembl",
+"ENSG00000079999"
+],
+[
+"RefSeq",
+"NM_012289"
+],
+[
+"UniProt",
+"Q14145"
+]
+]
+},
+{
+"label": "CUL3",
+"class": "Macromolecule",
+"box": [
+594.0,
+511.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"Cullin-3"
+],
+[
+"Function",
+"Core component of multiple cullin-RING-based BCR (BTB-CUL3-RBX1) E3 ubiquitin-protein ligase complexes which mediate the ubiquitination and subsequent proteasomal degradation of target proteins. BCR complexes and ARIH1 collaborate in tandem to mediate ubiquitination of target proteins."
+],
+[
+"Location",
+"Nucleus, Golgi apparatus, Cell projection, cilium, flagellum, Cytoplasm, cytoskeleton, spindle, Cytoplasm, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, cytoskeleton, spindle pole"
+],
+[
+"HGNC",
+"HGNC:2553"
+],
+[
+"HGNC symbol",
+"CUL3"
+],
+[
+"Entrez",
+"8452"
+],
+[
+"Ensembl",
+"ENSG00000036257"
+],
+[
+"RefSeq",
+"NM_001257197"
+],
+[
+"UniProt",
+"Q13618"
+]
+]
+},
+{
+"label": "RBX1",
+"class": "Macromolecule",
+"box": [
+594.0,
+559.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"E3 ubiquitin-protein ligase RBX1"
+],
+[
+"Alternative names",
+"E3 ubiquitin-protein transferase RBX1; Protein ZYP; RING finger protein 75; RING-box protein 1; Regulator of cullins 1"
+],
+[
+"Function",
+"E3 ubiquitin ligase component of multiple cullin-RING-based E3 ubiquitin-protein ligase (CRLs) complexes which mediate the ubiquitination and subsequent proteasomal degradation of target proteins, including proteins involved in cell cycle progression, signal transduction, transcription and transcription-coupled nucleotide excision repair. CRLs complexes and ARIH1 collaborate in tandem to mediate ubiquitination of target proteins, ARIH1 mediating addition of the first ubiquitin on CRLs targets."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:9928"
+],
+[
+"HGNC symbol",
+"RBX1"
+],
+[
+"Alias symbols",
+"ROC1, RNF75, BA554C12.1"
+],
+[
+"Entrez",
+"9978"
+],
+[
+"Ensembl",
+"ENSG00000100387"
+],
+[
+"RefSeq",
+"NM_014248"
+],
+[
+"UniProt",
+"P62877"
+]
+]
+},
+{
+"label": "KEAP1:CUL3:RBX1",
+"class": "Complex",
+"box": [
+488.0,
+276.2,
+198.0,
+149.5
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
+"label": "KEAP1",
+"class": "Macromolecule",
+"box": [
+500.0,
+301.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"PTM",
+"ox at Cys226"
+],
+[
+"Full name",
+"Kelch-like ECH-associated protein 1"
+],
+[
+"Alternative names",
+"Cytosolic inhibitor of Nrf2; Kelch-like protein 19"
+],
+[
+"Function",
+"Substrate-specific adapter of a BCR (BTB-CUL3-RBX1) E3 ubiquitin ligase complex that regulates the response to oxidative stress by targeting NFE2L2/NRF2 for ubiquitination. KEAP1 acts as a key sensor of oxidative and electrophilic stress: in normal conditions, the BCR(KEAP1) complex mediates ubiquitination and degradation of NFE2L2/NRF2, a transcription factor regulating expression of many cytoprotective genes."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:23177"
+],
+[
+"HGNC symbol",
+"KEAP1"
+],
+[
+"Alias symbols",
+"KIAA0132, MGC10630, MGC1114, MGC20887, MGC4407, MGC9454, INrf2, KLHL19"
+],
+[
+"Entrez",
+"9817"
+],
+[
+"Ensembl",
+"ENSG00000079999"
+],
+[
+"RefSeq",
+"NM_012289"
+],
+[
+"UniProt",
+"Q14145"
+]
+]
+},
+{
+"label": "CUL3",
+"class": "Macromolecule",
+"box": [
+594.0,
+301.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"Cullin-3"
+],
+[
+"Function",
+"Core component of multiple cullin-RING-based BCR (BTB-CUL3-RBX1) E3 ubiquitin-protein ligase complexes which mediate the ubiquitination and subsequent proteasomal degradation of target proteins. BCR complexes and ARIH1 collaborate in tandem to mediate ubiquitination of target proteins."
+],
+[
+"Location",
+"Nucleus, Golgi apparatus, Cell projection, cilium, flagellum, Cytoplasm, cytoskeleton, spindle, Cytoplasm, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, cytoskeleton, spindle pole"
+],
+[
+"HGNC",
+"HGNC:2553"
+],
+[
+"HGNC symbol",
+"CUL3"
+],
+[
+"Entrez",
+"8452"
+],
+[
+"Ensembl",
+"ENSG00000036257"
+],
+[
+"RefSeq",
+"NM_001257197"
+],
+[
+"UniProt",
+"Q13618"
+]
+]
+},
+{
+"label": "RBX1",
+"class": "Macromolecule",
+"box": [
+594.0,
+349.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"E3 ubiquitin-protein ligase RBX1"
+],
+[
+"Alternative names",
+"E3 ubiquitin-protein transferase RBX1; Protein ZYP; RING finger protein 75; RING-box protein 1; Regulator of cullins 1"
+],
+[
+"Function",
+"E3 ubiquitin ligase component of multiple cullin-RING-based E3 ubiquitin-protein ligase (CRLs) complexes which mediate the ubiquitination and subsequent proteasomal degradation of target proteins, including proteins involved in cell cycle progression, signal transduction, transcription and transcription-coupled nucleotide excision repair. CRLs complexes and ARIH1 collaborate in tandem to mediate ubiquitination of target proteins, ARIH1 mediating addition of the first ubiquitin on CRLs targets."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:9928"
+],
+[
+"HGNC symbol",
+"RBX1"
+],
+[
+"Alias symbols",
+"ROC1, RNF75, BA554C12.1"
+],
+[
+"Entrez",
+"9978"
+],
+[
+"Ensembl",
+"ENSG00000100387"
+],
+[
+"RefSeq",
+"NM_014248"
+],
+[
+"UniProt",
+"P62877"
+]
+]
+},
+{
+"label": "H2O2",
+"class": "SimpleChemical",
+"box": [
+732.0,
+241.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"hydrogen peroxide"
+],
+[
+"Synonyms",
+"H(2)O(2); H2O2; HOOH; Oxydol; [OH(OH)]; bis(hydridooxygen)(O--O); dihydrogen dioxide; dihydrogen peroxide; dihydrogen(peroxide); dioxidane; perhydrol"
+],
+[
+"Definition",
+"An inorganic peroxide consisting of two hydroxy groups joined by a covalent oxygen-oxygen single bond."
+],
+[
+"Formula",
+"H2O2"
+],
+[
+"ChEBI",
+"CHEBI:16240"
+],
+[
+"KEGG",
+"C00027"
+],
+[
+"HMDB",
+"HMDB0003125"
+],
+[
+"InChI",
+"InChI=1S/H2O2/c1-2/h1-2H"
+],
+[
+"InChIKey",
+"MHAJPDPJQMAIIY-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "H2O",
+"class": "SimpleChemical",
+"box": [
+822.0,
+241.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"water"
+],
+[
+"Synonyms",
+"BOUND WATER; H(2)O; H2O; HOH; Wasser; [OH2]; acqua; agua; aqua; dihydridooxygen; dihydrogen oxide; eau; hydrogen hydroxide; oxidane"
+],
+[
+"Definition",
+"An oxygen hydride consisting of an oxygen atom that is covalently bonded to two hydrogen atoms"
+],
+[
+"Formula",
+"H2O"
+],
+[
+"ChEBI",
+"CHEBI:15377"
+],
+[
+"KEGG",
+"C00001"
+],
+[
+"HMDB",
+"HMDB0002111"
+],
+[
+"InChI",
+"InChI=1S/H2O/h1H2"
+],
+[
+"InChIKey",
+"XLYOFNOQVPJJNP-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "4-hydroxynonenal",
+"class": "SimpleChemical",
+"box": [
+732.0,
+451.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"5-hydroxy-L-tryptophan zwitterion"
+],
+[
+"Synonyms",
+"(2S)-2-ammonio-3-(5-hydroxy-1H-indol-3-yl)propanoate; (2S)-2-azaniumyl-3-(5-hydroxy-1H-indol-3-yl)propanoate; 5-hydroxy-L-tryptophan"
+],
+[
+"Definition",
+"An amino acid zwitterion arising from transfer of a proton from the carboxy to the amino group of 5-hydroxy-L-tryptophan; major species at pH 7.3."
+],
+[
+"Formula",
+"C11H12N2O3"
+],
+[
+"ChEBI",
+"CHEBI:58266"
+],
+[
+"InChI",
+"InChI=1S/C11H12N2O3/c12-9(11(15)16)3-6-5-13-10-2-1-7(14)4-8(6)10/h1-2,4-5,9,13-14H,3,12H2,(H,15,16)/t9-/m0/s1"
+],
+[
+"InChIKey",
+"LDCYZAJDBXYCGN-VIFPVBQESA-N"
+]
+]
+},
+{
+"label": "1,2-naphthoquinone",
+"class": "SimpleChemical",
+"box": [
+732.0,
+751.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"ChEBI",
+"CHEBI:27921"
+]
+]
+},
+{
+"id": "d5l24cl3_redox-nrf2-core",
+"label": "",
+"class": "Process",
+"box": [
+1070.0,
+377.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+""
+],
+"out": [
+"NRF2"
+],
+"by": [
+"NFE2L2"
+]
+},
+"references": [
+{
+"authors": "Kobayashi A et al.",
+"journal": "Mol Cell Biol",
+"title": "Oxidative and electrophilic stresses activate Nrf2 through inhibition of ubiquitination activity of Keap1.",
+"year": "2006",
+"db": "pubmed",
+"id": "16354693"
+},
+{
+"authors": "Nguyen T et al.",
+"journal": "J Biol Chem",
+"title": "Increased protein stability as a mechanism that enhances Nrf2-mediated transcriptional activation of the antioxidant response element. Degradation of Nrf2 by the 26 S proteasome.",
+"year": "2003",
+"db": "pubmed",
+"id": "12446695"
+}
+]
+},
+{
+"id": "rdobtsxv_redox-nrf2-core",
+"label": "",
+"class": "Process",
+"box": [
+1070.0,
+549.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"NRF2",
+"KEAP1:CUL3:RBX1"
+],
+"out": [
+"KEAP1:CUL3:RBX1:NRF2"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Tong KI et al.",
+"journal": "Mol Cell Biol",
+"title": "Keap1 recruits Neh2 through binding to ETGE and DLG motifs: characterization of the two-site molecular recognition model.",
+"year": "2006",
+"db": "pubmed",
+"id": "16581765"
+},
+{
+"authors": "Tong KI et al.",
+"journal": "Mol Cell Biol",
+"title": "Different electrostatic potentials define ETGE and DLG motifs as hinge and latch in oxidative stress response.",
+"year": "2007",
+"db": "pubmed",
+"id": "17785452"
+}
+]
+},
+{
+"id": "zbmvoj2o_redox-nrf2-core",
+"label": "",
+"class": "Process",
+"box": [
+905.0,
+729.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"KEAP1:CUL3:RBX1:NRF2",
+"ubiquitin"
+],
+"out": [
+"NRF2",
+"KEAP1:CUL3:RBX1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Kobayashi A et al.",
+"journal": "Mol Cell Biol",
+"title": "Oxidative stress sensor Keap1 functions as an adaptor for Cul3-based E3 ligase to regulate proteasomal degradation of Nrf2.",
+"year": "2004",
+"db": "pubmed",
+"id": "15282312"
+},
+{
+"authors": "Zhang DD et al.",
+"journal": "Mol Cell Biol",
+"title": "Keap1 is a redox-regulated substrate adaptor protein for a Cul3-dependent ubiquitin ligase complex.",
+"year": "2004",
+"db": "pubmed",
+"id": "15572695"
+}
+]
+},
+{
+"id": "dtw0rb4n_redox-nrf2-core",
+"label": "",
+"class": "Process",
+"box": [
+1001.0,
+863.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"NRF2"
+],
+"out": [
+""
+],
+"by": [
+"26S proteasome"
+]
+},
+"references": [
+{
+"authors": "Nguyen T et al.",
+"journal": "J Biol Chem",
+"title": "Increased protein stability as a mechanism that enhances Nrf2-mediated transcriptional activation of the antioxidant response element. Degradation of Nrf2 by the 26 S proteasome.",
+"year": "2003",
+"db": "pubmed",
+"id": "12446695"
+},
+{
+"authors": "Kobayashi A et al.",
+"journal": "Mol Cell Biol",
+"title": "Oxidative stress sensor Keap1 functions as an adaptor for Cul3-based E3 ligase to regulate proteasomal degradation of Nrf2.",
+"year": "2004",
+"db": "pubmed",
+"id": "15282312"
+}
+]
+},
+{
+"id": "aiyoa205_redox-nrf2-core",
+"label": "",
+"class": "Process",
+"box": [
+740.0,
+339.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"KEAP1:CUL3:RBX1",
+"H2O2"
+],
+"out": [
+"KEAP1:CUL3:RBX1",
+"H2O"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Suzuki T et al.",
+"journal": "Cell Rep",
+"title": "Molecular Mechanism of Cellular Oxidative Stress Sensing by Keap1.",
+"year": "2019",
+"db": "pubmed",
+"id": "31315052"
+}
+]
+},
+{
+"id": "taw7y65n_redox-nrf2-core",
+"label": "",
+"class": "Process",
+"box": [
+740.0,
+549.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"KEAP1:CUL3:RBX1",
+"4-hydroxynonenal"
+],
+"out": [
+"KEAP1:CUL3:RBX1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Levonen AL et al.",
+"journal": "Biochem J",
+"title": "Cellular mechanisms of redox cell signalling: role of cysteine modification in controlling antioxidant defences in response to electrophilic lipid oxidation products.",
+"year": "2004",
+"db": "pubmed",
+"id": "14616092"
+}
+]
+},
+{
+"id": "n3feg2u1_redox-nrf2-core",
+"label": "",
+"class": "Process",
+"box": [
+740.0,
+669.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"KEAP1:CUL3:RBX1",
+"1,2-naphthoquinone"
+],
+"out": [
+"KEAP1:CUL3:RBX1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Miura T et al.",
+"journal": "Chem Res Toxicol",
+"title": "Initial response and cellular protection through the Keap1/Nrf2 system during the exposure of primary mouse hepatocytes to 1,2-naphthoquinone.",
+"year": "2011",
+"db": "pubmed",
+"id": "21384861"
+},
+{
+"authors": "Shinkai Y et al.",
+"journal": "Chem Res Toxicol",
+"title": "Reactive Sulfur Species-Mediated Activation of the Keap1-Nrf2 Pathway by 1,2-Naphthoquinone through Sulfenic Acids Formation under Oxidative Stress.",
+"year": "2015",
+"db": "pubmed",
+"id": "25807370"
+}
+]
+},
+{
+"id": "n5a89f22_redox-nrf2-core",
+"label": "",
+"class": "Process",
+"box": [
+905.0,
+71.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+""
+],
+"out": [
+"KEAP1:CUL3:RBX1"
+],
+"by": [
+"KEAP1"
+]
+},
+"references": [
+{
+"authors": "Kobayashi A et al.",
+"journal": "Mol Cell Biol",
+"title": "Oxidative stress sensor Keap1 functions as an adaptor for Cul3-based E3 ligase to regulate proteasomal degradation of Nrf2.",
+"year": "2004",
+"db": "pubmed",
+"id": "15282312"
+}
+]
+},
+{
+"label": "BACH1",
+"class": "Macromolecule",
+"box": [
+993.0,
+1827.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"Transcription regulator protein BACH1"
+],
+[
+"Alternative names",
+"BTB and CNC homolog 1; HA2303"
+],
+[
+"Function",
+"Transcriptional regulator that acts as a repressor or activator, depending on the context. Binds to NF-E2 DNA binding sites."
+],
+[
+"Location",
+"Nucleus"
+],
+[
+"HGNC",
+"HGNC:935"
+],
+[
+"HGNC symbol",
+"BACH1"
+],
+[
+"Alias symbols",
+"BACH-1, BTBD24"
+],
+[
+"Entrez",
+"571"
+],
+[
+"Ensembl",
+"ENSG00000156273"
+],
+[
+"RefSeq",
+"NM_206866"
+],
+[
+"UniProt",
+"O14867"
+]
+]
+},
+{
+"label": "HMOX1",
+"class": "NucleicAcidFeature",
+"box": [
+1099.0,
+1427.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"Heme oxygenase 1"
+],
+[
+"Function",
+"Catalyzes the oxidative cleavage of heme at the alpha-methene bridge carbon, released as carbon monoxide (CO), to generate biliverdin IXalpha, while releasing the central heme iron chelate as ferrous iron. Affords protection against programmed cell death and this cytoprotective effect relies on its ability to catabolize free heme and prevent it from sensitizing cells to undergo apoptosis"
+],
+[
+"Location",
+"Endoplasmic reticulum membrane"
+],
+[
+"HGNC",
+"HGNC:5013"
+],
+[
+"HGNC symbol",
+"HMOX1"
+],
+[
+"Alias symbols",
+"bK286B10, HO-1"
+],
+[
+"Entrez",
+"3162"
+],
+[
+"Ensembl",
+"ENSG00000100292"
+],
+[
+"RefSeq",
+"NM_002133"
+],
+[
+"UniProt",
+"P09601"
+]
+]
+},
+{
+"label": "",
+"class": "EmptySet",
+"box": [
+1018.0,
+1512.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
+"label": "NQO1",
+"class": "NucleicAcidFeature",
+"box": [
+1099.0,
+1157.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"NAD(P)H dehydrogenase [quinone] 1"
+],
+[
+"Alternative names",
+"Azoreductase; DT-diaphorase; Menadione reductase; NAD(P)H:quinone oxidoreductase 1; Phylloquinone reductase; Quinone reductase 1"
+],
+[
+"Function",
+"Flavin-containing quinone reductase that catalyzes two-electron reduction of quinones to hydroquinones using either NADH or NADPH as electron donors. In a ping-pong kinetic mechanism, the electrons are sequentially transferred from NAD(P)H to flavin cofactor and then from reduced flavin to the quinone, bypassing the formation of semiquinone and reactive oxygen species."
+],
+[
+"Location",
+"Cytoplasm, cytosol"
+],
+[
+"HGNC",
+"HGNC:2874"
+],
+[
+"HGNC symbol",
+"NQO1"
+],
+[
+"Previous symbols",
+"NMOR1, DIA4"
+],
+[
+"Alias symbols",
+"DHQU, QR1, DTD"
+],
+[
+"Entrez",
+"1728"
+],
+[
+"Ensembl",
+"ENSG00000181019"
+],
+[
+"RefSeq",
+"NM_000903"
+],
+[
+"UniProt",
+"P15559"
+]
+]
+},
+{
+"label": "",
+"class": "EmptySet",
+"box": [
+1018.0,
+1242.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
+"label": "BACH1",
+"class": "NucleicAcidFeature",
+"box": [
+1099.0,
+1967.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"Transcription regulator protein BACH1"
+],
+[
+"Alternative names",
+"BTB and CNC homolog 1; HA2303"
+],
+[
+"Function",
+"Transcriptional regulator that acts as a repressor or activator, depending on the context. Binds to NF-E2 DNA binding sites."
+],
+[
+"Location",
+"Nucleus"
+],
+[
+"HGNC",
+"HGNC:935"
+],
+[
+"HGNC symbol",
+"BACH1"
+],
+[
+"Alias symbols",
+"BACH-1, BTBD24"
+],
+[
+"Entrez",
+"571"
+],
+[
+"Ensembl",
+"ENSG00000156273"
+],
+[
+"RefSeq",
+"NM_206866"
+],
+[
+"UniProt",
+"O14867"
+]
+]
+},
+{
+"label": "",
+"class": "EmptySet",
+"box": [
+932.0,
+1972.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
+"label": "1,2-naphthalenediol",
+"class": "SimpleChemical",
+"box": [
+641.0,
+1157.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
+"label": "O2",
+"class": "SimpleChemical",
+"box": [
+545.0,
+1267.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"dioxygen"
+],
+[
+"Synonyms",
+"Disauerstoff; E 948; E-948; E948; O(2); O2; OXYGEN MOLECULE; Oxygen; [OO]; dioxygene; molecular oxygen"
+],
+[
+"Formula",
+"O2"
+],
+[
+"ChEBI",
+"CHEBI:15379"
+],
+[
+"KEGG",
+"C00007"
+],
+[
+"HMDB",
+"HMDB0001377"
+],
+[
+"InChI",
+"InChI=1S/O2/c1-2"
+],
+[
+"InChIKey",
+"MYMOFIZGZYHOMD-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "O2.-",
+"class": "SimpleChemical",
+"box": [
+545.0,
+1357.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"superoxide"
+],
+[
+"Synonyms",
+"(O2)(.-); Dioxid(1-); Hyperoxid; O2(-); O2(.-); O2-; O2.-; Superoxide anion; dioxidanidyl; dioxide(.1-); dioxide(1-); hiperoxido; hyperoxide; superoxide anion radical; superoxide radical; superoxide radical anion; superoxido; superoxyde"
+],
+[
+"Formula",
+"O2"
+],
+[
+"ChEBI",
+"CHEBI:18421"
+],
+[
+"KEGG",
+"C00704"
+],
+[
+"HMDB",
+"HMDB0002168"
+],
+[
+"InChI",
+"InChI=1S/HO2/c1-2/h1H/p-1"
+],
+[
+"InChIKey",
+"OUUQCZGPVNCOIJ-UHFFFAOYSA-M"
+]
+]
+},
+{
+"label": "HMOX1",
+"class": "Macromolecule",
+"box": [
+887.0,
+1427.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"Heme oxygenase 1"
+],
+[
+"Function",
+"Catalyzes the oxidative cleavage of heme at the alpha-methene bridge carbon, released as carbon monoxide (CO), to generate biliverdin IXalpha, while releasing the central heme iron chelate as ferrous iron. Affords protection against programmed cell death and this cytoprotective effect relies on its ability to catabolize free heme and prevent it from sensitizing cells to undergo apoptosis"
+],
+[
+"Location",
+"Endoplasmic reticulum membrane"
+],
+[
+"HGNC",
+"HGNC:5013"
+],
+[
+"HGNC symbol",
+"HMOX1"
+],
+[
+"Alias symbols",
+"bK286B10, HO-1"
+],
+[
+"Entrez",
+"3162"
+],
+[
+"Ensembl",
+"ENSG00000100292"
+],
+[
+"RefSeq",
+"NM_002133"
+],
+[
+"UniProt",
+"P09601"
+]
+]
+},
+{
+"label": "NQO1",
+"class": "Macromolecule",
+"box": [
+887.0,
+1157.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"NAD(P)H dehydrogenase [quinone] 1"
+],
+[
+"Alternative names",
+"Azoreductase; DT-diaphorase; Menadione reductase; NAD(P)H:quinone oxidoreductase 1; Phylloquinone reductase; Quinone reductase 1"
+],
+[
+"Function",
+"Flavin-containing quinone reductase that catalyzes two-electron reduction of quinones to hydroquinones using either NADH or NADPH as electron donors. In a ping-pong kinetic mechanism, the electrons are sequentially transferred from NAD(P)H to flavin cofactor and then from reduced flavin to the quinone, bypassing the formation of semiquinone and reactive oxygen species."
+],
+[
+"Location",
+"Cytoplasm, cytosol"
+],
+[
+"HGNC",
+"HGNC:2874"
+],
+[
+"HGNC symbol",
+"NQO1"
+],
+[
+"Previous symbols",
+"NMOR1, DIA4"
+],
+[
+"Alias symbols",
+"DHQU, QR1, DTD"
+],
+[
+"Entrez",
+"1728"
+],
+[
+"Ensembl",
+"ENSG00000181019"
+],
+[
+"RefSeq",
+"NM_000903"
+],
+[
+"UniProt",
+"P15559"
+]
+]
+},
+{
+"label": "NADPH",
+"class": "SimpleChemical",
+"box": [
+801.0,
+1337.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"NADPH"
+],
+[
+"Synonyms",
+"2'-O-phosphonoadenosine 5'-{3-[1-(3-carbamoyl-1,4-dihydropyridin-1-yl)-1,4-anhydro-D-ribitol-5-yl] dihydrogen diphosphate}; NADPH DIHYDRO-NICOTINAMIDE-ADENINE-DINUCLEOTIDE PHOSPHATE; Reduced nicotinamide adenine dinucleotide phosphate; TPNH; dihydronicotinamide-adenine dinucleotide phosphate; reduced nicotinamide-adenine dinucleotide phosphate"
+],
+[
+"Definition",
+"The reduced form of NADP+; used in anabolic reactions, such as lipid and nucleic acid synthesis, which require NADPH as a reducing agent."
+],
+[
+"Formula",
+"C21H30N7O17P3"
+],
+[
+"ChEBI",
+"CHEBI:16474"
+],
+[
+"KEGG",
+"C00005"
+],
+[
+"HMDB",
+"HMDB0000221"
+],
+[
+"InChI",
+"InChI=1S/C21H30N7O17P3/c22-17-12-19(25-7-24-17)28(8-26-12)21-16(44-46(33,34)35)14(30)11(43-21)6-41-48(38,39)45-47(36,37)40-5-10-13(29)15(31)20(42-10)27-3-1-2-9(4-27)18(23)32/h1,3-4,7-8,10-11,13-16,20-21,29-31H,2,5-6H2,(H2,23,32)(H,36,37)(H,38,39)(H2,22,24,25)(H2,33,34,35)/t10-,11-,13-,14-,15-,16-,20-,21-/m1/s1"
+],
+[
+"InChIKey",
+"ACFIXJIJDZMPPO-NNYOXOHSSA-N"
+]
+]
+},
+{
+"label": "NADPH",
+"class": "SimpleChemical",
+"box": [
+801.0,
+1067.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"NADPH"
+],
+[
+"Synonyms",
+"2'-O-phosphonoadenosine 5'-{3-[1-(3-carbamoyl-1,4-dihydropyridin-1-yl)-1,4-anhydro-D-ribitol-5-yl] dihydrogen diphosphate}; NADPH DIHYDRO-NICOTINAMIDE-ADENINE-DINUCLEOTIDE PHOSPHATE; Reduced nicotinamide adenine dinucleotide phosphate; TPNH; dihydronicotinamide-adenine dinucleotide phosphate; reduced nicotinamide-adenine dinucleotide phosphate"
+],
+[
+"Definition",
+"The reduced form of NADP+; used in anabolic reactions, such as lipid and nucleic acid synthesis, which require NADPH as a reducing agent."
+],
+[
+"Formula",
+"C21H30N7O17P3"
+],
+[
+"ChEBI",
+"CHEBI:16474"
+],
+[
+"KEGG",
+"C00005"
+],
+[
+"HMDB",
+"HMDB0000221"
+],
+[
+"InChI",
+"InChI=1S/C21H30N7O17P3/c22-17-12-19(25-7-24-17)28(8-26-12)21-16(44-46(33,34)35)14(30)11(43-21)6-41-48(38,39)45-47(36,37)40-5-10-13(29)15(31)20(42-10)27-3-1-2-9(4-27)18(23)32/h1,3-4,7-8,10-11,13-16,20-21,29-31H,2,5-6H2,(H2,23,32)(H,36,37)(H,38,39)(H2,22,24,25)(H2,33,34,35)/t10-,11-,13-,14-,15-,16-,20-,21-/m1/s1"
+],
+[
+"InChIKey",
+"ACFIXJIJDZMPPO-NNYOXOHSSA-N"
+]
+]
+},
+{
+"label": "heme",
+"class": "SimpleChemical",
+"box": [
+801.0,
+1517.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"heme"
+],
+[
+"Synonyms",
+"Haem; haeme; hem; hemes; hemos"
+],
+[
+"Definition",
+"A heme is any tetrapyrrolic chelate of iron."
+],
+[
+"ChEBI",
+"CHEBI:30413"
+],
+[
+"KEGG",
+"C00032"
+]
+]
+},
+{
+"label": "biliverdin",
+"class": "SimpleChemical",
+"box": [
+705.0,
+1367.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"biliverdin"
+],
+[
+"Synonyms",
+"8,12-bis(2-carboxyethyl)-2,7,13,17-tetramethyl-3,18-divinylbilin-1(19)(21H,24H)-dione; BILIVERDINE IX ALPHA; Biliverdin IX alpha; Biliverdin IXalpha; Biliverdine"
+],
+[
+"Definition",
+"A linear tetrapyrrole produced in the reticuloendothelial system by the first step of heme degradation, catalysed by heme oxygenase."
+],
+[
+"Formula",
+"C33H34N4O6"
+],
+[
+"ChEBI",
+"CHEBI:17033"
+],
+[
+"KEGG",
+"C00500"
+],
+[
+"HMDB",
+"HMDB0001008"
+],
+[
+"InChI",
+"InChI=1S/C33H34N4O6/c1-7-20-19(6)32(42)37-27(20)14-25-18(5)23(10-12-31(40)41)29(35-25)15-28-22(9-11-30(38)39)17(4)24(34-28)13-26-16(3)21(8-2)33(43)36-26/h7-8,13-15,35H,1-2,9-12H2,3-6H3,(H,36,43)(H,37,42)(H,38,39)(H,40,41)/b26-13-,27-14-,28-15-"
+],
+[
+"InChIKey",
+"QBUVFDKTZJNUPP-BBROENKCSA-N"
+]
+]
+},
+{
+"label": "Fe2+",
+"class": "SimpleChemical",
+"box": [
+705.0,
+1487.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"iron(2+)"
+],
+[
+"Synonyms",
+"FE (II) ION; Fe(2+); Fe(II); Fe2+; Ferrous ion; iron ion(2+); iron(2+) ion; iron(II) cation"
+],
+[
+"Formula",
+"Fe"
+],
+[
+"ChEBI",
+"CHEBI:29033"
+],
+[
+"KEGG",
+"C14818"
+],
+[
+"InChI",
+"InChI=1S/Fe/q+2"
+],
+[
+"InChIKey",
+"CWYNVVGOOAEACU-UHFFFAOYSA-N"
+]
+]
+},
+{
+"id": "nfcmugcr_redox-nrf2-heme-quinone",
+"label": "",
+"class": "Process",
+"box": [
+1021.0,
+1435.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+""
+],
+"out": [
+"HMOX1"
+],
+"by": [
+"HMOX1"
+]
+},
+"references": [
+{
+"authors": "Li N et al.",
+"journal": "J Immunol",
+"title": "Nrf2 is a key transcription factor that regulates antioxidant defense in macrophages and epithelial cells: protecting against the proinflammatory and oxidizing effects of diesel exhaust chemicals.",
+"year": "2004",
+"db": "pubmed",
+"id": "15322212"
+}
+]
+},
+{
+"id": "krqhaw3c_redox-nrf2-heme-quinone",
+"label": "",
+"class": "Process",
+"box": [
+1021.0,
+1165.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+""
+],
+"out": [
+"NQO1"
+],
+"by": [
+"NQO1"
+]
+},
+"references": [
+{
+"authors": "Nioi P et al.",
+"journal": "Biochem J",
+"title": "Identification of a novel Nrf2-regulated antioxidant response element (ARE) in the mouse NAD(P)H:quinone oxidoreductase 1 gene: reassessment of the ARE consensus sequence.",
+"year": "2003",
+"db": "pubmed",
+"id": "12816537"
+}
+]
+},
+{
+"id": "s3ww82z9_redox-nrf2-heme-quinone",
+"label": "",
+"class": "Process",
+"box": [
+1021.0,
+1975.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+""
+],
+"out": [
+"BACH1"
+],
+"by": [
+"BACH1"
+]
+},
+"references": [
+{
+"authors": "Jyrkkänen HK et al.",
+"journal": "Biochem J",
+"title": "Novel insights into the regulation of antioxidant-response-element-mediated gene expression by electrophiles: induction of the transcriptional repressor BACH1 by Nrf2.",
+"year": "2011",
+"db": "pubmed",
+"id": "21812759"
+}
+]
+},
+{
+"id": "azzzt7kc_redox-nrf2-heme-quinone",
+"label": "",
+"class": "Process",
+"box": [
+809.0,
+1435.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"heme",
+"NADPH"
+],
+"out": [
+"biliverdin",
+"Fe2+"
+],
+"by": [
+"HMOX1"
+]
+},
+"references": [
+{
+"authors": "Ryter SW et al.",
+"journal": "Physiol Rev",
+"title": "Heme oxygenase-1/carbon monoxide: from basic science to therapeutic applications.",
+"year": "2006",
+"db": "pubmed",
+"id": "16601269"
+}
+]
+},
+{
+"id": "pqqa9rh3_redox-nrf2-heme-quinone",
+"label": "",
+"class": "Process",
+"box": [
+809.0,
+1165.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"1,2-naphthoquinone",
+"NADPH"
+],
+"out": [
+"1,2-naphthalenediol"
+],
+"by": [
+"NQO1"
+]
+},
+"references": [
+{
+"authors": "Ross D et al.",
+"journal": "Front Physiol",
+"title": "Functions of NQO1 in Cellular Protection and CoQ(10) Metabolism and its Potential Role as a Redox Sensitive Molecular Switch.",
+"year": "2017",
+"db": "pubmed",
+"id": "28883796"
+},
+{
+"authors": "Matsunaga T et al.",
+"journal": "Chem Biol Interact",
+"title": "Facilitation of 9,10-phenanthrenequinone-elicited neuroblastoma cell apoptosis by NAD(P)H:quinone oxidoreductase 1.",
+"year": "2018",
+"db": "pubmed",
+"id": "29108775"
+}
+]
+},
+{
+"id": "k7a8saa7_redox-nrf2-heme-quinone",
+"label": "",
+"class": "Process",
+"box": [
+649.0,
+1275.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"1,2-naphthalenediol",
+"O2"
+],
+"out": [
+"1,2-naphthoquinone",
+"O2.-"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Matsunaga T et al.",
+"journal": "Chem Biol Interact",
+"title": "Facilitation of 9,10-phenanthrenequinone-elicited neuroblastoma cell apoptosis by NAD(P)H:quinone oxidoreductase 1.",
+"year": "2018",
+"db": "pubmed",
+"id": "29108775"
+},
+{
+"authors": "Penning TM",
+"journal": "Chem Res Toxicol",
+"title": "Human aldo-keto reductases and the metabolic activation of polycyclic aromatic hydrocarbons.",
+"year": "2014",
+"db": "pubmed",
+"id": "25279998"
+}
+]
+},
+{
+"label": "GCLC",
+"class": "NucleicAcidFeature",
+"box": [
+1101.0,
+2263.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"Glutamate--cysteine ligase catalytic subunit"
+],
+[
+"Alternative names",
+"GCS heavy chain; Gamma-ECS; Gamma-glutamylcysteine synthetase"
+],
+[
+"Function",
+"Catalyzes the ATP-dependent ligation of L-glutamate and L-cysteine and participates in the first and rate-limiting step in glutathione biosynthesis"
+],
+[
+"HGNC",
+"HGNC:4311"
+],
+[
+"HGNC symbol",
+"GCLC"
+],
+[
+"Previous symbols",
+"GLCLC, GLCL"
+],
+[
+"Alias symbols",
+"GCS"
+],
+[
+"Entrez",
+"2729"
+],
+[
+"Ensembl",
+"ENSG00000001084"
+],
+[
+"RefSeq",
+"NM_001197115"
+],
+[
+"UniProt",
+"P48506"
+]
+]
+},
+{
+"label": "",
+"class": "EmptySet",
+"box": [
+1020.0,
+2348.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
+"label": "GCLC",
+"class": "Macromolecule",
+"box": [
+889.0,
+2263.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"Glutamate--cysteine ligase catalytic subunit"
+],
+[
+"Alternative names",
+"GCS heavy chain; Gamma-ECS; Gamma-glutamylcysteine synthetase"
+],
+[
+"Function",
+"Catalyzes the ATP-dependent ligation of L-glutamate and L-cysteine and participates in the first and rate-limiting step in glutathione biosynthesis"
+],
+[
+"HGNC",
+"HGNC:4311"
+],
+[
+"HGNC symbol",
+"GCLC"
+],
+[
+"Previous symbols",
+"GLCLC, GLCL"
+],
+[
+"Alias symbols",
+"GCS"
+],
+[
+"Entrez",
+"2729"
+],
+[
+"Ensembl",
+"ENSG00000001084"
+],
+[
+"RefSeq",
+"NM_001197115"
+],
+[
+"UniProt",
+"P48506"
+]
+]
+},
+{
+"label": "GCLM",
+"class": "Macromolecule",
+"box": [
+793.0,
+2353.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"Glutamate--cysteine ligase regulatory subunit"
+],
+[
+"Alternative names",
+"GCS light chain; Gamma-ECS regulatory subunit; Gamma-glutamylcysteine synthetase regulatory subunit; Glutamate--cysteine ligase modifier subunit"
+],
+[
+"HGNC",
+"HGNC:4312"
+],
+[
+"HGNC symbol",
+"GCLM"
+],
+[
+"Previous symbols",
+"GLCLR"
+],
+[
+"Entrez",
+"2730"
+],
+[
+"Ensembl",
+"ENSG00000023909"
+],
+[
+"RefSeq",
+"NM_002061"
+],
+[
+"UniProt",
+"P48507"
+]
+]
+},
+{
+"label": "GCLC:GCLM",
+"class": "Complex",
+"box": [
+663.0,
+2212.8,
+104.0,
+140.5
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
+"label": "GCLC",
+"class": "Macromolecule",
+"box": [
+675.0,
+2228.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"Glutamate--cysteine ligase catalytic subunit"
+],
+[
+"Alternative names",
+"GCS heavy chain; Gamma-ECS; Gamma-glutamylcysteine synthetase"
+],
+[
+"Function",
+"Catalyzes the ATP-dependent ligation of L-glutamate and L-cysteine and participates in the first and rate-limiting step in glutathione biosynthesis"
+],
+[
+"HGNC",
+"HGNC:4311"
+],
+[
+"HGNC symbol",
+"GCLC"
+],
+[
+"Previous symbols",
+"GLCLC, GLCL"
+],
+[
+"Alias symbols",
+"GCS"
+],
+[
+"Entrez",
+"2729"
+],
+[
+"Ensembl",
+"ENSG00000001084"
+],
+[
+"RefSeq",
+"NM_001197115"
+],
+[
+"UniProt",
+"P48506"
+]
+]
+},
+{
+"label": "GCLM",
+"class": "Macromolecule",
+"box": [
+675.0,
+2276.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"Glutamate--cysteine ligase regulatory subunit"
+],
+[
+"Alternative names",
+"GCS light chain; Gamma-ECS regulatory subunit; Gamma-glutamylcysteine synthetase regulatory subunit; Glutamate--cysteine ligase modifier subunit"
+],
+[
+"HGNC",
+"HGNC:4312"
+],
+[
+"HGNC symbol",
+"GCLM"
+],
+[
+"Previous symbols",
+"GLCLR"
+],
+[
+"Entrez",
+"2730"
+],
+[
+"Ensembl",
+"ENSG00000023909"
+],
+[
+"RefSeq",
+"NM_002061"
+],
+[
+"UniProt",
+"P48507"
+]
+]
+},
+{
+"label": "GSS",
+"class": "Macromolecule",
+"box": [
+285.0,
+2173.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"Glutathione synthetase"
+],
+[
+"Alternative names",
+"Glutathione synthase"
+],
+[
+"Function",
+"Catalyzes the production of glutathione from gamma-glutamylcysteine and glycine in an ATP-dependent manner. Glutathione (gamma-glutamylcysteinylglycine, GSH) is the most abundant intracellular thiol in living aerobic cells and is required for numerous processes including the protection of cells against oxidative damage, amino acid transport, the detoxification of foreign compounds, the maintenance of protein sulfhydryl groups in a reduced state and acts as a cofactor for a number of enzymes."
+],
+[
+"HGNC",
+"HGNC:4624"
+],
+[
+"HGNC symbol",
+"GSS"
+],
+[
+"Entrez",
+"2937"
+],
+[
+"Ensembl",
+"ENSG00000100983"
+],
+[
+"RefSeq",
+"NM_000178"
+],
+[
+"UniProt",
+"P48637"
+]
+]
+},
+{
+"label": "GPX1",
+"class": "Macromolecule",
+"box": [
+113.0,
+2353.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"Glutathione peroxidase 1"
+],
+[
+"Alternative names",
+"Cellular glutathione peroxidase; Phospholipid-hydroperoxide glutathione peroxidase GPX1"
+],
+[
+"Function",
+"Catalyzes the reduction of hydroperoxides in a glutathione-dependent manner thus regulating cellular redox homeostasis. Can reduce small soluble hydroperoxides such as H2O2, cumene hydroperoxide and tert-butyl hydroperoxide, as well as several fatty acid-derived hydroperoxides."
+],
+[
+"Location",
+"Cytoplasm, Mitochondrion"
+],
+[
+"HGNC",
+"HGNC:4553"
+],
+[
+"HGNC symbol",
+"GPX1"
+],
+[
+"Entrez",
+"2876"
+],
+[
+"Ensembl",
+"ENSG00000233276"
+],
+[
+"RefSeq",
+"NM_000581"
+],
+[
+"UniProt",
+"P07203"
+]
+]
+},
+{
+"label": "GSTA4",
+"class": "Macromolecule",
+"box": [
+199.0,
+2523.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"Glutathione S-transferase A4"
+],
+[
+"Alternative names",
+"GST class-alpha member 4; Glutathione S-transferase A4-4"
+],
+[
+"Function",
+"Conjugation of reduced glutathione to a wide number of exogenous and endogenous hydrophobic electrophiles. This isozyme has a high catalytic efficiency with 4-hydroxyalkenals such as 4-hydroxynonenal (4-HNE)"
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:4629"
+],
+[
+"HGNC symbol",
+"GSTA4"
+],
+[
+"Entrez",
+"2941"
+],
+[
+"Ensembl",
+"ENSG00000170899"
+],
+[
+"RefSeq",
+"NM_001512"
+],
+[
+"UniProt",
+"O15217"
+]
+]
+},
+{
+"label": "GSH",
+"class": "SimpleChemical",
+"box": [
+219.0,
+2263.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"glutathione"
+],
+[
+"Synonyms",
+"5-L-Glutamyl-L-cysteinylglycine; GSH; Glutathione-SH; L-gamma-glutamyl-L-cysteinylglycine; N-(N-gamma-L-Glutamyl-L-cysteinyl)glycine; Reduced glutathione; gamma-L-Glutamyl-L-cysteinyl-glycine"
+],
+[
+"Definition",
+"A tripeptide compound consisting of glutamic acid attached via its side chain to the N-terminus of cysteinylglycine."
+],
+[
+"Formula",
+"C10H17N3O6S"
+],
+[
+"ChEBI",
+"CHEBI:16856"
+],
+[
+"KEGG",
+"C00051"
+],
+[
+"HMDB",
+"HMDB0000125"
+],
+[
+"InChI",
+"InChI=1S/C10H17N3O6S/c11-5(10(18)19)1-2-7(14)13-6(4-20)9(17)12-3-8(15)16/h5-6,20H,1-4,11H2,(H,12,17)(H,13,14)(H,15,16)(H,18,19)/t5-,6-/m0/s1"
+],
+[
+"InChIKey",
+"RWSXRVCMGQZWBV-WDSKDSINSA-N"
+]
+]
+},
+{
+"label": "GSSG",
+"class": "SimpleChemical",
+"box": [
+47.0,
+2333.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"glutathione disulfide"
+],
+[
+"Synonyms",
+"(2S,2'S)-5,5'-[disulfanediylbis({(2R)-3-[(carboxymethyl)amino]-3-oxopropane-1,2-diyl}imino)]bis(2-amino-5-oxopentanoic acid); GSSG; OXIDIZED GLUTATHIONE DISULFIDE; Oxidized glutathione; Oxiglutatione; glutathione disulphide; oxidised glutathione"
+],
+[
+"Formula",
+"C20H32N6O12S2"
+],
+[
+"ChEBI",
+"CHEBI:17858"
+],
+[
+"KEGG",
+"C00127"
+],
+[
+"InChI",
+"InChI=1S/C20H32N6O12S2/c21-9(19(35)36)1-3-13(27)25-11(17(33)23-5-15(29)30)7-39-40-8-12(18(34)24-6-16(31)32)26-14(28)4-2-10(22)20(37)38/h9-12H,1-8,21-22H2,(H,23,33)(H,24,34)(H,25,27)(H,26,28)(H,29,30)(H,31,32)(H,35,36)(H,37,38)/t9-,10-,11-,12-/m0/s1"
+],
+[
+"InChIKey",
+"YPZRWBKMTBYPTK-BJDJZHNGSA-N"
+]
+]
+},
+{
+"label": "HNE-glutathione",
+"class": "SimpleChemical",
+"box": [
+109.0,
+2433.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
+"label": "glutamate",
+"class": "SimpleChemical",
+"box": [
+577.0,
+2173.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"L-glutamate(1-)"
+],
+[
+"Synonyms",
+"(2S)-2-ammoniopentanedioate; L-glutamate; L-glutamic acid monoanion; L-glutamic acid, ion(1-); hydrogen L-glutamate"
+],
+[
+"Definition",
+"An α-amino-acid anion that is the conjugate base of L-glutamic acid, having anionic carboxy groups and a cationic amino group"
+],
+[
+"Formula",
+"C5H8NO4"
+],
+[
+"ChEBI",
+"CHEBI:29985"
+],
+[
+"InChI",
+"InChI=1S/C5H9NO4/c6-3(5(9)10)1-2-4(7)8/h3H,1-2,6H2,(H,7,8)(H,9,10)/p-1/t3-/m0/s1"
+],
+[
+"InChIKey",
+"WHUUTDBJXJRKMK-VKHMYHEASA-M"
+]
+]
+},
+{
+"label": "cysteine",
+"class": "SimpleChemical",
+"box": [
+577.0,
+2353.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"L-cysteine zwitterion"
+],
+[
+"Synonyms",
+"(2R)-2-ammonio-3-mercaptopropanoate; (2R)-2-ammonio-3-sulfanylpropanoate; L-cysteine"
+],
+[
+"Formula",
+"C3H7NO2S"
+],
+[
+"ChEBI",
+"CHEBI:35235"
+],
+[
+"InChI",
+"InChI=1S/C3H7NO2S/c4-2(1-7)3(5)6/h2,7H,1,4H2,(H,5,6)/t2-/m0/s1"
+],
+[
+"InChIKey",
+"XUJNEKJLAYXESH-REOHCLBHSA-N"
+]
+]
+},
+{
+"label": "gamma-glutamylcysteine",
+"class": "SimpleChemical",
+"box": [
+441.0,
+2263.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
+"label": "glycine",
+"class": "SimpleChemical",
+"box": [
+305.0,
+2353.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"glycine"
+],
+[
+"Synonyms",
+"Aminoacetic acid; Aminoessigsaeure; G; Gly; Glycin; Glycocoll; Glykokoll; Glyzin; H2N-CH2-COOH; Hgly; Leimzucker; aminoethanoic acid"
+],
+[
+"Definition",
+"The simplest (and the only achiral) proteinogenic amino acid, with a hydrogen atom as its side chain."
+],
+[
+"Formula",
+"C2H5NO2"
+],
+[
+"ChEBI",
+"CHEBI:15428"
+],
+[
+"KEGG",
+"C00037"
+],
+[
+"HMDB",
+"HMDB0000123"
+],
+[
+"InChI",
+"InChI=1S/C2H5NO2/c3-1-2(4)5/h1,3H2,(H,4,5)"
+],
+[
+"InChIKey",
+"DHMQDGOQFOQNFH-UHFFFAOYSA-N"
+]
+]
+},
+{
+"id": "hvk7rowt_redox-nrf2-glutathione",
+"label": "",
+"class": "Process",
+"box": [
+1023.0,
+2271.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+""
+],
+"out": [
+"GCLC"
+],
+"by": [
+"GCLC"
+]
+},
+"references": [
+{
+"authors": "Wild AC et al.",
+"journal": "J Biol Chem",
+"title": "Regulation of gamma-glutamylcysteine synthetase subunit gene expression by the transcription factor Nrf2.",
+"year": "1999",
+"db": "pubmed",
+"id": "10559251"
+}
+]
+},
+{
+"id": "famtlxo3_redox-nrf2-glutathione",
+"label": "",
+"class": "Process",
+"box": [
+821.0,
+2271.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"GCLC",
+"GCLM"
+],
+"out": [
+"GCLC:GCLM"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Lu SC",
+"journal": "Mol Aspects Med",
+"title": "Regulation of glutathione synthesis.",
+"year": "2009",
+"db": "pubmed",
+"id": "18601945"
+}
+]
+},
+{
+"id": "kfpq87j7_redox-nrf2-glutathione",
+"label": "",
+"class": "Process",
+"box": [
+585.0,
+2271.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"glutamate",
+"cysteine"
+],
+"out": [
+"gamma-glutamylcysteine"
+],
+"by": [
+"GCLC:GCLM"
+]
+},
+"references": [
+{
+"authors": "Lu SC",
+"journal": "Mol Aspects Med",
+"title": "Regulation of glutathione synthesis.",
+"year": "2009",
+"db": "pubmed",
+"id": "18601945"
+}
+]
+},
+{
+"id": "qlzy8qjx_redox-nrf2-glutathione",
+"label": "",
+"class": "Process",
+"box": [
+313.0,
+2271.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"gamma-glutamylcysteine",
+"glycine"
+],
+"out": [
+"GSH"
+],
+"by": [
+"GSS"
+]
+},
+"references": [
+{
+"authors": "Njålsson R",
+"journal": "Cell Mol Life Sci",
+"title": "Glutathione synthetase deficiency.",
+"year": "2005",
+"db": "pubmed",
+"id": "15990954"
+}
+]
+},
+{
+"id": "froe1iv9_redox-nrf2-glutathione",
+"label": "",
+"class": "Process",
+"box": [
+141.0,
+2271.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"H2O2",
+"GSH"
+],
+"out": [
+"H2O",
+"GSSG"
+],
+"by": [
+"GPX1"
+]
+},
+"references": [
+{
+"authors": "Lubos E et al.",
+"journal": "Antioxid Redox Signal",
+"title": "Glutathione peroxidase-1 in health and disease: from molecular mechanisms to therapeutic opportunities.",
+"year": "2011",
+"db": "pubmed",
+"id": "21087145"
+}
+]
+},
+{
+"id": "i1gqz5q3_redox-nrf2-glutathione",
+"label": "",
+"class": "Process",
+"box": [
+227.0,
+2441.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"4-hydroxynonenal",
+"GSH"
+],
+"out": [
+"HNE-glutathione"
+],
+"by": [
+"GSTA4"
+]
+},
+"references": [
+{
+"authors": "Hubatsch I et al.",
+"journal": "Biochem J",
+"title": "Human glutathione transferase A4-4: an alpha class enzyme with high catalytic efficiency in the conjugation of 4-hydroxynonenal and other genotoxic products of lipid peroxidation.",
+"year": "1998",
+"db": "pubmed",
+"id": "9461507"
+},
+{
+"authors": "Dwivedi S et al.",
+"journal": "Toxicology",
+"title": "The course of CCl4 induced hepatotoxicity is altered in mGSTA4-4 null (-/-) mice.",
+"year": "2006",
+"db": "pubmed",
+"id": "16325313"
+}
+]
+},
+{
+"label": "NFE2L2",
+"class": "NucleicAcidFeature",
+"box": [
+1443.0,
+193.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+],
+[
+"Full name",
+"Nuclear factor erythroid 2-related factor 2"
+],
+[
+"Alternative names",
+"Nuclear factor, erythroid derived 2, like 2"
+],
+[
+"Function",
+"Transcription factor that plays a key role in the response to oxidative stress: binds to antioxidant response (ARE) elements present in the promoter region of many cytoprotective genes, such as phase 2 detoxifying enzymes, and promotes their expression, thereby neutralizing reactive electrophiles. In normal conditions, ubiquitinated and degraded in the cytoplasm by the BCR(KEAP1) complex."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Nucleus"
+],
+[
+"HGNC",
+"HGNC:7782"
+],
+[
+"HGNC symbol",
+"NFE2L2"
+],
+[
+"Alias symbols",
+"NRF2, NRF-2"
+],
+[
+"Entrez",
+"4780"
+],
+[
+"Ensembl",
+"ENSG00000116044"
+],
+[
+"RefSeq",
+"NM_006164"
+],
+[
+"UniProt",
+"Q16236"
+]
+]
+},
+{
+"label": "KEAP1",
+"class": "NucleicAcidFeature",
+"box": [
+1671.0,
+133.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+],
+[
+"Full name",
+"Kelch-like ECH-associated protein 1"
+],
+[
+"Alternative names",
+"Cytosolic inhibitor of Nrf2; Kelch-like protein 19"
+],
+[
+"Function",
+"Substrate-specific adapter of a BCR (BTB-CUL3-RBX1) E3 ubiquitin ligase complex that regulates the response to oxidative stress by targeting NFE2L2/NRF2 for ubiquitination. KEAP1 acts as a key sensor of oxidative and electrophilic stress: in normal conditions, the BCR(KEAP1) complex mediates ubiquitination and degradation of NFE2L2/NRF2, a transcription factor regulating expression of many cytoprotective genes."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:23177"
+],
+[
+"HGNC symbol",
+"KEAP1"
+],
+[
+"Alias symbols",
+"KIAA0132, MGC10630, MGC1114, MGC20887, MGC4407, MGC9454, INrf2, KLHL19"
+],
+[
+"Entrez",
+"9817"
+],
+[
+"Ensembl",
+"ENSG00000079999"
+],
+[
+"RefSeq",
+"NM_012289"
+],
+[
+"UniProt",
+"Q14145"
+]
+]
+},
+{
+"label": "AND",
+"class": "Operator",
+"box": [
+1576.0,
+138.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+]
+]
+},
+{
+"label": "NRF2",
+"class": "Macromolecule",
+"box": [
+1337.0,
+455.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+],
+[
+"PTM",
+" at Lys"
+],
+[
+"Full name",
+"Nuclear factor erythroid 2-related factor 2"
+],
+[
+"Alternative names",
+"Nuclear factor, erythroid derived 2, like 2"
+],
+[
+"Function",
+"Transcription factor that plays a key role in the response to oxidative stress: binds to antioxidant response (ARE) elements present in the promoter region of many cytoprotective genes, such as phase 2 detoxifying enzymes, and promotes their expression, thereby neutralizing reactive electrophiles. In normal conditions, ubiquitinated and degraded in the cytoplasm by the BCR(KEAP1) complex."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Nucleus"
+],
+[
+"HGNC",
+"HGNC:7782"
+],
+[
+"HGNC symbol",
+"NFE2L2"
+],
+[
+"Alias symbols",
+"NRF2, NRF-2"
+],
+[
+"Entrez",
+"4780"
+],
+[
+"Ensembl",
+"ENSG00000116044"
+],
+[
+"RefSeq",
+"NM_006164"
+],
+[
+"UniProt",
+"Q16236"
+]
+]
+},
+{
+"label": "NRF2:MAFG",
+"class": "Complex",
+"box": [
+1539.0,
+400.2,
+104.0,
+149.5
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+]
+]
+},
+{
+"label": "NRF2",
+"class": "Macromolecule",
+"box": [
+1551.0,
+425.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+],
+[
+"PTM",
+" at Lys"
+],
+[
+"Full name",
+"Nuclear factor erythroid 2-related factor 2"
+],
+[
+"Alternative names",
+"Nuclear factor, erythroid derived 2, like 2"
+],
+[
+"Function",
+"Transcription factor that plays a key role in the response to oxidative stress: binds to antioxidant response (ARE) elements present in the promoter region of many cytoprotective genes, such as phase 2 detoxifying enzymes, and promotes their expression, thereby neutralizing reactive electrophiles. In normal conditions, ubiquitinated and degraded in the cytoplasm by the BCR(KEAP1) complex."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Nucleus"
+],
+[
+"HGNC",
+"HGNC:7782"
+],
+[
+"HGNC symbol",
+"NFE2L2"
+],
+[
+"Alias symbols",
+"NRF2, NRF-2"
+],
+[
+"Entrez",
+"4780"
+],
+[
+"Ensembl",
+"ENSG00000116044"
+],
+[
+"RefSeq",
+"NM_006164"
+],
+[
+"UniProt",
+"Q16236"
+]
+]
+},
+{
+"label": "MAFG",
+"class": "Macromolecule",
+"box": [
+1551.0,
+473.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+],
+[
+"Full name",
+"Transcription factor MafG"
+],
+[
+"Alternative names",
+"V-maf musculoaponeurotic fibrosarcoma oncogene homolog G; hMAF"
+],
+[
+"Function",
+"Since they lack a putative transactivation domain, the small Mafs behave as transcriptional repressors when they dimerize among themselves. However, they seem to serve as transcriptional activators by dimerizing with other (usually larger) basic-zipper proteins, such as NFE2, NFE2L1 and NFE2L2, and recruiting them to specific DNA-binding sites."
+],
+[
+"Location",
+"Nucleus"
+],
+[
+"HGNC",
+"HGNC:6781"
+],
+[
+"HGNC symbol",
+"MAFG"
+],
+[
+"Alias symbols",
+"MGC13090, MGC20149"
+],
+[
+"Entrez",
+"4097"
+],
+[
+"Ensembl",
+"ENSG00000197063"
+],
+[
+"RefSeq",
+"NM_002359"
+],
+[
+"UniProt",
+"O15525"
+]
+]
+},
+{
+"label": "MAFG",
+"class": "Macromolecule",
+"box": [
+1433.0,
+545.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+],
+[
+"Full name",
+"Transcription factor MafG"
+],
+[
+"Alternative names",
+"V-maf musculoaponeurotic fibrosarcoma oncogene homolog G; hMAF"
+],
+[
+"Function",
+"Since they lack a putative transactivation domain, the small Mafs behave as transcriptional repressors when they dimerize among themselves. However, they seem to serve as transcriptional activators by dimerizing with other (usually larger) basic-zipper proteins, such as NFE2, NFE2L1 and NFE2L2, and recruiting them to specific DNA-binding sites."
+],
+[
+"Location",
+"Nucleus"
+],
+[
+"HGNC",
+"HGNC:6781"
+],
+[
+"HGNC symbol",
+"MAFG"
+],
+[
+"Alias symbols",
+"MGC13090, MGC20149"
+],
+[
+"Entrez",
+"4097"
+],
+[
+"Ensembl",
+"ENSG00000197063"
+],
+[
+"RefSeq",
+"NM_002359"
+],
+[
+"UniProt",
+"O15525"
+]
+]
+},
+{
+"label": "NFE2L2",
+"class": "NucleicAcidFeature",
+"box": [
+1337.0,
+283.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+],
+[
+"Full name",
+"Nuclear factor erythroid 2-related factor 2"
+],
+[
+"Alternative names",
+"Nuclear factor, erythroid derived 2, like 2"
+],
+[
+"Function",
+"Transcription factor that plays a key role in the response to oxidative stress: binds to antioxidant response (ARE) elements present in the promoter region of many cytoprotective genes, such as phase 2 detoxifying enzymes, and promotes their expression, thereby neutralizing reactive electrophiles. In normal conditions, ubiquitinated and degraded in the cytoplasm by the BCR(KEAP1) complex."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Nucleus"
+],
+[
+"HGNC",
+"HGNC:7782"
+],
+[
+"HGNC symbol",
+"NFE2L2"
+],
+[
+"Alias symbols",
+"NRF2, NRF-2"
+],
+[
+"Entrez",
+"4780"
+],
+[
+"Ensembl",
+"ENSG00000116044"
+],
+[
+"RefSeq",
+"NM_006164"
+],
+[
+"UniProt",
+"Q16236"
+]
+]
+},
+{
+"label": "",
+"class": "EmptySet",
+"box": [
+1468.0,
+368.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+]
+]
+},
+{
+"label": "KEAP1",
+"class": "NucleicAcidFeature",
+"box": [
+1445.0,
+63.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+],
+[
+"Full name",
+"Kelch-like ECH-associated protein 1"
+],
+[
+"Alternative names",
+"Cytosolic inhibitor of Nrf2; Kelch-like protein 19"
+],
+[
+"Function",
+"Substrate-specific adapter of a BCR (BTB-CUL3-RBX1) E3 ubiquitin ligase complex that regulates the response to oxidative stress by targeting NFE2L2/NRF2 for ubiquitination. KEAP1 acts as a key sensor of oxidative and electrophilic stress: in normal conditions, the BCR(KEAP1) complex mediates ubiquitination and degradation of NFE2L2/NRF2, a transcription factor regulating expression of many cytoprotective genes."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:23177"
+],
+[
+"HGNC symbol",
+"KEAP1"
+],
+[
+"Alias symbols",
+"KIAA0132, MGC10630, MGC1114, MGC20887, MGC4407, MGC9454, INrf2, KLHL19"
+],
+[
+"Entrez",
+"9817"
+],
+[
+"Ensembl",
+"ENSG00000079999"
+],
+[
+"RefSeq",
+"NM_012289"
+],
+[
+"UniProt",
+"Q14145"
+]
+]
+},
+{
+"label": "",
+"class": "EmptySet",
+"box": [
+1662.0,
+68.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+]
+]
+},
+{
+"id": "dwobrv1b_redox-nrf2-core",
+"label": "",
+"class": "Process",
+"box": [
+1471.0,
+291.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+""
+],
+"out": [
+"NFE2L2"
+],
+"by": [
+"NFE2L2"
+]
+},
+"references": [
+{
+"authors": "Nguyen T et al.",
+"journal": "J Biol Chem",
+"title": "Increased protein stability as a mechanism that enhances Nrf2-mediated transcriptional activation of the antioxidant response element. Degradation of Nrf2 by the 26 S proteasome.",
+"year": "2003",
+"db": "pubmed",
+"id": "12446695"
+}
+]
+},
+{
+"id": "cji40zrm_redox-nrf2-core",
+"label": "",
+"class": "Process",
+"box": [
+1259.0,
+463.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"NRF2"
+],
+"out": [
+"NRF2"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Theodore M et al.",
+"journal": "J Biol Chem",
+"title": "Multiple nuclear localization signals function in the nuclear import of the transcription factor Nrf2.",
+"year": "2008",
+"db": "pubmed",
+"id": "18238777"
+}
+]
+},
+{
+"id": "zie245jo_redox-nrf2-core",
+"label": "",
+"class": "Process",
+"box": [
+1461.0,
+463.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"NRF2",
+"MAFG"
+],
+"out": [
+"NRF2:MAFG"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Itoh K et al.",
+"journal": "Biochem Biophys Res Commun",
+"title": "An Nrf2/small Maf heterodimer mediates the induction of phase II detoxifying enzyme genes through antioxidant response elements.",
+"year": "1997",
+"db": "pubmed",
+"id": "9240432"
+},
+{
+"authors": "Kimura M et al.",
+"journal": "J Biol Chem",
+"title": "Molecular basis distinguishing the DNA binding profile of Nrf2-Maf heterodimer from that of Maf homodimer.",
+"year": "2007",
+"db": "pubmed",
+"id": "17875642"
+}
+]
+},
+{
+"id": "pc8ow4y5_redox-nrf2-core",
+"label": "",
+"class": "Process",
+"box": [
+1579.0,
+71.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+""
+],
+"out": [
+"KEAP1"
+],
+"by": [
+"AND"
+]
+},
+"references": [
+{
+"authors": "Lee OH et al.",
+"journal": "J Biol Chem",
+"title": "An auto-regulatory loop between stress sensors INrf2 and Nrf2 controls their cellular abundance.",
+"year": "2007",
+"db": "pubmed",
+"id": "17925401"
+}
+]
+},
+{
+"label": "HMOX1",
+"class": "NucleicAcidFeature",
+"box": [
+1599.0,
+1337.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+],
+[
+"Full name",
+"Heme oxygenase 1"
+],
+[
+"Function",
+"Catalyzes the oxidative cleavage of heme at the alpha-methene bridge carbon, released as carbon monoxide (CO), to generate biliverdin IXalpha, while releasing the central heme iron chelate as ferrous iron. Affords protection against programmed cell death and this cytoprotective effect relies on its ability to catabolize free heme and prevent it from sensitizing cells to undergo apoptosis"
+],
+[
+"Location",
+"Endoplasmic reticulum membrane"
+],
+[
+"HGNC",
+"HGNC:5013"
+],
+[
+"HGNC symbol",
+"HMOX1"
+],
+[
+"Alias symbols",
+"bK286B10, HO-1"
+],
+[
+"Entrez",
+"3162"
+],
+[
+"Ensembl",
+"ENSG00000100292"
+],
+[
+"RefSeq",
+"NM_002133"
+],
+[
+"UniProt",
+"P09601"
+]
+]
+},
+{
+"label": "AND",
+"class": "Operator",
+"box": [
+1624.0,
+1432.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+]
+]
+},
+{
+"label": "NQO1",
+"class": "NucleicAcidFeature",
+"box": [
+1599.0,
+1067.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+],
+[
+"Full name",
+"NAD(P)H dehydrogenase [quinone] 1"
+],
+[
+"Alternative names",
+"Azoreductase; DT-diaphorase; Menadione reductase; NAD(P)H:quinone oxidoreductase 1; Phylloquinone reductase; Quinone reductase 1"
+],
+[
+"Function",
+"Flavin-containing quinone reductase that catalyzes two-electron reduction of quinones to hydroquinones using either NADH or NADPH as electron donors. In a ping-pong kinetic mechanism, the electrons are sequentially transferred from NAD(P)H to flavin cofactor and then from reduced flavin to the quinone, bypassing the formation of semiquinone and reactive oxygen species."
+],
+[
+"Location",
+"Cytoplasm, cytosol"
+],
+[
+"HGNC",
+"HGNC:2874"
+],
+[
+"HGNC symbol",
+"NQO1"
+],
+[
+"Previous symbols",
+"NMOR1, DIA4"
+],
+[
+"Alias symbols",
+"DHQU, QR1, DTD"
+],
+[
+"Entrez",
+"1728"
+],
+[
+"Ensembl",
+"ENSG00000181019"
+],
+[
+"RefSeq",
+"NM_000903"
+],
+[
+"UniProt",
+"P15559"
+]
+]
+},
+{
+"label": "AND",
+"class": "Operator",
+"box": [
+1624.0,
+1162.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+]
+]
+},
+{
+"label": "BACH1",
+"class": "NucleicAcidFeature",
+"box": [
+1599.0,
+2057.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+],
+[
+"Full name",
+"Transcription regulator protein BACH1"
+],
+[
+"Alternative names",
+"BTB and CNC homolog 1; HA2303"
+],
+[
+"Function",
+"Transcriptional regulator that acts as a repressor or activator, depending on the context. Binds to NF-E2 DNA binding sites."
+],
+[
+"Location",
+"Nucleus"
+],
+[
+"HGNC",
+"HGNC:935"
+],
+[
+"HGNC symbol",
+"BACH1"
+],
+[
+"Alias symbols",
+"BACH-1, BTBD24"
+],
+[
+"Entrez",
+"571"
+],
+[
+"Ensembl",
+"ENSG00000156273"
+],
+[
+"RefSeq",
+"NM_206866"
+],
+[
+"UniProt",
+"O14867"
+]
+]
+},
+{
+"label": "AND",
+"class": "Operator",
+"box": [
+1624.0,
+1972.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+]
+]
+},
+{
+"label": "BACH1:MAFG",
+"class": "Complex",
+"box": [
+1507.0,
+1526.8,
+104.0,
+140.5
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+]
+]
+},
+{
+"label": "BACH1",
+"class": "Macromolecule",
+"box": [
+1519.0,
+1542.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+],
+[
+"Full name",
+"Transcription regulator protein BACH1"
+],
+[
+"Alternative names",
+"BTB and CNC homolog 1; HA2303"
+],
+[
+"Function",
+"Transcriptional regulator that acts as a repressor or activator, depending on the context. Binds to NF-E2 DNA binding sites."
+],
+[
+"Location",
+"Nucleus"
+],
+[
+"HGNC",
+"HGNC:935"
+],
+[
+"HGNC symbol",
+"BACH1"
+],
+[
+"Alias symbols",
+"BACH-1, BTBD24"
+],
+[
+"Entrez",
+"571"
+],
+[
+"Ensembl",
+"ENSG00000156273"
+],
+[
+"RefSeq",
+"NM_206866"
+],
+[
+"UniProt",
+"O14867"
+]
+]
+},
+{
+"label": "MAFG",
+"class": "Macromolecule",
+"box": [
+1519.0,
+1590.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+],
+[
+"Full name",
+"Transcription factor MafG"
+],
+[
+"Alternative names",
+"V-maf musculoaponeurotic fibrosarcoma oncogene homolog G; hMAF"
+],
+[
+"Function",
+"Since they lack a putative transactivation domain, the small Mafs behave as transcriptional repressors when they dimerize among themselves. However, they seem to serve as transcriptional activators by dimerizing with other (usually larger) basic-zipper proteins, such as NFE2, NFE2L1 and NFE2L2, and recruiting them to specific DNA-binding sites."
+],
+[
+"Location",
+"Nucleus"
+],
+[
+"HGNC",
+"HGNC:6781"
+],
+[
+"HGNC symbol",
+"MAFG"
+],
+[
+"Alias symbols",
+"MGC13090, MGC20149"
+],
+[
+"Entrez",
+"4097"
+],
+[
+"Ensembl",
+"ENSG00000197063"
+],
+[
+"RefSeq",
+"NM_002359"
+],
+[
+"UniProt",
+"O15525"
+]
+]
+},
+{
+"label": "BACH1",
+"class": "Macromolecule",
+"box": [
+1519.0,
+1827.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+],
+[
+"Full name",
+"Transcription regulator protein BACH1"
+],
+[
+"Alternative names",
+"BTB and CNC homolog 1; HA2303"
+],
+[
+"Function",
+"Transcriptional regulator that acts as a repressor or activator, depending on the context. Binds to NF-E2 DNA binding sites."
+],
+[
+"Location",
+"Nucleus"
+],
+[
+"HGNC",
+"HGNC:935"
+],
+[
+"HGNC symbol",
+"BACH1"
+],
+[
+"Alias symbols",
+"BACH-1, BTBD24"
+],
+[
+"Entrez",
+"571"
+],
+[
+"Ensembl",
+"ENSG00000156273"
+],
+[
+"RefSeq",
+"NM_206866"
+],
+[
+"UniProt",
+"O14867"
+]
+]
+},
+{
+"label": "heme",
+"class": "SimpleChemical",
+"box": [
+1343.0,
+1707.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+],
+[
+"Full name",
+"heme"
+],
+[
+"Synonyms",
+"Haem; haeme; hem; hemes; hemos"
+],
+[
+"Definition",
+"A heme is any tetrapyrrolic chelate of iron."
+],
+[
+"ChEBI",
+"CHEBI:30413"
+],
+[
+"KEGG",
+"C00032"
+]
+]
+},
+{
+"label": "HMOX1",
+"class": "NucleicAcidFeature",
+"box": [
+1413.0,
+1427.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+],
+[
+"Full name",
+"Heme oxygenase 1"
+],
+[
+"Function",
+"Catalyzes the oxidative cleavage of heme at the alpha-methene bridge carbon, released as carbon monoxide (CO), to generate biliverdin IXalpha, while releasing the central heme iron chelate as ferrous iron. Affords protection against programmed cell death and this cytoprotective effect relies on its ability to catabolize free heme and prevent it from sensitizing cells to undergo apoptosis"
+],
+[
+"Location",
+"Endoplasmic reticulum membrane"
+],
+[
+"HGNC",
+"HGNC:5013"
+],
+[
+"HGNC symbol",
+"HMOX1"
+],
+[
+"Alias symbols",
+"bK286B10, HO-1"
+],
+[
+"Entrez",
+"3162"
+],
+[
+"Ensembl",
+"ENSG00000100292"
+],
+[
+"RefSeq",
+"NM_002133"
+],
+[
+"UniProt",
+"P09601"
+]
+]
+},
+{
+"label": "",
+"class": "EmptySet",
+"box": [
+1544.0,
+1352.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+]
+]
+},
+{
+"label": "NQO1",
+"class": "NucleicAcidFeature",
+"box": [
+1413.0,
+1157.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+],
+[
+"Full name",
+"NAD(P)H dehydrogenase [quinone] 1"
+],
+[
+"Alternative names",
+"Azoreductase; DT-diaphorase; Menadione reductase; NAD(P)H:quinone oxidoreductase 1; Phylloquinone reductase; Quinone reductase 1"
+],
+[
+"Function",
+"Flavin-containing quinone reductase that catalyzes two-electron reduction of quinones to hydroquinones using either NADH or NADPH as electron donors. In a ping-pong kinetic mechanism, the electrons are sequentially transferred from NAD(P)H to flavin cofactor and then from reduced flavin to the quinone, bypassing the formation of semiquinone and reactive oxygen species."
+],
+[
+"Location",
+"Cytoplasm, cytosol"
+],
+[
+"HGNC",
+"HGNC:2874"
+],
+[
+"HGNC symbol",
+"NQO1"
+],
+[
+"Previous symbols",
+"NMOR1, DIA4"
+],
+[
+"Alias symbols",
+"DHQU, QR1, DTD"
+],
+[
+"Entrez",
+"1728"
+],
+[
+"Ensembl",
+"ENSG00000181019"
+],
+[
+"RefSeq",
+"NM_000903"
+],
+[
+"UniProt",
+"P15559"
+]
+]
+},
+{
+"label": "",
+"class": "EmptySet",
+"box": [
+1544.0,
+1242.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+]
+]
+},
+{
+"label": "BACH1",
+"class": "NucleicAcidFeature",
+"box": [
+1413.0,
+1967.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+],
+[
+"Full name",
+"Transcription regulator protein BACH1"
+],
+[
+"Alternative names",
+"BTB and CNC homolog 1; HA2303"
+],
+[
+"Function",
+"Transcriptional regulator that acts as a repressor or activator, depending on the context. Binds to NF-E2 DNA binding sites."
+],
+[
+"Location",
+"Nucleus"
+],
+[
+"HGNC",
+"HGNC:935"
+],
+[
+"HGNC symbol",
+"BACH1"
+],
+[
+"Alias symbols",
+"BACH-1, BTBD24"
+],
+[
+"Entrez",
+"571"
+],
+[
+"Ensembl",
+"ENSG00000156273"
+],
+[
+"RefSeq",
+"NM_206866"
+],
+[
+"UniProt",
+"O14867"
+]
+]
+},
+{
+"label": "",
+"class": "EmptySet",
+"box": [
+1544.0,
+2052.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+]
+]
+},
+{
+"id": "mtxlynva_redox-nrf2-heme-quinone",
+"label": "",
+"class": "Process",
+"box": [
+1547.0,
+1435.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+""
+],
+"out": [
+"HMOX1"
+],
+"by": [
+"AND",
+"BACH1:MAFG"
+]
+},
+"references": [
+{
+"authors": "Alam J et al.",
+"journal": "J Biol Chem",
+"title": "Nrf2, a Cap'n'Collar transcription factor, regulates induction of the heme oxygenase-1 gene.",
+"year": "1999",
+"db": "pubmed",
+"id": "10473555"
+},
+{
+"authors": "Sun J et al.",
+"journal": "EMBO J",
+"title": "Hemoprotein Bach1 regulates enhancer availability of heme oxygenase-1 gene.",
+"year": "2002",
+"db": "pubmed",
+"id": "12356737"
+},
+{
+"authors": "Li N et al.",
+"journal": "J Immunol",
+"title": "Nrf2 is a key transcription factor that regulates antioxidant defense in macrophages and epithelial cells: protecting against the proinflammatory and oxidizing effects of diesel exhaust chemicals.",
+"year": "2004",
+"db": "pubmed",
+"id": "15322212"
+}
+]
+},
+{
+"id": "w7onhu24_redox-nrf2-heme-quinone",
+"label": "",
+"class": "Process",
+"box": [
+1547.0,
+1165.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+""
+],
+"out": [
+"NQO1"
+],
+"by": [
+"AND"
+]
+},
+"references": [
+{
+"authors": "Nioi P et al.",
+"journal": "Biochem J",
+"title": "Identification of a novel Nrf2-regulated antioxidant response element (ARE) in the mouse NAD(P)H:quinone oxidoreductase 1 gene: reassessment of the ARE consensus sequence.",
+"year": "2003",
+"db": "pubmed",
+"id": "12816537"
+}
+]
+},
+{
+"id": "g8fs1c2t_redox-nrf2-heme-quinone",
+"label": "",
+"class": "Process",
+"box": [
+1547.0,
+1975.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+""
+],
+"out": [
+"BACH1"
+],
+"by": [
+"AND"
+]
+},
+"references": [
+{
+"authors": "Jyrkkänen HK et al.",
+"journal": "Biochem J",
+"title": "Novel insights into the regulation of antioxidant-response-element-mediated gene expression by electrophiles: induction of the transcriptional repressor BACH1 by Nrf2.",
+"year": "2011",
+"db": "pubmed",
+"id": "21812759"
+}
+]
+},
+{
+"id": "jb3h7526_redox-nrf2-heme-quinone",
+"label": "",
+"class": "Process",
+"box": [
+1647.0,
+1715.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"BACH1",
+"MAFG"
+],
+"out": [
+"BACH1:MAFG"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sun J et al.",
+"journal": "EMBO J",
+"title": "Hemoprotein Bach1 regulates enhancer availability of heme oxygenase-1 gene.",
+"year": "2002",
+"db": "pubmed",
+"id": "12356737"
+},
+{
+"authors": "Oyake T et al.",
+"journal": "Mol Cell Biol",
+"title": "Bach proteins belong to a novel family of BTB-basic leucine zipper transcription factors that interact with MafK and regulate transcription through the NF-E2 site.",
+"year": "1996",
+"db": "pubmed",
+"id": "8887638"
+}
+]
+},
+{
+"id": "t4hpmlh5_redox-nrf2-heme-quinone",
+"label": "",
+"class": "Process",
+"box": [
+1447.0,
+1715.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"BACH1:MAFG"
+],
+"out": [
+"BACH1",
+"MAFG"
+],
+"by": [
+"heme"
+]
+},
+"references": [
+{
+"authors": "Ogawa K et al.",
+"journal": "EMBO J",
+"title": "Heme mediates derepression of Maf recognition element through direct binding to transcription repressor Bach1.",
+"year": "2001",
+"db": "pubmed",
+"id": "11387216"
+},
+{
+"authors": "Suzuki H et al.",
+"journal": "EMBO J",
+"title": "Heme regulates gene expression by triggering Crm1-dependent nuclear export of Bach1.",
+"year": "2004",
+"db": "pubmed",
+"id": "15175654"
+}
+]
+},
+{
+"id": "y4rgmoep_redox-nrf2-heme-quinone",
+"label": "",
+"class": "Process",
+"box": [
+1257.0,
+1715.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"heme"
+],
+"out": [
+"heme"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Suzuki H et al.",
+"journal": "EMBO J",
+"title": "Heme regulates gene expression by triggering Crm1-dependent nuclear export of Bach1.",
+"year": "2004",
+"db": "pubmed",
+"id": "15175654"
+}
+]
+},
+{
+"label": "GCLC",
+"class": "NucleicAcidFeature",
+"box": [
+1563.0,
+2333.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+],
+[
+"Full name",
+"Glutamate--cysteine ligase catalytic subunit"
+],
+[
+"Alternative names",
+"GCS heavy chain; Gamma-ECS; Gamma-glutamylcysteine synthetase"
+],
+[
+"Function",
+"Catalyzes the ATP-dependent ligation of L-glutamate and L-cysteine and participates in the first and rate-limiting step in glutathione biosynthesis"
+],
+[
+"HGNC",
+"HGNC:4311"
+],
+[
+"HGNC symbol",
+"GCLC"
+],
+[
+"Previous symbols",
+"GLCLC, GLCL"
+],
+[
+"Alias symbols",
+"GCS"
+],
+[
+"Entrez",
+"2729"
+],
+[
+"Ensembl",
+"ENSG00000001084"
+],
+[
+"RefSeq",
+"NM_001197115"
+],
+[
+"UniProt",
+"P48506"
+]
+]
+},
+{
+"label": "AND",
+"class": "Operator",
+"box": [
+1468.0,
+2338.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+]
+]
+},
+{
+"label": "GCLC",
+"class": "NucleicAcidFeature",
+"box": [
+1337.0,
+2263.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+],
+[
+"Full name",
+"Glutamate--cysteine ligase catalytic subunit"
+],
+[
+"Alternative names",
+"GCS heavy chain; Gamma-ECS; Gamma-glutamylcysteine synthetase"
+],
+[
+"Function",
+"Catalyzes the ATP-dependent ligation of L-glutamate and L-cysteine and participates in the first and rate-limiting step in glutathione biosynthesis"
+],
+[
+"HGNC",
+"HGNC:4311"
+],
+[
+"HGNC symbol",
+"GCLC"
+],
+[
+"Previous symbols",
+"GLCLC, GLCL"
+],
+[
+"Alias symbols",
+"GCS"
+],
+[
+"Entrez",
+"2729"
+],
+[
+"Ensembl",
+"ENSG00000001084"
+],
+[
+"RefSeq",
+"NM_001197115"
+],
+[
+"UniProt",
+"P48506"
+]
+]
+},
+{
+"label": "",
+"class": "EmptySet",
+"box": [
+1554.0,
+2268.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+]
+]
+},
+{
+"id": "n458uu5e_redox-nrf2-glutathione",
+"label": "",
+"class": "Process",
+"box": [
+1471.0,
+2271.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+""
+],
+"out": [
+"GCLC"
+],
+"by": [
+"AND"
+]
+},
+"references": [
+{
+"authors": "Wild AC et al.",
+"journal": "J Biol Chem",
+"title": "Regulation of gamma-glutamylcysteine synthetase subunit gene expression by the transcription factor Nrf2.",
+"year": "1999",
+"db": "pubmed",
+"id": "10559251"
+}
+]
+}
+]
+}
