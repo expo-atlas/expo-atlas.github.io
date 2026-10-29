@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1522" height="1106" viewBox="0 0 1522 1106" stroke-linecap="butt" stroke-miterlimit="10">
+<g transform="translate(-505,187)">
+<path d="M520 -168 C520 -170.2092 521.7908 -172 524 -172 L1636 -172 C1638.2092 -172 1640 -170.2092 1640 -168 L1640 168 C1640 170.2092 1638.2092 172 1636 172 L524 172 C521.7908 172 520 170.2092 520 168 Z" fill="none" stroke="#999999" stroke-width="2"/><text x="1080" y="-156.4587" text-anchor="middle" font-family="'Dialog', Arial, Helvetica, sans-serif" font-size="14" fill="#000000" stroke="none" xml:space="preserve">extracellular space</text>
+<path d="M555 -72 C555 -81.9414 563.0586 -90 573 -90 L627 -90 C636.9414 -90 645 -81.9414 645 -72 L645 -72 C645 -62.0586 636.9414 -54 627 -54 L573 -54 C563.0586 -54 555 -62.0586 555 -72 Z" fill="none" stroke="#000000"/><text x="600" y="-66.7087" text-anchor="middle" font-family="'Dialog', Arial, Helvetica, sans-serif" font-size="14" fill="#000000" stroke="none" xml:space="preserve">endotoxin</text>
+<path d="M1100 -130 Q1100 -140 1110 -140 L1210 -140 Q1220 -140 1220 -130 L1220 -110 Q1220 -100 1210 -100 L1110 -100 Q1100 -100 1100 -110 Z" fill="none" stroke="#000000"/><text x="1160" y="-114.7087" text-anchor="middle" font-family="'Dialog', Arial, Helvetica, sans-serif" font-size="14" fill="#000000" stroke="none" xml:space="preserve">LBP</text>
+<path d="M1100 110 Q1100 100 1110 100 L1210 100 Q1220 100 1220 110 L1220 130 Q1220 140 1210 140 L1110 140 Q1100 140 1100 130 Z" fill="none" stroke="#000000"/><text x="1160" y="125.2913" text-anchor="middle" font-family="'Dialog', Arial, Helvetica, sans-serif" font-size="14" fill="#000000" stroke="none" xml:space="preserve">CD14</text>
+<path d="M780 54 L900 54 L915 69 L915 99 L900 114 L780 114 L765 99 L765 69 Z" fill="none" stroke="#000000"/><text x="840" y="89.2913" text-anchor="middle" font-family="'Dialog', Arial, Helvetica, sans-serif" font-size="14" fill="#000000" stroke="none" xml:space="preserve">TLR4:MD2</text>
+<path d="M1460 -30 L1580 -30 L1595 -15 L1595 15 L1580 30 L1460 30 L1445 15 L1445 -15 Z" fill="none" stroke="#000000"/><text x="1520" y="5.2913" text-anchor="middle" font-family="'Dialog', Arial, Helvetica, sans-serif" font-size="14" fill="#000000" stroke="none" xml:space="preserve">endotoxin:TLR4:MD2</text>
+<path d="M1150 -10 L1170 -10 L1170 10 L1150 10 Z" fill="none" stroke="#000000"/>
+<path d="M948 336 C948 333.7908 949.7908 332 952 332 L2008 332 C2010.2092 332 2012 333.7908 2012 336 L2012 900 C2012 902.2092 2010.2092 904 2008 904 L952 904 C949.7908 904 948 902.2092 948 900 Z" fill="none" stroke="#999999" stroke-width="2"/><text x="1480" y="347.5413" text-anchor="middle" font-family="'Dialog', Arial, Helvetica, sans-serif" font-size="14" fill="#000000" stroke="none" xml:space="preserve">cytosol</text>
+<path d="M1020 374 Q1020 364 1030 364 L1130 364 Q1140 364 1140 374 L1140 394 Q1140 404 1130 404 L1030 404 Q1020 404 1020 394 Z" fill="none" stroke="#000000"/><text x="1080" y="389.2913" text-anchor="middle" font-family="'Dialog', Arial, Helvetica, sans-serif" font-size="14" fill="#000000" stroke="none" xml:space="preserve">TIRAP</text>
+<path d="M1860 374 Q1860 364 1870 364 L1970 364 Q1980 364 1980 374 L1980 394 Q1980 404 1970 404 L1870 404 Q1860 404 1860 394 Z" fill="none" stroke="#000000"/><text x="1920" y="389.2913" text-anchor="middle" font-family="'Dialog', Arial, Helvetica, sans-serif" font-size="14" fill="#000000" stroke="none" xml:space="preserve">MYD88</text>
+<path d="M1460 570 L1580 570 L1595 585 L1595 615 L1580 630 L1460 630 L1445 615 L1445 585 Z" fill="none" stroke="#000000"/><text x="1520" y="605.2913" text-anchor="middle" font-family="'Dialog', Arial, Helvetica, sans-serif" font-size="14" fill="#000000" stroke="none" xml:space="preserve">TLR4:TIRAP:MyD88</text>
+<path d="M980 674 Q980 664 990 664 L1090 664 Q1100 664 1100 674 L1100 694 Q1100 704 1090 704 L990 704 Q980 704 980 694 Z" fill="none" stroke="#000000"/><text x="1040" y="689.2913" text-anchor="middle" font-family="'Dialog', Arial, Helvetica, sans-serif" font-size="14" fill="#000000" stroke="none" xml:space="preserve">IRAK4</text>
+<path d="M1460 810 L1580 810 L1595 825 L1595 855 L1580 870 L1460 870 L1445 855 L1445 825 Z" fill="none" stroke="#000000"/><text x="1520" y="845.2913" text-anchor="middle" font-family="'Dialog', Arial, Helvetica, sans-serif" font-size="14" fill="#000000" stroke="none" xml:space="preserve">Myddosome</text>
+<path d="M1510 470 L1530 470 L1530 490 L1510 490 Z" fill="none" stroke="#000000"/>
+<path d="M1510 710 L1530 710 L1530 730 L1510 730 Z" fill="none" stroke="#000000"/>
+<path d="M600 -54 L600 -10 Q600 0 610 0 L1150 0" fill="none" stroke="#000000"/>
+<path d="M840 54 L840 10 Q840 0 850 0 L1150 0" fill="none" stroke="#000000"/>
+<path d="M1170 0 L1434 0" fill="none" stroke="#000000"/><path d="M1445 0 L1433 6 L1433 -6 Z" fill="#000000" stroke="none"/>
+<path d="M1160 -100 L1160 -25" fill="none" stroke="#000000"/><path d="M1160 -10 L1154 -26 L1166 -26 Z" fill="white" stroke="#000000"/>
+<path d="M1160 100 L1160 25" fill="none" stroke="#000000"/><path d="M1160 10 L1166 26 L1154 26 Z" fill="white" stroke="#000000"/>
+<path d="M1520 30 L1520 470" fill="none" stroke="#000000"/>
+<path d="M1140 384 L1510 384 Q1520 384 1520 394 L1520 470" fill="none" stroke="#000000"/>
+<path d="M1860 384 L1530 384 Q1520 384 1520 394 L1520 470" fill="none" stroke="#000000"/>
+<path d="M1520 490 L1520 559" fill="none" stroke="#000000"/><path d="M1520 570 L1514 558 L1526 558 Z" fill="#000000" stroke="none"/>
+<path d="M1520 630 L1520 710" fill="none" stroke="#000000"/>
+<path d="M1100 684 L1510 684 Q1520 684 1520 694 L1520 710" fill="none" stroke="#000000"/>
+<path d="M1520 730 L1520 799" fill="none" stroke="#000000"/><path d="M1520 810 L1514 798 L1526 798 Z" fill="#000000" stroke="none"/>
+</g>
+</svg>

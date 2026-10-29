@@ -27,6 +27,33 @@
 "hasText": true
 },
 {
+"id": "tlr4-nox",
+"title": "Particle-adsorbed endotoxin to the oxidase kinase",
+"topic": "Particle-adsorbed endotoxin to the oxidase kinase",
+"group": "ExposomeMap",
+"kind": null,
+"tag": "draft",
+"tab": null,
+"image": "files/tlr4-nox.svg",
+"width": 1522.0,
+"height": 1106.0,
+"scale": 1,
+"annotation": "data/tlr4-nox.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/tlr4-nox.graphml"
+},
+{
+"label": "SVG",
+"url": "files/tlr4-nox.svg"
+}
+],
+"data": "data/tlr4-nox-text.json",
+"hasText": true
+},
+{
 "id": "redox-nox",
 "title": "NADPH oxidase assembly and superoxide",
 "topic": "NADPH oxidase assembly and superoxide",
