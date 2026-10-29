@@ -37,10 +37,10 @@
       </data>
       <graph edgedefault="directed" id="qcb79b61:"><node id="st3hftz2"><data key="d0">NFE2L2</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.NucleicAcidFeature">
-          <y:Geometry height="36.0" width="110.0" x="-55.0" y="62.0"/>
+          <y:Geometry height="40.0" width="80.0" x="-40.0" y="60.0"/>
           <y:Fill transparent="false" hasColor="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="57.0" x="26.5" xml:space="preserve" y="7.75" hasText="true">NFE2L2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="57.0" x="11.5" xml:space="preserve" y="9.75" hasText="true">NFE2L2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" bottomInset="0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="16.0" horizontalTextPosition="center" iconData="1" iconTextGap="0" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="46.0" x="32.0" y="-8.0">
                 <y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
@@ -56,10 +56,10 @@
       </data>
     <data key="dev_node">st3hftz2</data></node><node id="zf7pbg7j"><data key="d0">KEAP1</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.NucleicAcidFeature">
-          <y:Geometry height="36.0" width="110.0" x="245.0" y="62.0"/>
+          <y:Geometry height="40.0" width="80.0" x="260.0" y="60.0"/>
           <y:Fill transparent="false" hasColor="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="47.5" x="31.25" xml:space="preserve" y="7.75" hasText="true">KEAP1<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="47.5" x="16.25" xml:space="preserve" y="9.75" hasText="true">KEAP1<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" bottomInset="0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="16.0" horizontalTextPosition="center" iconData="1" iconTextGap="0" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="46.0" x="32.0" y="-8.0">
                 <y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
@@ -249,10 +249,10 @@
       </data>
       <graph edgedefault="directed" id="ej9u5hxr:"><node id="v8mctn7d"><data key="d0">NFE2L2</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.NucleicAcidFeature">
-          <y:Geometry height="36.0" width="110.0" x="-55.0" y="642.0"/>
+          <y:Geometry height="40.0" width="80.0" x="-40.0" y="640.0"/>
           <y:Fill transparent="false" hasColor="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="57.0" x="26.5" xml:space="preserve" y="7.75" hasText="true">NFE2L2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="57.0" x="11.5" xml:space="preserve" y="9.75" hasText="true">NFE2L2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" bottomInset="0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="16.0" horizontalTextPosition="center" iconData="3" iconTextGap="0" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="46.0" x="32.0" y="-8.0">
                 <y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
@@ -268,10 +268,10 @@
       </data>
     <data key="dev_node">v8mctn7d</data></node><node id="vbjvcta1"><data key="d0">KEAP1</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.NucleicAcidFeature">
-          <y:Geometry height="36.0" width="110.0" x="245.0" y="642.0"/>
+          <y:Geometry height="40.0" width="80.0" x="260.0" y="640.0"/>
           <y:Fill transparent="false" hasColor="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="47.5" x="31.25" xml:space="preserve" y="7.75" hasText="true">KEAP1<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="47.5" x="16.25" xml:space="preserve" y="9.75" hasText="true">KEAP1<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" bottomInset="0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="16.0" horizontalTextPosition="center" iconData="3" iconTextGap="0" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="46.0" x="32.0" y="-8.0">
                 <y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
@@ -775,7 +775,7 @@
     <data key="d3">pubmed:15282312</data><data key="d4">in vitro</data><data key="d5">KEAP1 is translated and assembles with CUL3 and RBX1 into the ligase</data><data key="dev_node">n5a89f22</data></node></graph><data key="dev_node">ej9u5hxr</data></node><edge id="dwobrv1b_c0" source="st3hftz2" target="dwobrv1b">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="18.0" tx="0.0" ty="-10.0"/>
+          <y:Path sx="0.0" sy="20.0" tx="0.0" ty="-10.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
@@ -785,7 +785,7 @@
     <edge id="dwobrv1b_p0" source="dwobrv1b" target="v8mctn7d">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="10.0" tx="0.0" ty="-18.0"/>
+          <y:Path sx="0.0" sy="10.0" tx="0.0" ty="-20.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
@@ -795,7 +795,7 @@
     <edge id="d5l24cl3_c0" source="v8mctn7d" target="d5l24cl3">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="18.0" tx="0.0" ty="-10.0"/>
+          <y:Path sx="0.0" sy="20.0" tx="0.0" ty="-10.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
@@ -1065,7 +1065,7 @@
     <edge id="pc8ow4y5_c0" source="zf7pbg7j" target="pc8ow4y5">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="18.0" tx="0.0" ty="-10.0"/>
+          <y:Path sx="0.0" sy="20.0" tx="0.0" ty="-10.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
@@ -1075,7 +1075,7 @@
     <edge id="pc8ow4y5_p0" source="pc8ow4y5" target="vbjvcta1">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="10.0" tx="0.0" ty="-18.0"/>
+          <y:Path sx="0.0" sy="10.0" tx="0.0" ty="-20.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
@@ -1095,7 +1095,7 @@
     <edge id="n5a89f22_c0" source="vbjvcta1" target="n5a89f22">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="18.0" tx="0.0" ty="-10.0"/>
+          <y:Path sx="0.0" sy="20.0" tx="0.0" ty="-10.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>

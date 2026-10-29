@@ -4,10 +4,10 @@
 "label": "NFE2L2",
 "class": "NucleicAcidFeature",
 "box": [
-504.0,
-65.0,
-110.0,
-36.0
+519.0,
+63.0,
+80.0,
+40.0
 ],
 "props": [
 [
@@ -60,10 +60,10 @@
 "label": "KEAP1",
 "class": "NucleicAcidFeature",
 "box": [
-804.0,
-65.0,
-110.0,
-36.0
+819.0,
+63.0,
+80.0,
+40.0
 ],
 "props": [
 [
@@ -483,10 +483,10 @@
 "label": "NFE2L2",
 "class": "NucleicAcidFeature",
 "box": [
-504.0,
-645.0,
-110.0,
-36.0
+519.0,
+643.0,
+80.0,
+40.0
 ],
 "props": [
 [
@@ -539,10 +539,10 @@
 "label": "KEAP1",
 "class": "NucleicAcidFeature",
 "box": [
-804.0,
-645.0,
-110.0,
-36.0
+819.0,
+643.0,
+80.0,
+40.0
 ],
 "props": [
 [
