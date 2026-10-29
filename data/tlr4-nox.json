@@ -4,10 +4,10 @@
 "label": "endotoxin",
 "class": "SimpleChemical",
 "box": [
-50.0,
-97.0,
-90.0,
-36.0
+75.0,
+95.0,
+40.0,
+40.0
 ],
 "props": [
 [
@@ -36,9 +36,9 @@
 "label": "LBP",
 "class": "Macromolecule",
 "box": [
-595.0,
+615.0,
 47.0,
-120.0,
+80.0,
 40.0
 ],
 "props": [
@@ -92,9 +92,9 @@
 "label": "CD14",
 "class": "Macromolecule",
 "box": [
-595.0,
+615.0,
 287.0,
-120.0,
+80.0,
 40.0
 ],
 "props": [
@@ -141,7 +141,7 @@
 ]
 },
 {
-"id": "q1",
+"id": "f1yyjes0",
 "label": "",
 "class": "Process",
 "box": [
@@ -167,17 +167,17 @@
 "references": [
 {
 "authors": "Fitzgerald KA et al.",
-"year": "2020",
-"title": "Toll-like Receptors and the Control of Immunity.",
 "journal": "Cell",
+"title": "Toll-like Receptors and the Control of Immunity.",
+"year": "2020",
 "db": "pubmed",
 "id": "32164908"
 },
 {
 "authors": "Kampfrath T et al.",
-"year": "2011",
-"title": "Chronic fine particulate matter exposure induces systemic vascular dysfunction via NADPH oxidase and TLR4 pathways.",
 "journal": "Circ Res",
+"title": "Chronic fine particulate matter exposure induces systemic vascular dysfunction via NADPH oxidase and TLR4 pathways.",
+"year": "2011",
 "db": "pubmed",
 "id": "21273555"
 }
@@ -187,9 +187,9 @@
 "label": "TIRAP",
 "class": "Macromolecule",
 "box": [
-515.0,
+535.0,
 551.0,
-120.0,
+80.0,
 40.0
 ],
 "props": [
@@ -243,9 +243,9 @@
 "label": "MYD88",
 "class": "Macromolecule",
 "box": [
-1355.0,
+1375.0,
 551.0,
-120.0,
+80.0,
 40.0
 ],
 "props": [
@@ -291,9 +291,9 @@
 "label": "IRAK4",
 "class": "Macromolecule",
 "box": [
-475.0,
+495.0,
 851.0,
-120.0,
+80.0,
 40.0
 ],
 "props": [
@@ -344,7 +344,7 @@
 ]
 },
 {
-"id": "q2",
+"id": "kdvjfh9e",
 "label": "",
 "class": "Process",
 "box": [
@@ -368,16 +368,16 @@
 "references": [
 {
 "authors": "Kagan JC et al.",
-"year": "2006",
-"title": "Phosphoinositide-mediated adaptor recruitment controls Toll-like receptor signaling.",
 "journal": "Cell",
+"title": "Phosphoinositide-mediated adaptor recruitment controls Toll-like receptor signaling.",
+"year": "2006",
 "db": "pubmed",
 "id": "16751103"
 }
 ]
 },
 {
-"id": "q3",
+"id": "rbgsvcub",
 "label": "",
 "class": "Process",
 "box": [
@@ -408,9 +408,9 @@
 },
 {
 "authors": "Motshwene PG et al.",
-"year": "2009",
-"title": "An oligomeric signaling platform formed by the Toll-like receptor signal transducers MyD88 and IRAK-4.",
 "journal": "J Biol Chem",
+"title": "An oligomeric signaling platform formed by the Toll-like receptor signal transducers MyD88 and IRAK-4.",
+"year": "2009",
 "db": "pubmed",
 "id": "19592493"
 }

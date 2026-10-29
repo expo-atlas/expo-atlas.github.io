@@ -4,7 +4,7 @@
 "label": "O2",
 "class": "SimpleChemical",
 "box": [
-1334.0,
+1194.0,
 15.0,
 40.0,
 40.0
@@ -48,7 +48,7 @@
 "label": "O2.-",
 "class": "SimpleChemical",
 "box": [
-1434.0,
+1294.0,
 15.0,
 40.0,
 40.0
@@ -92,9 +92,9 @@
 "label": "CYBB",
 "class": "Macromolecule",
 "box": [
-383.0,
+323.0,
 125.0,
-120.0,
+80.0,
 40.0
 ],
 "props": [
@@ -152,9 +152,9 @@
 "label": "CYBA",
 "class": "Macromolecule",
 "box": [
-383.0,
+323.0,
 285.0,
-120.0,
+80.0,
 40.0
 ],
 "props": [
@@ -208,9 +208,9 @@
 "label": "CYBB",
 "class": "Macromolecule",
 "box": [
-636.0,
+536.0,
 170.8,
-120.0,
+80.0,
 40.0
 ],
 "props": [
@@ -268,9 +268,9 @@
 "label": "CYBA",
 "class": "Macromolecule",
 "box": [
-636.0,
+536.0,
 218.8,
-120.0,
+80.0,
 40.0
 ],
 "props": [
@@ -324,9 +324,9 @@
 "label": "CYBB",
 "class": "Macromolecule",
 "box": [
-910.0,
+830.0,
 137.8,
-120.0,
+80.0,
 40.0
 ],
 "props": [
@@ -384,9 +384,9 @@
 "label": "CYBA",
 "class": "Macromolecule",
 "box": [
-1038.0,
+918.0,
 137.8,
-120.0,
+80.0,
 40.0
 ],
 "props": [
@@ -440,9 +440,9 @@
 "label": "RAC1",
 "class": "Macromolecule",
 "box": [
-910.0,
+830.0,
 251.8,
-120.0,
+80.0,
 40.0
 ],
 "props": [
@@ -496,10 +496,10 @@
 "label": "GTP",
 "class": "SimpleChemical",
 "box": [
-1038.0,
-253.8,
-90.0,
-36.0
+918.0,
+251.8,
+40.0,
+40.0
 ],
 "props": [
 [
@@ -536,15 +536,15 @@
 "label": "NCF1",
 "class": "Macromolecule",
 "box": [
-910.0,
+830.0,
 194.8,
-120.0,
+80.0,
 40.0
 ],
 "props": [
 [
 "PTM",
-"Phosphorylated at Ser303\nPhosphorylated at Ser304\nPhosphorylated at Ser328"
+"Phosphorylated at Thr133\nPhosphorylated at Ser288\nPhosphorylated at Thr356"
 ],
 [
 "Full name",
@@ -596,9 +596,9 @@
 "label": "NCF2",
 "class": "Macromolecule",
 "box": [
-1038.0,
+918.0,
 194.8,
-120.0,
+80.0,
 40.0
 ],
 "props": [
@@ -652,9 +652,9 @@
 "label": "NCF4",
 "class": "Macromolecule",
 "box": [
-1166.0,
+1006.0,
 194.8,
-120.0,
+80.0,
 40.0
 ],
 "props": [
@@ -705,11 +705,11 @@
 ]
 },
 {
-"id": "p_b558",
+"id": "xzqvclx9",
 "label": "",
 "class": "Process",
 "box": [
-556.0,
+456.0,
 213.0,
 24.0,
 24.0
@@ -728,36 +728,36 @@
 "references": [
 {
 "authors": "Noreng S et al.",
-"year": "2022",
-"title": "Structure of the core human NADPH oxidase NOX2.",
 "journal": "Nat Commun",
+"title": "Structure of the core human NADPH oxidase NOX2.",
+"year": "2022",
 "db": "pubmed",
 "id": "36241643"
 },
 {
 "authors": "Yu L et al.",
-"year": "1997",
-"title": "Biosynthesis of the phagocyte NADPH oxidase cytochrome b558. Role of heme incorporation and heterodimer formation in maturation and stability of gp91phox and p22phox subunits.",
 "journal": "J Biol Chem",
+"title": "Biosynthesis of the phagocyte NADPH oxidase cytochrome b558. Role of heme incorporation and heterodimer formation in maturation and stability of gp91phox and p22phox subunits.",
+"year": "1997",
 "db": "pubmed",
 "id": "9341176"
 },
 {
 "authors": "Yu L et al.",
-"year": "1998",
-"title": "Gp91(phox) is the heme binding subunit of the superoxide-generating NADPH oxidase.",
 "journal": "Proc Natl Acad Sci U S A",
+"title": "Gp91(phox) is the heme binding subunit of the superoxide-generating NADPH oxidase.",
+"year": "1998",
 "db": "pubmed",
 "id": "9653128"
 }
 ]
 },
 {
-"id": "p_assembly",
+"id": "lohspsuy",
 "label": "",
 "class": "Process",
 "box": [
-821.0,
+681.0,
 213.0,
 24.0,
 24.0
@@ -777,44 +777,44 @@
 "references": [
 {
 "authors": "Noreng S et al.",
-"year": "2022",
-"title": "Structure of the core human NADPH oxidase NOX2.",
 "journal": "Nat Commun",
+"title": "Structure of the core human NADPH oxidase NOX2.",
+"year": "2022",
 "db": "pubmed",
 "id": "36241643"
 },
 {
 "authors": "Diekmann D et al.",
-"year": "1994",
-"title": "Interaction of Rac with p67phox and regulation of phagocytic NADPH oxidase activity.",
 "journal": "Science",
+"title": "Interaction of Rac with p67phox and regulation of phagocytic NADPH oxidase activity.",
+"year": "1994",
 "db": "pubmed",
 "id": "8036496"
 },
 {
 "authors": "Lapouge K et al.",
-"year": "2000",
-"title": "Structure of the TPR domain of p67phox in complex with Rac.GTP.",
 "journal": "Mol Cell",
+"title": "Structure of the TPR domain of p67phox in complex with Rac.GTP.",
+"year": "2000",
 "db": "pubmed",
 "id": "11090627"
 },
 {
 "authors": "Park JW et al.",
-"year": "1992",
-"title": "The cytosolic components of the respiratory burst oxidase exist as a M(r) approximately 240,000 complex that acquires a membrane-binding site during activation of the oxidase in a cell-free system.",
 "journal": "J Biol Chem",
+"title": "The cytosolic components of the respiratory burst oxidase exist as a M(r) approximately 240,000 complex that acquires a membrane-binding site during activation of the oxidase in a cell-free system.",
+"year": "1992",
 "db": "pubmed",
 "id": "1512268"
 }
 ]
 },
 {
-"id": "p_et",
+"id": "we3grl30",
 "label": "",
 "class": "Process",
 "box": [
-1342.0,
+1202.0,
 213.0,
 24.0,
 24.0
@@ -837,33 +837,33 @@
 "references": [
 {
 "authors": "Cross AR et al.",
-"year": "2004",
-"title": "The NADPH oxidase of professional phagocytes--prototype of the NOX electron transport chain systems.",
 "journal": "Biochim Biophys Acta",
+"title": "The NADPH oxidase of professional phagocytes--prototype of the NOX electron transport chain systems.",
+"year": "2004",
 "db": "pubmed",
 "id": "15238208"
 },
 {
 "authors": "Noreng S et al.",
-"year": "2022",
-"title": "Structure of the core human NADPH oxidase NOX2.",
 "journal": "Nat Commun",
+"title": "Structure of the core human NADPH oxidase NOX2.",
+"year": "2022",
 "db": "pubmed",
 "id": "36241643"
 },
 {
 "authors": "DeCoursey TE",
-"year": "2003",
-"title": "Interactions between NADPH oxidase and voltage-gated proton channels: why electron transport depends on proton transport.",
 "journal": "FEBS Lett",
+"title": "Interactions between NADPH oxidase and voltage-gated proton channels: why electron transport depends on proton transport.",
+"year": "2003",
 "db": "pubmed",
 "id": "14630319"
 },
 {
 "authors": "Winterbourn CC et al.",
-"year": "2013",
-"title": "Redox reactions and microbial killing in the neutrophil phagosome.",
 "journal": "Antioxid Redox Signal",
+"title": "Redox reactions and microbial killing in the neutrophil phagosome.",
+"year": "2013",
 "db": "pubmed",
 "id": "22881869"
 }
@@ -875,7 +875,7 @@
 "box": [
 55.0,
 485.0,
-120.0,
+80.0,
 40.0
 ],
 "props": [
@@ -931,7 +931,7 @@
 "box": [
 55.0,
 645.0,
-120.0,
+80.0,
 40.0
 ],
 "props": [
@@ -987,7 +987,7 @@
 "box": [
 55.0,
 805.0,
-120.0,
+80.0,
 40.0
 ],
 "props": [
@@ -1041,9 +1041,9 @@
 "label": "NCF1",
 "class": "Macromolecule",
 "box": [
-316.0,
+276.0,
 586.8,
-120.0,
+80.0,
 40.0
 ],
 "props": [
@@ -1097,9 +1097,9 @@
 "label": "NCF2",
 "class": "Macromolecule",
 "box": [
-316.0,
+276.0,
 643.8,
-120.0,
+80.0,
 40.0
 ],
 "props": [
@@ -1153,9 +1153,9 @@
 "label": "NCF4",
 "class": "Macromolecule",
 "box": [
-316.0,
+276.0,
 691.8,
-120.0,
+80.0,
 40.0
 ],
 "props": [
@@ -1209,7 +1209,7 @@
 "label": "ATP",
 "class": "SimpleChemical",
 "box": [
-460.0,
+380.0,
 455.0,
 40.0,
 40.0
@@ -1249,7 +1249,7 @@
 "label": "ADP",
 "class": "SimpleChemical",
 "box": [
-508.0,
+428.0,
 455.0,
 40.0,
 40.0
@@ -1286,74 +1286,18 @@
 ]
 },
 {
-"label": "PRKCA",
-"class": "Macromolecule",
-"box": [
-444.0,
-815.0,
-120.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Protein kinase C alpha type"
-],
-[
-"Function",
-"Calcium-activated, phospholipid- and diacylglycerol (DAG)-dependent serine/threonine-protein kinase that is involved in positive and negative regulation of cell proliferation, apoptosis, differentiation, migration and adhesion, tumorigenesis, cardiac hypertrophy, angiogenesis, platelet function and inflammation, by directly phosphorylating targets such as RAF1, BCL2, CSPG4, TNNT2/CTNT, or activating signaling cascade involving MAPK1/3 (ERK1/2) and RAP1GAP. Involved in cell proliferation and cell growth arrest by positive and negative regulation of the cell cycle."
-],
-[
-"Location",
-"Cytoplasm, Cell membrane, Mitochondrion membrane, Nucleus"
-],
-[
-"HGNC",
-"HGNC:9393"
-],
-[
-"HGNC symbol",
-"PRKCA"
-],
-[
-"Previous symbols",
-"PKCA"
-],
-[
-"Alias symbols",
-"PKCα"
-],
-[
-"Entrez",
-"5578"
-],
-[
-"Ensembl",
-"ENSG00000154229"
-],
-[
-"RefSeq",
-"NM_002737"
-],
-[
-"UniProt",
-"P17252"
-]
-]
-},
-{
 "label": "NCF1",
 "class": "Macromolecule",
 "box": [
-581.0,
+501.0,
 586.8,
-120.0,
+80.0,
 40.0
 ],
 "props": [
 [
 "PTM",
-"Phosphorylated at Ser303\nPhosphorylated at Ser304\nPhosphorylated at Ser328"
+"Phosphorylated at Thr133\nPhosphorylated at Ser288\nPhosphorylated at Thr356"
 ],
 [
 "Full name",
@@ -1405,9 +1349,9 @@
 "label": "NCF2",
 "class": "Macromolecule",
 "box": [
-581.0,
+501.0,
 643.8,
-120.0,
+80.0,
 40.0
 ],
 "props": [
@@ -1461,9 +1405,9 @@
 "label": "NCF4",
 "class": "Macromolecule",
 "box": [
-581.0,
+501.0,
 691.8,
-120.0,
+80.0,
 40.0
 ],
 "props": [
@@ -1517,9 +1461,9 @@
 "label": "RAC1",
 "class": "Macromolecule",
 "box": [
-773.0,
-612.8,
-120.0,
+653.0,
+610.8,
+80.0,
 40.0
 ],
 "props": [
@@ -1573,10 +1517,10 @@
 "label": "GTP",
 "class": "SimpleChemical",
 "box": [
-788.0,
-660.8,
-90.0,
-36.0
+673.0,
+658.8,
+40.0,
+40.0
 ],
 "props": [
 [
@@ -1613,7 +1557,7 @@
 "label": "NADPH",
 "class": "SimpleChemical",
 "box": [
-998.0,
+858.0,
 525.0,
 40.0,
 40.0
@@ -1661,7 +1605,7 @@
 "label": "NADP+",
 "class": "SimpleChemical",
 "box": [
-1158.0,
+1018.0,
 525.0,
 40.0,
 40.0
@@ -1701,7 +1645,7 @@
 "label": "H+",
 "class": "SimpleChemical",
 "box": [
-1278.0,
+1138.0,
 525.0,
 40.0,
 40.0
@@ -1742,11 +1686,11 @@
 ]
 },
 {
-"id": "p_tri",
+"id": "pneciibo",
 "label": "",
 "class": "Process",
 "box": [
-227.0,
+187.0,
 653.0,
 24.0,
 24.0
@@ -1766,28 +1710,28 @@
 "references": [
 {
 "authors": "Lapouge K et al.",
-"year": "2002",
-"title": "Architecture of the p40-p47-p67phox complex in the resting state of the NADPH oxidase. A central role for p67phox.",
 "journal": "J Biol Chem",
+"title": "Architecture of the p40-p47-p67phox complex in the resting state of the NADPH oxidase. A central role for p67phox.",
+"year": "2002",
 "db": "pubmed",
 "id": "11796733"
 },
 {
 "authors": "Park JW et al.",
-"year": "1992",
-"title": "The cytosolic components of the respiratory burst oxidase exist as a M(r) approximately 240,000 complex that acquires a membrane-binding site during activation of the oxidase in a cell-free system.",
 "journal": "J Biol Chem",
+"title": "The cytosolic components of the respiratory burst oxidase exist as a M(r) approximately 240,000 complex that acquires a membrane-binding site during activation of the oxidase in a cell-free system.",
+"year": "1992",
 "db": "pubmed",
 "id": "1512268"
 }
 ]
 },
 {
-"id": "p_phos",
+"id": "aravrkjv",
 "label": "",
 "class": "Process",
 "box": [
-492.0,
+412.0,
 653.0,
 24.0,
 24.0
@@ -1803,41 +1747,25 @@
 "ADP"
 ],
 "by": [
-"PRKCA"
+"Myddosome"
 ]
 },
 "references": [
 {
-"authors": "Ago T et al.",
-"year": "1999",
-"title": "Mechanism for phosphorylation-induced activation of the phagocyte NADPH oxidase protein p47(phox). Triple replacement of serines 303, 304, and 328 with aspartates disrupts the SH3 domain-mediated intramolecular interaction in p47(phox), thereby activating the oxidase.",
-"journal": "J Biol Chem",
+"authors": "Pacquelet S et al.",
+"year": "2007",
+"title": "Cross-talk between IRAK-4 and the NADPH oxidase.",
+"journal": "Biochem J",
 "db": "pubmed",
-"id": "10559253"
+"id": "17217339"
 },
 {
-"authors": "Fontayne A et al.",
-"year": "2002",
-"title": "Phosphorylation of p47phox sites by PKC alpha, beta II, delta, and zeta: effect on binding to p22phox and on NADPH oxidase activation.",
-"journal": "Biochemistry",
+"authors": "Singh A et al.",
+"year": "2009",
+"title": "Impaired priming and activation of the neutrophil NADPH oxidase in patients with IRAK4 or NEMO deficiency.",
+"journal": "J Immunol",
 "db": "pubmed",
-"id": "12056906"
-},
-{
-"authors": "Groemping Y et al.",
-"year": "2003",
-"title": "Molecular basis of phosphorylation-induced activation of the NADPH oxidase.",
-"journal": "Cell",
-"db": "pubmed",
-"id": "12732142"
-},
-{
-"authors": "Kuntic M et al.",
-"year": "2025",
-"title": "Differential inflammation, oxidative stress and cardiovascular damage markers of nano- and micro-particle exposure in mice: Implications for human disease burden.",
-"journal": "Redox Biol",
-"db": "pubmed",
-"id": "40319735"
+"id": "19414794"
 }
 ]
 }

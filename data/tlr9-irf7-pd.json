@@ -1,7 +1,7 @@
 {
 "nodes": [
 {
-"id": "q_load",
+"id": "x5kj9cit",
 "label": "",
 "class": "Process",
 "box": [
@@ -41,7 +41,7 @@
 ]
 },
 {
-"id": "q_release",
+"id": "ifao43ew",
 "label": "",
 "class": "Process",
 "box": [
@@ -73,7 +73,7 @@
 ]
 },
 {
-"id": "q_cleave1",
+"id": "qribf17m",
 "label": "",
 "class": "Process",
 "box": [
@@ -115,7 +115,7 @@
 ]
 },
 {
-"id": "q_cleave2",
+"id": "zc4o12de",
 "label": "",
 "class": "Process",
 "box": [
@@ -148,7 +148,7 @@
 ]
 },
 {
-"id": "q_bind",
+"id": "is8j8rpe",
 "label": "",
 "class": "Process",
 "box": [
@@ -198,7 +198,7 @@
 ]
 },
 {
-"id": "q_myd88",
+"id": "qgyzcyh2",
 "label": "",
 "class": "Process",
 "box": [
@@ -230,7 +230,7 @@
 ]
 },
 {
-"id": "q_mydd",
+"id": "eo5ygg5x",
 "label": "",
 "class": "Process",
 "box": [
@@ -271,7 +271,7 @@
 ]
 },
 {
-"id": "q_irf7p",
+"id": "k7iuwfc2",
 "label": "",
 "class": "Process",
 "box": [
@@ -324,7 +324,7 @@
 ]
 },
 {
-"id": "q_import",
+"id": "t1psxaxu",
 "label": "",
 "class": "Process",
 "box": [
@@ -357,7 +357,7 @@
 ]
 },
 {
-"id": "q_ifna_tx",
+"id": "tjchqzgw",
 "label": "",
 "class": "Process",
 "box": [
@@ -390,7 +390,7 @@
 ]
 },
 {
-"id": "q_ifnb_tx",
+"id": "qwtpafny",
 "label": "",
 "class": "Process",
 "box": [
@@ -423,7 +423,7 @@
 ]
 },
 {
-"id": "q_ifna_tl",
+"id": "ms419mxt",
 "label": "",
 "class": "Process",
 "box": [
@@ -454,7 +454,7 @@
 ]
 },
 {
-"id": "q_ifnb_tl",
+"id": "es6kulov",
 "label": "",
 "class": "Process",
 "box": [
@@ -488,9 +488,9 @@
 "label": "TLR9",
 "class": "Macromolecule",
 "box": [
-175.0,
+195.0,
 196.6,
-120.0,
+80.0,
 40.0
 ],
 "props": [
@@ -544,9 +544,9 @@
 "label": "UNC93B1",
 "class": "Macromolecule",
 "box": [
-175.0,
+195.0,
 249.4,
-120.0,
+80.0,
 40.0
 ],
 "props": [
@@ -596,9 +596,9 @@
 "label": "TLR9",
 "class": "Macromolecule",
 "box": [
-495.0,
+515.0,
 223.0,
-120.0,
+80.0,
 40.0
 ],
 "props": [
@@ -652,9 +652,9 @@
 "label": "UNC93B1",
 "class": "Macromolecule",
 "box": [
-495.0,
+515.0,
 103.0,
-120.0,
+80.0,
 40.0
 ],
 "props": [
@@ -704,9 +704,9 @@
 "label": "LGMN",
 "class": "Macromolecule",
 "box": [
-695.0,
+715.0,
 79.0,
-120.0,
+80.0,
 40.0
 ],
 "props": [
@@ -764,9 +764,9 @@
 "label": "CTSB",
 "class": "Macromolecule",
 "box": [
-975.0,
+995.0,
 79.0,
-120.0,
+80.0,
 40.0
 ],
 "props": [
@@ -816,9 +816,9 @@
 "label": "TLR9",
 "class": "Macromolecule",
 "box": [
-835.0,
+855.0,
 223.0,
-120.0,
+80.0,
 40.0
 ],
 "props": [
@@ -872,9 +872,9 @@
 "label": "TLR9 N-fragment",
 "class": "Macromolecule",
 "box": [
-825.0,
+855.0,
 343.0,
-140.0,
+80.0,
 40.0
 ],
 "props": [
@@ -924,9 +924,9 @@
 "label": "TLR9",
 "class": "Macromolecule",
 "box": [
-1215.0,
+1235.0,
 124.6,
-120.0,
+80.0,
 40.0
 ],
 "props": [
@@ -980,9 +980,9 @@
 "label": "TLR9",
 "class": "Macromolecule",
 "box": [
-55.0,
+75.0,
 583.0,
-120.0,
+80.0,
 40.0
 ],
 "props": [
@@ -1036,9 +1036,9 @@
 "label": "UNC93B1",
 "class": "Macromolecule",
 "box": [
-315.0,
+335.0,
 583.0,
-120.0,
+80.0,
 40.0
 ],
 "props": [
@@ -1088,9 +1088,9 @@
 "label": "MYD88",
 "class": "Macromolecule",
 "box": [
-1655.0,
+1675.0,
 583.0,
-120.0,
+80.0,
 40.0
 ],
 "props": [
@@ -1136,9 +1136,9 @@
 "label": "IRAK4",
 "class": "Macromolecule",
 "box": [
-1855.0,
+1875.0,
 679.0,
-120.0,
+80.0,
 40.0
 ],
 "props": [
@@ -1192,9 +1192,9 @@
 "label": "IRAK1",
 "class": "Macromolecule",
 "box": [
-1855.0,
+1875.0,
 775.0,
-120.0,
+80.0,
 40.0
 ],
 "props": [
@@ -1248,9 +1248,9 @@
 "label": "TLR9",
 "class": "Macromolecule",
 "box": [
-1255.0,
+1275.0,
 556.6,
-120.0,
+80.0,
 40.0
 ],
 "props": [
@@ -1304,9 +1304,9 @@
 "label": "MYD88",
 "class": "Macromolecule",
 "box": [
-1255.0,
+1275.0,
 609.4,
-120.0,
+80.0,
 40.0
 ],
 "props": [
@@ -1352,9 +1352,9 @@
 "label": "MYD88",
 "class": "Macromolecule",
 "box": [
-1255.0,
+1275.0,
 751.0,
-120.0,
+80.0,
 40.0
 ],
 "props": [
@@ -1400,9 +1400,9 @@
 "label": "IRAK4",
 "class": "Macromolecule",
 "box": [
-1255.0,
+1275.0,
 799.0,
-120.0,
+80.0,
 40.0
 ],
 "props": [
@@ -1456,9 +1456,9 @@
 "label": "IRAK1",
 "class": "Macromolecule",
 "box": [
-1255.0,
+1275.0,
 847.0,
-120.0,
+80.0,
 40.0
 ],
 "props": [
@@ -1512,9 +1512,9 @@
 "label": "TRAF6",
 "class": "Macromolecule",
 "box": [
-855.0,
+875.0,
 703.0,
-120.0,
+80.0,
 40.0
 ],
 "props": [
@@ -1568,9 +1568,9 @@
 "label": "TRAF3",
 "class": "Macromolecule",
 "box": [
-855.0,
+875.0,
 799.0,
-120.0,
+80.0,
 40.0
 ],
 "props": [
@@ -1624,9 +1624,9 @@
 "label": "CHUK",
 "class": "Macromolecule",
 "box": [
-855.0,
+875.0,
 895.0,
-120.0,
+80.0,
 40.0
 ],
 "props": [
@@ -1684,9 +1684,9 @@
 "label": "SPP1",
 "class": "Macromolecule",
 "box": [
-1855.0,
+1875.0,
 1015.0,
-120.0,
+80.0,
 40.0
 ],
 "props": [
@@ -1744,9 +1744,9 @@
 "label": "IRF7",
 "class": "Macromolecule",
 "box": [
-1655.0,
+1675.0,
 895.0,
-120.0,
+80.0,
 40.0
 ],
 "props": [
@@ -1796,9 +1796,9 @@
 "label": "IRF7",
 "class": "Macromolecule",
 "box": [
-1375.0,
+1395.0,
 1015.0,
-120.0,
+80.0,
 40.0
 ],
 "props": [
@@ -1964,9 +1964,9 @@
 "label": "IFN-alpha",
 "class": "Macromolecule",
 "box": [
-815.0,
+835.0,
 1207.0,
-120.0,
+80.0,
 40.0
 ],
 "props": [
@@ -2020,9 +2020,9 @@
 "label": "IFN-beta",
 "class": "Macromolecule",
 "box": [
-1775.0,
+1795.0,
 1207.0,
-120.0,
+80.0,
 40.0
 ],
 "props": [
@@ -2080,9 +2080,9 @@
 "label": "IRF7",
 "class": "Macromolecule",
 "box": [
+1395.0,
 1375.0,
-1375.0,
-120.0,
+80.0,
 40.0
 ],
 "props": [
