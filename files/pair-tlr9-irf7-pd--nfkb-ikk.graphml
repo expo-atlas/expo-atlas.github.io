@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:y="http://www.yworks.com/xml/graphml">
+  <key attr.name="Module" attr.type="string" for="node" id="d0"/>
+  <key attr.name="Version" attr.type="string" for="node" id="d1"/>
+  <key attr.name="Cell type" attr.type="string" for="node" id="d2"/>
+  <key attr.name="In" attr.type="string" for="node" id="d3"/>
+  <key attr.name="Out" attr.type="string" for="node" id="d4"/>
+  <key attr.name="Interface" attr.type="string" for="node" id="d5"/>
+  <key for="node" id="ng" yfiles.type="nodegraphics"/>
+  <key for="graphml" id="res" yfiles.type="resources"/>
+  <key for="edge" id="eg" yfiles.type="edgegraphics"/>
+  <graph edgedefault="directed" id="G"><node id="m_nfkb-ikk"><data key="d0">nfkb-ikk</data><data key="d1">nfkb-ikk-v02.graphml</data><data key="d2">human alveolar macrophage</data><data key="d3">Myddosome, TRAF6</data><data key="d4">TAK1:TAB1:TAB2, RELA:NFKB1</data><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Submap">
+              <y:Geometry height="90.0" width="240.0" x="520.0" y="0.0"/>
+              <y:Fill transparent="false" hasColor="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="37.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="256.5" x="-8.25" xml:space="preserve" y="26.5" hasText="true">IKK and NF-κB with the IκBα
+and A20 loops<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+            </y:GenericNode>
+          </data>
+        </node><node id="m_tlr9-irf7-pd"><data key="d0">tlr9-irf7-pd</data><data key="d1">tlr9-irf7-pd-v23.graphml</data><data key="d2">plasmacytoid dendritic cell</data><data key="d3">CpG-DNA, TLR9, UNC93B1, MYD88, IRAK4, IRAK1</data><data key="d4">TRAF6, IFN-alpha, IFN-beta</data><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Submap">
+              <y:Geometry height="90.0" width="240.0" x="0.0" y="0.0"/>
+              <y:Fill transparent="false" hasColor="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="237.5" x="1.25" xml:space="preserve" y="34.75" hasText="true">TLR9 to type I interferon<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+            </y:GenericNode>
+          </data>
+        </node><node id="i0"><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
+              <y:Geometry height="40.0" width="80.0" x="340.0" y="25.0"/>
+              <y:Fill color="#EFEDE7" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="47.5" x="16.25" xml:space="preserve" y="9.75" hasText="true">TRAF6<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
+                </y:StyleProperties>
+            </y:GenericNode>
+          </data>
+        <data key="d5">out of tlr9-irf7-pd, into nfkb-ikk</data></node><edge id="i0_p" source="m_tlr9-irf7-pd" target="i0">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="delta"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="i0_c0" source="i0" target="m_nfkb-ikk">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    </graph>
+  <data key="res">
+    <y:Resources/>
+  </data>
+</graphml>

@@ -279,6 +279,22 @@
 "cytoplasm"
 ],
 [
+"Full name",
+"Ubiquitin-conjugating enzyme E2 N"
+],
+[
+"Alternative names",
+"Bendless-like ubiquitin-conjugating enzyme; E2 ubiquitin-conjugating enzyme N; Ubc13; UbcH13; Ubiquitin carrier protein N; Ubiquitin-protein ligase N"
+],
+[
+"Function",
+"The UBE2V1-UBE2N and UBE2V2-UBE2N heterodimers catalyze the synthesis of non-canonical 'Lys-63'-linked polyubiquitin chains. This type of polyubiquitination does not lead to protein degradation by the proteasome."
+],
+[
+"Location",
+"Nucleus, Cytoplasm"
+],
+[
 "HGNC",
 "HGNC:12492"
 ],
@@ -321,6 +337,22 @@
 [
 "Compartment",
 "cytoplasm"
+],
+[
+"Full name",
+"Ubiquitin-conjugating enzyme E2 variant 1"
+],
+[
+"Alternative names",
+"CROC-1; TRAF6-regulated IKK activator 1 beta Uev1A"
+],
+[
+"Function",
+"Has no ubiquitin ligase activity on its own. The UBE2V1-UBE2N heterodimer catalyzes the synthesis of non-canonical poly-ubiquitin chains that are linked through Lys-63."
+],
+[
+"Location",
+"Nucleus"
 ],
 [
 "HGNC",
@@ -449,6 +481,22 @@
 [
 "Compartment",
 "cytoplasm"
+],
+[
+"Full name",
+"TGF-beta-activated kinase 1 and MAP3K7-binding protein 1"
+],
+[
+"Alternative names",
+"Mitogen-activated protein kinase kinase kinase 7-interacting protein 1; TGF-beta-activated kinase 1-binding protein 1"
+],
+[
+"Function",
+"Key adapter protein that plays an essential role in JNK and NF-kappa-B activation and proinflammatory cytokines production in response to stimulation with TLRs and cytokines. Mechanistically, associates with the catalytic domain of MAP3K7/TAK1 to trigger MAP3K7/TAK1 autophosphorylation leading to its full activation."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Endoplasmic reticulum membrane"
 ],
 [
 "HGNC",
@@ -641,6 +689,22 @@
 [
 "Compartment",
 "cytoplasm"
+],
+[
+"Full name",
+"TGF-beta-activated kinase 1 and MAP3K7-binding protein 1"
+],
+[
+"Alternative names",
+"Mitogen-activated protein kinase kinase kinase 7-interacting protein 1; TGF-beta-activated kinase 1-binding protein 1"
+],
+[
+"Function",
+"Key adapter protein that plays an essential role in JNK and NF-kappa-B activation and proinflammatory cytokines production in response to stimulation with TLRs and cytokines. Mechanistically, associates with the catalytic domain of MAP3K7/TAK1 to trigger MAP3K7/TAK1 autophosphorylation leading to its full activation."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Endoplasmic reticulum membrane"
 ],
 [
 "HGNC",
@@ -1799,6 +1863,22 @@
 "cytoplasm"
 ],
 [
+"Full name",
+"F-box/WD repeat-containing protein 1A"
+],
+[
+"Alternative names",
+"E3RSIkappaB; Epididymis tissue protein Li 2a; F-box and WD repeats protein beta-TrCP; pIkappaBalpha-E3 receptor subunit"
+],
+[
+"Function",
+"Substrate recognition component of a SCF (SKP1-CUL1-F-box protein) E3 ubiquitin-protein ligase complex which mediates the ubiquitination and subsequent proteasomal degradation of target proteins. Recognizes and binds to phosphorylated target proteins."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
 "HGNC",
 "HGNC:1144"
 ],
@@ -1841,6 +1921,18 @@
 [
 "Compartment",
 "cytoplasm"
+],
+[
+"Full name",
+"S-phase kinase-associated protein 1"
+],
+[
+"Alternative names",
+"Cyclin-A/CDK2-associated protein p19; Organ of Corti protein 2; Organ of Corti protein II; RNA polymerase II elongation factor-like protein; SIII; Transcription elongation factor B polypeptide 1-like; p19skp1"
+],
+[
+"Function",
+"Essential component of the SCF (SKP1-CUL1-F-box protein) ubiquitin ligase complex, which mediates the ubiquitination of proteins involved in cell cycle progression, signal transduction and transcription. In the SCF complex, serves as an adapter that links the F-box protein to CUL1."
 ],
 [
 "HGNC",
@@ -1889,6 +1981,14 @@
 [
 "Compartment",
 "cytoplasm"
+],
+[
+"Full name",
+"Cullin-1"
+],
+[
+"Function",
+"Core component of multiple cullin-RING-based SCF (SKP1-CUL1-F-box protein) E3 ubiquitin-protein ligase complexes, which mediate the ubiquitination of proteins involved in cell cycle progression, signal transduction and transcription. SCF complexes and ARIH1 collaborate in tandem to mediate ubiquitination of target proteins."
 ],
 [
 "HGNC",
@@ -2243,6 +2343,22 @@
 "cytoplasm"
 ],
 [
+"Full name",
+"Tumor necrosis factor alpha-induced protein 3"
+],
+[
+"Alternative names",
+"OTU domain-containing protein 7C; Putative DNA-binding protein A20; Zinc finger protein A20"
+],
+[
+"Function",
+"Ubiquitin-editing enzyme that contains both ubiquitin ligase and deubiquitinase activities. Involved in immune and inflammatory responses signaled by cytokines, such as TNF and IL-1 beta, or pathogens via Toll-like receptors (TLRs) through terminating NF-kappa-B activity."
+],
+[
+"Location",
+"Cytoplasm, Nucleus, Lysosome"
+],
+[
 "HGNC",
 "HGNC:11896"
 ],
@@ -2365,6 +2481,22 @@
 [
 "Compartment",
 "cytoplasm"
+],
+[
+"Full name",
+"Tumor necrosis factor alpha-induced protein 3"
+],
+[
+"Alternative names",
+"OTU domain-containing protein 7C; Putative DNA-binding protein A20; Zinc finger protein A20"
+],
+[
+"Function",
+"Ubiquitin-editing enzyme that contains both ubiquitin ligase and deubiquitinase activities. Involved in immune and inflammatory responses signaled by cytokines, such as TNF and IL-1 beta, or pathogens via Toll-like receptors (TLRs) through terminating NF-kappa-B activity."
+],
+[
+"Location",
+"Cytoplasm, Nucleus, Lysosome"
 ],
 [
 "HGNC",
@@ -3200,6 +3332,22 @@
 "nucleus"
 ],
 [
+"Full name",
+"Tumor necrosis factor alpha-induced protein 3"
+],
+[
+"Alternative names",
+"OTU domain-containing protein 7C; Putative DNA-binding protein A20; Zinc finger protein A20"
+],
+[
+"Function",
+"Ubiquitin-editing enzyme that contains both ubiquitin ligase and deubiquitinase activities. Involved in immune and inflammatory responses signaled by cytokines, such as TNF and IL-1 beta, or pathogens via Toll-like receptors (TLRs) through terminating NF-kappa-B activity."
+],
+[
+"Location",
+"Cytoplasm, Nucleus, Lysosome"
+],
+[
 "HGNC",
 "HGNC:11896"
 ],
@@ -3274,6 +3422,22 @@
 [
 "Compartment",
 "nucleus"
+],
+[
+"Full name",
+"Tumor necrosis factor alpha-induced protein 3"
+],
+[
+"Alternative names",
+"OTU domain-containing protein 7C; Putative DNA-binding protein A20; Zinc finger protein A20"
+],
+[
+"Function",
+"Ubiquitin-editing enzyme that contains both ubiquitin ligase and deubiquitinase activities. Involved in immune and inflammatory responses signaled by cytokines, such as TNF and IL-1 beta, or pathogens via Toll-like receptors (TLRs) through terminating NF-kappa-B activity."
+],
+[
+"Location",
+"Cytoplasm, Nucleus, Lysosome"
 ],
 [
 "HGNC",

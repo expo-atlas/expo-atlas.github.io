@@ -99,6 +99,22 @@
 "cytoplasm"
 ],
 [
+"Full name",
+"TGF-beta-activated kinase 1 and MAP3K7-binding protein 1"
+],
+[
+"Alternative names",
+"Mitogen-activated protein kinase kinase kinase 7-interacting protein 1; TGF-beta-activated kinase 1-binding protein 1"
+],
+[
+"Function",
+"Key adapter protein that plays an essential role in JNK and NF-kappa-B activation and proinflammatory cytokines production in response to stimulation with TLRs and cytokines. Mechanistically, associates with the catalytic domain of MAP3K7/TAK1 to trigger MAP3K7/TAK1 autophosphorylation leading to its full activation."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Endoplasmic reticulum membrane"
+],
+[
 "HGNC",
 "HGNC:18157"
 ],
@@ -289,6 +305,22 @@
 [
 "Compartment",
 "cytoplasm"
+],
+[
+"Full name",
+"TGF-beta-activated kinase 1 and MAP3K7-binding protein 1"
+],
+[
+"Alternative names",
+"Mitogen-activated protein kinase kinase kinase 7-interacting protein 1; TGF-beta-activated kinase 1-binding protein 1"
+],
+[
+"Function",
+"Key adapter protein that plays an essential role in JNK and NF-kappa-B activation and proinflammatory cytokines production in response to stimulation with TLRs and cytokines. Mechanistically, associates with the catalytic domain of MAP3K7/TAK1 to trigger MAP3K7/TAK1 autophosphorylation leading to its full activation."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Endoplasmic reticulum membrane"
 ],
 [
 "HGNC",
@@ -535,6 +567,22 @@
 "cytoplasm"
 ],
 [
+"Full name",
+"Mitogen-activated protein kinase kinase kinase 8"
+],
+[
+"Alternative names",
+"Cancer Osaka thyroid oncogene; Proto-oncogene c-Cot; Serine/threonine-protein kinase cot; Tumor progression locus 2"
+],
+[
+"Function",
+"Required for lipopolysaccharide (LPS)-induced, TLR4-mediated activation of the MAPK/ERK pathway in macrophages, thus being critical for production of the pro-inflammatory cytokine TNF (TNF) during immune responses. Involved in the regulation of T-helper cell differentiation and IFNG expression in T-cells."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
 "HGNC",
 "HGNC:6860"
 ],
@@ -645,6 +693,22 @@
 [
 "Compartment",
 "cytoplasm"
+],
+[
+"Full name",
+"Mitogen-activated protein kinase kinase kinase 8"
+],
+[
+"Alternative names",
+"Cancer Osaka thyroid oncogene; Proto-oncogene c-Cot; Serine/threonine-protein kinase cot; Tumor progression locus 2"
+],
+[
+"Function",
+"Required for lipopolysaccharide (LPS)-induced, TLR4-mediated activation of the MAPK/ERK pathway in macrophages, thus being critical for production of the pro-inflammatory cytokine TNF (TNF) during immune responses. Involved in the regulation of T-helper cell differentiation and IFNG expression in T-cells."
+],
+[
+"Location",
+"Cytoplasm"
 ],
 [
 "HGNC",
@@ -1859,6 +1923,22 @@
 " at Cys258"
 ],
 [
+"Full name",
+"Dual specificity protein phosphatase 1"
+],
+[
+"Alternative names",
+"Dual specificity protein phosphatase hVH1; Mitogen-activated protein kinase phosphatase 1; Protein-tyrosine phosphatase CL100"
+],
+[
+"Function",
+"Dual specificity phosphatase that dephosphorylates MAP kinase MAPK1/ERK2 on both 'Thr-183' and 'Tyr-185', regulating its activity during the meiotic cell cycle"
+],
+[
+"Location",
+"Nucleus"
+],
+[
 "HGNC",
 "HGNC:3064"
 ],
@@ -1909,6 +1989,22 @@
 [
 "PTM",
 "ox at Cys258"
+],
+[
+"Full name",
+"Dual specificity protein phosphatase 1"
+],
+[
+"Alternative names",
+"Dual specificity protein phosphatase hVH1; Mitogen-activated protein kinase phosphatase 1; Protein-tyrosine phosphatase CL100"
+],
+[
+"Function",
+"Dual specificity phosphatase that dephosphorylates MAP kinase MAPK1/ERK2 on both 'Thr-183' and 'Tyr-185', regulating its activity during the meiotic cell cycle"
+],
+[
+"Location",
+"Nucleus"
 ],
 [
 "HGNC",

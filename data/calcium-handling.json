@@ -475,6 +475,22 @@
 "cytoplasm"
 ],
 [
+"Full name",
+"Protein phosphatase 3 catalytic subunit alpha"
+],
+[
+"Alternative names",
+"CAM-PRP catalytic subunit; Calcineurin A alpha; Calmodulin-dependent calcineurin A subunit alpha isoform; Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform"
+],
+[
+"Function",
+"Calcium-dependent, calmodulin-stimulated protein phosphatase which plays an essential role in the transduction of intracellular Ca(2+)-mediated signals. Many of the substrates contain a PxIxIT motif and/or a LxVP motif."
+],
+[
+"Location",
+"Cytoplasm, Cell membrane, Cell membrane, sarcolemma, Cytoplasm, myofibril, sarcomere, Z line, Cell projection, dendritic spine"
+],
+[
 "HGNC",
 "HGNC:9314"
 ],
@@ -521,6 +537,22 @@
 [
 "Compartment",
 "cytoplasm"
+],
+[
+"Full name",
+"Calcineurin subunit B type 1"
+],
+[
+"Alternative names",
+"Protein phosphatase 2B regulatory subunit 1; Protein phosphatase 3 regulatory subunit B alpha isoform 1"
+],
+[
+"Function",
+"Regulatory subunit of calcineurin, a calcium-dependent, calmodulin stimulated protein phosphatase. Confers calcium sensitivity"
+],
+[
+"Location",
+"Cytoplasm, cytosol, Cell membrane, Cell membrane, sarcolemma"
 ],
 [
 "HGNC",
@@ -687,6 +719,22 @@
 "cytoplasm"
 ],
 [
+"Full name",
+"Protein phosphatase 3 catalytic subunit alpha"
+],
+[
+"Alternative names",
+"CAM-PRP catalytic subunit; Calcineurin A alpha; Calmodulin-dependent calcineurin A subunit alpha isoform; Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform"
+],
+[
+"Function",
+"Calcium-dependent, calmodulin-stimulated protein phosphatase which plays an essential role in the transduction of intracellular Ca(2+)-mediated signals. Many of the substrates contain a PxIxIT motif and/or a LxVP motif."
+],
+[
+"Location",
+"Cytoplasm, Cell membrane, Cell membrane, sarcolemma, Cytoplasm, myofibril, sarcomere, Z line, Cell projection, dendritic spine"
+],
+[
 "HGNC",
 "HGNC:9314"
 ],
@@ -735,6 +783,22 @@
 "cytoplasm"
 ],
 [
+"Full name",
+"Calcineurin subunit B type 1"
+],
+[
+"Alternative names",
+"Protein phosphatase 2B regulatory subunit 1; Protein phosphatase 3 regulatory subunit B alpha isoform 1"
+],
+[
+"Function",
+"Regulatory subunit of calcineurin, a calcium-dependent, calmodulin stimulated protein phosphatase. Confers calcium sensitivity"
+],
+[
+"Location",
+"Cytoplasm, cytosol, Cell membrane, Cell membrane, sarcolemma"
+],
+[
 "HGNC",
 "HGNC:9317"
 ],
@@ -779,6 +843,22 @@
 "cytoplasm"
 ],
 [
+"Full name",
+"Nuclear factor of activated T-cells, cytoplasmic 1"
+],
+[
+"Alternative names",
+"NFAT transcription complex cytosolic component"
+],
+[
+"Function",
+"Plays a role in the inducible expression of cytokine genes in T-cells, especially in the induction of the IL-2 or IL-4 gene transcription. Also controls gene expression in embryonic cardiac cells."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
 "HGNC",
 "HGNC:7775"
 ],
@@ -821,6 +901,22 @@
 [
 "Compartment",
 "cytoplasm"
+],
+[
+"Full name",
+"Nuclear factor of activated T-cells, cytoplasmic 1"
+],
+[
+"Alternative names",
+"NFAT transcription complex cytosolic component"
+],
+[
+"Function",
+"Plays a role in the inducible expression of cytokine genes in T-cells, especially in the induction of the IL-2 or IL-4 gene transcription. Also controls gene expression in embryonic cardiac cells."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
 ],
 [
 "HGNC",
@@ -876,9 +972,9 @@
 "references": [
 {
 "authors": "Chazin WJ",
-"year": "2011",
-"title": "Relating form and function of EF-hand calcium binding proteins.",
 "journal": "Acc Chem Res",
+"title": "Relating form and function of EF-hand calcium binding proteins.",
+"year": "2011",
 "db": "pubmed",
 "id": "21314091"
 }
@@ -908,17 +1004,17 @@
 "references": [
 {
 "authors": "Li SJ et al.",
-"year": "2016",
-"title": "Cooperative autoinhibition and multi-level activation mechanisms of calcineurin.",
 "journal": "Cell Res",
+"title": "Cooperative autoinhibition and multi-level activation mechanisms of calcineurin.",
+"year": "2016",
 "db": "pubmed",
 "id": "26794871"
 },
 {
 "authors": "Hogan PG et al.",
-"year": "2003",
-"title": "Transcriptional regulation by calcium, calcineurin, and NFAT.",
 "journal": "Genes Dev",
+"title": "Transcriptional regulation by calcium, calcineurin, and NFAT.",
+"year": "2003",
 "db": "pubmed",
 "id": "12975316"
 }
@@ -949,17 +1045,17 @@
 "references": [
 {
 "authors": "Okamura H et al.",
-"year": "2000",
-"title": "Concerted dephosphorylation of the transcription factor NFAT1 induces a conformational switch that regulates transcriptional activity.",
 "journal": "Mol Cell",
+"title": "Concerted dephosphorylation of the transcription factor NFAT1 induces a conformational switch that regulates transcriptional activity.",
+"year": "2000",
 "db": "pubmed",
 "id": "11030334"
 },
 {
 "authors": "Hogan PG et al.",
-"year": "2003",
-"title": "Transcriptional regulation by calcium, calcineurin, and NFAT.",
 "journal": "Genes Dev",
+"title": "Transcriptional regulation by calcium, calcineurin, and NFAT.",
+"year": "2003",
 "db": "pubmed",
 "id": "12975316"
 }
@@ -988,9 +1084,9 @@
 "references": [
 {
 "authors": "Okamura H et al.",
-"year": "2000",
-"title": "Concerted dephosphorylation of the transcription factor NFAT1 induces a conformational switch that regulates transcriptional activity.",
 "journal": "Mol Cell",
+"title": "Concerted dephosphorylation of the transcription factor NFAT1 induces a conformational switch that regulates transcriptional activity.",
+"year": "2000",
 "db": "pubmed",
 "id": "11030334"
 }
@@ -1009,6 +1105,22 @@
 [
 "Compartment",
 "endoplasmic reticulum"
+],
+[
+"Full name",
+"Inositol 1,4,5-trisphosphate-gated calcium channel ITPR1"
+],
+[
+"Alternative names",
+"IP3 receptor isoform 1; Inositol 1,4,5 trisphosphate receptor; Inositol 1,4,5-trisphosphate receptor type 1; Type 1 inositol 1,4,5-trisphosphate receptor"
+],
+[
+"Function",
+"Inositol 1,4,5-trisphosphate-gated calcium channel that, upon inositol 1,4,5-trisphosphate binding, mediates calcium release from the endoplasmic reticulum (ER). Undergoes conformational changes upon ligand binding, suggesting structural flexibility that allows the channel to switch from a closed state, capable of interacting with its ligands such as 1,4,5-trisphosphate and calcium, to an open state, capable of transferring calcium ions across the ER membrane."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Cytoplasmic vesicle, secretory vesicle membrane, Cytoplasm, perinuclear region"
 ],
 [
 "HGNC",
@@ -1119,6 +1231,22 @@
 "endoplasmic reticulum"
 ],
 [
+"Full name",
+"Inositol 1,4,5-trisphosphate-gated calcium channel ITPR1"
+],
+[
+"Alternative names",
+"IP3 receptor isoform 1; Inositol 1,4,5 trisphosphate receptor; Inositol 1,4,5-trisphosphate receptor type 1; Type 1 inositol 1,4,5-trisphosphate receptor"
+],
+[
+"Function",
+"Inositol 1,4,5-trisphosphate-gated calcium channel that, upon inositol 1,4,5-trisphosphate binding, mediates calcium release from the endoplasmic reticulum (ER). Undergoes conformational changes upon ligand binding, suggesting structural flexibility that allows the channel to switch from a closed state, capable of interacting with its ligands such as 1,4,5-trisphosphate and calcium, to an open state, capable of transferring calcium ions across the ER membrane."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Cytoplasmic vesicle, secretory vesicle membrane, Cytoplasm, perinuclear region"
+],
+[
 "HGNC",
 "HGNC:6180"
 ],
@@ -1211,6 +1339,18 @@
 "endoplasmic reticulum"
 ],
 [
+"Full name",
+"Stromal interaction molecule 1"
+],
+[
+"Function",
+"Acts as a Ca(2+) sensor that gates two major inward rectifying Ca(2+) channels at the plasma membrane: Ca(2+) release-activated Ca(2+) (CRAC) channels and arachidonate-regulated Ca(2+)-selective (ARC) channels. Plays a role in mediating store-operated Ca(2+) entry (SOCE), a Ca(2+) influx following depletion of intracellular Ca(2+) stores."
+],
+[
+"Location",
+"Cell membrane, Endoplasmic reticulum membrane, Cytoplasm, cytoskeleton, Sarcoplasmic reticulum"
+],
+[
 "HGNC",
 "HGNC:11386"
 ],
@@ -1269,6 +1409,18 @@
 [
 "Compartment",
 "endoplasmic reticulum"
+],
+[
+"Full name",
+"Stromal interaction molecule 1"
+],
+[
+"Function",
+"Acts as a Ca(2+) sensor that gates two major inward rectifying Ca(2+) channels at the plasma membrane: Ca(2+) release-activated Ca(2+) (CRAC) channels and arachidonate-regulated Ca(2+)-selective (ARC) channels. Plays a role in mediating store-operated Ca(2+) entry (SOCE), a Ca(2+) influx following depletion of intracellular Ca(2+) stores."
+],
+[
+"Location",
+"Cell membrane, Endoplasmic reticulum membrane, Cytoplasm, cytoskeleton, Sarcoplasmic reticulum"
 ],
 [
 "HGNC",
@@ -1359,6 +1511,22 @@
 "endoplasmic reticulum"
 ],
 [
+"Full name",
+"Sarcoplasmic/endoplasmic reticulum calcium ATPase 2"
+],
+[
+"Alternative names",
+"Calcium pump 2; Calcium-transporting ATPase sarcoplasmic reticulum type, slow twitch skeletal muscle isoform; Endoplasmic reticulum class 1/2 Ca(2+) ATPase"
+],
+[
+"Function",
+"This magnesium-dependent enzyme catalyzes the hydrolysis of ATP coupled with the translocation of calcium from the cytosol to the sarcoplasmic reticulum lumen. Involved in autophagy in response to starvation."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Sarcoplasmic reticulum membrane"
+],
+[
 "HGNC",
 "HGNC:812"
 ],
@@ -1416,17 +1584,17 @@
 "references": [
 {
 "authors": "Baker MR et al.",
-"year": "2023",
-"title": "Understanding IP(3)R channels: From structural underpinnings to ligand-dependent conformational landscape.",
 "journal": "Cell Calcium",
+"title": "Understanding IP(3)R channels: From structural underpinnings to ligand-dependent conformational landscape.",
+"year": "2023",
 "db": "pubmed",
 "id": "37393815"
 },
 {
 "authors": "Rossi AM et al.",
-"year": "2018",
-"title": "IP(3) receptors - lessons from analyses ex cellula.",
 "journal": "J Cell Sci",
+"title": "IP(3) receptors - lessons from analyses ex cellula.",
+"year": "2018",
 "db": "pubmed",
 "id": "30552138"
 }
@@ -1457,9 +1625,9 @@
 "references": [
 {
 "authors": "Baker MR et al.",
-"year": "2023",
-"title": "Understanding IP(3)R channels: From structural underpinnings to ligand-dependent conformational landscape.",
 "journal": "Cell Calcium",
+"title": "Understanding IP(3)R channels: From structural underpinnings to ligand-dependent conformational landscape.",
+"year": "2023",
 "db": "pubmed",
 "id": "37393815"
 }
@@ -1489,17 +1657,17 @@
 "references": [
 {
 "authors": "Prakriya M et al.",
-"year": "2015",
-"title": "Store-Operated Calcium Channels.",
 "journal": "Physiol Rev",
+"title": "Store-Operated Calcium Channels.",
+"year": "2015",
 "db": "pubmed",
 "id": "26400989"
 },
 {
 "authors": "Lunz V et al.",
-"year": "2019",
-"title": "STIM1 activation of Orai1.",
 "journal": "Cell Calcium",
+"title": "STIM1 activation of Orai1.",
+"year": "2019",
 "db": "pubmed",
 "id": "30530091"
 }
@@ -1532,9 +1700,9 @@
 "references": [
 {
 "authors": "Papp B et al.",
-"year": "2020",
-"title": "Endoplasmic Reticulum Calcium Pumps and Tumor Cell Differentiation.",
 "journal": "Int J Mol Sci",
+"title": "Endoplasmic Reticulum Calcium Pumps and Tumor Cell Differentiation.",
+"year": "2020",
 "db": "pubmed",
 "id": "32397400"
 }
@@ -1707,6 +1875,22 @@
 "plasma membrane"
 ],
 [
+"Full name",
+"Calcium release-activated calcium channel protein 1"
+],
+[
+"Alternative names",
+"Protein orai-1; Transmembrane protein 142A"
+],
+[
+"Function",
+"Pore-forming subunit of two major inward rectifying Ca(2+) channels at the plasma membrane: Ca(2+) release-activated Ca(2+) (CRAC) channels and arachidonate-regulated Ca(2+)-selective (ARC) channels (Probable). Assembles with ORAI2 and ORAI3 to form hexameric CRAC channels that mediate Ca(2+) influx upon depletion of endoplasmic reticulum Ca(2+) store and channel activation by Ca(2+) sensor STIM1, a process known as store-operated Ca(2+) entry (SOCE)."
+],
+[
+"Location",
+"Cell membrane, Basolateral cell membrane"
+],
+[
 "HGNC",
 "HGNC:25896"
 ],
@@ -1771,6 +1955,18 @@
 "plasma membrane"
 ],
 [
+"Full name",
+"Stromal interaction molecule 1"
+],
+[
+"Function",
+"Acts as a Ca(2+) sensor that gates two major inward rectifying Ca(2+) channels at the plasma membrane: Ca(2+) release-activated Ca(2+) (CRAC) channels and arachidonate-regulated Ca(2+)-selective (ARC) channels. Plays a role in mediating store-operated Ca(2+) entry (SOCE), a Ca(2+) influx following depletion of intracellular Ca(2+) stores."
+],
+[
+"Location",
+"Cell membrane, Endoplasmic reticulum membrane, Cytoplasm, cytoskeleton, Sarcoplasmic reticulum"
+],
+[
 "HGNC",
 "HGNC:11386"
 ],
@@ -1813,6 +2009,22 @@
 [
 "Compartment",
 "plasma membrane"
+],
+[
+"Full name",
+"Calcium release-activated calcium channel protein 1"
+],
+[
+"Alternative names",
+"Protein orai-1; Transmembrane protein 142A"
+],
+[
+"Function",
+"Pore-forming subunit of two major inward rectifying Ca(2+) channels at the plasma membrane: Ca(2+) release-activated Ca(2+) (CRAC) channels and arachidonate-regulated Ca(2+)-selective (ARC) channels (Probable). Assembles with ORAI2 and ORAI3 to form hexameric CRAC channels that mediate Ca(2+) influx upon depletion of endoplasmic reticulum Ca(2+) store and channel activation by Ca(2+) sensor STIM1, a process known as store-operated Ca(2+) entry (SOCE)."
+],
+[
+"Location",
+"Cell membrane, Basolateral cell membrane"
 ],
 [
 "HGNC",
@@ -1861,6 +2073,22 @@
 [
 "Compartment",
 "plasma membrane"
+],
+[
+"Full name",
+"Plasma membrane calcium-transporting ATPase 1"
+],
+[
+"Alternative names",
+"Plasma membrane calcium ATPase isoform 1; Plasma membrane calcium pump isoform 1"
+],
+[
+"Function",
+"Catalyzes the hydrolysis of ATP coupled with the transport of calcium from the cytoplasm to the extracellular space thereby maintaining intracellular calcium homeostasis. Plays a role in blood pressure regulation through regulation of intracellular calcium concentration and nitric oxide production leading to regulation of vascular smooth muscle cells vasoconstriction."
+],
+[
+"Location",
+"Cell membrane, Basolateral cell membrane, Synapse, Presynaptic cell membrane, Cytoplasmic vesicle, secretory vesicle, synaptic vesicle membrane"
 ],
 [
 "HGNC",
@@ -1916,17 +2144,17 @@
 "references": [
 {
 "authors": "Deering-Rice CE et al.",
-"year": "2012",
-"title": "Transient receptor potential vanilloid-1 (TRPV1) is a mediator of lung toxicity for coal fly ash particulate material.",
 "journal": "Mol Pharmacol",
+"title": "Transient receptor potential vanilloid-1 (TRPV1) is a mediator of lung toxicity for coal fly ash particulate material.",
+"year": "2012",
 "db": "pubmed",
 "id": "22155782"
 },
 {
 "authors": "Deering-Rice CE et al.",
-"year": "2016",
-"title": "Characterization of Transient Receptor Potential Vanilloid-1 (TRPV1) Variant Activation by Coal Fly Ash Particles and Associations with Altered Transient Receptor Potential Ankyrin-1 (TRPA1) Expression and Asthma.",
 "journal": "J Biol Chem",
+"title": "Characterization of Transient Receptor Potential Vanilloid-1 (TRPV1) Variant Activation by Coal Fly Ash Particles and Associations with Altered Transient Receptor Potential Ankyrin-1 (TRPA1) Expression and Asthma.",
+"year": "2016",
 "db": "pubmed",
 "id": "27758864"
 }
@@ -1957,17 +2185,17 @@
 "references": [
 {
 "authors": "Deering-Rice CE et al.",
-"year": "2012",
-"title": "Transient receptor potential vanilloid-1 (TRPV1) is a mediator of lung toxicity for coal fly ash particulate material.",
 "journal": "Mol Pharmacol",
+"title": "Transient receptor potential vanilloid-1 (TRPV1) is a mediator of lung toxicity for coal fly ash particulate material.",
+"year": "2012",
 "db": "pubmed",
 "id": "22155782"
 },
 {
 "authors": "Lamb JG et al.",
-"year": "2017",
-"title": "Activation of Human Transient Receptor Potential Melastatin-8 (TRPM8) by Calcium-Rich Particulate Materials and Effects on Human Lung Cells.",
 "journal": "Mol Pharmacol",
+"title": "Activation of Human Transient Receptor Potential Melastatin-8 (TRPM8) by Calcium-Rich Particulate Materials and Effects on Human Lung Cells.",
+"year": "2017",
 "db": "pubmed",
 "id": "29038158"
 }
@@ -1997,17 +2225,17 @@
 "references": [
 {
 "authors": "Lunz V et al.",
-"year": "2019",
-"title": "STIM1 activation of Orai1.",
 "journal": "Cell Calcium",
+"title": "STIM1 activation of Orai1.",
+"year": "2019",
 "db": "pubmed",
 "id": "30530091"
 },
 {
 "authors": "Prakriya M et al.",
-"year": "2015",
-"title": "Store-Operated Calcium Channels.",
 "journal": "Physiol Rev",
+"title": "Store-Operated Calcium Channels.",
+"year": "2015",
 "db": "pubmed",
 "id": "26400989"
 }
@@ -2038,17 +2266,17 @@
 "references": [
 {
 "authors": "Prakriya M et al.",
-"year": "2015",
-"title": "Store-Operated Calcium Channels.",
 "journal": "Physiol Rev",
+"title": "Store-Operated Calcium Channels.",
+"year": "2015",
 "db": "pubmed",
 "id": "26400989"
 },
 {
 "authors": "Lunz V et al.",
-"year": "2019",
-"title": "STIM1 activation of Orai1.",
 "journal": "Cell Calcium",
+"title": "STIM1 activation of Orai1.",
+"year": "2019",
 "db": "pubmed",
 "id": "30530091"
 }
@@ -2081,9 +2309,9 @@
 "references": [
 {
 "authors": "Brini M et al.",
-"year": "2013",
-"title": "The plasma membrane calcium pump in health and disease.",
 "journal": "FEBS J",
+"title": "The plasma membrane calcium pump in health and disease.",
+"year": "2013",
 "db": "pubmed",
 "id": "23413890"
 }
@@ -2250,6 +2478,22 @@
 [
 "Compartment",
 "nucleus"
+],
+[
+"Full name",
+"Nuclear factor of activated T-cells, cytoplasmic 1"
+],
+[
+"Alternative names",
+"NFAT transcription complex cytosolic component"
+],
+[
+"Function",
+"Plays a role in the inducible expression of cytokine genes in T-cells, especially in the induction of the IL-2 or IL-4 gene transcription. Also controls gene expression in embryonic cardiac cells."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
 ],
 [
 "HGNC",

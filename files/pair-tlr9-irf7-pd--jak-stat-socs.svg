@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="803" height="155" viewBox="0 0 803 155" stroke-linecap="butt" stroke-miterlimit="10">
+<g transform="translate(15,15)">
+<path d="M520 30 L760 30 L760 120 L520 120 Z" fill="none" stroke="#000000"/><text x="640" y="80.2913" text-anchor="middle" font-family="'Dialog', Arial, Helvetica, sans-serif" font-size="14" fill="#000000" stroke="none" xml:space="preserve">JAK-STAT with the SOCS brake</text>
+<path d="M0 0 L240 0 L240 90 L0 90 Z" fill="none" stroke="#000000"/><text x="120" y="50.2913" text-anchor="middle" font-family="'Dialog', Arial, Helvetica, sans-serif" font-size="14" fill="#000000" stroke="none" xml:space="preserve">TLR9 to type I interferon</text>
+<path d="M340 35 Q340 25 350 25 L410 25 Q420 25 420 35 L420 55 Q420 65 410 65 L350 65 Q340 65 340 55 Z" fill="#EFEDE7" stroke="none"/><path d="M340 35 Q340 25 350 25 L410 25 Q420 25 420 35 L420 55 Q420 65 410 65 L350 65 Q340 65 340 55 Z" fill="none" stroke="#000000"/><text x="380" y="50.2913" text-anchor="middle" font-family="'Dialog', Arial, Helvetica, sans-serif" font-size="14" fill="#000000" stroke="none" xml:space="preserve">IFN-alpha</text>
+<path d="M340 95 Q340 85 350 85 L410 85 Q420 85 420 95 L420 115 Q420 125 410 125 L350 125 Q340 125 340 115 Z" fill="#EFEDE7" stroke="none"/><path d="M340 95 Q340 85 350 85 L410 85 Q420 85 420 95 L420 115 Q420 125 410 125 L350 125 Q340 125 340 115 Z" fill="none" stroke="#000000"/><text x="380" y="110.2913" text-anchor="middle" font-family="'Dialog', Arial, Helvetica, sans-serif" font-size="14" fill="#000000" stroke="none" xml:space="preserve">IFN-beta</text>
+<path d="M240 45 L329 45" fill="none" stroke="#000000"/><path d="M340 45 L328 51 L328 39 Z" fill="#000000" stroke="none"/>
+<path d="M420 49.6154 L520 61.1538" fill="none" stroke="#000000"/>
+<path d="M240 72.6923 L329.2817 93.2958" fill="none" stroke="#000000"/><path d="M340 95.7692 L326.9581 98.9173 L329.6565 87.2246 Z" fill="#000000" stroke="none"/>
+<path d="M420 100.3846 L520 88.8462" fill="none" stroke="#000000"/>
+</g>
+</svg>

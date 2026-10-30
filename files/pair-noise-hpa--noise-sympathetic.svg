@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="816" height="120" viewBox="0 0 816 120" stroke-linecap="butt" stroke-miterlimit="10">
+<g transform="translate(28,15)">
+<path d="M0 0 L240 0 L240 90 L0 90 Z" fill="none" stroke="#000000"/><text x="120" y="42.0474" text-anchor="middle" font-family="'Dialog', Arial, Helvetica, sans-serif" font-size="14" fill="#000000" stroke="none" xml:space="preserve">The HPA arm: from the stress</text><text x="120" y="58.5352" text-anchor="middle" font-family="'Dialog', Arial, Helvetica, sans-serif" font-size="14" fill="#000000" stroke="none" xml:space="preserve">signal to cortisol</text>
+<path d="M520 0 L760 0 L760 90 L520 90 Z" fill="none" stroke="#000000"/><text x="640" y="33.8035" text-anchor="middle" font-family="'Dialog', Arial, Helvetica, sans-serif" font-size="14" fill="#000000" stroke="none" xml:space="preserve">The sympathetic arm:</text><text x="640" y="50.2913" text-anchor="middle" font-family="'Dialog', Arial, Helvetica, sans-serif" font-size="14" fill="#000000" stroke="none" xml:space="preserve">catecholamines and the renin</text><text x="640" y="66.7791" text-anchor="middle" font-family="'Dialog', Arial, Helvetica, sans-serif" font-size="14" fill="#000000" stroke="none" xml:space="preserve">route to angiotensin II</text>
+<path d="M360 45 C360 33.954 368.954 25 380 25 L380 25 C391.046 25 400 33.954 400 45 L400 45 C400 56.046 391.046 65 380 65 L380 65 C368.954 65 360 56.046 360 45 Z" fill="#EFEDE7" stroke="none"/><path d="M360 45 C360 33.954 368.954 25 380 25 L380 25 C391.046 25 400 33.954 400 45 L400 45 C400 56.046 391.046 65 380 65 L380 65 C368.954 65 360 56.046 360 45 Z" fill="none" stroke="#000000"/><text x="380" y="50.2913" text-anchor="middle" font-family="'Dialog', Arial, Helvetica, sans-serif" font-size="14" fill="#000000" stroke="none" xml:space="preserve">cortisol</text>
+<path d="M240 45 L349 45" fill="none" stroke="#000000"/><path d="M360 45 L348 51 L348 39 Z" fill="#000000" stroke="none"/>
+<path d="M400 45 L520 45" fill="none" stroke="#000000"/>
+</g>
+</svg>

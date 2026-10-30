@@ -1,0 +1,475 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:y="http://www.yworks.com/xml/graphml">
+  <key attr.name="Module" attr.type="string" for="node" id="d0"/>
+  <key attr.name="Version" attr.type="string" for="node" id="d1"/>
+  <key attr.name="Cell type" attr.type="string" for="node" id="d2"/>
+  <key attr.name="In" attr.type="string" for="node" id="d3"/>
+  <key attr.name="Out" attr.type="string" for="node" id="d4"/>
+  <key attr.name="Interface" attr.type="string" for="node" id="d5"/>
+  <key for="node" id="ng" yfiles.type="nodegraphics"/>
+  <key for="graphml" id="res" yfiles.type="resources"/>
+  <key for="edge" id="eg" yfiles.type="edgegraphics"/>
+  <graph edgedefault="directed" id="G"><node id="m_inflammasome-nlrp3"><data key="d0">inflammasome-nlrp3</data><data key="d1">inflammasome-nlrp3-v03.graphml</data><data key="d2">human alveolar macrophage</data><data key="d3">RELA:NFKB1, particle</data><data key="d4">IL-1beta, IL-18</data><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Submap">
+              <y:Geometry height="90.0" width="240.0" x="1040.0" y="300.0"/>
+              <y:Fill transparent="false" hasColor="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="37.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="237.5" x="1.25" xml:space="preserve" y="26.5" hasText="true">Particles to the NLRP3
+inflammasome and IL-1beta<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+            </y:GenericNode>
+          </data>
+        </node><node id="m_jak-stat-socs"><data key="d0">jak-stat-socs</data><data key="d1">jak-stat-socs-v01.graphml</data><data key="d2">human alveolar macrophage</data><data key="d3">IFN-alpha, IFN-beta, IL-6, IL-10</data><data key="d4">SOCS3</data><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Submap">
+              <y:Geometry height="90.0" width="240.0" x="520.0" y="300.0"/>
+              <y:Fill transparent="false" hasColor="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="266.0" x="-13.0" xml:space="preserve" y="34.75" hasText="true">JAK-STAT with the SOCS brake<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+            </y:GenericNode>
+          </data>
+        </node><node id="m_mapk-dusp1"><data key="d0">mapk-dusp1</data><data key="d1">mapk-dusp1-v02.graphml</data><data key="d2">human alveolar macrophage</data><data key="d3">TAK1:TAB1:TAB2, IKK, H2O2</data><data key="d4">JUN, ATF2, ELK1</data><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Submap">
+              <y:Geometry height="90.0" width="240.0" x="1040.0" y="150.0"/>
+              <y:Fill transparent="false" hasColor="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="37.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="256.5" x="-8.25" xml:space="preserve" y="26.5" hasText="true">MAP kinase cascades and the
+oxidation of DUSP1<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+            </y:GenericNode>
+          </data>
+        </node><node id="m_nfkb-ikk"><data key="d0">nfkb-ikk</data><data key="d1">nfkb-ikk-v02.graphml</data><data key="d2">human alveolar macrophage</data><data key="d3">Myddosome, TRAF6</data><data key="d4">TAK1:TAB1:TAB2, RELA:NFKB1</data><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Submap">
+              <y:Geometry height="90.0" width="240.0" x="520.0" y="150.0"/>
+              <y:Fill transparent="false" hasColor="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="37.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="256.5" x="-8.25" xml:space="preserve" y="26.5" hasText="true">IKK and NF-κB with the IκBα
+and A20 loops<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+            </y:GenericNode>
+          </data>
+        </node><node id="m_noise-brain"><data key="d0">noise-brain</data><data key="d1">noise-brain-v01.graphml</data><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Submap">
+              <y:Geometry height="90.0" width="240.0" x="1040.0" y="600.0"/>
+              <y:Fill transparent="false" hasColor="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="53.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="247.0" x="-3.5" xml:space="preserve" y="18.25" hasText="true">Noise in the brain: the
+microglial oxidase and the
+neuronal synthase<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+            </y:GenericNode>
+          </data>
+        <data key="d3">noradrenaline, NOX2 holoenzyme</data><data key="d4">O2.-</data></node><node id="m_noise-heart"><data key="d0">noise-heart</data><data key="d1">noise-heart-v01.graphml</data><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Submap">
+              <y:Geometry height="90.0" width="240.0" x="1040.0" y="450.0"/>
+              <y:Fill transparent="false" hasColor="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="53.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="266.0" x="-13.0" xml:space="preserve" y="18.25" hasText="true">Noise in the heart:
+conditioned inflammation and
+the cardiac synthase<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+            </y:GenericNode>
+          </data>
+        <data key="d3">RELA:NFKB1, NOX2 holoenzyme, NO</data><data key="d4">CCL2:CCR2, IL-1b, O2.-</data></node><node id="m_noise-hpa"><data key="d0">noise-hpa</data><data key="d1">noise-hpa-v01.graphml</data><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Submap">
+              <y:Geometry height="90.0" width="240.0" x="0.0" y="600.0"/>
+              <y:Fill transparent="false" hasColor="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="37.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="266.0" x="-13.0" xml:space="preserve" y="26.5" hasText="true">The HPA arm: from the stress
+signal to cortisol<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+            </y:GenericNode>
+          </data>
+        <data key="d4">cortisol</data></node><node id="m_noise-sympathetic"><data key="d0">noise-sympathetic</data><data key="d1">noise-sympathetic-v02.graphml</data><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Submap">
+              <y:Geometry height="90.0" width="240.0" x="520.0" y="600.0"/>
+              <y:Fill transparent="false" hasColor="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="53.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="266.0" x="-13.0" xml:space="preserve" y="18.25" hasText="true">The sympathetic arm:
+catecholamines and the renin
+route to angiotensin II<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+            </y:GenericNode>
+          </data>
+        <data key="d3">cortisol</data><data key="d4">noradrenaline, adrenaline, angiotensin II</data></node><node id="m_redox-nox"><data key="d0">redox-nox</data><data key="d1">redox-nox-v17.graphml</data><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Submap">
+              <y:Geometry height="90.0" width="240.0" x="520.0" y="0.0"/>
+              <y:Fill transparent="false" hasColor="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="37.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="247.0" x="-3.5" xml:space="preserve" y="26.5" hasText="true">NADPH oxidase assembly and
+superoxide<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+            </y:GenericNode>
+          </data>
+        <data key="d3">CYBB, CYBA, NCF1, NCF2, NCF4, RAC1:GTP, Myddosome, NADPH, O2</data><data key="d4">O2.-</data></node><node id="m_redox-nrf2-core"><data key="d0">redox-nrf2-core</data><data key="d1">redox-nrf2-core-v17.graphml</data><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Submap">
+              <y:Geometry height="90.0" width="240.0" x="0.0" y="900.0"/>
+              <y:Fill transparent="false" hasColor="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="37.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="256.5" x="-8.25" xml:space="preserve" y="26.5" hasText="true">KEAP1-NRF2 core: the sensor
+and the switch<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+            </y:GenericNode>
+          </data>
+        <data key="d3">H2O2, 4-hydroxynonenal, 1,2-naphthoquinone</data><data key="d4">NRF2:MAFG</data></node><node id="m_redox-nrf2-glutathione"><data key="d0">redox-nrf2-glutathione</data><data key="d1">redox-nrf2-glutathione-v10.graphml</data><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Submap">
+              <y:Geometry height="90.0" width="240.0" x="520.0" y="900.0"/>
+              <y:Fill transparent="false" hasColor="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="237.5" x="1.25" xml:space="preserve" y="34.75" hasText="true">NRF2 targets: glutathione<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+            </y:GenericNode>
+          </data>
+        <data key="d3">NRF2:MAFG, glutamate, cysteine, glycine, H2O2, 4-hydroxynonenal</data><data key="d4">GSH</data></node><node id="m_redox-nrf2-heme-quinone"><data key="d0">redox-nrf2-heme-quinone</data><data key="d1">redox-nrf2-heme-quinone-v10.graphml</data><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Submap">
+              <y:Geometry height="90.0" width="240.0" x="520.0" y="1050.0"/>
+              <y:Fill transparent="false" hasColor="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="37.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="237.5" x="1.25" xml:space="preserve" y="26.5" hasText="true">NRF2 targets: heme
+oxygenase, BACH1 and NQO1<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+            </y:GenericNode>
+          </data>
+        <data key="d3">NRF2:MAFG, heme, NADPH, O2, 1,2-naphthoquinone</data><data key="d4">HMOX1, NQO1, Fe2+, O2.-</data></node><node id="m_tlr4-nox"><data key="d0">tlr4-nox</data><data key="d1">tlr4-nox-v10.graphml</data><data key="d2">human alveolar macrophage</data><data key="d3">endotoxin, LBP, CD14, TLR4:MD2, TIRAP, MYD88, IRAK4</data><data key="d4">Myddosome</data><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Submap">
+              <y:Geometry height="90.0" width="240.0" x="0.0" y="0.0"/>
+              <y:Fill transparent="false" hasColor="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="37.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="256.5" x="-8.25" xml:space="preserve" y="26.5" hasText="true">Particle-adsorbed endotoxin
+to the oxidase kinase<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+            </y:GenericNode>
+          </data>
+        </node><node id="m_tlr9-irf7-pd"><data key="d0">tlr9-irf7-pd</data><data key="d1">tlr9-irf7-pd-v23.graphml</data><data key="d2">plasmacytoid dendritic cell</data><data key="d3">CpG-DNA, TLR9, UNC93B1, MYD88, IRAK4, IRAK1</data><data key="d4">TRAF6, IFN-alpha, IFN-beta</data><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Submap">
+              <y:Geometry height="90.0" width="240.0" x="0.0" y="150.0"/>
+              <y:Fill transparent="false" hasColor="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="237.5" x="1.25" xml:space="preserve" y="34.75" hasText="true">TLR9 to type I interferon<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+            </y:GenericNode>
+          </data>
+        </node><node id="m_vascular-inflammation"><data key="d0">vascular-inflammation</data><data key="d1">vascular-inflammation-v01.graphml</data><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Submap">
+              <y:Geometry height="90.0" width="240.0" x="0.0" y="300.0"/>
+              <y:Fill transparent="false" hasColor="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="70.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="237.5" x="1.25" xml:space="preserve" y="10.0" hasText="true">Vascular inflammation:
+NF-kB, VCAM-1 and the
+leucocyte that brings its
+own oxidase<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+            </y:GenericNode>
+          </data>
+        <data key="d3">H2O2</data><data key="d4">IL-6, VCAM1:ITGA4:ITGB1</data></node><node id="i0"><data key="ng">
+        <y:GenericNode configuration="com.yworks.sbgn.Complex">
+          <y:Geometry height="60.0" width="150.0" x="825.0" y="165.0"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="133.0" x="8.5" xml:space="preserve" y="19.75" hasText="true">TAK1:TAB1:TAB2</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    <data key="d5">out of nfkb-ikk, into mapk-dusp1</data></node><node id="i1"><data key="ng">
+        <y:GenericNode configuration="com.yworks.sbgn.Complex">
+          <y:Geometry height="60.0" width="150.0" x="825.0" y="245.0"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="95.0" x="27.5" xml:space="preserve" y="19.75" hasText="true">RELA:NFKB1</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    <data key="d5">out of nfkb-ikk, into inflammasome-nlrp3, noise-heart</data></node><node id="i2"><data key="ng">
+        <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
+          <y:Geometry height="40.0" width="40.0" x="360.0" y="625.0"/>
+          <y:Fill color="#EFEDE7" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="76.0" x="-18.0" xml:space="preserve" y="9.75" hasText="true">cortisol<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    <data key="d5">out of noise-hpa, into noise-sympathetic</data></node><node id="i3"><data key="ng">
+        <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
+          <y:Geometry height="40.0" width="40.0" x="880.0" y="625.0"/>
+          <y:Fill color="#EFEDE7" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="123.5" x="-41.75" xml:space="preserve" y="9.75" hasText="true">noradrenaline<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    <data key="d5">out of noise-sympathetic, into noise-brain</data></node><node id="i4"><data key="ng">
+        <y:GenericNode configuration="com.yworks.sbgn.Complex">
+          <y:Geometry height="60.0" width="150.0" x="305.0" y="915.0"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="85.5" x="32.25" xml:space="preserve" y="19.75" hasText="true">NRF2:MAFG</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    <data key="d5">out of redox-nrf2-core, into redox-nrf2-glutathione, redox-nrf2-heme-quinone</data></node><node id="i5"><data key="ng">
+        <y:GenericNode configuration="com.yworks.sbgn.Complex">
+          <y:Geometry height="60.0" width="150.0" x="305.0" y="15.0"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="85.5" x="32.25" xml:space="preserve" y="19.75" hasText="true">Myddosome</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    <data key="d5">out of tlr4-nox, into nfkb-ikk, redox-nox</data></node><node id="i6"><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
+              <y:Geometry height="40.0" width="80.0" x="340.0" y="175.0"/>
+              <y:Fill color="#EFEDE7" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="47.5" x="16.25" xml:space="preserve" y="9.75" hasText="true">TRAF6<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
+                </y:StyleProperties>
+            </y:GenericNode>
+          </data>
+        <data key="d5">out of tlr9-irf7-pd, into nfkb-ikk</data></node><node id="i7"><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
+              <y:Geometry height="40.0" width="80.0" x="340.0" y="235.0"/>
+              <y:Fill color="#EFEDE7" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="85.5" x="-2.75" xml:space="preserve" y="9.75" hasText="true">IFN-alpha<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
+                </y:StyleProperties>
+            </y:GenericNode>
+          </data>
+        <data key="d5">out of tlr9-irf7-pd, into jak-stat-socs</data></node><node id="i8"><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
+              <y:Geometry height="40.0" width="80.0" x="340.0" y="295.0"/>
+              <y:Fill color="#EFEDE7" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="76.0" x="2.0" xml:space="preserve" y="9.75" hasText="true">IFN-beta<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
+                </y:StyleProperties>
+            </y:GenericNode>
+          </data>
+        <data key="d5">out of tlr9-irf7-pd, into jak-stat-socs</data></node><node id="i9"><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
+              <y:Geometry height="40.0" width="80.0" x="340.0" y="355.0"/>
+              <y:Fill color="#EFEDE7" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.0" x="21.0" xml:space="preserve" y="9.75" hasText="true">IL-6<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
+                </y:StyleProperties>
+            </y:GenericNode>
+          </data>
+        <data key="d5">out of vascular-inflammation, into jak-stat-socs</data></node><edge id="i0_p" source="m_nfkb-ikk" target="i0">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="delta"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="i0_c0" source="i0" target="m_mapk-dusp1">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="i1_p" source="m_nfkb-ikk" target="i1">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="delta"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="i1_c0" source="i1" target="m_inflammasome-nlrp3">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="i1_c1" source="i1" target="m_noise-heart">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="i2_p" source="m_noise-hpa" target="i2">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="delta"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="i2_c0" source="i2" target="m_noise-sympathetic">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="i3_p" source="m_noise-sympathetic" target="i3">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="delta"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="i3_c0" source="i3" target="m_noise-brain">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="i4_p" source="m_redox-nrf2-core" target="i4">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="delta"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="i4_c0" source="i4" target="m_redox-nrf2-glutathione">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="i4_c1" source="i4" target="m_redox-nrf2-heme-quinone">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="i5_p" source="m_tlr4-nox" target="i5">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="delta"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="i5_c0" source="i5" target="m_nfkb-ikk">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="i5_c1" source="i5" target="m_redox-nox">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="i6_p" source="m_tlr9-irf7-pd" target="i6">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="delta"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="i6_c0" source="i6" target="m_nfkb-ikk">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="i7_p" source="m_tlr9-irf7-pd" target="i7">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="delta"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="i7_c0" source="i7" target="m_jak-stat-socs">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="i8_p" source="m_tlr9-irf7-pd" target="i8">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="delta"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="i8_c0" source="i8" target="m_jak-stat-socs">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="i9_p" source="m_vascular-inflammation" target="i9">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="delta"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="i9_c0" source="i9" target="m_jak-stat-socs">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    </graph>
+  <data key="res">
+    <y:Resources/>
+  </data>
+</graphml>

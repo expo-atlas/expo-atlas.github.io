@@ -19,6 +19,22 @@
 " at Tyr701"
 ],
 [
+"Full name",
+"Signal transducer and activator of transcription 1-alpha/beta"
+],
+[
+"Alternative names",
+"Transcription factor ISGF-3 components p91/p84"
+],
+[
+"Function",
+"Signal transducer and transcription activator that mediates cellular responses to interferons (IFNs), cytokine KITLG/SCF and other cytokines and other growth factors. Following type I IFN (IFN-alpha and IFN-beta) binding to cell surface receptors, signaling via protein kinases leads to activation of Jak kinases (TYK2 and JAK1) and to tyrosine phosphorylation of STAT1 and STAT2."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
 "HGNC",
 "HGNC:11362"
 ],
@@ -64,7 +80,23 @@
 ],
 [
 "PTM",
-"Phosphorylated at Tyr701"
+"Phosphorylated at Tyr701, by JAK1, JAK2 or TYK2"
+],
+[
+"Full name",
+"Signal transducer and activator of transcription 1-alpha/beta"
+],
+[
+"Alternative names",
+"Transcription factor ISGF-3 components p91/p84"
+],
+[
+"Function",
+"Signal transducer and transcription activator that mediates cellular responses to interferons (IFNs), cytokine KITLG/SCF and other cytokines and other growth factors. Following type I IFN (IFN-alpha and IFN-beta) binding to cell surface receptors, signaling via protein kinases leads to activation of Jak kinases (TYK2 and JAK1) and to tyrosine phosphorylation of STAT1 and STAT2."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
 ],
 [
 "HGNC",
@@ -316,7 +348,23 @@
 ],
 [
 "PTM",
-"Phosphorylated at Tyr701"
+"Phosphorylated at Tyr701, by JAK1, JAK2 or TYK2"
+],
+[
+"Full name",
+"Signal transducer and activator of transcription 1-alpha/beta"
+],
+[
+"Alternative names",
+"Transcription factor ISGF-3 components p91/p84"
+],
+[
+"Function",
+"Signal transducer and transcription activator that mediates cellular responses to interferons (IFNs), cytokine KITLG/SCF and other cytokines and other growth factors. Following type I IFN (IFN-alpha and IFN-beta) binding to cell surface receptors, signaling via protein kinases leads to activation of Jak kinases (TYK2 and JAK1) and to tyrosine phosphorylation of STAT1 and STAT2."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
 ],
 [
 "HGNC",
@@ -491,6 +539,22 @@
 " at Tyr705"
 ],
 [
+"Full name",
+"Signal transducer and activator of transcription 3"
+],
+[
+"Alternative names",
+"Acute-phase response factor"
+],
+[
+"Function",
+"Signal transducer and transcription activator that mediates cellular responses to interleukins, KITLG/SCF, LEP and other growth factors. Once activated, recruits coactivators, such as NCOA1 or MED1, to the promoter region of the target gene."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
 "HGNC",
 "HGNC:11364"
 ],
@@ -536,7 +600,23 @@
 ],
 [
 "PTM",
-"Phosphorylated at Tyr705"
+"Phosphorylated at Tyr705, by FER and PTK6"
+],
+[
+"Full name",
+"Signal transducer and activator of transcription 3"
+],
+[
+"Alternative names",
+"Acute-phase response factor"
+],
+[
+"Function",
+"Signal transducer and transcription activator that mediates cellular responses to interleukins, KITLG/SCF, LEP and other growth factors. Once activated, recruits coactivators, such as NCOA1 or MED1, to the promoter region of the target gene."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
 ],
 [
 "HGNC",
@@ -600,7 +680,23 @@
 ],
 [
 "PTM",
-"Phosphorylated at Tyr705"
+"Phosphorylated at Tyr705, by FER and PTK6"
+],
+[
+"Full name",
+"Signal transducer and activator of transcription 3"
+],
+[
+"Alternative names",
+"Acute-phase response factor"
+],
+[
+"Function",
+"Signal transducer and transcription activator that mediates cellular responses to interleukins, KITLG/SCF, LEP and other growth factors. Once activated, recruits coactivators, such as NCOA1 or MED1, to the promoter region of the target gene."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
 ],
 [
 "HGNC",
@@ -647,6 +743,22 @@
 "cytoplasm"
 ],
 [
+"Full name",
+"Suppressor of cytokine signaling 1"
+],
+[
+"Alternative names",
+"JAK-binding protein; STAT-induced STAT inhibitor 1; Tec-interacting protein 3"
+],
+[
+"Function",
+"Essential negative regulator of type I and type II interferon (IFN) signaling, as well as that of other cytokines, including IL2, IL4, IL6 and leukemia inhibitory factor (LIF). Down-regulates cytokine signaling by inhibiting the JAK/STAT signaling pathway."
+],
+[
+"Location",
+"Nucleus, Cytoplasmic vesicle"
+],
+[
 "HGNC",
 "HGNC:19383"
 ],
@@ -691,6 +803,18 @@
 "cytoplasm"
 ],
 [
+"Full name",
+"Suppressor of cytokine signaling 3"
+],
+[
+"Alternative names",
+"Cytokine-inducible SH2 protein 3; STAT-induced STAT inhibitor 3"
+],
+[
+"Function",
+"SOCS family proteins form part of a classical negative feedback system that regulates cytokine signal transduction. SOCS3 is involved in negative regulation of cytokines that signal through the JAK/STAT pathway."
+],
+[
 "HGNC",
 "HGNC:19391"
 ],
@@ -733,6 +857,22 @@
 [
 "Compartment",
 "cytoplasm"
+],
+[
+"Full name",
+"Suppressor of cytokine signaling 1"
+],
+[
+"Alternative names",
+"JAK-binding protein; STAT-induced STAT inhibitor 1; Tec-interacting protein 3"
+],
+[
+"Function",
+"Essential negative regulator of type I and type II interferon (IFN) signaling, as well as that of other cytokines, including IL2, IL4, IL6 and leukemia inhibitory factor (LIF). Down-regulates cytokine signaling by inhibiting the JAK/STAT signaling pathway."
+],
+[
+"Location",
+"Nucleus, Cytoplasmic vesicle"
 ],
 [
 "HGNC",
@@ -793,6 +933,18 @@
 [
 "Compartment",
 "cytoplasm"
+],
+[
+"Full name",
+"Suppressor of cytokine signaling 3"
+],
+[
+"Alternative names",
+"Cytokine-inducible SH2 protein 3; STAT-induced STAT inhibitor 3"
+],
+[
+"Function",
+"SOCS family proteins form part of a classical negative feedback system that regulates cytokine signal transduction. SOCS3 is involved in negative regulation of cytokines that signal through the JAK/STAT pathway."
 ],
 [
 "HGNC",
@@ -1303,7 +1455,23 @@
 ],
 [
 "PTM",
-"Phosphorylated at Tyr701"
+"Phosphorylated at Tyr701, by JAK1, JAK2 or TYK2"
+],
+[
+"Full name",
+"Signal transducer and activator of transcription 1-alpha/beta"
+],
+[
+"Alternative names",
+"Transcription factor ISGF-3 components p91/p84"
+],
+[
+"Function",
+"Signal transducer and transcription activator that mediates cellular responses to interferons (IFNs), cytokine KITLG/SCF and other cytokines and other growth factors. Following type I IFN (IFN-alpha and IFN-beta) binding to cell surface receptors, signaling via protein kinases leads to activation of Jak kinases (TYK2 and JAK1) and to tyrosine phosphorylation of STAT1 and STAT2."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
 ],
 [
 "HGNC",
@@ -1491,7 +1659,23 @@
 ],
 [
 "PTM",
-"Phosphorylated at Tyr705"
+"Phosphorylated at Tyr705, by FER and PTK6"
+],
+[
+"Full name",
+"Signal transducer and activator of transcription 3"
+],
+[
+"Alternative names",
+"Acute-phase response factor"
+],
+[
+"Function",
+"Signal transducer and transcription activator that mediates cellular responses to interleukins, KITLG/SCF, LEP and other growth factors. Once activated, recruits coactivators, such as NCOA1 or MED1, to the promoter region of the target gene."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
 ],
 [
 "HGNC",
@@ -1536,6 +1720,22 @@
 [
 "Compartment",
 "nucleus"
+],
+[
+"Full name",
+"Suppressor of cytokine signaling 1"
+],
+[
+"Alternative names",
+"JAK-binding protein; STAT-induced STAT inhibitor 1; Tec-interacting protein 3"
+],
+[
+"Function",
+"Essential negative regulator of type I and type II interferon (IFN) signaling, as well as that of other cytokines, including IL2, IL4, IL6 and leukemia inhibitory factor (LIF). Down-regulates cytokine signaling by inhibiting the JAK/STAT signaling pathway."
+],
+[
+"Location",
+"Nucleus, Cytoplasmic vesicle"
 ],
 [
 "HGNC",
@@ -1614,6 +1814,22 @@
 "nucleus"
 ],
 [
+"Full name",
+"Suppressor of cytokine signaling 1"
+],
+[
+"Alternative names",
+"JAK-binding protein; STAT-induced STAT inhibitor 1; Tec-interacting protein 3"
+],
+[
+"Function",
+"Essential negative regulator of type I and type II interferon (IFN) signaling, as well as that of other cytokines, including IL2, IL4, IL6 and leukemia inhibitory factor (LIF). Down-regulates cytokine signaling by inhibiting the JAK/STAT signaling pathway."
+],
+[
+"Location",
+"Nucleus, Cytoplasmic vesicle"
+],
+[
 "HGNC",
 "HGNC:19383"
 ],
@@ -1656,6 +1872,18 @@
 [
 "Compartment",
 "nucleus"
+],
+[
+"Full name",
+"Suppressor of cytokine signaling 3"
+],
+[
+"Alternative names",
+"Cytokine-inducible SH2 protein 3; STAT-induced STAT inhibitor 3"
+],
+[
+"Function",
+"SOCS family proteins form part of a classical negative feedback system that regulates cytokine signal transduction. SOCS3 is involved in negative regulation of cytokines that signal through the JAK/STAT pathway."
 ],
 [
 "HGNC",
@@ -1732,6 +1960,18 @@
 [
 "Compartment",
 "nucleus"
+],
+[
+"Full name",
+"Suppressor of cytokine signaling 3"
+],
+[
+"Alternative names",
+"Cytokine-inducible SH2 protein 3; STAT-induced STAT inhibitor 3"
+],
+[
+"Function",
+"SOCS family proteins form part of a classical negative feedback system that regulates cytokine signal transduction. SOCS3 is involved in negative regulation of cytokines that signal through the JAK/STAT pathway."
 ],
 [
 "HGNC",
@@ -1892,6 +2132,22 @@
 "plasma membrane"
 ],
 [
+"Full name",
+"Interferon alpha/beta receptor 1"
+],
+[
+"Alternative names",
+"Cytokine receptor class-II member 1; Cytokine receptor family 2 member 1; Type I interferon receptor 1"
+],
+[
+"Function",
+"Together with IFNAR2, forms the heterodimeric receptor for type I interferons (including interferons alpha, beta, epsilon, omega and kappa). Type I interferon binding activates the JAK-STAT signaling cascade, resulting in transcriptional activation or repression of interferon-regulated genes that encode the effectors of the interferon response."
+],
+[
+"Location",
+"Cell membrane, Late endosome, Lysosome"
+],
+[
 "HGNC",
 "HGNC:5432"
 ],
@@ -1940,6 +2196,22 @@
 "plasma membrane"
 ],
 [
+"Full name",
+"Interferon alpha/beta receptor 2"
+],
+[
+"Alternative names",
+"Interferon alpha binding protein; Type I interferon receptor 2"
+],
+[
+"Function",
+"Together with IFNAR1, forms the heterodimeric receptor for type I interferons (including interferons alpha, beta, epsilon, omega and kappa). Type I interferon binding activates the JAK-STAT signaling cascade, resulting in transcriptional activation or repression of interferon-regulated genes that encode the effectors of the interferon response."
+],
+[
+"Location",
+"Cell membrane, Secreted"
+],
+[
 "HGNC",
 "HGNC:5433"
 ],
@@ -1982,6 +2254,22 @@
 [
 "Compartment",
 "plasma membrane"
+],
+[
+"Full name",
+"Tyrosine-protein kinase JAK1"
+],
+[
+"Alternative names",
+"Janus kinase 1"
+],
+[
+"Function",
+"Non-membrane spanning protein tyrosine kinase that phosphorylates signal-transducing subunits of cytokine receptor complexes like IL2RB, IL10RA, IFNAR2, IL6ST, LIFR, OSMR and IL31RA. Functionally, is involved in the IFN-alpha/beta/gamma signal pathway."
+],
+[
+"Location",
+"Endomembrane system"
 ],
 [
 "HGNC",
@@ -2030,6 +2318,14 @@
 [
 "Compartment",
 "plasma membrane"
+],
+[
+"Full name",
+"Non-receptor tyrosine-protein kinase TYK2"
+],
+[
+"Function",
+"Non-membrane spanning protein tyrosine kinase involved in numerous cytokines and interferons signaling, which regulates cell growth, development, cell migration, innate and adaptive immunity. Plays both structural and catalytic roles in numerous interleukins and interferons (IFN-alpha/beta) signaling."
 ],
 [
 "HGNC",
@@ -2108,6 +2404,22 @@
 "plasma membrane"
 ],
 [
+"Full name",
+"Interferon alpha/beta receptor 1"
+],
+[
+"Alternative names",
+"Cytokine receptor class-II member 1; Cytokine receptor family 2 member 1; Type I interferon receptor 1"
+],
+[
+"Function",
+"Together with IFNAR2, forms the heterodimeric receptor for type I interferons (including interferons alpha, beta, epsilon, omega and kappa). Type I interferon binding activates the JAK-STAT signaling cascade, resulting in transcriptional activation or repression of interferon-regulated genes that encode the effectors of the interferon response."
+],
+[
+"Location",
+"Cell membrane, Late endosome, Lysosome"
+],
+[
 "HGNC",
 "HGNC:5432"
 ],
@@ -2156,6 +2468,22 @@
 "plasma membrane"
 ],
 [
+"Full name",
+"Interferon alpha/beta receptor 2"
+],
+[
+"Alternative names",
+"Interferon alpha binding protein; Type I interferon receptor 2"
+],
+[
+"Function",
+"Together with IFNAR1, forms the heterodimeric receptor for type I interferons (including interferons alpha, beta, epsilon, omega and kappa). Type I interferon binding activates the JAK-STAT signaling cascade, resulting in transcriptional activation or repression of interferon-regulated genes that encode the effectors of the interferon response."
+],
+[
+"Location",
+"Cell membrane, Secreted"
+],
+[
 "HGNC",
 "HGNC:5433"
 ],
@@ -2198,6 +2526,22 @@
 [
 "Compartment",
 "plasma membrane"
+],
+[
+"Full name",
+"Tyrosine-protein kinase JAK1"
+],
+[
+"Alternative names",
+"Janus kinase 1"
+],
+[
+"Function",
+"Non-membrane spanning protein tyrosine kinase that phosphorylates signal-transducing subunits of cytokine receptor complexes like IL2RB, IL10RA, IFNAR2, IL6ST, LIFR, OSMR and IL31RA. Functionally, is involved in the IFN-alpha/beta/gamma signal pathway."
+],
+[
+"Location",
+"Endomembrane system"
 ],
 [
 "HGNC",
@@ -2246,6 +2590,14 @@
 [
 "Compartment",
 "plasma membrane"
+],
+[
+"Full name",
+"Non-receptor tyrosine-protein kinase TYK2"
+],
+[
+"Function",
+"Non-membrane spanning protein tyrosine kinase involved in numerous cytokines and interferons signaling, which regulates cell growth, development, cell migration, innate and adaptive immunity. Plays both structural and catalytic roles in numerous interleukins and interferons (IFN-alpha/beta) signaling."
 ],
 [
 "HGNC",
@@ -2308,6 +2660,22 @@
 "plasma membrane"
 ],
 [
+"Full name",
+"Interleukin-6 receptor subunit alpha"
+],
+[
+"Alternative names",
+"IL-6R 1; Membrane glycoprotein 80"
+],
+[
+"Function",
+"Part of the receptor for interleukin 6. Binds to IL6 with low affinity, but does not transduce a signal."
+],
+[
+"Location",
+"Cell membrane, Secreted"
+],
+[
 "HGNC",
 "HGNC:6019"
 ],
@@ -2352,6 +2720,22 @@
 "plasma membrane"
 ],
 [
+"Full name",
+"Interleukin-6 receptor subunit beta"
+],
+[
+"Alternative names",
+"CDw130; Interleukin-6 signal transducer; Membrane glycoprotein 130; Oncostatin-M receptor subunit alpha"
+],
+[
+"Function",
+"Functions as a shared signal-transducing subunit not only for IL6 but also for other cytokine receptor complexes, including IL6, LIF, OSM, CNTF, IL11, CTF1, BSF3, MT-RNR2/humanin, CLCF1 and the heterodimeric complex CRLF1-CLCF1. Engages site 2 of CNTF, CLCF1, LIF, and IL-6, and site 3 of IL27 and IL6."
+],
+[
+"Location",
+"Cell membrane, Secreted"
+],
+[
 "HGNC",
 "HGNC:6021"
 ],
@@ -2394,6 +2778,22 @@
 [
 "Compartment",
 "plasma membrane"
+],
+[
+"Full name",
+"Tyrosine-protein kinase JAK1"
+],
+[
+"Alternative names",
+"Janus kinase 1"
+],
+[
+"Function",
+"Non-membrane spanning protein tyrosine kinase that phosphorylates signal-transducing subunits of cytokine receptor complexes like IL2RB, IL10RA, IFNAR2, IL6ST, LIFR, OSMR and IL31RA. Functionally, is involved in the IFN-alpha/beta/gamma signal pathway."
+],
+[
+"Location",
+"Endomembrane system"
 ],
 [
 "HGNC",
@@ -2524,6 +2924,22 @@
 "plasma membrane"
 ],
 [
+"Full name",
+"Interleukin-6 receptor subunit alpha"
+],
+[
+"Alternative names",
+"IL-6R 1; Membrane glycoprotein 80"
+],
+[
+"Function",
+"Part of the receptor for interleukin 6. Binds to IL6 with low affinity, but does not transduce a signal."
+],
+[
+"Location",
+"Cell membrane, Secreted"
+],
+[
 "HGNC",
 "HGNC:6019"
 ],
@@ -2568,6 +2984,22 @@
 "plasma membrane"
 ],
 [
+"Full name",
+"Interleukin-6 receptor subunit beta"
+],
+[
+"Alternative names",
+"CDw130; Interleukin-6 signal transducer; Membrane glycoprotein 130; Oncostatin-M receptor subunit alpha"
+],
+[
+"Function",
+"Functions as a shared signal-transducing subunit not only for IL6 but also for other cytokine receptor complexes, including IL6, LIF, OSM, CNTF, IL11, CTF1, BSF3, MT-RNR2/humanin, CLCF1 and the heterodimeric complex CRLF1-CLCF1. Engages site 2 of CNTF, CLCF1, LIF, and IL-6, and site 3 of IL27 and IL6."
+],
+[
+"Location",
+"Cell membrane, Secreted"
+],
+[
 "HGNC",
 "HGNC:6021"
 ],
@@ -2610,6 +3042,22 @@
 [
 "Compartment",
 "plasma membrane"
+],
+[
+"Full name",
+"Tyrosine-protein kinase JAK1"
+],
+[
+"Alternative names",
+"Janus kinase 1"
+],
+[
+"Function",
+"Non-membrane spanning protein tyrosine kinase that phosphorylates signal-transducing subunits of cytokine receptor complexes like IL2RB, IL10RA, IFNAR2, IL6ST, LIFR, OSMR and IL31RA. Functionally, is involved in the IFN-alpha/beta/gamma signal pathway."
+],
+[
+"Location",
+"Endomembrane system"
 ],
 [
 "HGNC",
@@ -2676,6 +3124,22 @@
 "plasma membrane"
 ],
 [
+"Full name",
+"Interleukin-10 receptor subunit alpha"
+],
+[
+"Alternative names",
+"CDw210a; Interleukin-10 receptor subunit 1"
+],
+[
+"Function",
+"Cell surface receptor for the cytokine IL10 that participates in IL10-mediated anti-inflammatory functions, limiting excessive tissue disruption caused by inflammation. Upon binding to IL10, induces a conformational change in IL10RB, allowing IL10RB to bind IL10 as well."
+],
+[
+"Location",
+"Cell membrane, Cytoplasm"
+],
+[
 "HGNC",
 "HGNC:5964"
 ],
@@ -2722,6 +3186,22 @@
 [
 "Compartment",
 "plasma membrane"
+],
+[
+"Full name",
+"Interleukin-10 receptor subunit beta"
+],
+[
+"Alternative names",
+"Cytokine receptor class-II member 4; Cytokine receptor family 2 member 4; Interleukin-10 receptor subunit 2"
+],
+[
+"Function",
+"Shared cell surface receptor required for the activation of five class 2 cytokines: IL10, IL22, IL26, IL28, and IFNL1. The IFNLR1/IL10RB dimer is a receptor for the cytokine ligands IFNL2 and IFNL3 and mediates their antiviral activity."
+],
+[
+"Location",
+"Membrane"
 ],
 [
 "HGNC",
@@ -2772,6 +3252,22 @@
 "plasma membrane"
 ],
 [
+"Full name",
+"Tyrosine-protein kinase JAK1"
+],
+[
+"Alternative names",
+"Janus kinase 1"
+],
+[
+"Function",
+"Non-membrane spanning protein tyrosine kinase that phosphorylates signal-transducing subunits of cytokine receptor complexes like IL2RB, IL10RA, IFNAR2, IL6ST, LIFR, OSMR and IL31RA. Functionally, is involved in the IFN-alpha/beta/gamma signal pathway."
+],
+[
+"Location",
+"Endomembrane system"
+],
+[
 "HGNC",
 "HGNC:6190"
 ],
@@ -2818,6 +3314,14 @@
 [
 "Compartment",
 "plasma membrane"
+],
+[
+"Full name",
+"Non-receptor tyrosine-protein kinase TYK2"
+],
+[
+"Function",
+"Non-membrane spanning protein tyrosine kinase involved in numerous cytokines and interferons signaling, which regulates cell growth, development, cell migration, innate and adaptive immunity. Plays both structural and catalytic roles in numerous interleukins and interferons (IFN-alpha/beta) signaling."
 ],
 [
 "HGNC",
@@ -2880,6 +3384,22 @@
 "plasma membrane"
 ],
 [
+"Full name",
+"Interleukin-10"
+],
+[
+"Alternative names",
+"Cytokine synthesis inhibitory factor"
+],
+[
+"Function",
+"Major immune regulatory cytokine that acts on many cells of the immune system where it has profound anti-inflammatory functions, limiting excessive tissue disruption caused by inflammation. Mechanistically, IL10 binds to its heterotetrameric receptor comprising IL10RA and IL10RB leading to JAK1 and STAT2-mediated phosphorylation of STAT3."
+],
+[
+"Location",
+"Secreted"
+],
+[
 "HGNC",
 "HGNC:5962"
 ],
@@ -2922,6 +3442,22 @@
 [
 "Compartment",
 "plasma membrane"
+],
+[
+"Full name",
+"Interleukin-10 receptor subunit alpha"
+],
+[
+"Alternative names",
+"CDw210a; Interleukin-10 receptor subunit 1"
+],
+[
+"Function",
+"Cell surface receptor for the cytokine IL10 that participates in IL10-mediated anti-inflammatory functions, limiting excessive tissue disruption caused by inflammation. Upon binding to IL10, induces a conformational change in IL10RB, allowing IL10RB to bind IL10 as well."
+],
+[
+"Location",
+"Cell membrane, Cytoplasm"
 ],
 [
 "HGNC",
@@ -2972,6 +3508,22 @@
 "plasma membrane"
 ],
 [
+"Full name",
+"Interleukin-10 receptor subunit beta"
+],
+[
+"Alternative names",
+"Cytokine receptor class-II member 4; Cytokine receptor family 2 member 4; Interleukin-10 receptor subunit 2"
+],
+[
+"Function",
+"Shared cell surface receptor required for the activation of five class 2 cytokines: IL10, IL22, IL26, IL28, and IFNL1. The IFNLR1/IL10RB dimer is a receptor for the cytokine ligands IFNL2 and IFNL3 and mediates their antiviral activity."
+],
+[
+"Location",
+"Membrane"
+],
+[
 "HGNC",
 "HGNC:5965"
 ],
@@ -3020,6 +3572,22 @@
 "plasma membrane"
 ],
 [
+"Full name",
+"Tyrosine-protein kinase JAK1"
+],
+[
+"Alternative names",
+"Janus kinase 1"
+],
+[
+"Function",
+"Non-membrane spanning protein tyrosine kinase that phosphorylates signal-transducing subunits of cytokine receptor complexes like IL2RB, IL10RA, IFNAR2, IL6ST, LIFR, OSMR and IL31RA. Functionally, is involved in the IFN-alpha/beta/gamma signal pathway."
+],
+[
+"Location",
+"Endomembrane system"
+],
+[
 "HGNC",
 "HGNC:6190"
 ],
@@ -3066,6 +3634,14 @@
 [
 "Compartment",
 "plasma membrane"
+],
+[
+"Full name",
+"Non-receptor tyrosine-protein kinase TYK2"
+],
+[
+"Function",
+"Non-membrane spanning protein tyrosine kinase involved in numerous cytokines and interferons signaling, which regulates cell growth, development, cell migration, innate and adaptive immunity. Plays both structural and catalytic roles in numerous interleukins and interferons (IFN-alpha/beta) signaling."
 ],
 [
 "HGNC",
@@ -3450,6 +4026,22 @@
 [
 "Compartment",
 "extracellular space"
+],
+[
+"Full name",
+"Interleukin-10"
+],
+[
+"Alternative names",
+"Cytokine synthesis inhibitory factor"
+],
+[
+"Function",
+"Major immune regulatory cytokine that acts on many cells of the immune system where it has profound anti-inflammatory functions, limiting excessive tissue disruption caused by inflammation. Mechanistically, IL10 binds to its heterotetrameric receptor comprising IL10RA and IL10RB leading to JAK1 and STAT2-mediated phosphorylation of STAT3."
+],
+[
+"Location",
+"Secreted"
 ],
 [
 "HGNC",
