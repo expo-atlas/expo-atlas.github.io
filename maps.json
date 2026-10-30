@@ -405,6 +405,33 @@
 "hasText": true
 },
 {
+"id": "planned",
+"title": "The planned resource: all modules and interfaces (proposal)",
+"topic": "The planned resource: all modules and interfaces (proposal)",
+"group": "Modules and interfaces",
+"kind": null,
+"tag": "draft",
+"tab": null,
+"image": "files/planned.svg",
+"width": 2376.0,
+"height": 1470.0,
+"scale": 1,
+"annotation": null,
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/planned.graphml"
+},
+{
+"label": "SVG",
+"url": "files/planned.svg"
+}
+],
+"data": "data/planned-text.json",
+"hasText": true
+},
+{
 "id": "pair-nfkb-ikk--inflammasome-nlrp3",
 "title": "NF-κB → Inflammasome (RELA:NFKB1)",
 "topic": "IKK and NF-κB with the IκBα and A20 loops → Particles to the NLRP3 inflammasome and IL-1beta",
