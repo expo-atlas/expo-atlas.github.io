@@ -351,15 +351,15 @@
 "hasText": true
 },
 {
-"id": "interfaces",
-"title": "All modules and the molecules that connect them",
-"topic": "All modules and the molecules that connect them",
-"group": "Modules and interfaces",
+"id": "exposome-interfaces",
+"title": "ExposomeMap: all modules and the molecules that connect them",
+"topic": "ExposomeMap: all modules and the molecules that connect them",
+"group": "ExposomeMap: modules and interfaces",
 "kind": null,
 "tag": "new",
 "tab": null,
-"image": "files/interfaces.svg",
-"width": 1336.0,
+"image": "files/exposome-interfaces.svg",
+"width": 1332.0,
 "height": 1170.0,
 "scale": 1,
 "annotation": null,
@@ -367,79 +367,79 @@
 "downloads": [
 {
 "label": "GraphML",
-"url": "files/interfaces.graphml"
+"url": "files/exposome-interfaces.graphml"
 },
 {
 "label": "SVG",
-"url": "files/interfaces.svg"
+"url": "files/exposome-interfaces.svg"
 }
 ],
-"data": "data/interfaces-text.json",
+"data": "data/exposome-interfaces-text.json",
 "hasText": true
 },
 {
-"id": "interfaces-open",
-"title": "Open sockets: inputs no module provides",
-"topic": "Open sockets: inputs no module provides",
-"group": "Modules and interfaces",
+"id": "exposome-interfaces-open",
+"title": "Open sockets and plugs: inputs no module provides, outputs no module takes",
+"topic": "Open sockets and plugs: inputs no module provides, outputs no module takes",
+"group": "ExposomeMap: modules and interfaces",
 "kind": null,
 "tag": "draft",
 "tab": null,
-"image": "files/interfaces-open.svg",
-"width": 1549.0,
-"height": 1800.0,
+"image": "files/exposome-interfaces-open.svg",
+"width": 1716.0,
+"height": 1255.0,
 "scale": 1,
 "annotation": null,
 "imageError": null,
 "downloads": [
 {
 "label": "GraphML",
-"url": "files/interfaces-open.graphml"
+"url": "files/exposome-interfaces-open.graphml"
 },
 {
 "label": "SVG",
-"url": "files/interfaces-open.svg"
+"url": "files/exposome-interfaces-open.svg"
 }
 ],
-"data": "data/interfaces-open-text.json",
+"data": "data/exposome-interfaces-open-text.json",
 "hasText": true
 },
 {
-"id": "planned",
+"id": "exposome-planned",
 "title": "The planned resource: all modules and interfaces (proposal)",
 "topic": "The planned resource: all modules and interfaces (proposal)",
-"group": "Modules and interfaces",
+"group": "ExposomeMap: modules and interfaces",
 "kind": null,
-"tag": "draft",
+"tag": "draft-ext",
 "tab": null,
-"image": "files/planned.svg",
-"width": 2376.0,
-"height": 1470.0,
+"image": "files/exposome-planned.svg",
+"width": 2372.0,
+"height": 1320.0,
 "scale": 1,
 "annotation": null,
 "imageError": null,
 "downloads": [
 {
 "label": "GraphML",
-"url": "files/planned.graphml"
+"url": "files/exposome-planned.graphml"
 },
 {
 "label": "SVG",
-"url": "files/planned.svg"
+"url": "files/exposome-planned.svg"
 }
 ],
-"data": "data/planned-text.json",
+"data": "data/exposome-planned-text.json",
 "hasText": true
 },
 {
-"id": "pair-nfkb-ikk--inflammasome-nlrp3",
+"id": "exposome-pair-nfkb-ikk--inflammasome-nlrp3",
 "title": "NF-κB → Inflammasome (RELA:NFKB1)",
-"topic": "IKK and NF-κB with the IκBα and A20 loops → Particles to the NLRP3 inflammasome and IL-1beta",
-"group": "Modules and interfaces",
+"topic": "NF-κB → Inflammasome (RELA:NFKB1)",
+"group": "ExposomeMap: modules and interfaces",
 "kind": null,
 "tag": "new",
 "tab": null,
-"image": "files/pair-nfkb-ikk--inflammasome-nlrp3.svg",
+"image": "files/exposome-pair-nfkb-ikk--inflammasome-nlrp3.svg",
 "width": 799.0,
 "height": 120.0,
 "scale": 1,
@@ -448,25 +448,25 @@
 "downloads": [
 {
 "label": "GraphML",
-"url": "files/pair-nfkb-ikk--inflammasome-nlrp3.graphml"
+"url": "files/exposome-pair-nfkb-ikk--inflammasome-nlrp3.graphml"
 },
 {
 "label": "SVG",
-"url": "files/pair-nfkb-ikk--inflammasome-nlrp3.svg"
+"url": "files/exposome-pair-nfkb-ikk--inflammasome-nlrp3.svg"
 }
 ],
-"data": "data/pair-nfkb-ikk--inflammasome-nlrp3-text.json",
+"data": "data/exposome-pair-nfkb-ikk--inflammasome-nlrp3-text.json",
 "hasText": true
 },
 {
-"id": "pair-nfkb-ikk--mapk-dusp1",
+"id": "exposome-pair-nfkb-ikk--mapk-dusp1",
 "title": "NF-κB → MAP kinases (TAK1:TAB1:TAB2)",
-"topic": "IKK and NF-κB with the IκBα and A20 loops → MAP kinase cascades and the oxidation of DUSP1",
-"group": "Modules and interfaces",
+"topic": "NF-κB → MAP kinases (TAK1:TAB1:TAB2)",
+"group": "ExposomeMap: modules and interfaces",
 "kind": null,
 "tag": "new",
 "tab": null,
-"image": "files/pair-nfkb-ikk--mapk-dusp1.svg",
+"image": "files/exposome-pair-nfkb-ikk--mapk-dusp1.svg",
 "width": 808.0,
 "height": 120.0,
 "scale": 1,
@@ -475,106 +475,25 @@
 "downloads": [
 {
 "label": "GraphML",
-"url": "files/pair-nfkb-ikk--mapk-dusp1.graphml"
+"url": "files/exposome-pair-nfkb-ikk--mapk-dusp1.graphml"
 },
 {
 "label": "SVG",
-"url": "files/pair-nfkb-ikk--mapk-dusp1.svg"
+"url": "files/exposome-pair-nfkb-ikk--mapk-dusp1.svg"
 }
 ],
-"data": "data/pair-nfkb-ikk--mapk-dusp1-text.json",
+"data": "data/exposome-pair-nfkb-ikk--mapk-dusp1-text.json",
 "hasText": true
 },
 {
-"id": "pair-nfkb-ikk--noise-heart",
-"title": "NF-κB → Heart (noise) (RELA:NFKB1)",
-"topic": "IKK and NF-κB with the IκBα and A20 loops → Noise in the heart: conditioned inflammation and the cardiac synthase",
-"group": "Modules and interfaces",
-"kind": null,
-"tag": "new",
-"tab": null,
-"image": "files/pair-nfkb-ikk--noise-heart.svg",
-"width": 812.0,
-"height": 120.0,
-"scale": 1,
-"annotation": null,
-"imageError": null,
-"downloads": [
-{
-"label": "GraphML",
-"url": "files/pair-nfkb-ikk--noise-heart.graphml"
-},
-{
-"label": "SVG",
-"url": "files/pair-nfkb-ikk--noise-heart.svg"
-}
-],
-"data": "data/pair-nfkb-ikk--noise-heart-text.json",
-"hasText": true
-},
-{
-"id": "pair-noise-hpa--noise-sympathetic",
-"title": "HPA arm → Sympathetic arm (cortisol)",
-"topic": "The HPA arm: from the stress signal to cortisol → The sympathetic arm: catecholamines and the renin route to angiotensin II",
-"group": "Modules and interfaces",
-"kind": null,
-"tag": "new",
-"tab": null,
-"image": "files/pair-noise-hpa--noise-sympathetic.svg",
-"width": 816.0,
-"height": 120.0,
-"scale": 1,
-"annotation": null,
-"imageError": null,
-"downloads": [
-{
-"label": "GraphML",
-"url": "files/pair-noise-hpa--noise-sympathetic.graphml"
-},
-{
-"label": "SVG",
-"url": "files/pair-noise-hpa--noise-sympathetic.svg"
-}
-],
-"data": "data/pair-noise-hpa--noise-sympathetic-text.json",
-"hasText": true
-},
-{
-"id": "pair-noise-sympathetic--noise-brain",
-"title": "Sympathetic arm → Brain (noise) (noradrenaline)",
-"topic": "The sympathetic arm: catecholamines and the renin route to angiotensin II → Noise in the brain: the microglial oxidase and the neuronal synthase",
-"group": "Modules and interfaces",
-"kind": null,
-"tag": "new",
-"tab": null,
-"image": "files/pair-noise-sympathetic--noise-brain.svg",
-"width": 807.0,
-"height": 120.0,
-"scale": 1,
-"annotation": null,
-"imageError": null,
-"downloads": [
-{
-"label": "GraphML",
-"url": "files/pair-noise-sympathetic--noise-brain.graphml"
-},
-{
-"label": "SVG",
-"url": "files/pair-noise-sympathetic--noise-brain.svg"
-}
-],
-"data": "data/pair-noise-sympathetic--noise-brain-text.json",
-"hasText": true
-},
-{
-"id": "pair-redox-nrf2-core--redox-nrf2-glutathione",
+"id": "exposome-pair-redox-nrf2-core--redox-nrf2-glutathione",
 "title": "NRF2 core → Glutathione (NRF2:MAFG)",
-"topic": "KEAP1-NRF2 core: the sensor and the switch → NRF2 targets: glutathione",
-"group": "Modules and interfaces",
+"topic": "NRF2 core → Glutathione (NRF2:MAFG)",
+"group": "ExposomeMap: modules and interfaces",
 "kind": null,
 "tag": "new",
 "tab": null,
-"image": "files/pair-redox-nrf2-core--redox-nrf2-glutathione.svg",
+"image": "files/exposome-pair-redox-nrf2-core--redox-nrf2-glutathione.svg",
 "width": 799.0,
 "height": 120.0,
 "scale": 1,
@@ -583,25 +502,25 @@
 "downloads": [
 {
 "label": "GraphML",
-"url": "files/pair-redox-nrf2-core--redox-nrf2-glutathione.graphml"
+"url": "files/exposome-pair-redox-nrf2-core--redox-nrf2-glutathione.graphml"
 },
 {
 "label": "SVG",
-"url": "files/pair-redox-nrf2-core--redox-nrf2-glutathione.svg"
+"url": "files/exposome-pair-redox-nrf2-core--redox-nrf2-glutathione.svg"
 }
 ],
-"data": "data/pair-redox-nrf2-core--redox-nrf2-glutathione-text.json",
+"data": "data/exposome-pair-redox-nrf2-core--redox-nrf2-glutathione-text.json",
 "hasText": true
 },
 {
-"id": "pair-redox-nrf2-core--redox-nrf2-heme-quinone",
+"id": "exposome-pair-redox-nrf2-core--redox-nrf2-heme-quinone",
 "title": "NRF2 core → Heme, quinone (NRF2:MAFG)",
-"topic": "KEAP1-NRF2 core: the sensor and the switch → NRF2 targets: heme oxygenase, BACH1 and NQO1",
-"group": "Modules and interfaces",
+"topic": "NRF2 core → Heme, quinone (NRF2:MAFG)",
+"group": "ExposomeMap: modules and interfaces",
 "kind": null,
 "tag": "new",
 "tab": null,
-"image": "files/pair-redox-nrf2-core--redox-nrf2-heme-quinone.svg",
+"image": "files/exposome-pair-redox-nrf2-core--redox-nrf2-heme-quinone.svg",
 "width": 799.0,
 "height": 120.0,
 "scale": 1,
@@ -610,25 +529,25 @@
 "downloads": [
 {
 "label": "GraphML",
-"url": "files/pair-redox-nrf2-core--redox-nrf2-heme-quinone.graphml"
+"url": "files/exposome-pair-redox-nrf2-core--redox-nrf2-heme-quinone.graphml"
 },
 {
 "label": "SVG",
-"url": "files/pair-redox-nrf2-core--redox-nrf2-heme-quinone.svg"
+"url": "files/exposome-pair-redox-nrf2-core--redox-nrf2-heme-quinone.svg"
 }
 ],
-"data": "data/pair-redox-nrf2-core--redox-nrf2-heme-quinone-text.json",
+"data": "data/exposome-pair-redox-nrf2-core--redox-nrf2-heme-quinone-text.json",
 "hasText": true
 },
 {
-"id": "pair-tlr4-nox--nfkb-ikk",
+"id": "exposome-pair-tlr4-nox--nfkb-ikk",
 "title": "TLR4 → NF-κB (Myddosome)",
-"topic": "Particle-adsorbed endotoxin to the oxidase kinase → IKK and NF-κB with the IκBα and A20 loops",
-"group": "Modules and interfaces",
+"topic": "TLR4 → NF-κB (Myddosome)",
+"group": "ExposomeMap: modules and interfaces",
 "kind": null,
 "tag": "new",
 "tab": null,
-"image": "files/pair-tlr4-nox--nfkb-ikk.svg",
+"image": "files/exposome-pair-tlr4-nox--nfkb-ikk.svg",
 "width": 808.0,
 "height": 120.0,
 "scale": 1,
@@ -637,25 +556,25 @@
 "downloads": [
 {
 "label": "GraphML",
-"url": "files/pair-tlr4-nox--nfkb-ikk.graphml"
+"url": "files/exposome-pair-tlr4-nox--nfkb-ikk.graphml"
 },
 {
 "label": "SVG",
-"url": "files/pair-tlr4-nox--nfkb-ikk.svg"
+"url": "files/exposome-pair-tlr4-nox--nfkb-ikk.svg"
 }
 ],
-"data": "data/pair-tlr4-nox--nfkb-ikk-text.json",
+"data": "data/exposome-pair-tlr4-nox--nfkb-ikk-text.json",
 "hasText": true
 },
 {
-"id": "pair-tlr4-nox--redox-nox",
+"id": "exposome-pair-tlr4-nox--redox-nox",
 "title": "TLR4 → NADPH oxidase (Myddosome)",
-"topic": "Particle-adsorbed endotoxin to the oxidase kinase → NADPH oxidase assembly and superoxide",
-"group": "Modules and interfaces",
+"topic": "TLR4 → NADPH oxidase (Myddosome)",
+"group": "ExposomeMap: modules and interfaces",
 "kind": null,
 "tag": "new",
 "tab": null,
-"image": "files/pair-tlr4-nox--redox-nox.svg",
+"image": "files/exposome-pair-tlr4-nox--redox-nox.svg",
 "width": 803.0,
 "height": 120.0,
 "scale": 1,
@@ -664,25 +583,25 @@
 "downloads": [
 {
 "label": "GraphML",
-"url": "files/pair-tlr4-nox--redox-nox.graphml"
+"url": "files/exposome-pair-tlr4-nox--redox-nox.graphml"
 },
 {
 "label": "SVG",
-"url": "files/pair-tlr4-nox--redox-nox.svg"
+"url": "files/exposome-pair-tlr4-nox--redox-nox.svg"
 }
 ],
-"data": "data/pair-tlr4-nox--redox-nox-text.json",
+"data": "data/exposome-pair-tlr4-nox--redox-nox-text.json",
 "hasText": true
 },
 {
-"id": "pair-tlr9-irf7-pd--jak-stat-socs",
+"id": "exposome-pair-tlr9-irf7-pd--jak-stat-socs",
 "title": "TLR9 → JAK-STAT (IFN-alpha, IFN-beta)",
-"topic": "TLR9 to type I interferon → JAK-STAT with the SOCS brake",
-"group": "Modules and interfaces",
+"topic": "TLR9 → JAK-STAT (IFN-alpha, IFN-beta)",
+"group": "ExposomeMap: modules and interfaces",
 "kind": null,
 "tag": "new",
 "tab": null,
-"image": "files/pair-tlr9-irf7-pd--jak-stat-socs.svg",
+"image": "files/exposome-pair-tlr9-irf7-pd--jak-stat-socs.svg",
 "width": 803.0,
 "height": 155.0,
 "scale": 1,
@@ -691,25 +610,25 @@
 "downloads": [
 {
 "label": "GraphML",
-"url": "files/pair-tlr9-irf7-pd--jak-stat-socs.graphml"
+"url": "files/exposome-pair-tlr9-irf7-pd--jak-stat-socs.graphml"
 },
 {
 "label": "SVG",
-"url": "files/pair-tlr9-irf7-pd--jak-stat-socs.svg"
+"url": "files/exposome-pair-tlr9-irf7-pd--jak-stat-socs.svg"
 }
 ],
-"data": "data/pair-tlr9-irf7-pd--jak-stat-socs-text.json",
+"data": "data/exposome-pair-tlr9-irf7-pd--jak-stat-socs-text.json",
 "hasText": true
 },
 {
-"id": "pair-tlr9-irf7-pd--nfkb-ikk",
+"id": "exposome-pair-tlr9-irf7-pd--nfkb-ikk",
 "title": "TLR9 → NF-κB (TRAF6)",
-"topic": "TLR9 to type I interferon → IKK and NF-κB with the IκBα and A20 loops",
-"group": "Modules and interfaces",
+"topic": "TLR9 → NF-κB (TRAF6)",
+"group": "ExposomeMap: modules and interfaces",
 "kind": null,
 "tag": "new",
 "tab": null,
-"image": "files/pair-tlr9-irf7-pd--nfkb-ikk.svg",
+"image": "files/exposome-pair-tlr9-irf7-pd--nfkb-ikk.svg",
 "width": 799.0,
 "height": 120.0,
 "scale": 1,
@@ -718,25 +637,52 @@
 "downloads": [
 {
 "label": "GraphML",
-"url": "files/pair-tlr9-irf7-pd--nfkb-ikk.graphml"
+"url": "files/exposome-pair-tlr9-irf7-pd--nfkb-ikk.graphml"
 },
 {
 "label": "SVG",
-"url": "files/pair-tlr9-irf7-pd--nfkb-ikk.svg"
+"url": "files/exposome-pair-tlr9-irf7-pd--nfkb-ikk.svg"
 }
 ],
-"data": "data/pair-tlr9-irf7-pd--nfkb-ikk-text.json",
+"data": "data/exposome-pair-tlr9-irf7-pd--nfkb-ikk-text.json",
 "hasText": true
 },
 {
-"id": "pair-vascular-inflammation--jak-stat-socs",
-"title": "Vascular inflammation → JAK-STAT (IL-6)",
-"topic": "Vascular inflammation: NF-kB, VCAM-1 and the leucocyte that brings its own oxidase → JAK-STAT with the SOCS brake",
-"group": "Modules and interfaces",
+"id": "exposome-pair-vascular-inflammation--inflammasome-nlrp3",
+"title": "Vascular inflammation → Inflammasome (RELA:NFKB1)",
+"topic": "Vascular inflammation → Inflammasome (RELA:NFKB1)",
+"group": "ExposomeMap: modules and interfaces",
 "kind": null,
 "tag": "new",
 "tab": null,
-"image": "files/pair-vascular-inflammation--jak-stat-socs.svg",
+"image": "files/exposome-pair-vascular-inflammation--inflammasome-nlrp3.svg",
+"width": 790.0,
+"height": 120.0,
+"scale": 1,
+"annotation": null,
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/exposome-pair-vascular-inflammation--inflammasome-nlrp3.graphml"
+},
+{
+"label": "SVG",
+"url": "files/exposome-pair-vascular-inflammation--inflammasome-nlrp3.svg"
+}
+],
+"data": "data/exposome-pair-vascular-inflammation--inflammasome-nlrp3-text.json",
+"hasText": true
+},
+{
+"id": "exposome-pair-vascular-inflammation--jak-stat-socs",
+"title": "Vascular inflammation → JAK-STAT (IL-6)",
+"topic": "Vascular inflammation → JAK-STAT (IL-6)",
+"group": "ExposomeMap: modules and interfaces",
+"kind": null,
+"tag": "new",
+"tab": null,
+"image": "files/exposome-pair-vascular-inflammation--jak-stat-socs.svg",
 "width": 803.0,
 "height": 120.0,
 "scale": 1,
@@ -745,14 +691,14 @@
 "downloads": [
 {
 "label": "GraphML",
-"url": "files/pair-vascular-inflammation--jak-stat-socs.graphml"
+"url": "files/exposome-pair-vascular-inflammation--jak-stat-socs.graphml"
 },
 {
 "label": "SVG",
-"url": "files/pair-vascular-inflammation--jak-stat-socs.svg"
+"url": "files/exposome-pair-vascular-inflammation--jak-stat-socs.svg"
 }
 ],
-"data": "data/pair-vascular-inflammation--jak-stat-socs-text.json",
+"data": "data/exposome-pair-vascular-inflammation--jak-stat-socs-text.json",
 "hasText": true
 },
 {
@@ -1266,6 +1212,303 @@
 }
 ],
 "data": "data/noise-clock-text.json",
+"hasText": true
+},
+{
+"id": "noise-interfaces",
+"title": "NoiseMap: all modules and the molecules that connect them",
+"topic": "NoiseMap: all modules and the molecules that connect them",
+"group": "NoiseMap: modules and interfaces",
+"kind": null,
+"tag": "new",
+"tab": null,
+"image": "files/noise-interfaces.svg",
+"width": 1336.0,
+"height": 720.0,
+"scale": 1,
+"annotation": null,
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/noise-interfaces.graphml"
+},
+{
+"label": "SVG",
+"url": "files/noise-interfaces.svg"
+}
+],
+"data": "data/noise-interfaces-text.json",
+"hasText": true
+},
+{
+"id": "noise-interfaces-open",
+"title": "Open sockets and plugs: inputs no module provides, outputs no module takes",
+"topic": "Open sockets and plugs: inputs no module provides, outputs no module takes",
+"group": "NoiseMap: modules and interfaces",
+"kind": null,
+"tag": "draft",
+"tab": null,
+"image": "files/noise-interfaces-open.svg",
+"width": 1705.0,
+"height": 750.0,
+"scale": 1,
+"annotation": null,
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/noise-interfaces-open.graphml"
+},
+{
+"label": "SVG",
+"url": "files/noise-interfaces-open.svg"
+}
+],
+"data": "data/noise-interfaces-open-text.json",
+"hasText": true
+},
+{
+"id": "noise-planned",
+"title": "The planned noise resource: all modules and interfaces (proposal)",
+"topic": "The planned noise resource: all modules and interfaces (proposal)",
+"group": "NoiseMap: modules and interfaces",
+"kind": null,
+"tag": "draft-ext",
+"tab": null,
+"image": "files/noise-planned.svg",
+"width": 2578.0,
+"height": 720.0,
+"scale": 1,
+"annotation": null,
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/noise-planned.graphml"
+},
+{
+"label": "SVG",
+"url": "files/noise-planned.svg"
+}
+],
+"data": "data/noise-planned-text.json",
+"hasText": true
+},
+{
+"id": "noise-pair-noise-hpa--noise-entry",
+"title": "HPA arm → Vessel (noise) (cortisol)",
+"topic": "HPA arm → Vessel (noise) (cortisol)",
+"group": "NoiseMap: modules and interfaces",
+"kind": null,
+"tag": "new",
+"tab": null,
+"image": "files/noise-pair-noise-hpa--noise-entry.svg",
+"width": 816.0,
+"height": 120.0,
+"scale": 1,
+"annotation": null,
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/noise-pair-noise-hpa--noise-entry.graphml"
+},
+{
+"label": "SVG",
+"url": "files/noise-pair-noise-hpa--noise-entry.svg"
+}
+],
+"data": "data/noise-pair-noise-hpa--noise-entry-text.json",
+"hasText": true
+},
+{
+"id": "noise-pair-noise-hpa--noise-sympathetic",
+"title": "HPA arm → Sympathetic arm (cortisol)",
+"topic": "HPA arm → Sympathetic arm (cortisol)",
+"group": "NoiseMap: modules and interfaces",
+"kind": null,
+"tag": "new",
+"tab": null,
+"image": "files/noise-pair-noise-hpa--noise-sympathetic.svg",
+"width": 816.0,
+"height": 120.0,
+"scale": 1,
+"annotation": null,
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/noise-pair-noise-hpa--noise-sympathetic.graphml"
+},
+{
+"label": "SVG",
+"url": "files/noise-pair-noise-hpa--noise-sympathetic.svg"
+}
+],
+"data": "data/noise-pair-noise-hpa--noise-sympathetic-text.json",
+"hasText": true
+},
+{
+"id": "noise-pair-noise-sympathetic--noise-brain",
+"title": "Sympathetic arm → Brain (noise) (noradrenaline)",
+"topic": "Sympathetic arm → Brain (noise) (noradrenaline)",
+"group": "NoiseMap: modules and interfaces",
+"kind": null,
+"tag": "new",
+"tab": null,
+"image": "files/noise-pair-noise-sympathetic--noise-brain.svg",
+"width": 807.0,
+"height": 120.0,
+"scale": 1,
+"annotation": null,
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/noise-pair-noise-sympathetic--noise-brain.graphml"
+},
+{
+"label": "SVG",
+"url": "files/noise-pair-noise-sympathetic--noise-brain.svg"
+}
+],
+"data": "data/noise-pair-noise-sympathetic--noise-brain-text.json",
+"hasText": true
+},
+{
+"id": "noise-pair-noise-sympathetic--noise-entry",
+"title": "Sympathetic arm → Vessel (noise) (adrenaline, angiotensin II, noradrenaline)",
+"topic": "Sympathetic arm → Vessel (noise) (adrenaline, angiotensin II, noradrenaline)",
+"group": "NoiseMap: modules and interfaces",
+"kind": null,
+"tag": "new",
+"tab": null,
+"image": "files/noise-pair-noise-sympathetic--noise-entry.svg",
+"width": 816.0,
+"height": 215.0,
+"scale": 1,
+"annotation": null,
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/noise-pair-noise-sympathetic--noise-entry.graphml"
+},
+{
+"label": "SVG",
+"url": "files/noise-pair-noise-sympathetic--noise-entry.svg"
+}
+],
+"data": "data/noise-pair-noise-sympathetic--noise-entry-text.json",
+"hasText": true
+},
+{
+"id": "noise-pair-redox-nox--noise-brain",
+"title": "NADPH oxidase → Brain (noise) (NOX2 holoenzyme)",
+"topic": "NADPH oxidase → Brain (noise) (NOX2 holoenzyme)",
+"group": "NoiseMap: modules and interfaces",
+"kind": null,
+"tag": "new",
+"tab": null,
+"image": "files/noise-pair-redox-nox--noise-brain.svg",
+"width": 798.0,
+"height": 120.0,
+"scale": 1,
+"annotation": null,
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/noise-pair-redox-nox--noise-brain.graphml"
+},
+{
+"label": "SVG",
+"url": "files/noise-pair-redox-nox--noise-brain.svg"
+}
+],
+"data": "data/noise-pair-redox-nox--noise-brain-text.json",
+"hasText": true
+},
+{
+"id": "noise-pair-redox-nox--noise-entry",
+"title": "NADPH oxidase → Vessel (noise) (NOX2 holoenzyme)",
+"topic": "NADPH oxidase → Vessel (noise) (NOX2 holoenzyme)",
+"group": "NoiseMap: modules and interfaces",
+"kind": null,
+"tag": "new",
+"tab": null,
+"image": "files/noise-pair-redox-nox--noise-entry.svg",
+"width": 807.0,
+"height": 120.0,
+"scale": 1,
+"annotation": null,
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/noise-pair-redox-nox--noise-entry.graphml"
+},
+{
+"label": "SVG",
+"url": "files/noise-pair-redox-nox--noise-entry.svg"
+}
+],
+"data": "data/noise-pair-redox-nox--noise-entry-text.json",
+"hasText": true
+},
+{
+"id": "noise-pair-redox-nox--noise-heart",
+"title": "NADPH oxidase → Heart (noise) (NOX2 holoenzyme)",
+"topic": "NADPH oxidase → Heart (noise) (NOX2 holoenzyme)",
+"group": "NoiseMap: modules and interfaces",
+"kind": null,
+"tag": "new",
+"tab": null,
+"image": "files/noise-pair-redox-nox--noise-heart.svg",
+"width": 807.0,
+"height": 120.0,
+"scale": 1,
+"annotation": null,
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/noise-pair-redox-nox--noise-heart.graphml"
+},
+{
+"label": "SVG",
+"url": "files/noise-pair-redox-nox--noise-heart.svg"
+}
+],
+"data": "data/noise-pair-redox-nox--noise-heart-text.json",
+"hasText": true
+},
+{
+"id": "noise-pair-vascular-inflammation--noise-heart",
+"title": "Vascular inflammation → Heart (noise) (RELA:NFKB1)",
+"topic": "Vascular inflammation → Heart (noise) (RELA:NFKB1)",
+"group": "NoiseMap: modules and interfaces",
+"kind": null,
+"tag": "new",
+"tab": null,
+"image": "files/noise-pair-vascular-inflammation--noise-heart.svg",
+"width": 803.0,
+"height": 120.0,
+"scale": 1,
+"annotation": null,
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/noise-pair-vascular-inflammation--noise-heart.graphml"
+},
+{
+"label": "SVG",
+"url": "files/noise-pair-vascular-inflammation--noise-heart.svg"
+}
+],
+"data": "data/noise-pair-vascular-inflammation--noise-heart-text.json",
 "hasText": true
 }
 ]
