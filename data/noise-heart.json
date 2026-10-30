@@ -1,0 +1,1941 @@
+{
+"nodes": [
+{
+"label": "CCR2",
+"class": "Macromolecule",
+"box": [
+1003.0,
+1135.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"infiltrating monocyte (plasma membrane)"
+],
+[
+"HGNC",
+"HGNC:1603"
+],
+[
+"HGNC symbol",
+"CCR2"
+],
+[
+"Previous symbols",
+"CMKBR2"
+],
+[
+"Alias symbols",
+"CC-CKR-2, CKR2, MCP-1-R, CD192, FLJ78302"
+],
+[
+"Entrez",
+"729230"
+],
+[
+"Ensembl",
+"ENSG00000121807"
+],
+[
+"RefSeq",
+"NM_000647"
+],
+[
+"UniProt",
+"P41597"
+]
+]
+},
+{
+"label": "CCL2:CCR2",
+"class": "Complex",
+"box": [
+1347.0,
+1108.8,
+192.0,
+92.5
+],
+"props": [
+[
+"Compartment",
+"infiltrating monocyte (plasma membrane)"
+]
+]
+},
+{
+"label": "CCL2",
+"class": "Macromolecule",
+"box": [
+1359.0,
+1124.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"infiltrating monocyte (plasma membrane)"
+],
+[
+"HGNC",
+"HGNC:10618"
+],
+[
+"HGNC symbol",
+"CCL2"
+],
+[
+"Previous symbols",
+"SCYA2"
+],
+[
+"Alias symbols",
+"MCP1, MCP-1, MCAF, SMC-CF, GDCF-2, HC11, MGC9434"
+],
+[
+"Entrez",
+"6347"
+],
+[
+"Ensembl",
+"ENSG00000108691"
+],
+[
+"RefSeq",
+"NM_002982"
+],
+[
+"UniProt",
+"P13500"
+]
+]
+},
+{
+"label": "CCR2",
+"class": "Macromolecule",
+"box": [
+1447.0,
+1124.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"infiltrating monocyte (plasma membrane)"
+],
+[
+"HGNC",
+"HGNC:1603"
+],
+[
+"HGNC symbol",
+"CCR2"
+],
+[
+"Previous symbols",
+"CMKBR2"
+],
+[
+"Alias symbols",
+"CC-CKR-2, CKR2, MCP-1-R, CD192, FLJ78302"
+],
+[
+"Entrez",
+"729230"
+],
+[
+"Ensembl",
+"ENSG00000121807"
+],
+[
+"RefSeq",
+"NM_000647"
+],
+[
+"UniProt",
+"P41597"
+]
+]
+},
+{
+"label": "NOX2 holoenzyme",
+"class": "Complex",
+"box": [
+1608.0,
+1285.0,
+150.0,
+60.0
+],
+"props": [
+[
+"Compartment",
+"infiltrating monocyte (plasma membrane)"
+]
+]
+},
+{
+"label": "NADPH",
+"class": "SimpleChemical",
+"box": [
+1583.0,
+975.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"infiltrating monocyte"
+],
+[
+"Full name",
+"NADPH"
+],
+[
+"Synonyms",
+"2'-O-phosphonoadenosine 5'-{3-[1-(3-carbamoyl-1,4-dihydropyridin-1-yl)-1,4-anhydro-D-ribitol-5-yl] dihydrogen diphosphate}; NADPH DIHYDRO-NICOTINAMIDE-ADENINE-DINUCLEOTIDE PHOSPHATE; Reduced nicotinamide adenine dinucleotide phosphate; TPNH; dihydronicotinamide-adenine dinucleotide phosphate; reduced nicotinamide-adenine dinucleotide phosphate"
+],
+[
+"Definition",
+"The reduced form of NADP+; used in anabolic reactions, such as lipid and nucleic acid synthesis, which require NADPH as a reducing agent."
+],
+[
+"Formula",
+"C21H30N7O17P3"
+],
+[
+"ChEBI",
+"CHEBI:16474"
+],
+[
+"KEGG",
+"C00005"
+],
+[
+"HMDB",
+"HMDB0000221"
+],
+[
+"InChI",
+"InChI=1S/C21H30N7O17P3/c22-17-12-19(25-7-24-17)28(8-26-12)21-16(44-46(33,34)35)14(30)11(43-21)6-41-48(38,39)45-47(36,37)40-5-10-13(29)15(31)20(42-10)27-3-1-2-9(4-27)18(23)32/h1,3-4,7-8,10-11,13-16,20-21,29-31H,2,5-6H2,(H2,23,32)(H,36,37)(H,38,39)(H2,22,24,25)(H2,33,34,35)/t10-,11-,13-,14-,15-,16-,20-,21-/m1/s1"
+],
+[
+"InChIKey",
+"ACFIXJIJDZMPPO-NNYOXOHSSA-N"
+]
+]
+},
+{
+"label": "NADP+",
+"class": "SimpleChemical",
+"box": [
+1743.0,
+975.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"infiltrating monocyte"
+],
+[
+"Full name",
+"NADP(+)"
+],
+[
+"Synonyms",
+"2'-O-phosphonoadenosine 5'-{3-[1-(3-carbamoylpyridinio)-1,4-anhydro-D-ribitol-5-yl] dihydrogen diphosphate}; NADP; NADP+; Nicotinamide adenine dinucleotide phosphate; TPN; Triphosphopyridine nucleotide; beta-Nicotinamide adenine dinucleotide phosphate; oxidized nicotinamide-adenine dinucleotide phosphate"
+],
+[
+"Formula",
+"C21H29N7O17P3"
+],
+[
+"ChEBI",
+"CHEBI:18009"
+],
+[
+"KEGG",
+"C00006"
+],
+[
+"InChI",
+"InChI=1S/C21H28N7O17P3/c22-17-12-19(25-7-24-17)28(8-26-12)21-16(44-46(33,34)35)14(30)11(43-21)6-41-48(38,39)45-47(36,37)40-5-10-13(29)15(31)20(42-10)27-3-1-2-9(4-27)18(23)32/h1-4,7-8,10-11,13-16,20-21,29-31H,5-6H2,(H7-,22,23,24,25,32,33,34,35,36,37,38,39)/p+1/t10-,11-,13-,14-,15-,16-,20-,21-/m1/s1"
+],
+[
+"InChIKey",
+"XJLXINKUBYWONI-NNYOXOHSSA-O"
+]
+]
+},
+{
+"label": "O2",
+"class": "SimpleChemical",
+"box": [
+1663.0,
+975.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"infiltrating monocyte"
+],
+[
+"Full name",
+"dioxygen"
+],
+[
+"Synonyms",
+"Disauerstoff; E 948; E-948; E948; O(2); O2; OXYGEN MOLECULE; Oxygen; [OO]; dioxygene; molecular oxygen"
+],
+[
+"Formula",
+"O2"
+],
+[
+"ChEBI",
+"CHEBI:15379"
+],
+[
+"KEGG",
+"C00007"
+],
+[
+"HMDB",
+"HMDB0001377"
+],
+[
+"InChI",
+"InChI=1S/O2/c1-2"
+],
+[
+"InChIKey",
+"MYMOFIZGZYHOMD-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "O2.-",
+"class": "SimpleChemical",
+"box": [
+1843.0,
+1135.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"infiltrating monocyte"
+],
+[
+"Full name",
+"superoxide"
+],
+[
+"Synonyms",
+"(O2)(.-); Dioxid(1-); Hyperoxid; O2(-); O2(.-); O2-; O2.-; Superoxide anion; dioxidanidyl; dioxide(.1-); dioxide(1-); hiperoxido; hyperoxide; superoxide anion radical; superoxide radical; superoxide radical anion; superoxido; superoxyde"
+],
+[
+"Formula",
+"O2"
+],
+[
+"ChEBI",
+"CHEBI:18421"
+],
+[
+"KEGG",
+"C00704"
+],
+[
+"HMDB",
+"HMDB0002168"
+],
+[
+"InChI",
+"InChI=1S/HO2/c1-2/h1H/p-1"
+],
+[
+"InChIKey",
+"OUUQCZGPVNCOIJ-UHFFFAOYSA-M"
+]
+]
+},
+{
+"label": "pro-IL-1b",
+"class": "Macromolecule",
+"box": [
+1223.0,
+1455.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"infiltrating monocyte"
+],
+[
+"Full name",
+"Interleukin-1 beta"
+],
+[
+"Alternative names",
+"Catabolin"
+],
+[
+"Function",
+"Potent pro-inflammatory cytokine. Initially discovered as the major endogenous pyrogen, induces prostaglandin synthesis, neutrophil influx and activation, T-cell activation and cytokine production, B-cell activation and antibody production, and fibroblast proliferation and collagen production."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Secreted, Lysosome, Secreted, extracellular exosome"
+],
+[
+"HGNC",
+"HGNC:5992"
+],
+[
+"HGNC symbol",
+"IL1B"
+],
+[
+"Alias symbols",
+"IL1F2, IL-1B, IL1-BETA"
+],
+[
+"Entrez",
+"3553"
+],
+[
+"Ensembl",
+"ENSG00000125538"
+],
+[
+"RefSeq",
+"NM_000576"
+],
+[
+"UniProt",
+"P01584"
+]
+]
+},
+{
+"label": "CASP1",
+"class": "Macromolecule",
+"box": [
+1403.0,
+1595.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"infiltrating monocyte"
+],
+[
+"Full name",
+"Caspase-1"
+],
+[
+"Alternative names",
+"Interleukin-1 beta convertase; Interleukin-1 beta-converting enzyme; p45"
+],
+[
+"Function",
+"Thiol protease involved in a variety of inflammatory processes by proteolytically cleaving other proteins, such as the precursors of the inflammatory cytokines interleukin-1 beta (IL1B) and interleukin 18 (IL18) as well as the pyroptosis inducer Gasdermin-D (GSDMD), into active mature peptides. Plays a key role in cell immunity as an inflammatory response initiator: once activated through formation of an inflammasome complex, it initiates a pro-inflammatory response through the cleavage of the two inflammatory cytokines IL1B and IL18, releasing the mature cytokines which are involved in a variety of inflammatory processes."
+],
+[
+"Location",
+"Cytoplasm, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:1499"
+],
+[
+"HGNC symbol",
+"CASP1"
+],
+[
+"Previous symbols",
+"IL1BC"
+],
+[
+"Alias symbols",
+"ICE"
+],
+[
+"Entrez",
+"834"
+],
+[
+"Ensembl",
+"ENSG00000137752"
+],
+[
+"RefSeq",
+"NM_033292"
+],
+[
+"UniProt",
+"P29466"
+]
+]
+},
+{
+"label": "IL-1b",
+"class": "Macromolecule",
+"box": [
+1583.0,
+1455.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"infiltrating monocyte"
+],
+[
+"Full name",
+"Interleukin-1 beta"
+],
+[
+"Alternative names",
+"Catabolin"
+],
+[
+"Function",
+"Potent pro-inflammatory cytokine. Initially discovered as the major endogenous pyrogen, induces prostaglandin synthesis, neutrophil influx and activation, T-cell activation and cytokine production, B-cell activation and antibody production, and fibroblast proliferation and collagen production."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Secreted, Lysosome, Secreted, extracellular exosome"
+],
+[
+"HGNC",
+"HGNC:5992"
+],
+[
+"HGNC symbol",
+"IL1B"
+],
+[
+"Alias symbols",
+"IL1F2, IL-1B, IL1-BETA"
+],
+[
+"Entrez",
+"3553"
+],
+[
+"Ensembl",
+"ENSG00000125538"
+],
+[
+"RefSeq",
+"NM_000576"
+],
+[
+"UniProt",
+"P01584"
+]
+]
+},
+{
+"id": "l82uamre",
+"label": "",
+"class": "Process",
+"box": [
+1211.0,
+1143.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"CCL2",
+"CCR2"
+],
+"out": [
+"CCL2:CCR2"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Boring L et al.",
+"year": "1998",
+"title": "Decreased lesion formation in CCR2-/- mice reveals a role for chemokines in the initiation of atherosclerosis.",
+"journal": "Nature",
+"db": "pubmed",
+"id": "9732872"
+},
+{
+"authors": "Molitor M et al.",
+"year": "2023",
+"title": "Aircraft noise exposure induces pro-inflammatory vascular conditioning and amplifies vascular dysfunction and impairment of cardiac function after myocardial infarction.",
+"journal": "Cardiovasc Res",
+"db": "pubmed",
+"id": "36702626"
+}
+]
+},
+{
+"id": "v3unnu5t",
+"label": "",
+"class": "Process",
+"box": [
+1671.0,
+1143.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"NADPH",
+"O2"
+],
+"out": [
+"NADP+",
+"O2.-"
+],
+"by": [
+"NOX2 holoenzyme",
+"CCL2:CCR2"
+]
+},
+"references": [
+{
+"authors": "Molitor M et al.",
+"year": "2023",
+"title": "Aircraft noise exposure induces pro-inflammatory vascular conditioning and amplifies vascular dysfunction and impairment of cardiac function after myocardial infarction.",
+"journal": "Cardiovasc Res",
+"db": "pubmed",
+"id": "36702626"
+},
+{
+"authors": "Münzel T et al.",
+"journal": "Eur Heart J",
+"title": "Effects of noise on vascular function, oxidative stress, and inflammation: mechanistic insight from studies in mice.",
+"year": "2017",
+"db": "pubmed",
+"id": "28329261"
+}
+]
+},
+{
+"id": "ym9194sq",
+"label": "",
+"class": "Process",
+"box": [
+1431.0,
+1463.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"pro-IL-1b"
+],
+"out": [
+"IL-1b"
+],
+"by": [
+"CASP1"
+]
+},
+"references": [
+{
+"authors": "Martinon F et al.",
+"year": "2002",
+"title": "The inflammasome: a molecular platform triggering activation of inflammatory caspases and processing of proIL-beta.",
+"journal": "Mol Cell",
+"db": "pubmed",
+"id": "12191486"
+},
+{
+"authors": "Molitor M et al.",
+"year": "2023",
+"title": "Aircraft noise exposure induces pro-inflammatory vascular conditioning and amplifies vascular dysfunction and impairment of cardiac function after myocardial infarction.",
+"journal": "Cardiovasc Res",
+"db": "pubmed",
+"id": "36702626"
+}
+]
+},
+{
+"label": "RELA:NFKB1",
+"class": "Complex",
+"box": [
+47.0,
+48.8,
+192.0,
+92.5
+],
+"props": [
+[
+"Compartment",
+"myocardium"
+]
+]
+},
+{
+"label": "RELA",
+"class": "Macromolecule",
+"box": [
+59.0,
+64.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"myocardium"
+],
+[
+"Full name",
+"Transcription factor p65"
+],
+[
+"Alternative names",
+"Nuclear factor NF-kappa-B p65 subunit; Nuclear factor of kappa light polypeptide gene enhancer in B-cells 3"
+],
+[
+"Function",
+"NF-kappa-B is a pleiotropic transcription factor present in almost all cell types and is the endpoint of a series of signal transduction events that are initiated by a vast array of stimuli related to many biological processes such as inflammation, immunity, differentiation, cell growth, tumorigenesis and apoptosis. NF-kappa-B is a homo- or heterodimeric complex formed by the Rel-like domain-containing proteins RELA/p65, RELB, NFKB1/p105, NFKB1/p50, REL and NFKB2/p52."
+],
+[
+"Location",
+"Nucleus, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:9955"
+],
+[
+"HGNC symbol",
+"RELA"
+],
+[
+"Previous symbols",
+"NFKB3"
+],
+[
+"Alias symbols",
+"p65"
+],
+[
+"Entrez",
+"5970"
+],
+[
+"Ensembl",
+"ENSG00000173039"
+],
+[
+"RefSeq",
+"NM_021975"
+],
+[
+"UniProt",
+"Q04206"
+]
+]
+},
+{
+"label": "NFKB1",
+"class": "Macromolecule",
+"box": [
+147.0,
+64.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"myocardium"
+],
+[
+"Full name",
+"Nuclear factor NF-kappa-B p105 subunit"
+],
+[
+"Alternative names",
+"DNA-binding factor KBF1; EBP-1; Nuclear factor of kappa light polypeptide gene enhancer in B-cells 1"
+],
+[
+"Function",
+"NF-kappa-B is a pleiotropic transcription factor present in almost all cell types and is the endpoint of a series of signal transduction events that are initiated by a vast array of stimuli related to many biological processes such as inflammation, immunity, differentiation, cell growth, tumorigenesis and apoptosis. NF-kappa-B is a homo- or heterodimeric complex formed by the Rel-like domain-containing proteins RELA/p65, RELB, NFKB1/p105, NFKB1/p50, REL and NFKB2/p52 and the heterodimeric p65-p50 complex appears to be most abundant one."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:7794"
+],
+[
+"HGNC symbol",
+"NFKB1"
+],
+[
+"Alias symbols",
+"KBF1, p105, NFKB-p50, p50, NF-kappaB, NFkappaB, NF-kB1"
+],
+[
+"Entrez",
+"4790"
+],
+[
+"Ensembl",
+"ENSG00000109320"
+],
+[
+"RefSeq",
+"NM_003998"
+],
+[
+"UniProt",
+"P19838"
+]
+]
+},
+{
+"label": "CCL2",
+"class": "NucleicAcidFeature",
+"box": [
+363.0,
+195.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"myocardium"
+],
+[
+"HGNC",
+"HGNC:10618"
+],
+[
+"HGNC symbol",
+"CCL2"
+],
+[
+"Previous symbols",
+"SCYA2"
+],
+[
+"Alias symbols",
+"MCP1, MCP-1, MCAF, SMC-CF, GDCF-2, HC11, MGC9434"
+],
+[
+"Entrez",
+"6347"
+],
+[
+"Ensembl",
+"ENSG00000108691"
+],
+[
+"RefSeq",
+"NM_002982"
+],
+[
+"UniProt",
+"P13500"
+]
+]
+},
+{
+"label": "AND",
+"class": "Operator",
+"box": [
+508.0,
+200.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"myocardium"
+]
+]
+},
+{
+"label": "",
+"class": "EmptySet",
+"box": [
+388.0,
+80.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"myocardium"
+]
+]
+},
+{
+"label": "CCL2",
+"class": "NucleicAcidFeature",
+"box": [
+623.0,
+75.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"myocardium"
+],
+[
+"HGNC",
+"HGNC:10618"
+],
+[
+"HGNC symbol",
+"CCL2"
+],
+[
+"Previous symbols",
+"SCYA2"
+],
+[
+"Alias symbols",
+"MCP1, MCP-1, MCAF, SMC-CF, GDCF-2, HC11, MGC9434"
+],
+[
+"Entrez",
+"6347"
+],
+[
+"Ensembl",
+"ENSG00000108691"
+],
+[
+"RefSeq",
+"NM_002982"
+],
+[
+"UniProt",
+"P13500"
+]
+]
+},
+{
+"label": "CCL2",
+"class": "NucleicAcidFeature",
+"box": [
+903.0,
+75.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"myocardium"
+],
+[
+"HGNC",
+"HGNC:10618"
+],
+[
+"HGNC symbol",
+"CCL2"
+],
+[
+"Previous symbols",
+"SCYA2"
+],
+[
+"Alias symbols",
+"MCP1, MCP-1, MCAF, SMC-CF, GDCF-2, HC11, MGC9434"
+],
+[
+"Entrez",
+"6347"
+],
+[
+"Ensembl",
+"ENSG00000108691"
+],
+[
+"RefSeq",
+"NM_002982"
+],
+[
+"UniProt",
+"P13500"
+]
+]
+},
+{
+"label": "",
+"class": "EmptySet",
+"box": [
+1068.0,
+200.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"myocardium"
+]
+]
+},
+{
+"label": "CCL2",
+"class": "Macromolecule",
+"box": [
+1183.0,
+75.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"myocardium"
+],
+[
+"HGNC",
+"HGNC:10618"
+],
+[
+"HGNC symbol",
+"CCL2"
+],
+[
+"Previous symbols",
+"SCYA2"
+],
+[
+"Alias symbols",
+"MCP1, MCP-1, MCAF, SMC-CF, GDCF-2, HC11, MGC9434"
+],
+[
+"Entrez",
+"6347"
+],
+[
+"Ensembl",
+"ENSG00000108691"
+],
+[
+"RefSeq",
+"NM_002982"
+],
+[
+"UniProt",
+"P13500"
+]
+]
+},
+{
+"label": "NOS3",
+"class": "Macromolecule",
+"box": [
+103.0,
+475.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"myocardium"
+],
+[
+"Full name",
+"Nitric oxide synthase 3"
+],
+[
+"Alternative names",
+"Constitutive NOS; EC-NOS; NOS type III; Nitric oxide synthase, endothelial"
+],
+[
+"Function",
+"Produces nitric oxide (NO) which is implicated in vascular smooth muscle relaxation through a cGMP-mediated signal transduction pathway. NO mediates vascular endothelial growth factor (VEGF)-induced angiogenesis in coronary vessels and promotes blood clotting through the activation of platelets"
+],
+[
+"Location",
+"Cell membrane, Membrane, caveola, Cytoplasm, cytoskeleton, Golgi apparatus"
+],
+[
+"HGNC",
+"HGNC:7876"
+],
+[
+"HGNC symbol",
+"NOS3"
+],
+[
+"Alias symbols",
+"ECNOS, eNOS"
+],
+[
+"Entrez",
+"4846"
+],
+[
+"Ensembl",
+"ENSG00000164867"
+],
+[
+"RefSeq",
+"NM_000603"
+],
+[
+"UniProt",
+"P29474"
+]
+]
+},
+{
+"label": "NOS3",
+"class": "Macromolecule",
+"box": [
+463.0,
+475.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"myocardium"
+],
+[
+"PTM",
+"G at Cys689"
+],
+[
+"Full name",
+"Nitric oxide synthase 3"
+],
+[
+"Alternative names",
+"Constitutive NOS; EC-NOS; NOS type III; Nitric oxide synthase, endothelial"
+],
+[
+"Function",
+"Produces nitric oxide (NO) which is implicated in vascular smooth muscle relaxation through a cGMP-mediated signal transduction pathway. NO mediates vascular endothelial growth factor (VEGF)-induced angiogenesis in coronary vessels and promotes blood clotting through the activation of platelets"
+],
+[
+"Location",
+"Cell membrane, Membrane, caveola, Cytoplasm, cytoskeleton, Golgi apparatus"
+],
+[
+"HGNC",
+"HGNC:7876"
+],
+[
+"HGNC symbol",
+"NOS3"
+],
+[
+"Alias symbols",
+"ECNOS, eNOS"
+],
+[
+"Entrez",
+"4846"
+],
+[
+"Ensembl",
+"ENSG00000164867"
+],
+[
+"RefSeq",
+"NM_000603"
+],
+[
+"UniProt",
+"P29474"
+]
+]
+},
+{
+"label": "GSSG",
+"class": "SimpleChemical",
+"box": [
+163.0,
+635.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"myocardium"
+],
+[
+"Full name",
+"glutathione disulfide"
+],
+[
+"Synonyms",
+"(2S,2'S)-5,5'-[disulfanediylbis({(2R)-3-[(carboxymethyl)amino]-3-oxopropane-1,2-diyl}imino)]bis(2-amino-5-oxopentanoic acid); GSSG; OXIDIZED GLUTATHIONE DISULFIDE; Oxidized glutathione; Oxiglutatione; glutathione disulphide; oxidised glutathione"
+],
+[
+"Formula",
+"C20H32N6O12S2"
+],
+[
+"ChEBI",
+"CHEBI:17858"
+],
+[
+"KEGG",
+"C00127"
+],
+[
+"InChI",
+"InChI=1S/C20H32N6O12S2/c21-9(19(35)36)1-3-13(27)25-11(17(33)23-5-15(29)30)7-39-40-8-12(18(34)24-6-16(31)32)26-14(28)4-2-10(22)20(37)38/h9-12H,1-8,21-22H2,(H,23,33)(H,24,34)(H,25,27)(H,26,28)(H,29,30)(H,31,32)(H,35,36)(H,37,38)/t9-,10-,11-,12-/m0/s1"
+],
+[
+"InChIKey",
+"YPZRWBKMTBYPTK-BJDJZHNGSA-N"
+]
+]
+},
+{
+"label": "GSH",
+"class": "SimpleChemical",
+"box": [
+403.0,
+635.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"myocardium"
+],
+[
+"Full name",
+"glutathione"
+],
+[
+"Synonyms",
+"5-L-Glutamyl-L-cysteinylglycine; GSH; Glutathione-SH; L-gamma-glutamyl-L-cysteinylglycine; N-(N-gamma-L-Glutamyl-L-cysteinyl)glycine; Reduced glutathione; gamma-L-Glutamyl-L-cysteinyl-glycine"
+],
+[
+"Definition",
+"A tripeptide compound consisting of glutamic acid attached via its side chain to the N-terminus of cysteinylglycine."
+],
+[
+"Formula",
+"C10H17N3O6S"
+],
+[
+"ChEBI",
+"CHEBI:16856"
+],
+[
+"KEGG",
+"C00051"
+],
+[
+"HMDB",
+"HMDB0000125"
+],
+[
+"InChI",
+"InChI=1S/C10H17N3O6S/c11-5(10(18)19)1-2-7(14)13-6(4-20)9(17)12-3-8(15)16/h5-6,20H,1-4,11H2,(H,12,17)(H,13,14)(H,15,16)(H,18,19)/t5-,6-/m0/s1"
+],
+[
+"InChIKey",
+"RWSXRVCMGQZWBV-WDSKDSINSA-N"
+]
+]
+},
+{
+"label": "NADPH",
+"class": "SimpleChemical",
+"box": [
+583.0,
+635.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"myocardium"
+],
+[
+"Full name",
+"NADPH"
+],
+[
+"Synonyms",
+"2'-O-phosphonoadenosine 5'-{3-[1-(3-carbamoyl-1,4-dihydropyridin-1-yl)-1,4-anhydro-D-ribitol-5-yl] dihydrogen diphosphate}; NADPH DIHYDRO-NICOTINAMIDE-ADENINE-DINUCLEOTIDE PHOSPHATE; Reduced nicotinamide adenine dinucleotide phosphate; TPNH; dihydronicotinamide-adenine dinucleotide phosphate; reduced nicotinamide-adenine dinucleotide phosphate"
+],
+[
+"Definition",
+"The reduced form of NADP+; used in anabolic reactions, such as lipid and nucleic acid synthesis, which require NADPH as a reducing agent."
+],
+[
+"Formula",
+"C21H30N7O17P3"
+],
+[
+"ChEBI",
+"CHEBI:16474"
+],
+[
+"KEGG",
+"C00005"
+],
+[
+"HMDB",
+"HMDB0000221"
+],
+[
+"InChI",
+"InChI=1S/C21H30N7O17P3/c22-17-12-19(25-7-24-17)28(8-26-12)21-16(44-46(33,34)35)14(30)11(43-21)6-41-48(38,39)45-47(36,37)40-5-10-13(29)15(31)20(42-10)27-3-1-2-9(4-27)18(23)32/h1,3-4,7-8,10-11,13-16,20-21,29-31H,2,5-6H2,(H2,23,32)(H,36,37)(H,38,39)(H2,22,24,25)(H2,33,34,35)/t10-,11-,13-,14-,15-,16-,20-,21-/m1/s1"
+],
+[
+"InChIKey",
+"ACFIXJIJDZMPPO-NNYOXOHSSA-N"
+]
+]
+},
+{
+"label": "NADP+",
+"class": "SimpleChemical",
+"box": [
+743.0,
+635.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"myocardium"
+],
+[
+"Full name",
+"NADP(+)"
+],
+[
+"Synonyms",
+"2'-O-phosphonoadenosine 5'-{3-[1-(3-carbamoylpyridinio)-1,4-anhydro-D-ribitol-5-yl] dihydrogen diphosphate}; NADP; NADP+; Nicotinamide adenine dinucleotide phosphate; TPN; Triphosphopyridine nucleotide; beta-Nicotinamide adenine dinucleotide phosphate; oxidized nicotinamide-adenine dinucleotide phosphate"
+],
+[
+"Formula",
+"C21H29N7O17P3"
+],
+[
+"ChEBI",
+"CHEBI:18009"
+],
+[
+"KEGG",
+"C00006"
+],
+[
+"InChI",
+"InChI=1S/C21H28N7O17P3/c22-17-12-19(25-7-24-17)28(8-26-12)21-16(44-46(33,34)35)14(30)11(43-21)6-41-48(38,39)45-47(36,37)40-5-10-13(29)15(31)20(42-10)27-3-1-2-9(4-27)18(23)32/h1-4,7-8,10-11,13-16,20-21,29-31H,5-6H2,(H7-,22,23,24,25,32,33,34,35,36,37,38,39)/p+1/t10-,11-,13-,14-,15-,16-,20-,21-/m1/s1"
+],
+[
+"InChIKey",
+"XJLXINKUBYWONI-NNYOXOHSSA-O"
+]
+]
+},
+{
+"label": "O2",
+"class": "SimpleChemical",
+"box": [
+663.0,
+635.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"myocardium"
+],
+[
+"Full name",
+"dioxygen"
+],
+[
+"Synonyms",
+"Disauerstoff; E 948; E-948; E948; O(2); O2; OXYGEN MOLECULE; Oxygen; [OO]; dioxygene; molecular oxygen"
+],
+[
+"Formula",
+"O2"
+],
+[
+"ChEBI",
+"CHEBI:15379"
+],
+[
+"KEGG",
+"C00007"
+],
+[
+"HMDB",
+"HMDB0001377"
+],
+[
+"InChI",
+"InChI=1S/O2/c1-2"
+],
+[
+"InChIKey",
+"MYMOFIZGZYHOMD-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "O2.-",
+"class": "SimpleChemical",
+"box": [
+843.0,
+475.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"myocardium"
+],
+[
+"Full name",
+"superoxide"
+],
+[
+"Synonyms",
+"(O2)(.-); Dioxid(1-); Hyperoxid; O2(-); O2(.-); O2-; O2.-; Superoxide anion; dioxidanidyl; dioxide(.1-); dioxide(1-); hiperoxido; hyperoxide; superoxide anion radical; superoxide radical; superoxide radical anion; superoxido; superoxyde"
+],
+[
+"Formula",
+"O2"
+],
+[
+"ChEBI",
+"CHEBI:18421"
+],
+[
+"KEGG",
+"C00704"
+],
+[
+"HMDB",
+"HMDB0002168"
+],
+[
+"InChI",
+"InChI=1S/HO2/c1-2/h1H/p-1"
+],
+[
+"InChIKey",
+"OUUQCZGPVNCOIJ-UHFFFAOYSA-M"
+]
+]
+},
+{
+"label": "NO",
+"class": "SimpleChemical",
+"box": [
+1003.0,
+335.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"myocardium"
+],
+[
+"Full name",
+"nitric oxide"
+],
+[
+"Synonyms",
+"(.)NO; (NO)(.); EDRF; NO; NO(.); Nitrogen monoxide; Stickstoff(II)-oxid; Stickstoffmonoxid; [NO]; endothelium-derived relaxing factor; mononitrogen monoxide; monoxido de nitrogeno; monoxyde d'azote; nitrogen monooxide; nitrosyl; oxido de nitrogeno(II); oxido nitrico; oxidonitrogen(.); oxoazanyl; oxyde azotique; oxyde nitrique"
+],
+[
+"Definition",
+"A nitrogen oxide which is a free radical, each molecule of which consists of one nitrogen and one oxygen atom."
+],
+[
+"Formula",
+"NO"
+],
+[
+"ChEBI",
+"CHEBI:16480"
+],
+[
+"KEGG",
+"C00533"
+],
+[
+"InChI",
+"InChI=1S/NO/c1-2"
+],
+[
+"InChIKey",
+"MWUXSHHQAYIFBG-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "ONOO-",
+"class": "SimpleChemical",
+"box": [
+1143.0,
+475.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"myocardium"
+],
+[
+"Full name",
+"peroxynitrite"
+],
+[
+"Synonyms",
+"[NO(OO)](-); azoperoxoite; oxidoperoxidonitrate(1-)"
+],
+[
+"Definition",
+"The nitrogen oxoanion formed by loss of a proton from peroxynitrous acid."
+],
+[
+"Formula",
+"NO3"
+],
+[
+"ChEBI",
+"CHEBI:25941"
+],
+[
+"KEGG",
+"C16845"
+],
+[
+"InChI",
+"InChI=1S/HNO3/c2-1-4-3/h3H/p-1"
+],
+[
+"InChIKey",
+"CMFNMSMUKZHDEY-UHFFFAOYSA-M"
+]
+]
+},
+{
+"label": "protein",
+"class": "Macromolecule",
+"box": [
+1283.0,
+635.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"myocardium"
+]
+]
+},
+{
+"label": "protein",
+"class": "Macromolecule",
+"box": [
+1443.0,
+475.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"myocardium"
+]
+]
+},
+{
+"id": "kx11m7ub",
+"label": "",
+"class": "Process",
+"box": [
+291.0,
+483.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"NOS3",
+"GSSG"
+],
+"out": [
+"NOS3",
+"GSH"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Münzel T et al.",
+"journal": "Eur Heart J",
+"title": "Effects of noise on vascular function, oxidative stress, and inflammation: mechanistic insight from studies in mice.",
+"year": "2017",
+"db": "pubmed",
+"id": "28329261"
+},
+{
+"authors": "Chen CA et al.",
+"journal": "Nature",
+"title": "S-glutathionylation uncouples eNOS and regulates its cellular and vascular function.",
+"year": "2010",
+"db": "pubmed",
+"id": "21179168"
+}
+]
+},
+{
+"id": "znpuv9x9",
+"label": "",
+"class": "Process",
+"box": [
+671.0,
+483.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"NADPH",
+"O2"
+],
+"out": [
+"NADP+",
+"O2.-"
+],
+"by": [
+"NOS3"
+]
+},
+"references": [
+{
+"authors": "Chen CA et al.",
+"journal": "Nature",
+"title": "S-glutathionylation uncouples eNOS and regulates its cellular and vascular function.",
+"year": "2010",
+"db": "pubmed",
+"id": "21179168"
+},
+{
+"authors": "Münzel T et al.",
+"journal": "Eur Heart J",
+"title": "Effects of noise on vascular function, oxidative stress, and inflammation: mechanistic insight from studies in mice.",
+"year": "2017",
+"db": "pubmed",
+"id": "28329261"
+}
+]
+},
+{
+"id": "gujys7if",
+"label": "",
+"class": "Process",
+"box": [
+1011.0,
+483.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"NO",
+"O2.-"
+],
+"out": [
+"ONOO-"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Kuzkaya N et al.",
+"journal": "J Biol Chem",
+"title": "Interactions of peroxynitrite, tetrahydrobiopterin, ascorbic acid, and thiols: implications for uncoupling endothelial nitric-oxide synthase.",
+"year": "2003",
+"db": "pubmed",
+"id": "12692136"
+},
+{
+"authors": "Münzel T et al.",
+"journal": "Eur Heart J",
+"title": "Effects of noise on vascular function, oxidative stress, and inflammation: mechanistic insight from studies in mice.",
+"year": "2017",
+"db": "pubmed",
+"id": "28329261"
+}
+]
+},
+{
+"id": "sdhtopra",
+"label": "",
+"class": "Process",
+"box": [
+1311.0,
+483.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"ONOO-",
+"protein"
+],
+"out": [
+"protein"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Münzel T et al.",
+"journal": "Eur Heart J",
+"title": "Effects of noise on vascular function, oxidative stress, and inflammation: mechanistic insight from studies in mice.",
+"year": "2017",
+"db": "pubmed",
+"id": "28329261"
+}
+]
+},
+{
+"id": "kuuk0h7y",
+"label": "",
+"class": "Process",
+"box": [
+511.0,
+83.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+""
+],
+"out": [
+"CCL2"
+],
+"by": [
+"AND"
+]
+},
+"references": [
+{
+"authors": "Molitor M et al.",
+"year": "2023",
+"title": "Aircraft noise exposure induces pro-inflammatory vascular conditioning and amplifies vascular dysfunction and impairment of cardiac function after myocardial infarction.",
+"journal": "Cardiovasc Res",
+"db": "pubmed",
+"id": "36702626"
+},
+{
+"authors": "Hayden MS et al.",
+"journal": "Genes Dev",
+"title": "NF-κB, the first quarter-century: remarkable progress and outstanding questions.",
+"year": "2012",
+"db": "pubmed",
+"id": "22302935"
+}
+]
+},
+{
+"id": "ckk3xvtu",
+"label": "",
+"class": "Process",
+"box": [
+791.0,
+83.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"CCL2"
+],
+"out": [
+"CCL2"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Molitor M et al.",
+"year": "2023",
+"title": "Aircraft noise exposure induces pro-inflammatory vascular conditioning and amplifies vascular dysfunction and impairment of cardiac function after myocardial infarction.",
+"journal": "Cardiovasc Res",
+"db": "pubmed",
+"id": "36702626"
+}
+]
+},
+{
+"id": "dhjh7dzm",
+"label": "",
+"class": "Process",
+"box": [
+1071.0,
+83.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+""
+],
+"out": [
+"CCL2"
+],
+"by": [
+"CCL2"
+]
+},
+"references": [
+{
+"authors": "Molitor M et al.",
+"year": "2023",
+"title": "Aircraft noise exposure induces pro-inflammatory vascular conditioning and amplifies vascular dysfunction and impairment of cardiac function after myocardial infarction.",
+"journal": "Cardiovasc Res",
+"db": "pubmed",
+"id": "36702626"
+}
+]
+},
+{
+"id": "xwjajwu0",
+"label": "",
+"class": "Process",
+"box": [
+1211.0,
+383.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"CCL2"
+],
+"out": [
+"CCL2"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Molitor M et al.",
+"year": "2023",
+"title": "Aircraft noise exposure induces pro-inflammatory vascular conditioning and amplifies vascular dysfunction and impairment of cardiac function after myocardial infarction.",
+"journal": "Cardiovasc Res",
+"db": "pubmed",
+"id": "36702626"
+}
+]
+},
+{
+"label": "CCL2",
+"class": "Macromolecule",
+"box": [
+1183.0,
+835.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"blood plasma"
+],
+[
+"HGNC",
+"HGNC:10618"
+],
+[
+"HGNC symbol",
+"CCL2"
+],
+[
+"Previous symbols",
+"SCYA2"
+],
+[
+"Alias symbols",
+"MCP1, MCP-1, MCAF, SMC-CF, GDCF-2, HC11, MGC9434"
+],
+[
+"Entrez",
+"6347"
+],
+[
+"Ensembl",
+"ENSG00000108691"
+],
+[
+"RefSeq",
+"NM_002982"
+],
+[
+"UniProt",
+"P13500"
+]
+]
+}
+]
+}

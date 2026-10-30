@@ -675,6 +675,33 @@
 "hasText": true
 },
 {
+"id": "noise-heart",
+"title": "Noise in the heart: conditioned inflammation and the cardiac synthase",
+"topic": "Noise in the heart: conditioned inflammation and the cardiac synthase",
+"group": "NoiseMap",
+"kind": null,
+"tag": "draft",
+"tab": null,
+"image": "files/noise-heart.svg",
+"width": 1930.0,
+"height": 1682.0,
+"scale": 1,
+"annotation": "data/noise-heart.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/noise-heart.graphml"
+},
+{
+"label": "SVG",
+"url": "files/noise-heart.svg"
+}
+],
+"data": "data/noise-heart-text.json",
+"hasText": true
+},
+{
 "id": "noise-clock",
 "title": "Night-time noise: FOXO3, the antioxidant defence and the clock",
 "topic": "Night-time noise: FOXO3, the antioxidant defence and the clock",
