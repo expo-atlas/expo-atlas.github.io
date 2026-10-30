@@ -1,0 +1,3254 @@
+{
+"nodes": [
+{
+"label": "TAK1:TAB1:TAB2",
+"class": "Complex",
+"box": [
+295.0,
+616.2,
+280.0,
+101.5
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
+"label": "MAP3K7",
+"class": "Macromolecule",
+"box": [
+307.0,
+641.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"PTM",
+"Phosphorylated at Thr187, by autocatalysis"
+],
+[
+"Full name",
+"Mitogen-activated protein kinase kinase kinase 7"
+],
+[
+"Alternative names",
+"Transforming growth factor-beta-activated kinase 1"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. Plays an important role in the cascades of cellular responses evoked by changes in the environment."
+],
+[
+"Location",
+"Cytoplasm, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:6859"
+],
+[
+"HGNC symbol",
+"MAP3K7"
+],
+[
+"Previous symbols",
+"TAK1"
+],
+[
+"Alias symbols",
+"MEKK7"
+],
+[
+"Entrez",
+"6885"
+],
+[
+"Ensembl",
+"ENSG00000135341"
+],
+[
+"RefSeq",
+"NM_145331"
+],
+[
+"UniProt",
+"O43318"
+]
+]
+},
+{
+"label": "TAB1",
+"class": "Macromolecule",
+"box": [
+395.0,
+641.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"HGNC",
+"HGNC:18157"
+],
+[
+"HGNC symbol",
+"TAB1"
+],
+[
+"Previous symbols",
+"MAP3K7IP1"
+],
+[
+"Entrez",
+"10454"
+],
+[
+"Ensembl",
+"ENSG00000100324"
+],
+[
+"RefSeq",
+"NM_153497"
+],
+[
+"UniProt",
+"Q15750"
+]
+]
+},
+{
+"label": "TAB2",
+"class": "Macromolecule",
+"box": [
+483.0,
+641.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"TGF-beta-activated kinase 1 and MAP3K7-binding protein 2"
+],
+[
+"Alternative names",
+"Mitogen-activated protein kinase kinase kinase 7-interacting protein 2; TAK1-binding protein 2; TGF-beta-activated kinase 1-binding protein 2"
+],
+[
+"Function",
+"Adapter required to activate the JNK and NF-kappa-B signaling pathways through the specific recognition of 'Lys-63'-linked polyubiquitin chains by its RanBP2-type zinc finger (NZF). Acts as an adapter linking MAP3K7/TAK1 and TRAF6 to 'Lys-63'-linked polyubiquitin chains."
+],
+[
+"Location",
+"Membrane, Endosome membrane, Lysosome membrane, Cytoplasm, cytosol"
+],
+[
+"HGNC",
+"HGNC:17075"
+],
+[
+"HGNC symbol",
+"TAB2"
+],
+[
+"Previous symbols",
+"MAP3K7IP2"
+],
+[
+"Alias symbols",
+"KIAA0733"
+],
+[
+"Entrez",
+"23118"
+],
+[
+"Ensembl",
+"ENSG00000055208"
+],
+[
+"RefSeq",
+"NM_001292034"
+],
+[
+"UniProt",
+"Q9NYJ8"
+]
+]
+},
+{
+"label": "TAK1:TAB1:TAB2",
+"class": "Complex",
+"box": [
+295.0,
+1666.2,
+280.0,
+101.5
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
+"label": "MAP3K7",
+"class": "Macromolecule",
+"box": [
+307.0,
+1691.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"PTM",
+"Phosphorylated at Thr187, by autocatalysis"
+],
+[
+"Full name",
+"Mitogen-activated protein kinase kinase kinase 7"
+],
+[
+"Alternative names",
+"Transforming growth factor-beta-activated kinase 1"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. Plays an important role in the cascades of cellular responses evoked by changes in the environment."
+],
+[
+"Location",
+"Cytoplasm, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:6859"
+],
+[
+"HGNC symbol",
+"MAP3K7"
+],
+[
+"Previous symbols",
+"TAK1"
+],
+[
+"Alias symbols",
+"MEKK7"
+],
+[
+"Entrez",
+"6885"
+],
+[
+"Ensembl",
+"ENSG00000135341"
+],
+[
+"RefSeq",
+"NM_145331"
+],
+[
+"UniProt",
+"O43318"
+]
+]
+},
+{
+"label": "TAB1",
+"class": "Macromolecule",
+"box": [
+395.0,
+1691.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"HGNC",
+"HGNC:18157"
+],
+[
+"HGNC symbol",
+"TAB1"
+],
+[
+"Previous symbols",
+"MAP3K7IP1"
+],
+[
+"Entrez",
+"10454"
+],
+[
+"Ensembl",
+"ENSG00000100324"
+],
+[
+"RefSeq",
+"NM_153497"
+],
+[
+"UniProt",
+"Q15750"
+]
+]
+},
+{
+"label": "TAB2",
+"class": "Macromolecule",
+"box": [
+483.0,
+1691.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"TGF-beta-activated kinase 1 and MAP3K7-binding protein 2"
+],
+[
+"Alternative names",
+"Mitogen-activated protein kinase kinase kinase 7-interacting protein 2; TAK1-binding protein 2; TGF-beta-activated kinase 1-binding protein 2"
+],
+[
+"Function",
+"Adapter required to activate the JNK and NF-kappa-B signaling pathways through the specific recognition of 'Lys-63'-linked polyubiquitin chains by its RanBP2-type zinc finger (NZF). Acts as an adapter linking MAP3K7/TAK1 and TRAF6 to 'Lys-63'-linked polyubiquitin chains."
+],
+[
+"Location",
+"Membrane, Endosome membrane, Lysosome membrane, Cytoplasm, cytosol"
+],
+[
+"HGNC",
+"HGNC:17075"
+],
+[
+"HGNC symbol",
+"TAB2"
+],
+[
+"Previous symbols",
+"MAP3K7IP2"
+],
+[
+"Alias symbols",
+"KIAA0733"
+],
+[
+"Entrez",
+"23118"
+],
+[
+"Ensembl",
+"ENSG00000055208"
+],
+[
+"RefSeq",
+"NM_001292034"
+],
+[
+"UniProt",
+"Q9NYJ8"
+]
+]
+},
+{
+"label": "IKK",
+"class": "Complex",
+"box": [
+190.0,
+57.0,
+150.0,
+60.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
+"label": "H2O2",
+"class": "SimpleChemical",
+"box": [
+195.0,
+1107.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"hydrogen peroxide"
+],
+[
+"Synonyms",
+"H(2)O(2); H2O2; HOOH; Oxydol; [OH(OH)]; bis(hydridooxygen)(O--O); dihydrogen dioxide; dihydrogen peroxide; dihydrogen(peroxide); dioxidane; perhydrol"
+],
+[
+"Definition",
+"An inorganic peroxide consisting of two hydroxy groups joined by a covalent oxygen-oxygen single bond."
+],
+[
+"Formula",
+"H2O2"
+],
+[
+"ChEBI",
+"CHEBI:16240"
+],
+[
+"KEGG",
+"C00027"
+],
+[
+"HMDB",
+"HMDB0003125"
+],
+[
+"InChI",
+"InChI=1S/H2O2/c1-2/h1-2H"
+],
+[
+"InChIKey",
+"MHAJPDPJQMAIIY-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "H2O",
+"class": "SimpleChemical",
+"box": [
+355.0,
+1227.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"water"
+],
+[
+"Synonyms",
+"BOUND WATER; H(2)O; H2O; HOH; Wasser; [OH2]; acqua; agua; aqua; dihydridooxygen; dihydrogen oxide; eau; hydrogen hydroxide; oxidane"
+],
+[
+"Definition",
+"An oxygen hydride consisting of an oxygen atom that is covalently bonded to two hydrogen atoms"
+],
+[
+"Formula",
+"H2O"
+],
+[
+"ChEBI",
+"CHEBI:15377"
+],
+[
+"KEGG",
+"C00001"
+],
+[
+"HMDB",
+"HMDB0002111"
+],
+[
+"InChI",
+"InChI=1S/H2O/h1H2"
+],
+[
+"InChIKey",
+"XLYOFNOQVPJJNP-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "MAP3K8:NFKB1",
+"class": "Complex",
+"box": [
+53.0,
+152.2,
+104.0,
+149.5
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
+"label": "MAP3K8",
+"class": "Macromolecule",
+"box": [
+65.0,
+168.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"HGNC",
+"HGNC:6860"
+],
+[
+"HGNC symbol",
+"MAP3K8"
+],
+[
+"Previous symbols",
+"COT, ESTF"
+],
+[
+"Alias symbols",
+"Tpl-2, EST, c-COT, MEKK8"
+],
+[
+"Entrez",
+"1326"
+],
+[
+"Ensembl",
+"ENSG00000107968"
+],
+[
+"RefSeq",
+"NM_005204"
+],
+[
+"UniProt",
+"P41279"
+]
+]
+},
+{
+"label": "NFKB1",
+"class": "Macromolecule",
+"box": [
+65.0,
+225.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"PTM",
+" at Ser927"
+],
+[
+"Full name",
+"Nuclear factor NF-kappa-B p105 subunit"
+],
+[
+"Alternative names",
+"DNA-binding factor KBF1; EBP-1; Nuclear factor of kappa light polypeptide gene enhancer in B-cells 1"
+],
+[
+"Function",
+"NF-kappa-B is a pleiotropic transcription factor present in almost all cell types and is the endpoint of a series of signal transduction events that are initiated by a vast array of stimuli related to many biological processes such as inflammation, immunity, differentiation, cell growth, tumorigenesis and apoptosis. NF-kappa-B is a homo- or heterodimeric complex formed by the Rel-like domain-containing proteins RELA/p65, RELB, NFKB1/p105, NFKB1/p50, REL and NFKB2/p52 and the heterodimeric p65-p50 complex appears to be most abundant one."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:7794"
+],
+[
+"HGNC symbol",
+"NFKB1"
+],
+[
+"Alias symbols",
+"KBF1, p105, NFKB-p50, p50, NF-kappaB, NFkappaB, NF-kB1"
+],
+[
+"Entrez",
+"4790"
+],
+[
+"Ensembl",
+"ENSG00000109320"
+],
+[
+"RefSeq",
+"NM_003998"
+],
+[
+"UniProt",
+"P19838"
+]
+]
+},
+{
+"label": "MAP3K8",
+"class": "Macromolecule",
+"box": [
+355.0,
+207.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"HGNC",
+"HGNC:6860"
+],
+[
+"HGNC symbol",
+"MAP3K8"
+],
+[
+"Previous symbols",
+"COT, ESTF"
+],
+[
+"Alias symbols",
+"Tpl-2, EST, c-COT, MEKK8"
+],
+[
+"Entrez",
+"1326"
+],
+[
+"Ensembl",
+"ENSG00000107968"
+],
+[
+"RefSeq",
+"NM_005204"
+],
+[
+"UniProt",
+"P41279"
+]
+]
+},
+{
+"label": "NFKB1",
+"class": "Macromolecule",
+"box": [
+365.0,
+67.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"PTM",
+"Phosphorylated at Ser927, by IKKB"
+],
+[
+"Full name",
+"Nuclear factor NF-kappa-B p105 subunit"
+],
+[
+"Alternative names",
+"DNA-binding factor KBF1; EBP-1; Nuclear factor of kappa light polypeptide gene enhancer in B-cells 1"
+],
+[
+"Function",
+"NF-kappa-B is a pleiotropic transcription factor present in almost all cell types and is the endpoint of a series of signal transduction events that are initiated by a vast array of stimuli related to many biological processes such as inflammation, immunity, differentiation, cell growth, tumorigenesis and apoptosis. NF-kappa-B is a homo- or heterodimeric complex formed by the Rel-like domain-containing proteins RELA/p65, RELB, NFKB1/p105, NFKB1/p50, REL and NFKB2/p52 and the heterodimeric p65-p50 complex appears to be most abundant one."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:7794"
+],
+[
+"HGNC symbol",
+"NFKB1"
+],
+[
+"Alias symbols",
+"KBF1, p105, NFKB-p50, p50, NF-kappaB, NFkappaB, NF-kB1"
+],
+[
+"Entrez",
+"4790"
+],
+[
+"Ensembl",
+"ENSG00000109320"
+],
+[
+"RefSeq",
+"NM_003998"
+],
+[
+"UniProt",
+"P19838"
+]
+]
+},
+{
+"label": "MAP2K1",
+"class": "Macromolecule",
+"box": [
+505.0,
+67.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"PTM",
+" at Ser218"
+],
+[
+"Full name",
+"Dual specificity mitogen-activated protein kinase kinase 1"
+],
+[
+"Alternative names",
+"ERK activator kinase 1; MAPK/ERK kinase 1"
+],
+[
+"Function",
+"Dual specificity protein kinase which acts as an essential component of the MAP kinase signal transduction pathway. Binding of extracellular ligands such as growth factors, cytokines and hormones to their cell-surface receptors activates RAS and this initiates RAF1 activation."
+],
+[
+"Location",
+"Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, cytoskeleton, microtubule organizing center, spindle pole body, Cytoplasm, Nucleus, Membrane"
+],
+[
+"HGNC",
+"HGNC:6840"
+],
+[
+"HGNC symbol",
+"MAP2K1"
+],
+[
+"Previous symbols",
+"PRKMK1"
+],
+[
+"Alias symbols",
+"MEK1, MAPKK1, MKK1"
+],
+[
+"Entrez",
+"5604"
+],
+[
+"Ensembl",
+"ENSG00000169032"
+],
+[
+"RefSeq",
+"NM_001411065"
+],
+[
+"UniProt",
+"Q02750"
+]
+]
+},
+{
+"label": "MAP2K1",
+"class": "Macromolecule",
+"box": [
+645.0,
+207.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"PTM",
+"Phosphorylated at Ser218, by BRAF and RAF1"
+],
+[
+"Full name",
+"Dual specificity mitogen-activated protein kinase kinase 1"
+],
+[
+"Alternative names",
+"ERK activator kinase 1; MAPK/ERK kinase 1"
+],
+[
+"Function",
+"Dual specificity protein kinase which acts as an essential component of the MAP kinase signal transduction pathway. Binding of extracellular ligands such as growth factors, cytokines and hormones to their cell-surface receptors activates RAS and this initiates RAF1 activation."
+],
+[
+"Location",
+"Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, cytoskeleton, microtubule organizing center, spindle pole body, Cytoplasm, Nucleus, Membrane"
+],
+[
+"HGNC",
+"HGNC:6840"
+],
+[
+"HGNC symbol",
+"MAP2K1"
+],
+[
+"Previous symbols",
+"PRKMK1"
+],
+[
+"Alias symbols",
+"MEK1, MAPKK1, MKK1"
+],
+[
+"Entrez",
+"5604"
+],
+[
+"Ensembl",
+"ENSG00000169032"
+],
+[
+"RefSeq",
+"NM_001411065"
+],
+[
+"UniProt",
+"Q02750"
+]
+]
+},
+{
+"label": "MAPK1",
+"class": "Macromolecule",
+"box": [
+795.0,
+67.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"PTM",
+" at Thr185"
+],
+[
+"Full name",
+"Mitogen-activated protein kinase 1"
+],
+[
+"Alternative names",
+"ERT1; Extracellular signal-regulated kinase 2; MAP kinase isoform p42; Mitogen-activated protein kinase 2"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK1/ERK2 and MAPK3/ERK1 are the 2 MAPKs which play an important role in the MAPK/ERK cascade."
+],
+[
+"Location",
+"Cytoplasm, cytoskeleton, spindle, Nucleus, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, Membrane, caveola, Cell junction, focal adhesion"
+],
+[
+"HGNC",
+"HGNC:6871"
+],
+[
+"HGNC symbol",
+"MAPK1"
+],
+[
+"Previous symbols",
+"PRKM2, PRKM1"
+],
+[
+"Alias symbols",
+"ERK, ERK2, p41mapk, MAPK2"
+],
+[
+"Entrez",
+"5594"
+],
+[
+"Ensembl",
+"ENSG00000100030"
+],
+[
+"RefSeq",
+"NM_002745"
+],
+[
+"UniProt",
+"P28482"
+]
+]
+},
+{
+"label": "MAPK1",
+"class": "Macromolecule",
+"box": [
+935.0,
+207.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"PTM",
+"Phosphorylated at Thr185"
+],
+[
+"Full name",
+"Mitogen-activated protein kinase 1"
+],
+[
+"Alternative names",
+"ERT1; Extracellular signal-regulated kinase 2; MAP kinase isoform p42; Mitogen-activated protein kinase 2"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK1/ERK2 and MAPK3/ERK1 are the 2 MAPKs which play an important role in the MAPK/ERK cascade."
+],
+[
+"Location",
+"Cytoplasm, cytoskeleton, spindle, Nucleus, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, Membrane, caveola, Cell junction, focal adhesion"
+],
+[
+"HGNC",
+"HGNC:6871"
+],
+[
+"HGNC symbol",
+"MAPK1"
+],
+[
+"Previous symbols",
+"PRKM2, PRKM1"
+],
+[
+"Alias symbols",
+"ERK, ERK2, p41mapk, MAPK2"
+],
+[
+"Entrez",
+"5594"
+],
+[
+"Ensembl",
+"ENSG00000100030"
+],
+[
+"RefSeq",
+"NM_002745"
+],
+[
+"UniProt",
+"P28482"
+]
+]
+},
+{
+"label": "MAP2K4",
+"class": "Macromolecule",
+"box": [
+55.0,
+407.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"PTM",
+" at Ser257"
+],
+[
+"Full name",
+"Dual specificity mitogen-activated protein kinase kinase 4"
+],
+[
+"Alternative names",
+"JNK-activating kinase 1; MAPK/ERK kinase 4; SAPK/ERK kinase 1; Stress-activated protein kinase kinase 1; c-Jun N-terminal kinase kinase 1"
+],
+[
+"Function",
+"Dual specificity protein kinase which acts as an essential component of the MAP kinase signal transduction pathway. Essential component of the stress-activated protein kinase/c-Jun N-terminal kinase (SAP/JNK) signaling pathway."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:6844"
+],
+[
+"HGNC symbol",
+"MAP2K4"
+],
+[
+"Previous symbols",
+"SERK1"
+],
+[
+"Alias symbols",
+"MEK4, JNKK1, PRKMK4, MKK4, MAPKK4, SAPKK1, SKK1, JNKK, SEK1"
+],
+[
+"Entrez",
+"6416"
+],
+[
+"Ensembl",
+"ENSG00000065559"
+],
+[
+"RefSeq",
+"NM_001281435"
+],
+[
+"UniProt",
+"P45985"
+]
+]
+},
+{
+"label": "MAP2K4",
+"class": "Macromolecule",
+"box": [
+315.0,
+407.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"PTM",
+"Phosphorylated at Ser257"
+],
+[
+"Full name",
+"Dual specificity mitogen-activated protein kinase kinase 4"
+],
+[
+"Alternative names",
+"JNK-activating kinase 1; MAPK/ERK kinase 4; SAPK/ERK kinase 1; Stress-activated protein kinase kinase 1; c-Jun N-terminal kinase kinase 1"
+],
+[
+"Function",
+"Dual specificity protein kinase which acts as an essential component of the MAP kinase signal transduction pathway. Essential component of the stress-activated protein kinase/c-Jun N-terminal kinase (SAP/JNK) signaling pathway."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:6844"
+],
+[
+"HGNC symbol",
+"MAP2K4"
+],
+[
+"Previous symbols",
+"SERK1"
+],
+[
+"Alias symbols",
+"MEK4, JNKK1, PRKMK4, MKK4, MAPKK4, SAPKK1, SKK1, JNKK, SEK1"
+],
+[
+"Entrez",
+"6416"
+],
+[
+"Ensembl",
+"ENSG00000065559"
+],
+[
+"RefSeq",
+"NM_001281435"
+],
+[
+"UniProt",
+"P45985"
+]
+]
+},
+{
+"label": "MAP2K7",
+"class": "Macromolecule",
+"box": [
+475.0,
+507.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"PTM",
+" at Ser271"
+],
+[
+"Full name",
+"Dual specificity mitogen-activated protein kinase kinase 7"
+],
+[
+"Alternative names",
+"JNK-activating kinase 2; MAPK/ERK kinase 7; Stress-activated protein kinase kinase 4; c-Jun N-terminal kinase kinase 2"
+],
+[
+"Function",
+"Dual specificity protein kinase which acts as an essential component of the MAP kinase signal transduction pathway. Essential component of the stress-activated protein kinase/c-Jun N-terminal kinase (SAP/JNK) signaling pathway."
+],
+[
+"Location",
+"Nucleus, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:6847"
+],
+[
+"HGNC symbol",
+"MAP2K7"
+],
+[
+"Previous symbols",
+"PRKMK7"
+],
+[
+"Alias symbols",
+"MKK7, Jnkk2, SAPKK4"
+],
+[
+"Entrez",
+"5609"
+],
+[
+"Ensembl",
+"ENSG00000076984"
+],
+[
+"RefSeq",
+"NM_001297555"
+],
+[
+"UniProt",
+"O14733"
+]
+]
+},
+{
+"label": "MAP2K7",
+"class": "Macromolecule",
+"box": [
+735.0,
+507.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"PTM",
+"Phosphorylated at Ser271"
+],
+[
+"Full name",
+"Dual specificity mitogen-activated protein kinase kinase 7"
+],
+[
+"Alternative names",
+"JNK-activating kinase 2; MAPK/ERK kinase 7; Stress-activated protein kinase kinase 4; c-Jun N-terminal kinase kinase 2"
+],
+[
+"Function",
+"Dual specificity protein kinase which acts as an essential component of the MAP kinase signal transduction pathway. Essential component of the stress-activated protein kinase/c-Jun N-terminal kinase (SAP/JNK) signaling pathway."
+],
+[
+"Location",
+"Nucleus, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:6847"
+],
+[
+"HGNC symbol",
+"MAP2K7"
+],
+[
+"Previous symbols",
+"PRKMK7"
+],
+[
+"Alias symbols",
+"MKK7, Jnkk2, SAPKK4"
+],
+[
+"Entrez",
+"5609"
+],
+[
+"Ensembl",
+"ENSG00000076984"
+],
+[
+"RefSeq",
+"NM_001297555"
+],
+[
+"UniProt",
+"O14733"
+]
+]
+},
+{
+"label": "AND",
+"class": "Operator",
+"box": [
+920.0,
+462.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
+"label": "MAPK8",
+"class": "Macromolecule",
+"box": [
+735.0,
+727.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"PTM",
+" at Thr183"
+],
+[
+"Full name",
+"Mitogen-activated protein kinase 8"
+],
+[
+"Alternative names",
+"JNK-46; Stress-activated protein kinase 1c; Stress-activated protein kinase JNK1; c-Jun N-terminal kinase 1"
+],
+[
+"Function",
+"Serine/threonine-protein kinase involved in various processes such as cell proliferation, differentiation, migration, transformation and programmed cell death. Extracellular stimuli such as pro-inflammatory cytokines or physical stress stimulate the stress-activated protein kinase/c-Jun N-terminal kinase (SAP/JNK) signaling pathway."
+],
+[
+"Location",
+"Cytoplasm, Nucleus, Synapse"
+],
+[
+"HGNC",
+"HGNC:6881"
+],
+[
+"HGNC symbol",
+"MAPK8"
+],
+[
+"Previous symbols",
+"PRKM8"
+],
+[
+"Alias symbols",
+"JNK, JNK1, SAPK1"
+],
+[
+"Entrez",
+"5599"
+],
+[
+"Ensembl",
+"ENSG00000107643"
+],
+[
+"RefSeq",
+"NM_001278547"
+],
+[
+"UniProt",
+"P45983"
+]
+]
+},
+{
+"label": "MAPK8",
+"class": "Macromolecule",
+"box": [
+1055.0,
+727.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"PTM",
+"Phosphorylated at Thr183, by MAP2K7"
+],
+[
+"Full name",
+"Mitogen-activated protein kinase 8"
+],
+[
+"Alternative names",
+"JNK-46; Stress-activated protein kinase 1c; Stress-activated protein kinase JNK1; c-Jun N-terminal kinase 1"
+],
+[
+"Function",
+"Serine/threonine-protein kinase involved in various processes such as cell proliferation, differentiation, migration, transformation and programmed cell death. Extracellular stimuli such as pro-inflammatory cytokines or physical stress stimulate the stress-activated protein kinase/c-Jun N-terminal kinase (SAP/JNK) signaling pathway."
+],
+[
+"Location",
+"Cytoplasm, Nucleus, Synapse"
+],
+[
+"HGNC",
+"HGNC:6881"
+],
+[
+"HGNC symbol",
+"MAPK8"
+],
+[
+"Previous symbols",
+"PRKM8"
+],
+[
+"Alias symbols",
+"JNK, JNK1, SAPK1"
+],
+[
+"Entrez",
+"5599"
+],
+[
+"Ensembl",
+"ENSG00000107643"
+],
+[
+"RefSeq",
+"NM_001278547"
+],
+[
+"UniProt",
+"P45983"
+]
+]
+},
+{
+"label": "MAP2K3",
+"class": "Macromolecule",
+"box": [
+55.0,
+1447.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"PTM",
+" at Ser218"
+],
+[
+"Full name",
+"Dual specificity mitogen-activated protein kinase kinase 3"
+],
+[
+"Alternative names",
+"MAPK/ERK kinase 3; Stress-activated protein kinase kinase 2"
+],
+[
+"Function",
+"Dual specificity kinase. Is activated by cytokines and environmental stress in vivo."
+],
+[
+"HGNC",
+"HGNC:6843"
+],
+[
+"HGNC symbol",
+"MAP2K3"
+],
+[
+"Previous symbols",
+"PRKMK3"
+],
+[
+"Alias symbols",
+"MEK3, MKK3, MAPKK3, SAPKK2"
+],
+[
+"Entrez",
+"5606"
+],
+[
+"Ensembl",
+"ENSG00000034152"
+],
+[
+"RefSeq",
+"NM_145109"
+],
+[
+"UniProt",
+"P46734"
+]
+]
+},
+{
+"label": "MAP2K3",
+"class": "Macromolecule",
+"box": [
+315.0,
+1447.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"PTM",
+"Phosphorylated at Ser218"
+],
+[
+"Full name",
+"Dual specificity mitogen-activated protein kinase kinase 3"
+],
+[
+"Alternative names",
+"MAPK/ERK kinase 3; Stress-activated protein kinase kinase 2"
+],
+[
+"Function",
+"Dual specificity kinase. Is activated by cytokines and environmental stress in vivo."
+],
+[
+"HGNC",
+"HGNC:6843"
+],
+[
+"HGNC symbol",
+"MAP2K3"
+],
+[
+"Previous symbols",
+"PRKMK3"
+],
+[
+"Alias symbols",
+"MEK3, MKK3, MAPKK3, SAPKK2"
+],
+[
+"Entrez",
+"5606"
+],
+[
+"Ensembl",
+"ENSG00000034152"
+],
+[
+"RefSeq",
+"NM_145109"
+],
+[
+"UniProt",
+"P46734"
+]
+]
+},
+{
+"label": "MAP2K6",
+"class": "Macromolecule",
+"box": [
+475.0,
+1547.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"PTM",
+" at Ser207"
+],
+[
+"Full name",
+"Dual specificity mitogen-activated protein kinase kinase 6"
+],
+[
+"Alternative names",
+"MAPK/ERK kinase 6; Stress-activated protein kinase kinase 3"
+],
+[
+"Function",
+"Dual specificity protein kinase which acts as an essential component of the MAP kinase signal transduction pathway. With MAP3K3/MKK3, catalyzes the concomitant phosphorylation of a threonine and a tyrosine residue in the MAP kinases p38 MAPK11, MAPK12, MAPK13 and MAPK14 and plays an important role in the regulation of cellular responses to cytokines and all kinds of stresses."
+],
+[
+"Location",
+"Nucleus, Cytoplasm, Cytoplasm, cytoskeleton"
+],
+[
+"HGNC",
+"HGNC:6846"
+],
+[
+"HGNC symbol",
+"MAP2K6"
+],
+[
+"Previous symbols",
+"PRKMK6"
+],
+[
+"Alias symbols",
+"MEK6, MKK6, SAPKK3, MAPKK6, CRCMSL"
+],
+[
+"Entrez",
+"5608"
+],
+[
+"Ensembl",
+"ENSG00000108984"
+],
+[
+"RefSeq",
+"NM_002758"
+],
+[
+"UniProt",
+"P52564"
+]
+]
+},
+{
+"label": "MAP2K6",
+"class": "Macromolecule",
+"box": [
+735.0,
+1547.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"PTM",
+"Phosphorylated at Ser207, by MAP3K"
+],
+[
+"Full name",
+"Dual specificity mitogen-activated protein kinase kinase 6"
+],
+[
+"Alternative names",
+"MAPK/ERK kinase 6; Stress-activated protein kinase kinase 3"
+],
+[
+"Function",
+"Dual specificity protein kinase which acts as an essential component of the MAP kinase signal transduction pathway. With MAP3K3/MKK3, catalyzes the concomitant phosphorylation of a threonine and a tyrosine residue in the MAP kinases p38 MAPK11, MAPK12, MAPK13 and MAPK14 and plays an important role in the regulation of cellular responses to cytokines and all kinds of stresses."
+],
+[
+"Location",
+"Nucleus, Cytoplasm, Cytoplasm, cytoskeleton"
+],
+[
+"HGNC",
+"HGNC:6846"
+],
+[
+"HGNC symbol",
+"MAP2K6"
+],
+[
+"Previous symbols",
+"PRKMK6"
+],
+[
+"Alias symbols",
+"MEK6, MKK6, SAPKK3, MAPKK6, CRCMSL"
+],
+[
+"Entrez",
+"5608"
+],
+[
+"Ensembl",
+"ENSG00000108984"
+],
+[
+"RefSeq",
+"NM_002758"
+],
+[
+"UniProt",
+"P52564"
+]
+]
+},
+{
+"label": "MAPK14",
+"class": "Macromolecule",
+"box": [
+735.0,
+1207.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"PTM",
+" at Thr180"
+],
+[
+"Full name",
+"Mitogen-activated protein kinase 14"
+],
+[
+"Alternative names",
+"Cytokine suppressive anti-inflammatory drug-binding protein; MAP kinase MXI2; MAX-interacting protein 2; Mitogen-activated protein kinase p38 alpha; Stress-activated protein kinase 2a"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK14 is one of the four p38 MAPKs which play an important role in the cascades of cellular responses evoked by extracellular stimuli such as pro-inflammatory cytokines or physical stress leading to direct activation of transcription factors."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:6876"
+],
+[
+"HGNC symbol",
+"MAPK14"
+],
+[
+"Previous symbols",
+"CSPB1, CSBP1, CSBP2"
+],
+[
+"Alias symbols",
+"p38alpha, PRKM14, p38, Mxi2, PRKM15"
+],
+[
+"Entrez",
+"1432"
+],
+[
+"Ensembl",
+"ENSG00000112062"
+],
+[
+"RefSeq",
+"NM_001315"
+],
+[
+"UniProt",
+"Q16539"
+]
+]
+},
+{
+"label": "MAPK14",
+"class": "Macromolecule",
+"box": [
+1055.0,
+1207.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"PTM",
+"Phosphorylated at Thr180, by MAP2K3, MAP2K4, MAP2K6 and autocatalysis"
+],
+[
+"Full name",
+"Mitogen-activated protein kinase 14"
+],
+[
+"Alternative names",
+"Cytokine suppressive anti-inflammatory drug-binding protein; MAP kinase MXI2; MAX-interacting protein 2; Mitogen-activated protein kinase p38 alpha; Stress-activated protein kinase 2a"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK14 is one of the four p38 MAPKs which play an important role in the cascades of cellular responses evoked by extracellular stimuli such as pro-inflammatory cytokines or physical stress leading to direct activation of transcription factors."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:6876"
+],
+[
+"HGNC symbol",
+"MAPK14"
+],
+[
+"Previous symbols",
+"CSPB1, CSBP1, CSBP2"
+],
+[
+"Alias symbols",
+"p38alpha, PRKM14, p38, Mxi2, PRKM15"
+],
+[
+"Entrez",
+"1432"
+],
+[
+"Ensembl",
+"ENSG00000112062"
+],
+[
+"RefSeq",
+"NM_001315"
+],
+[
+"UniProt",
+"Q16539"
+]
+]
+},
+{
+"label": "DUSP1",
+"class": "Macromolecule",
+"box": [
+335.0,
+967.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"PTM",
+" at Cys258"
+],
+[
+"HGNC",
+"HGNC:3064"
+],
+[
+"HGNC symbol",
+"DUSP1"
+],
+[
+"Previous symbols",
+"PTPN10"
+],
+[
+"Alias symbols",
+"HVH1, CL100, MKP-1"
+],
+[
+"Entrez",
+"1843"
+],
+[
+"Ensembl",
+"ENSG00000120129"
+],
+[
+"RefSeq",
+"NM_004417"
+],
+[
+"UniProt",
+"P28562"
+]
+]
+},
+{
+"label": "DUSP1",
+"class": "Macromolecule",
+"box": [
+495.0,
+1107.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"PTM",
+"ox at Cys258"
+],
+[
+"HGNC",
+"HGNC:3064"
+],
+[
+"HGNC symbol",
+"DUSP1"
+],
+[
+"Previous symbols",
+"PTPN10"
+],
+[
+"Alias symbols",
+"HVH1, CL100, MKP-1"
+],
+[
+"Entrez",
+"1843"
+],
+[
+"Ensembl",
+"ENSG00000120129"
+],
+[
+"RefSeq",
+"NM_004417"
+],
+[
+"UniProt",
+"P28562"
+]
+]
+},
+{
+"id": "hh88dff9",
+"label": "",
+"class": "Process",
+"box": [
+213.0,
+415.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"MAP2K4"
+],
+"out": [
+"MAP2K4"
+],
+"by": [
+"TAK1:TAB1:TAB2"
+]
+},
+"references": [
+{
+"authors": "Wang C et al.",
+"journal": "Nature",
+"title": "TAK1 is a ubiquitin-dependent kinase of MKK and IKK.",
+"year": "2001",
+"db": "pubmed",
+"id": "11460167"
+},
+{
+"authors": "Shim JH et al.",
+"journal": "Genes Dev",
+"title": "TAK1, but not TAB1 or TAB2, plays an essential role in multiple signaling pathways in vivo.",
+"year": "2005",
+"db": "pubmed",
+"id": "16260493"
+}
+]
+},
+{
+"id": "ket5w6ma",
+"label": "",
+"class": "Process",
+"box": [
+633.0,
+515.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"MAP2K7"
+],
+"out": [
+"MAP2K7"
+],
+"by": [
+"TAK1:TAB1:TAB2"
+]
+},
+"references": [
+{
+"authors": "Wang C et al.",
+"journal": "Nature",
+"title": "TAK1 is a ubiquitin-dependent kinase of MKK and IKK.",
+"year": "2001",
+"db": "pubmed",
+"id": "11460167"
+},
+{
+"authors": "Shim JH et al.",
+"journal": "Genes Dev",
+"title": "TAK1, but not TAB1 or TAB2, plays an essential role in multiple signaling pathways in vivo.",
+"year": "2005",
+"db": "pubmed",
+"id": "16260493"
+}
+]
+},
+{
+"id": "n5ql4jwp",
+"label": "",
+"class": "Process",
+"box": [
+923.0,
+735.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"MAPK8"
+],
+"out": [
+"MAPK8"
+],
+"by": [
+"AND"
+]
+},
+"references": [
+{
+"authors": "Lawler S et al.",
+"journal": "Curr Biol",
+"title": "Synergistic activation of SAPK1/JNK1 by two MAP kinase kinases in vitro.",
+"year": "1998",
+"db": "pubmed",
+"id": "9889102"
+},
+{
+"authors": "Shim JH et al.",
+"journal": "Genes Dev",
+"title": "TAK1, but not TAB1 or TAB2, plays an essential role in multiple signaling pathways in vivo.",
+"year": "2005",
+"db": "pubmed",
+"id": "16260493"
+}
+]
+},
+{
+"id": "jqgti73y",
+"label": "",
+"class": "Process",
+"box": [
+213.0,
+1455.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"MAP2K3"
+],
+"out": [
+"MAP2K3"
+],
+"by": [
+"TAK1:TAB1:TAB2"
+]
+},
+"references": [
+{
+"authors": "Wang C et al.",
+"journal": "Nature",
+"title": "TAK1 is a ubiquitin-dependent kinase of MKK and IKK.",
+"year": "2001",
+"db": "pubmed",
+"id": "11460167"
+},
+{
+"authors": "Shim JH et al.",
+"journal": "Genes Dev",
+"title": "TAK1, but not TAB1 or TAB2, plays an essential role in multiple signaling pathways in vivo.",
+"year": "2005",
+"db": "pubmed",
+"id": "16260493"
+}
+]
+},
+{
+"id": "zzbeg8jt",
+"label": "",
+"class": "Process",
+"box": [
+633.0,
+1555.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"MAP2K6"
+],
+"out": [
+"MAP2K6"
+],
+"by": [
+"TAK1:TAB1:TAB2"
+]
+},
+"references": [
+{
+"authors": "Wang C et al.",
+"journal": "Nature",
+"title": "TAK1 is a ubiquitin-dependent kinase of MKK and IKK.",
+"year": "2001",
+"db": "pubmed",
+"id": "11460167"
+},
+{
+"authors": "Shim JH et al.",
+"journal": "Genes Dev",
+"title": "TAK1, but not TAB1 or TAB2, plays an essential role in multiple signaling pathways in vivo.",
+"year": "2005",
+"db": "pubmed",
+"id": "16260493"
+}
+]
+},
+{
+"id": "n72cvtip",
+"label": "",
+"class": "Process",
+"box": [
+923.0,
+1215.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"MAPK14"
+],
+"out": [
+"MAPK14"
+],
+"by": [
+"MAP2K3",
+"MAP2K6"
+]
+},
+"references": [
+{
+"authors": "Raingeaud J et al.",
+"journal": "Mol Cell Biol",
+"title": "MKK3- and MKK6-regulated gene expression is mediated by the p38 mitogen-activated protein kinase signal transduction pathway.",
+"year": "1996",
+"db": "pubmed",
+"id": "8622669"
+},
+{
+"authors": "Enslen H et al.",
+"journal": "J Biol Chem",
+"title": "Selective activation of p38 mitogen-activated protein (MAP) kinase isoforms by the MAP kinase kinases MKK3 and MKK6.",
+"year": "1998",
+"db": "pubmed",
+"id": "9430721"
+}
+]
+},
+{
+"id": "y60s6pum",
+"label": "",
+"class": "Process",
+"box": [
+253.0,
+215.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"MAP3K8:NFKB1"
+],
+"out": [
+"MAP3K8",
+"NFKB1"
+],
+"by": [
+"IKK"
+]
+},
+"references": [
+{
+"authors": "Waterfield MR et al.",
+"journal": "Mol Cell",
+"title": "NF-kappaB1/p105 regulates lipopolysaccharide-stimulated MAP kinase signaling by governing the stability and function of the Tpl2 kinase.",
+"year": "2003",
+"db": "pubmed",
+"id": "12667451"
+},
+{
+"authors": "Waterfield M et al.",
+"journal": "Mol Cell Biol",
+"title": "IkappaB kinase is an essential component of the Tpl2 signaling pathway.",
+"year": "2004",
+"db": "pubmed",
+"id": "15199157"
+},
+{
+"authors": "Beinke S et al.",
+"journal": "Mol Cell Biol",
+"title": "Lipopolysaccharide activation of the TPL-2/MEK/extracellular signal-regulated kinase mitogen-activated protein kinase cascade is regulated by IkappaB kinase-induced proteolysis of NF-kappaB1 p105.",
+"year": "2004",
+"db": "pubmed",
+"id": "15485931"
+},
+{
+"authors": "Belich MP et al.",
+"journal": "Nature",
+"title": "TPL-2 kinase regulates the proteolysis of the NF-kappaB-inhibitory protein NF-kappaB1 p105.",
+"year": "1999",
+"db": "pubmed",
+"id": "9950430"
+}
+]
+},
+{
+"id": "f4qnfvmc",
+"label": "",
+"class": "Process",
+"box": [
+533.0,
+215.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"MAP2K1"
+],
+"out": [
+"MAP2K1"
+],
+"by": [
+"MAP3K8"
+]
+},
+"references": [
+{
+"authors": "Salmeron A et al.",
+"journal": "EMBO J",
+"title": "Activation of MEK-1 and SEK-1 by Tpl-2 proto-oncoprotein, a novel MAP kinase kinase kinase.",
+"year": "1996",
+"db": "pubmed",
+"id": "8631303"
+},
+{
+"authors": "Dumitru CD et al.",
+"journal": "Cell",
+"title": "TNF-alpha induction by LPS is regulated posttranscriptionally via a Tpl2/ERK-dependent pathway.",
+"year": "2000",
+"db": "pubmed",
+"id": "11163183"
+}
+]
+},
+{
+"id": "basod90z",
+"label": "",
+"class": "Process",
+"box": [
+823.0,
+215.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"MAPK1"
+],
+"out": [
+"MAPK1"
+],
+"by": [
+"MAP2K1"
+]
+},
+"references": [
+{
+"authors": "Dérijard B et al.",
+"journal": "Science",
+"title": "Independent human MAP-kinase signal transduction pathways defined by MEK and MKK isoforms.",
+"year": "1995",
+"db": "pubmed",
+"id": "7839144"
+},
+{
+"authors": "Winston BW et al.",
+"journal": "J Biol Chem",
+"title": "Preferential involvement of MEK1 in the tumor necrosis factor-alpha-induced activation of p42mapk/erk2 in mouse macrophages.",
+"year": "1995",
+"db": "pubmed",
+"id": "7499190"
+}
+]
+},
+{
+"id": "kc60f0xp",
+"label": "",
+"class": "Process",
+"box": [
+763.0,
+895.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"MAPK8"
+],
+"out": [
+"MAPK8"
+],
+"by": [
+"DUSP1"
+]
+},
+"references": [
+{
+"authors": "Chi H et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Dynamic regulation of pro- and anti-inflammatory cytokines by MAPK phosphatase 1 (MKP-1) in innate immune responses.",
+"year": "2006",
+"db": "pubmed",
+"id": "16461893"
+},
+{
+"authors": "Zhao Q et al.",
+"journal": "J Exp Med",
+"title": "MAP kinase phosphatase 1 controls innate immune responses and suppresses endotoxic shock.",
+"year": "2006",
+"db": "pubmed",
+"id": "16380513"
+},
+{
+"authors": "Hammer M et al.",
+"journal": "J Exp Med",
+"title": "Dual specificity phosphatase 1 (DUSP1) regulates a subset of LPS-induced genes and protects mice from lethal endotoxin shock.",
+"year": "2006",
+"db": "pubmed",
+"id": "16380512"
+}
+]
+},
+{
+"id": "jb912t5f",
+"label": "",
+"class": "Process",
+"box": [
+763.0,
+1055.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"MAPK14"
+],
+"out": [
+"MAPK14"
+],
+"by": [
+"DUSP1"
+]
+},
+"references": [
+{
+"authors": "Chi H et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Dynamic regulation of pro- and anti-inflammatory cytokines by MAPK phosphatase 1 (MKP-1) in innate immune responses.",
+"year": "2006",
+"db": "pubmed",
+"id": "16461893"
+},
+{
+"authors": "Zhao Q et al.",
+"journal": "J Exp Med",
+"title": "MAP kinase phosphatase 1 controls innate immune responses and suppresses endotoxic shock.",
+"year": "2006",
+"db": "pubmed",
+"id": "16380513"
+},
+{
+"authors": "Salojin KV et al.",
+"journal": "J Immunol",
+"title": "Essential role of MAPK phosphatase-1 in the negative control of innate immune responses.",
+"year": "2006",
+"db": "pubmed",
+"id": "16424221"
+}
+]
+},
+{
+"id": "drsp361x",
+"label": "",
+"class": "Process",
+"box": [
+363.0,
+1115.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"DUSP1",
+"H2O2"
+],
+"out": [
+"DUSP1",
+"H2O"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Kamata H et al.",
+"journal": "Cell",
+"title": "Reactive oxygen species promote TNFalpha-induced death and sustained JNK activation by inhibiting MAP kinase phosphatases.",
+"year": "2005",
+"db": "pubmed",
+"id": "15766528"
+}
+]
+},
+{
+"id": "ykfkpcny",
+"label": "",
+"class": "Process",
+"box": [
+1103.0,
+215.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"MAPK1"
+],
+"out": [
+"MAPK1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Lenormand P et al.",
+"journal": "J Cell Biol",
+"title": "Growth factors induce nuclear translocation of MAP kinases (p42mapk and p44mapk) but not of their activator MAP kinase kinase (p45mapkk) in fibroblasts.",
+"year": "1993",
+"db": "pubmed",
+"id": "8394845"
+},
+{
+"authors": "Chen RH et al.",
+"journal": "Mol Cell Biol",
+"title": "Nuclear localization and regulation of erk- and rsk-encoded protein kinases.",
+"year": "1992",
+"db": "pubmed",
+"id": "1545823"
+}
+]
+},
+{
+"id": "eggte37a",
+"label": "",
+"class": "Process",
+"box": [
+1243.0,
+735.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"MAPK8"
+],
+"out": [
+"MAPK8"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Maik-Rachline G et al.",
+"journal": "Sci Signal",
+"title": "The nuclear translocation of the kinases p38 and JNK promotes inflammation-induced cancer.",
+"year": "2018",
+"db": "pubmed",
+"id": "29636389"
+}
+]
+},
+{
+"id": "tcbbv9yp",
+"label": "",
+"class": "Process",
+"box": [
+1243.0,
+1215.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"MAPK14"
+],
+"out": [
+"MAPK14"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Maik-Rachline G et al.",
+"journal": "Sci Signal",
+"title": "The nuclear translocation of the kinases p38 and JNK promotes inflammation-induced cancer.",
+"year": "2018",
+"db": "pubmed",
+"id": "29636389"
+}
+]
+},
+{
+"label": "MAPK1",
+"class": "Macromolecule",
+"box": [
+1395.0,
+207.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+],
+[
+"PTM",
+"Phosphorylated at Thr185"
+],
+[
+"Full name",
+"Mitogen-activated protein kinase 1"
+],
+[
+"Alternative names",
+"ERT1; Extracellular signal-regulated kinase 2; MAP kinase isoform p42; Mitogen-activated protein kinase 2"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK1/ERK2 and MAPK3/ERK1 are the 2 MAPKs which play an important role in the MAPK/ERK cascade."
+],
+[
+"Location",
+"Cytoplasm, cytoskeleton, spindle, Nucleus, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, Membrane, caveola, Cell junction, focal adhesion"
+],
+[
+"HGNC",
+"HGNC:6871"
+],
+[
+"HGNC symbol",
+"MAPK1"
+],
+[
+"Previous symbols",
+"PRKM2, PRKM1"
+],
+[
+"Alias symbols",
+"ERK, ERK2, p41mapk, MAPK2"
+],
+[
+"Entrez",
+"5594"
+],
+[
+"Ensembl",
+"ENSG00000100030"
+],
+[
+"RefSeq",
+"NM_002745"
+],
+[
+"UniProt",
+"P28482"
+]
+]
+},
+{
+"label": "ELK1",
+"class": "Macromolecule",
+"box": [
+1555.0,
+67.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+],
+[
+"PTM",
+" at Ser383"
+],
+[
+"Full name",
+"ETS domain-containing protein Elk-1"
+],
+[
+"Function",
+"Transcription factor that binds to purine-rich DNA sequences. Forms a ternary complex with SRF and the ETS and SRF motifs of the serum response element (SRE) on the promoter region of immediate early genes such as FOS and IER2."
+],
+[
+"Location",
+"Nucleus"
+],
+[
+"HGNC",
+"HGNC:3321"
+],
+[
+"HGNC symbol",
+"ELK1"
+],
+[
+"Entrez",
+"2002"
+],
+[
+"Ensembl",
+"ENSG00000126767"
+],
+[
+"RefSeq",
+"NM_005229"
+],
+[
+"UniProt",
+"P19419"
+]
+]
+},
+{
+"label": "ELK1",
+"class": "Macromolecule",
+"box": [
+1715.0,
+207.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+],
+[
+"PTM",
+"Phosphorylated at Ser383, by MAPK1 and MAPK8"
+],
+[
+"Full name",
+"ETS domain-containing protein Elk-1"
+],
+[
+"Function",
+"Transcription factor that binds to purine-rich DNA sequences. Forms a ternary complex with SRF and the ETS and SRF motifs of the serum response element (SRE) on the promoter region of immediate early genes such as FOS and IER2."
+],
+[
+"Location",
+"Nucleus"
+],
+[
+"HGNC",
+"HGNC:3321"
+],
+[
+"HGNC symbol",
+"ELK1"
+],
+[
+"Entrez",
+"2002"
+],
+[
+"Ensembl",
+"ENSG00000126767"
+],
+[
+"RefSeq",
+"NM_005229"
+],
+[
+"UniProt",
+"P19419"
+]
+]
+},
+{
+"label": "MAPK8",
+"class": "Macromolecule",
+"box": [
+1395.0,
+727.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+],
+[
+"PTM",
+"Phosphorylated at Thr183, by MAP2K7"
+],
+[
+"Full name",
+"Mitogen-activated protein kinase 8"
+],
+[
+"Alternative names",
+"JNK-46; Stress-activated protein kinase 1c; Stress-activated protein kinase JNK1; c-Jun N-terminal kinase 1"
+],
+[
+"Function",
+"Serine/threonine-protein kinase involved in various processes such as cell proliferation, differentiation, migration, transformation and programmed cell death. Extracellular stimuli such as pro-inflammatory cytokines or physical stress stimulate the stress-activated protein kinase/c-Jun N-terminal kinase (SAP/JNK) signaling pathway."
+],
+[
+"Location",
+"Cytoplasm, Nucleus, Synapse"
+],
+[
+"HGNC",
+"HGNC:6881"
+],
+[
+"HGNC symbol",
+"MAPK8"
+],
+[
+"Previous symbols",
+"PRKM8"
+],
+[
+"Alias symbols",
+"JNK, JNK1, SAPK1"
+],
+[
+"Entrez",
+"5599"
+],
+[
+"Ensembl",
+"ENSG00000107643"
+],
+[
+"RefSeq",
+"NM_001278547"
+],
+[
+"UniProt",
+"P45983"
+]
+]
+},
+{
+"label": "JUN",
+"class": "Macromolecule",
+"box": [
+1555.0,
+577.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+],
+[
+"PTM",
+" at Ser63"
+],
+[
+"Full name",
+"Transcription factor Jun"
+],
+[
+"Alternative names",
+"Activator protein 1; Proto-oncogene c-Jun; Transcription factor AP-1 subunit Jun; V-jun avian sarcoma virus 17 oncogene homolog; p39"
+],
+[
+"Function",
+"Transcription factor that recognizes and binds to the AP-1 consensus motif 5'-TGA[GC]TCA-3'. Heterodimerizes with proteins of the FOS family to form an AP-1 transcription complex, thereby enhancing its DNA binding activity to the AP-1 consensus sequence 5'-TGA[GC]TCA-3' and enhancing its transcriptional activity."
+],
+[
+"Location",
+"Nucleus"
+],
+[
+"HGNC",
+"HGNC:6204"
+],
+[
+"HGNC symbol",
+"JUN"
+],
+[
+"Alias symbols",
+"c-Jun, AP-1"
+],
+[
+"Entrez",
+"3725"
+],
+[
+"Ensembl",
+"ENSG00000177606"
+],
+[
+"RefSeq",
+"NM_002228"
+],
+[
+"UniProt",
+"P05412"
+]
+]
+},
+{
+"label": "JUN",
+"class": "Macromolecule",
+"box": [
+1715.0,
+727.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+],
+[
+"PTM",
+"Phosphorylated at Ser63, by MAPK8 and PLK3"
+],
+[
+"Full name",
+"Transcription factor Jun"
+],
+[
+"Alternative names",
+"Activator protein 1; Proto-oncogene c-Jun; Transcription factor AP-1 subunit Jun; V-jun avian sarcoma virus 17 oncogene homolog; p39"
+],
+[
+"Function",
+"Transcription factor that recognizes and binds to the AP-1 consensus motif 5'-TGA[GC]TCA-3'. Heterodimerizes with proteins of the FOS family to form an AP-1 transcription complex, thereby enhancing its DNA binding activity to the AP-1 consensus sequence 5'-TGA[GC]TCA-3' and enhancing its transcriptional activity."
+],
+[
+"Location",
+"Nucleus"
+],
+[
+"HGNC",
+"HGNC:6204"
+],
+[
+"HGNC symbol",
+"JUN"
+],
+[
+"Alias symbols",
+"c-Jun, AP-1"
+],
+[
+"Entrez",
+"3725"
+],
+[
+"Ensembl",
+"ENSG00000177606"
+],
+[
+"RefSeq",
+"NM_002228"
+],
+[
+"UniProt",
+"P05412"
+]
+]
+},
+{
+"label": "MAPK14",
+"class": "Macromolecule",
+"box": [
+1395.0,
+1207.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+],
+[
+"PTM",
+"Phosphorylated at Thr180, by MAP2K3, MAP2K4, MAP2K6 and autocatalysis"
+],
+[
+"Full name",
+"Mitogen-activated protein kinase 14"
+],
+[
+"Alternative names",
+"Cytokine suppressive anti-inflammatory drug-binding protein; MAP kinase MXI2; MAX-interacting protein 2; Mitogen-activated protein kinase p38 alpha; Stress-activated protein kinase 2a"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK14 is one of the four p38 MAPKs which play an important role in the cascades of cellular responses evoked by extracellular stimuli such as pro-inflammatory cytokines or physical stress leading to direct activation of transcription factors."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:6876"
+],
+[
+"HGNC symbol",
+"MAPK14"
+],
+[
+"Previous symbols",
+"CSPB1, CSBP1, CSBP2"
+],
+[
+"Alias symbols",
+"p38alpha, PRKM14, p38, Mxi2, PRKM15"
+],
+[
+"Entrez",
+"1432"
+],
+[
+"Ensembl",
+"ENSG00000112062"
+],
+[
+"RefSeq",
+"NM_001315"
+],
+[
+"UniProt",
+"Q16539"
+]
+]
+},
+{
+"label": "ATF2",
+"class": "Macromolecule",
+"box": [
+1555.0,
+1057.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+],
+[
+"PTM",
+" at Thr69"
+],
+[
+"Full name",
+"Cyclic AMP-dependent transcription factor ATF-2"
+],
+[
+"Alternative names",
+"Activating transcription factor 2; Cyclic AMP-responsive element-binding protein 2; HB16; cAMP response element-binding protein CRE-BP1"
+],
+[
+"Function",
+"Transcriptional activator which regulates the transcription of various genes, including those involved in anti-apoptosis, cell growth, and DNA damage response. Dependent on its binding partner, binds to CRE (cAMP response element) consensus sequences (5'-TGACGTCA-3') or to AP-1 (activator protein 1) consensus sequences (5'-TGACTCA-3')."
+],
+[
+"Location",
+"Nucleus, Cytoplasm, Mitochondrion outer membrane"
+],
+[
+"HGNC",
+"HGNC:784"
+],
+[
+"HGNC symbol",
+"ATF2"
+],
+[
+"Previous symbols",
+"CREB2"
+],
+[
+"Alias symbols",
+"TREB7, CRE-BP1, HB16"
+],
+[
+"Entrez",
+"1386"
+],
+[
+"Ensembl",
+"ENSG00000115966"
+],
+[
+"RefSeq",
+"NM_001880"
+],
+[
+"UniProt",
+"P15336"
+]
+]
+},
+{
+"label": "ATF2",
+"class": "Macromolecule",
+"box": [
+1715.0,
+1207.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+],
+[
+"PTM",
+"Phosphorylated at Thr69, by MAPK11 and MAPK14"
+],
+[
+"Full name",
+"Cyclic AMP-dependent transcription factor ATF-2"
+],
+[
+"Alternative names",
+"Activating transcription factor 2; Cyclic AMP-responsive element-binding protein 2; HB16; cAMP response element-binding protein CRE-BP1"
+],
+[
+"Function",
+"Transcriptional activator which regulates the transcription of various genes, including those involved in anti-apoptosis, cell growth, and DNA damage response. Dependent on its binding partner, binds to CRE (cAMP response element) consensus sequences (5'-TGACGTCA-3') or to AP-1 (activator protein 1) consensus sequences (5'-TGACTCA-3')."
+],
+[
+"Location",
+"Nucleus, Cytoplasm, Mitochondrion outer membrane"
+],
+[
+"HGNC",
+"HGNC:784"
+],
+[
+"HGNC symbol",
+"ATF2"
+],
+[
+"Previous symbols",
+"CREB2"
+],
+[
+"Alias symbols",
+"TREB7, CRE-BP1, HB16"
+],
+[
+"Entrez",
+"1386"
+],
+[
+"Ensembl",
+"ENSG00000115966"
+],
+[
+"RefSeq",
+"NM_001880"
+],
+[
+"UniProt",
+"P15336"
+]
+]
+},
+{
+"id": "qru9jlbf",
+"label": "",
+"class": "Process",
+"box": [
+1583.0,
+735.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"JUN"
+],
+"out": [
+"JUN"
+],
+"by": [
+"MAPK8"
+]
+},
+"references": [
+{
+"authors": "Dérijard B et al.",
+"journal": "Cell",
+"title": "JNK1: a protein kinase stimulated by UV light and Ha-Ras that binds and phosphorylates the c-Jun activation domain.",
+"year": "1994",
+"db": "pubmed",
+"id": "8137421"
+}
+]
+},
+{
+"id": "qu4gd95f",
+"label": "",
+"class": "Process",
+"box": [
+1583.0,
+1215.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"ATF2"
+],
+"out": [
+"ATF2"
+],
+"by": [
+"MAPK14"
+]
+},
+"references": [
+{
+"authors": "Raingeaud J et al.",
+"journal": "J Biol Chem",
+"title": "Pro-inflammatory cytokines and environmental stress cause p38 mitogen-activated protein kinase activation by dual phosphorylation on tyrosine and threonine.",
+"year": "1995",
+"db": "pubmed",
+"id": "7535770"
+}
+]
+},
+{
+"id": "ahk0b692",
+"label": "",
+"class": "Process",
+"box": [
+1583.0,
+215.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"ELK1"
+],
+"out": [
+"ELK1"
+],
+"by": [
+"MAPK1"
+]
+},
+"references": [
+{
+"authors": "Gille H et al.",
+"journal": "EMBO J",
+"title": "ERK phosphorylation potentiates Elk-1-mediated ternary complex formation and transactivation.",
+"year": "1995",
+"db": "pubmed",
+"id": "7889942"
+},
+{
+"authors": "Janknecht R et al.",
+"journal": "EMBO J",
+"title": "Activation of ternary complex factor Elk-1 by MAP kinases.",
+"year": "1993",
+"db": "pubmed",
+"id": "8262053"
+}
+]
+}
+]
+}

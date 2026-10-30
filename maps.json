@@ -162,6 +162,141 @@
 "hasText": true
 },
 {
+"id": "nfkb-ikk",
+"title": "IKK and NF-kB with the IkBa and A20 loops",
+"topic": "IKK and NF-kB with the IkBa and A20 loops",
+"group": "ExposomeMap",
+"kind": null,
+"tag": "draft",
+"tab": null,
+"image": "files/nfkb-ikk.svg",
+"width": 2830.0,
+"height": 1222.0,
+"scale": 1,
+"annotation": "data/nfkb-ikk.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/nfkb-ikk.graphml"
+},
+{
+"label": "SVG",
+"url": "files/nfkb-ikk.svg"
+}
+],
+"data": "data/nfkb-ikk-text.json",
+"hasText": true
+},
+{
+"id": "mapk-dusp1",
+"title": "MAP kinase cascades and the oxidation of DUSP1",
+"topic": "MAP kinase cascades and the oxidation of DUSP1",
+"group": "ExposomeMap",
+"kind": null,
+"tag": "draft",
+"tab": null,
+"image": "files/mapk-dusp1.svg",
+"width": 1850.0,
+"height": 1842.0,
+"scale": 1,
+"annotation": "data/mapk-dusp1.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/mapk-dusp1.graphml"
+},
+{
+"label": "SVG",
+"url": "files/mapk-dusp1.svg"
+}
+],
+"data": "data/mapk-dusp1-text.json",
+"hasText": true
+},
+{
+"id": "inflammasome-nlrp3",
+"title": "Particles to the NLRP3 inflammasome and IL-1beta",
+"topic": "Particles to the NLRP3 inflammasome and IL-1beta",
+"group": "ExposomeMap",
+"kind": null,
+"tag": "draft",
+"tab": null,
+"image": "files/inflammasome-nlrp3.svg",
+"width": 4062.0,
+"height": 1866.0,
+"scale": 1,
+"annotation": "data/inflammasome-nlrp3.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/inflammasome-nlrp3.graphml"
+},
+{
+"label": "SVG",
+"url": "files/inflammasome-nlrp3.svg"
+}
+],
+"data": "data/inflammasome-nlrp3-text.json",
+"hasText": true
+},
+{
+"id": "jak-stat-socs",
+"title": "JAK-STAT with the SOCS brake",
+"topic": "JAK-STAT with the SOCS brake",
+"group": "ExposomeMap",
+"kind": null,
+"tag": "draft",
+"tab": null,
+"image": "files/jak-stat-socs.svg",
+"width": 2826.0,
+"height": 2038.0,
+"scale": 1,
+"annotation": "data/jak-stat-socs.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/jak-stat-socs.graphml"
+},
+{
+"label": "SVG",
+"url": "files/jak-stat-socs.svg"
+}
+],
+"data": "data/jak-stat-socs-text.json",
+"hasText": true
+},
+{
+"id": "calcium-handling",
+"title": "Calcium entry, store release and clearance",
+"topic": "Calcium entry, store release and clearance",
+"group": "ExposomeMap",
+"kind": null,
+"tag": "draft",
+"tab": null,
+"image": "files/calcium-handling.svg",
+"width": 2398.0,
+"height": 1490.0,
+"scale": 1,
+"annotation": "data/calcium-handling.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/calcium-handling.graphml"
+},
+{
+"label": "SVG",
+"url": "files/calcium-handling.svg"
+}
+],
+"data": "data/calcium-handling-text.json",
+"hasText": true
+},
+{
 "id": "pair-tlr4-oxidase",
 "title": "Endotoxin to superoxide: TLR4 + oxidase assembled (draft)",
 "topic": "Endotoxin to superoxide: TLR4 + oxidase assembled (draft)",

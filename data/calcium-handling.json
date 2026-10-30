@@ -1,0 +1,2285 @@
+{
+"nodes": [
+{
+"label": "Ca2+",
+"class": "SimpleChemical",
+"box": [
+883.0,
+679.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"calcium(2+)"
+],
+[
+"Synonyms",
+"CALCIUM ION; Ca(2+); Ca2+; calcium(2+) ion; calcium(II) cation; calcium, doubly charged positive ion"
+],
+[
+"Formula",
+"Ca"
+],
+[
+"ChEBI",
+"CHEBI:29108"
+],
+[
+"KEGG",
+"C00076"
+],
+[
+"InChI",
+"InChI=1S/Ca/q+2"
+],
+[
+"InChIKey",
+"BHPQYMZQTOCNFJ-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "IP3",
+"class": "SimpleChemical",
+"box": [
+1643.0,
+879.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"1D-myo-inositol 1,4,5-trisphosphate"
+],
+[
+"Synonyms",
+"1,4,5-Insp3; 1D-myo-inositol 1,4,5-tris(dihydrogen phosphate); D-MYO-INOSITOL-1,4,5-TRIPHOSPHATE; D-myo-Inositol 1,4,5-trisphosphate; IP3; Inositol 1,4,5-trisphosphate; Ins(1,4,5)P3; InsP3"
+],
+[
+"Formula",
+"C6H15O15P3"
+],
+[
+"ChEBI",
+"CHEBI:16595"
+],
+[
+"KEGG",
+"C01245"
+],
+[
+"InChI",
+"InChI=1S/C6H15O15P3/c7-1-2(8)5(20-23(13,14)15)6(21-24(16,17)18)3(9)4(1)19-22(10,11)12/h1-9H,(H2,10,11,12)(H2,13,14,15)(H2,16,17,18)/t1-,2+,3+,4-,5-,6-/m1/s1"
+],
+[
+"InChIKey",
+"MMWCIQZXVOZEGG-XJTPDSDZSA-N"
+]
+]
+},
+{
+"label": "ATP",
+"class": "SimpleChemical",
+"box": [
+943.0,
+879.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"ATP(4-)"
+],
+[
+"Synonyms",
+"ATP; adenosine 5'-triphosphate(4-)"
+],
+[
+"Definition",
+"A nucleoside triphosphate(4−) obtained by global deprotonation of the triphosphate OH groups of ATP; major species present at pH 7.3."
+],
+[
+"Formula",
+"C10H12N5O13P3"
+],
+[
+"ChEBI",
+"CHEBI:30616"
+],
+[
+"InChI",
+"InChI=1S/C10H16N5O13P3/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(26-10)1-25-30(21,22)28-31(23,24)27-29(18,19)20/h2-4,6-7,10,16-17H,1H2,(H,21,22)(H,23,24)(H2,11,12,13)(H2,18,19,20)/p-4/t4-,6-,7-,10-/m1/s1"
+],
+[
+"InChIKey",
+"ZKHQWZAMYRWXGA-KQYNXXCUSA-J"
+]
+]
+},
+{
+"label": "ADP",
+"class": "SimpleChemical",
+"box": [
+1023.0,
+879.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"ADP(3-)"
+],
+[
+"Synonyms",
+"5'-O-[(phosphonatooxy)phosphinato]adenosine; ADP; ADP trianion; adenosine 5'-diphosphate"
+],
+[
+"Definition",
+"A nucleoside 5'-diphosphate(3−) arising from deprotonation of all three diphosphate OH groups of adenosine 5'-diphosphate (ADP); major species present at pH 7.3."
+],
+[
+"Formula",
+"C10H12N5O10P2"
+],
+[
+"ChEBI",
+"CHEBI:456216"
+],
+[
+"InChI",
+"InChI=1S/C10H15N5O10P2/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(24-10)1-23-27(21,22)25-26(18,19)20/h2-4,6-7,10,16-17H,1H2,(H,21,22)(H2,11,12,13)(H2,18,19,20)/p-3/t4-,6-,7-,10-/m1/s1"
+],
+[
+"InChIKey",
+"XTWYTFMLZFPYCI-KQYNXXCUSA-K"
+]
+]
+},
+{
+"label": "ATP",
+"class": "SimpleChemical",
+"box": [
+803.0,
+839.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"ATP(4-)"
+],
+[
+"Synonyms",
+"ATP; adenosine 5'-triphosphate(4-)"
+],
+[
+"Definition",
+"A nucleoside triphosphate(4−) obtained by global deprotonation of the triphosphate OH groups of ATP; major species present at pH 7.3."
+],
+[
+"Formula",
+"C10H12N5O13P3"
+],
+[
+"ChEBI",
+"CHEBI:30616"
+],
+[
+"InChI",
+"InChI=1S/C10H16N5O13P3/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(26-10)1-25-30(21,22)28-31(23,24)27-29(18,19)20/h2-4,6-7,10,16-17H,1H2,(H,21,22)(H,23,24)(H2,11,12,13)(H2,18,19,20)/p-4/t4-,6-,7-,10-/m1/s1"
+],
+[
+"InChIKey",
+"ZKHQWZAMYRWXGA-KQYNXXCUSA-J"
+]
+]
+},
+{
+"label": "ADP",
+"class": "SimpleChemical",
+"box": [
+803.0,
+939.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"ADP(3-)"
+],
+[
+"Synonyms",
+"5'-O-[(phosphonatooxy)phosphinato]adenosine; ADP; ADP trianion; adenosine 5'-diphosphate"
+],
+[
+"Definition",
+"A nucleoside 5'-diphosphate(3−) arising from deprotonation of all three diphosphate OH groups of adenosine 5'-diphosphate (ADP); major species present at pH 7.3."
+],
+[
+"Formula",
+"C10H12N5O10P2"
+],
+[
+"ChEBI",
+"CHEBI:456216"
+],
+[
+"InChI",
+"InChI=1S/C10H15N5O10P2/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(24-10)1-23-27(21,22)25-26(18,19)20/h2-4,6-7,10,16-17H,1H2,(H,21,22)(H2,11,12,13)(H2,18,19,20)/p-3/t4-,6-,7-,10-/m1/s1"
+],
+[
+"InChIKey",
+"XTWYTFMLZFPYCI-KQYNXXCUSA-K"
+]
+]
+},
+{
+"label": "CaM",
+"class": "Macromolecule",
+"box": [
+1043.0,
+219.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"Calmodulin-1"
+],
+[
+"Function",
+"Calmodulin acts as part of a calcium signal transduction pathway by mediating the control of a large number of enzymes, ion channels, aquaporins and other proteins through calcium-binding. Calcium-binding is required for the activation of calmodulin."
+],
+[
+"Location",
+"Cytoplasm, cytoskeleton, spindle, Cytoplasm, cytoskeleton, spindle pole, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cell projection, cilium, flagellum"
+],
+[
+"HGNC",
+"HGNC:1442"
+],
+[
+"HGNC symbol",
+"CALM1"
+],
+[
+"Previous symbols",
+"CALML2"
+],
+[
+"Alias symbols",
+"CAMI, PHKD, DD132, PHKD1"
+],
+[
+"Entrez",
+"801"
+],
+[
+"Ensembl",
+"ENSG00000198668"
+],
+[
+"RefSeq",
+"NM_001363669"
+],
+[
+"UniProt",
+"P0DP23"
+]
+]
+},
+{
+"label": "Ca2+:CaM",
+"class": "Complex",
+"box": [
+1211.0,
+408.8,
+104.0,
+140.5
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
+"label": "Ca2+",
+"class": "SimpleChemical",
+"box": [
+1243.0,
+424.8,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"calcium(2+)"
+],
+[
+"Synonyms",
+"CALCIUM ION; Ca(2+); Ca2+; calcium(2+) ion; calcium(II) cation; calcium, doubly charged positive ion"
+],
+[
+"Formula",
+"Ca"
+],
+[
+"ChEBI",
+"CHEBI:29108"
+],
+[
+"KEGG",
+"C00076"
+],
+[
+"InChI",
+"InChI=1S/Ca/q+2"
+],
+[
+"InChIKey",
+"BHPQYMZQTOCNFJ-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "CaM",
+"class": "Macromolecule",
+"box": [
+1223.0,
+472.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"Calmodulin-1"
+],
+[
+"Function",
+"Calmodulin acts as part of a calcium signal transduction pathway by mediating the control of a large number of enzymes, ion channels, aquaporins and other proteins through calcium-binding. Calcium-binding is required for the activation of calmodulin."
+],
+[
+"Location",
+"Cytoplasm, cytoskeleton, spindle, Cytoplasm, cytoskeleton, spindle pole, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cell projection, cilium, flagellum"
+],
+[
+"HGNC",
+"HGNC:1442"
+],
+[
+"HGNC symbol",
+"CALM1"
+],
+[
+"Previous symbols",
+"CALML2"
+],
+[
+"Alias symbols",
+"CAMI, PHKD, DD132, PHKD1"
+],
+[
+"Entrez",
+"801"
+],
+[
+"Ensembl",
+"ENSG00000198668"
+],
+[
+"RefSeq",
+"NM_001363669"
+],
+[
+"UniProt",
+"P0DP23"
+]
+]
+},
+{
+"label": "calcineurin",
+"class": "Complex",
+"box": [
+1391.0,
+148.8,
+104.0,
+140.5
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
+"label": "PPP3CA",
+"class": "Macromolecule",
+"box": [
+1403.0,
+164.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"HGNC",
+"HGNC:9314"
+],
+[
+"HGNC symbol",
+"PPP3CA"
+],
+[
+"Previous symbols",
+"CALN, CALNA"
+],
+[
+"Alias symbols",
+"CNA1, PPP2B"
+],
+[
+"Entrez",
+"5530"
+],
+[
+"Ensembl",
+"ENSG00000138814"
+],
+[
+"RefSeq",
+"NM_000944"
+],
+[
+"UniProt",
+"Q08209"
+]
+]
+},
+{
+"label": "PPP3R1",
+"class": "Macromolecule",
+"box": [
+1403.0,
+212.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"HGNC",
+"HGNC:9317"
+],
+[
+"HGNC symbol",
+"PPP3R1"
+],
+[
+"Alias symbols",
+"CALNB1, CNB, CNB1"
+],
+[
+"Entrez",
+"5534"
+],
+[
+"Ensembl",
+"ENSG00000221823"
+],
+[
+"RefSeq",
+"NM_000945"
+],
+[
+"UniProt",
+"P63098"
+]
+]
+},
+{
+"label": "Ca2+:CaM:calcineurin",
+"class": "Complex",
+"box": [
+1547.0,
+408.8,
+192.0,
+140.5
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
+"label": "Ca2+",
+"class": "SimpleChemical",
+"box": [
+1579.0,
+424.8,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"calcium(2+)"
+],
+[
+"Synonyms",
+"CALCIUM ION; Ca(2+); Ca2+; calcium(2+) ion; calcium(II) cation; calcium, doubly charged positive ion"
+],
+[
+"Formula",
+"Ca"
+],
+[
+"ChEBI",
+"CHEBI:29108"
+],
+[
+"KEGG",
+"C00076"
+],
+[
+"InChI",
+"InChI=1S/Ca/q+2"
+],
+[
+"InChIKey",
+"BHPQYMZQTOCNFJ-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "CaM",
+"class": "Macromolecule",
+"box": [
+1559.0,
+472.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"Calmodulin-1"
+],
+[
+"Function",
+"Calmodulin acts as part of a calcium signal transduction pathway by mediating the control of a large number of enzymes, ion channels, aquaporins and other proteins through calcium-binding. Calcium-binding is required for the activation of calmodulin."
+],
+[
+"Location",
+"Cytoplasm, cytoskeleton, spindle, Cytoplasm, cytoskeleton, spindle pole, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cell projection, cilium, flagellum"
+],
+[
+"HGNC",
+"HGNC:1442"
+],
+[
+"HGNC symbol",
+"CALM1"
+],
+[
+"Previous symbols",
+"CALML2"
+],
+[
+"Alias symbols",
+"CAMI, PHKD, DD132, PHKD1"
+],
+[
+"Entrez",
+"801"
+],
+[
+"Ensembl",
+"ENSG00000198668"
+],
+[
+"RefSeq",
+"NM_001363669"
+],
+[
+"UniProt",
+"P0DP23"
+]
+]
+},
+{
+"label": "PPP3CA",
+"class": "Macromolecule",
+"box": [
+1647.0,
+424.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"HGNC",
+"HGNC:9314"
+],
+[
+"HGNC symbol",
+"PPP3CA"
+],
+[
+"Previous symbols",
+"CALN, CALNA"
+],
+[
+"Alias symbols",
+"CNA1, PPP2B"
+],
+[
+"Entrez",
+"5530"
+],
+[
+"Ensembl",
+"ENSG00000138814"
+],
+[
+"RefSeq",
+"NM_000944"
+],
+[
+"UniProt",
+"Q08209"
+]
+]
+},
+{
+"label": "PPP3R1",
+"class": "Macromolecule",
+"box": [
+1647.0,
+472.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"HGNC",
+"HGNC:9317"
+],
+[
+"HGNC symbol",
+"PPP3R1"
+],
+[
+"Alias symbols",
+"CALNB1, CNB, CNB1"
+],
+[
+"Entrez",
+"5534"
+],
+[
+"Ensembl",
+"ENSG00000221823"
+],
+[
+"RefSeq",
+"NM_000945"
+],
+[
+"UniProt",
+"P63098"
+]
+]
+},
+{
+"label": "NFATC1",
+"class": "Macromolecule",
+"box": [
+1603.0,
+679.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"HGNC",
+"HGNC:7775"
+],
+[
+"HGNC symbol",
+"NFATC1"
+],
+[
+"Alias symbols",
+"NF-ATC, NFATc, NFAT2"
+],
+[
+"Entrez",
+"4772"
+],
+[
+"Ensembl",
+"ENSG00000131196"
+],
+[
+"RefSeq",
+"NM_172390"
+],
+[
+"UniProt",
+"O95644"
+]
+]
+},
+{
+"label": "NFATC1",
+"class": "Macromolecule",
+"box": [
+1933.0,
+679.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"HGNC",
+"HGNC:7775"
+],
+[
+"HGNC symbol",
+"NFATC1"
+],
+[
+"Alias symbols",
+"NF-ATC, NFATc, NFAT2"
+],
+[
+"Entrez",
+"4772"
+],
+[
+"Ensembl",
+"ENSG00000131196"
+],
+[
+"RefSeq",
+"NM_172390"
+],
+[
+"UniProt",
+"O95644"
+]
+]
+},
+{
+"id": "ht052xs1",
+"label": "",
+"class": "Process",
+"box": [
+1071.0,
+467.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Ca2+",
+"CaM"
+],
+"out": [
+"Ca2+:CaM"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Chazin WJ",
+"year": "2011",
+"title": "Relating form and function of EF-hand calcium binding proteins.",
+"journal": "Acc Chem Res",
+"db": "pubmed",
+"id": "21314091"
+}
+]
+},
+{
+"id": "aiy8k198",
+"label": "",
+"class": "Process",
+"box": [
+1431.0,
+467.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Ca2+:CaM",
+"calcineurin"
+],
+"out": [
+"Ca2+:CaM:calcineurin"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Li SJ et al.",
+"year": "2016",
+"title": "Cooperative autoinhibition and multi-level activation mechanisms of calcineurin.",
+"journal": "Cell Res",
+"db": "pubmed",
+"id": "26794871"
+},
+{
+"authors": "Hogan PG et al.",
+"year": "2003",
+"title": "Transcriptional regulation by calcium, calcineurin, and NFAT.",
+"journal": "Genes Dev",
+"db": "pubmed",
+"id": "12975316"
+}
+]
+},
+{
+"id": "hj7bul04",
+"label": "",
+"class": "Process",
+"box": [
+1811.0,
+687.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"NFATC1"
+],
+"out": [
+"NFATC1"
+],
+"by": [
+"Ca2+:CaM:calcineurin"
+]
+},
+"references": [
+{
+"authors": "Okamura H et al.",
+"year": "2000",
+"title": "Concerted dephosphorylation of the transcription factor NFAT1 induces a conformational switch that regulates transcriptional activity.",
+"journal": "Mol Cell",
+"db": "pubmed",
+"id": "11030334"
+},
+{
+"authors": "Hogan PG et al.",
+"year": "2003",
+"title": "Transcriptional regulation by calcium, calcineurin, and NFAT.",
+"journal": "Genes Dev",
+"db": "pubmed",
+"id": "12975316"
+}
+]
+},
+{
+"id": "eo24nax3",
+"label": "",
+"class": "Process",
+"box": [
+2101.0,
+687.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"NFATC1"
+],
+"out": [
+"NFATC1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Okamura H et al.",
+"year": "2000",
+"title": "Concerted dephosphorylation of the transcription factor NFAT1 induces a conformational switch that regulates transcriptional activity.",
+"journal": "Mol Cell",
+"db": "pubmed",
+"id": "11030334"
+}
+]
+},
+{
+"label": "ITPR1",
+"class": "Macromolecule",
+"box": [
+1803.0,
+1209.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"endoplasmic reticulum"
+],
+[
+"HGNC",
+"HGNC:6180"
+],
+[
+"HGNC symbol",
+"ITPR1"
+],
+[
+"Previous symbols",
+"SCA15, SCA16, SCA29"
+],
+[
+"Alias symbols",
+"Insp3r1, IP3R1, ACV, PPP1R94"
+],
+[
+"Entrez",
+"3708"
+],
+[
+"Ensembl",
+"ENSG00000150995"
+],
+[
+"RefSeq",
+"NM_002222"
+],
+[
+"UniProt",
+"Q14643"
+]
+]
+},
+{
+"label": "IP3:ITPR1",
+"class": "Complex",
+"box": [
+1431.0,
+1158.8,
+104.0,
+140.5
+],
+"props": [
+[
+"Compartment",
+"endoplasmic reticulum"
+]
+]
+},
+{
+"label": "IP3",
+"class": "SimpleChemical",
+"box": [
+1463.0,
+1174.8,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"endoplasmic reticulum"
+],
+[
+"Full name",
+"1D-myo-inositol 1,4,5-trisphosphate"
+],
+[
+"Synonyms",
+"1,4,5-Insp3; 1D-myo-inositol 1,4,5-tris(dihydrogen phosphate); D-MYO-INOSITOL-1,4,5-TRIPHOSPHATE; D-myo-Inositol 1,4,5-trisphosphate; IP3; Inositol 1,4,5-trisphosphate; Ins(1,4,5)P3; InsP3"
+],
+[
+"Formula",
+"C6H15O15P3"
+],
+[
+"ChEBI",
+"CHEBI:16595"
+],
+[
+"KEGG",
+"C01245"
+],
+[
+"InChI",
+"InChI=1S/C6H15O15P3/c7-1-2(8)5(20-23(13,14)15)6(21-24(16,17)18)3(9)4(1)19-22(10,11)12/h1-9H,(H2,10,11,12)(H2,13,14,15)(H2,16,17,18)/t1-,2+,3+,4-,5-,6-/m1/s1"
+],
+[
+"InChIKey",
+"MMWCIQZXVOZEGG-XJTPDSDZSA-N"
+]
+]
+},
+{
+"label": "ITPR1",
+"class": "Macromolecule",
+"box": [
+1443.0,
+1222.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"endoplasmic reticulum"
+],
+[
+"HGNC",
+"HGNC:6180"
+],
+[
+"HGNC symbol",
+"ITPR1"
+],
+[
+"Previous symbols",
+"SCA15, SCA16, SCA29"
+],
+[
+"Alias symbols",
+"Insp3r1, IP3R1, ACV, PPP1R94"
+],
+[
+"Entrez",
+"3708"
+],
+[
+"Ensembl",
+"ENSG00000150995"
+],
+[
+"RefSeq",
+"NM_002222"
+],
+[
+"UniProt",
+"Q14643"
+]
+]
+},
+{
+"label": "Ca2+",
+"class": "SimpleChemical",
+"box": [
+1083.0,
+1069.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"endoplasmic reticulum"
+],
+[
+"Full name",
+"calcium(2+)"
+],
+[
+"Synonyms",
+"CALCIUM ION; Ca(2+); Ca2+; calcium(2+) ion; calcium(II) cation; calcium, doubly charged positive ion"
+],
+[
+"Formula",
+"Ca"
+],
+[
+"ChEBI",
+"CHEBI:29108"
+],
+[
+"KEGG",
+"C00076"
+],
+[
+"InChI",
+"InChI=1S/Ca/q+2"
+],
+[
+"InChIKey",
+"BHPQYMZQTOCNFJ-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "STIM1",
+"class": "Macromolecule",
+"box": [
+523.0,
+1069.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"endoplasmic reticulum"
+],
+[
+"HGNC",
+"HGNC:11386"
+],
+[
+"HGNC symbol",
+"STIM1"
+],
+[
+"Alias symbols",
+"GOK, D11S4896E"
+],
+[
+"Entrez",
+"6786"
+],
+[
+"Ensembl",
+"ENSG00000167323"
+],
+[
+"RefSeq",
+"NM_003156"
+],
+[
+"UniProt",
+"Q13586"
+]
+]
+},
+{
+"label": "STIM1:Ca2+",
+"class": "Complex",
+"box": [
+1031.0,
+1298.8,
+104.0,
+140.5
+],
+"props": [
+[
+"Compartment",
+"endoplasmic reticulum"
+]
+]
+},
+{
+"label": "STIM1",
+"class": "Macromolecule",
+"box": [
+1043.0,
+1314.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"endoplasmic reticulum"
+],
+[
+"HGNC",
+"HGNC:11386"
+],
+[
+"HGNC symbol",
+"STIM1"
+],
+[
+"Alias symbols",
+"GOK, D11S4896E"
+],
+[
+"Entrez",
+"6786"
+],
+[
+"Ensembl",
+"ENSG00000167323"
+],
+[
+"RefSeq",
+"NM_003156"
+],
+[
+"UniProt",
+"Q13586"
+]
+]
+},
+{
+"label": "Ca2+",
+"class": "SimpleChemical",
+"box": [
+1063.0,
+1362.8,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"endoplasmic reticulum"
+],
+[
+"Full name",
+"calcium(2+)"
+],
+[
+"Synonyms",
+"CALCIUM ION; Ca(2+); Ca2+; calcium(2+) ion; calcium(II) cation; calcium, doubly charged positive ion"
+],
+[
+"Formula",
+"Ca"
+],
+[
+"ChEBI",
+"CHEBI:29108"
+],
+[
+"KEGG",
+"C00076"
+],
+[
+"InChI",
+"InChI=1S/Ca/q+2"
+],
+[
+"InChIKey",
+"BHPQYMZQTOCNFJ-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "SERCA2",
+"class": "Macromolecule",
+"box": [
+863.0,
+1209.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"endoplasmic reticulum"
+],
+[
+"HGNC",
+"HGNC:812"
+],
+[
+"HGNC symbol",
+"ATP2A2"
+],
+[
+"Previous symbols",
+"ATP2B, DAR"
+],
+[
+"Alias symbols",
+"SERCA2"
+],
+[
+"Entrez",
+"488"
+],
+[
+"Ensembl",
+"ENSG00000174437"
+],
+[
+"RefSeq",
+"NM_001681"
+],
+[
+"UniProt",
+"P16615"
+]
+]
+},
+{
+"id": "bmr2lns3",
+"label": "",
+"class": "Process",
+"box": [
+1651.0,
+1217.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"IP3",
+"ITPR1"
+],
+"out": [
+"IP3:ITPR1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Baker MR et al.",
+"year": "2023",
+"title": "Understanding IP(3)R channels: From structural underpinnings to ligand-dependent conformational landscape.",
+"journal": "Cell Calcium",
+"db": "pubmed",
+"id": "37393815"
+},
+{
+"authors": "Rossi AM et al.",
+"year": "2018",
+"title": "IP(3) receptors - lessons from analyses ex cellula.",
+"journal": "J Cell Sci",
+"db": "pubmed",
+"id": "30552138"
+}
+]
+},
+{
+"id": "opay6aos",
+"label": "",
+"class": "Process",
+"box": [
+1291.0,
+1077.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Ca2+"
+],
+"out": [
+"Ca2+"
+],
+"by": [
+"IP3:ITPR1"
+]
+},
+"references": [
+{
+"authors": "Baker MR et al.",
+"year": "2023",
+"title": "Understanding IP(3)R channels: From structural underpinnings to ligand-dependent conformational landscape.",
+"journal": "Cell Calcium",
+"db": "pubmed",
+"id": "37393815"
+}
+]
+},
+{
+"id": "hq4u7nk3",
+"label": "",
+"class": "Process",
+"box": [
+871.0,
+1357.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"STIM1",
+"Ca2+"
+],
+"out": [
+"STIM1:Ca2+"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Prakriya M et al.",
+"year": "2015",
+"title": "Store-Operated Calcium Channels.",
+"journal": "Physiol Rev",
+"db": "pubmed",
+"id": "26400989"
+},
+{
+"authors": "Lunz V et al.",
+"year": "2019",
+"title": "STIM1 activation of Orai1.",
+"journal": "Cell Calcium",
+"db": "pubmed",
+"id": "30530091"
+}
+]
+},
+{
+"id": "woz9d6ty",
+"label": "",
+"class": "Process",
+"box": [
+891.0,
+1077.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Ca2+",
+"ATP"
+],
+"out": [
+"Ca2+",
+"ADP"
+],
+"by": [
+"SERCA2"
+]
+},
+"references": [
+{
+"authors": "Papp B et al.",
+"year": "2020",
+"title": "Endoplasmic Reticulum Calcium Pumps and Tumor Cell Differentiation.",
+"journal": "Int J Mol Sci",
+"db": "pubmed",
+"id": "32397400"
+}
+]
+},
+{
+"label": "TRPV1",
+"class": "Macromolecule",
+"box": [
+263.0,
+219.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"plasma membrane"
+],
+[
+"Full name",
+"Transient receptor potential cation channel subfamily V member 1"
+],
+[
+"Alternative names",
+"Capsaicin receptor; Osm-9-like TRP channel 1; Vanilloid receptor 1"
+],
+[
+"Function",
+"Non-selective calcium permeant cation channel involved in detection of noxious chemical and thermal stimuli. Seems to mediate proton influx and may be involved in intracellular acidosis in nociceptive neurons."
+],
+[
+"Location",
+"Postsynaptic cell membrane, Cell projection, dendritic spine membrane, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:12716"
+],
+[
+"HGNC symbol",
+"TRPV1"
+],
+[
+"Previous symbols",
+"VR1"
+],
+[
+"Entrez",
+"7442"
+],
+[
+"Ensembl",
+"ENSG00000196689"
+],
+[
+"RefSeq",
+"NM_018727"
+],
+[
+"UniProt",
+"Q8NER1"
+]
+]
+},
+{
+"label": "particle surface:TRPV1",
+"class": "Complex",
+"box": [
+375.0,
+48.8,
+176.0,
+140.5
+],
+"props": [
+[
+"Compartment",
+"plasma membrane"
+]
+]
+},
+{
+"label": "particle surface",
+"class": "UnspecifiedEntity",
+"box": [
+423.0,
+64.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"plasma membrane"
+]
+]
+},
+{
+"label": "TRPV1",
+"class": "Macromolecule",
+"box": [
+423.0,
+112.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"plasma membrane"
+],
+[
+"Full name",
+"Transient receptor potential cation channel subfamily V member 1"
+],
+[
+"Alternative names",
+"Capsaicin receptor; Osm-9-like TRP channel 1; Vanilloid receptor 1"
+],
+[
+"Function",
+"Non-selective calcium permeant cation channel involved in detection of noxious chemical and thermal stimuli. Seems to mediate proton influx and may be involved in intracellular acidosis in nociceptive neurons."
+],
+[
+"Location",
+"Postsynaptic cell membrane, Cell projection, dendritic spine membrane, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:12716"
+],
+[
+"HGNC symbol",
+"TRPV1"
+],
+[
+"Previous symbols",
+"VR1"
+],
+[
+"Entrez",
+"7442"
+],
+[
+"Ensembl",
+"ENSG00000196689"
+],
+[
+"RefSeq",
+"NM_018727"
+],
+[
+"UniProt",
+"Q8NER1"
+]
+]
+},
+{
+"label": "ORAI1",
+"class": "Macromolecule",
+"box": [
+263.0,
+879.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"plasma membrane"
+],
+[
+"HGNC",
+"HGNC:25896"
+],
+[
+"HGNC symbol",
+"ORAI1"
+],
+[
+"Previous symbols",
+"TMEM142A"
+],
+[
+"Alias symbols",
+"FLJ14466, CRACM1"
+],
+[
+"Entrez",
+"84876"
+],
+[
+"Ensembl",
+"ENSG00000276045"
+],
+[
+"RefSeq",
+"NM_032790"
+],
+[
+"UniProt",
+"Q96D31"
+]
+]
+},
+{
+"label": "STIM1:ORAI1",
+"class": "Complex",
+"box": [
+571.0,
+828.8,
+104.0,
+140.5
+],
+"props": [
+[
+"Compartment",
+"plasma membrane"
+]
+]
+},
+{
+"label": "STIM1",
+"class": "Macromolecule",
+"box": [
+583.0,
+844.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"plasma membrane"
+],
+[
+"HGNC",
+"HGNC:11386"
+],
+[
+"HGNC symbol",
+"STIM1"
+],
+[
+"Alias symbols",
+"GOK, D11S4896E"
+],
+[
+"Entrez",
+"6786"
+],
+[
+"Ensembl",
+"ENSG00000167323"
+],
+[
+"RefSeq",
+"NM_003156"
+],
+[
+"UniProt",
+"Q13586"
+]
+]
+},
+{
+"label": "ORAI1",
+"class": "Macromolecule",
+"box": [
+583.0,
+892.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"plasma membrane"
+],
+[
+"HGNC",
+"HGNC:25896"
+],
+[
+"HGNC symbol",
+"ORAI1"
+],
+[
+"Previous symbols",
+"TMEM142A"
+],
+[
+"Alias symbols",
+"FLJ14466, CRACM1"
+],
+[
+"Entrez",
+"84876"
+],
+[
+"Ensembl",
+"ENSG00000276045"
+],
+[
+"RefSeq",
+"NM_032790"
+],
+[
+"UniProt",
+"Q96D31"
+]
+]
+},
+{
+"label": "PMCA1",
+"class": "Macromolecule",
+"box": [
+563.0,
+639.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"plasma membrane"
+],
+[
+"HGNC",
+"HGNC:814"
+],
+[
+"HGNC symbol",
+"ATP2B1"
+],
+[
+"Alias symbols",
+"PMCA1"
+],
+[
+"Entrez",
+"490"
+],
+[
+"Ensembl",
+"ENSG00000070961"
+],
+[
+"RefSeq",
+"NM_001682"
+],
+[
+"UniProt",
+"P20020"
+]
+]
+},
+{
+"id": "v83be8i5",
+"label": "",
+"class": "Process",
+"box": [
+291.0,
+107.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"particle surface",
+"TRPV1"
+],
+"out": [
+"particle surface:TRPV1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Deering-Rice CE et al.",
+"year": "2012",
+"title": "Transient receptor potential vanilloid-1 (TRPV1) is a mediator of lung toxicity for coal fly ash particulate material.",
+"journal": "Mol Pharmacol",
+"db": "pubmed",
+"id": "22155782"
+},
+{
+"authors": "Deering-Rice CE et al.",
+"year": "2016",
+"title": "Characterization of Transient Receptor Potential Vanilloid-1 (TRPV1) Variant Activation by Coal Fly Ash Particles and Associations with Altered Transient Receptor Potential Ankyrin-1 (TRPA1) Expression and Asthma.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "27758864"
+}
+]
+},
+{
+"id": "wm1pkwvk",
+"label": "",
+"class": "Process",
+"box": [
+611.0,
+367.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Ca2+"
+],
+"out": [
+"Ca2+"
+],
+"by": [
+"particle surface:TRPV1"
+]
+},
+"references": [
+{
+"authors": "Deering-Rice CE et al.",
+"year": "2012",
+"title": "Transient receptor potential vanilloid-1 (TRPV1) is a mediator of lung toxicity for coal fly ash particulate material.",
+"journal": "Mol Pharmacol",
+"db": "pubmed",
+"id": "22155782"
+},
+{
+"authors": "Lamb JG et al.",
+"year": "2017",
+"title": "Activation of Human Transient Receptor Potential Melastatin-8 (TRPM8) by Calcium-Rich Particulate Materials and Effects on Human Lung Cells.",
+"journal": "Mol Pharmacol",
+"db": "pubmed",
+"id": "29038158"
+}
+]
+},
+{
+"id": "u564m6ex",
+"label": "",
+"class": "Process",
+"box": [
+431.0,
+887.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"STIM1",
+"ORAI1"
+],
+"out": [
+"STIM1:ORAI1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Lunz V et al.",
+"year": "2019",
+"title": "STIM1 activation of Orai1.",
+"journal": "Cell Calcium",
+"db": "pubmed",
+"id": "30530091"
+},
+{
+"authors": "Prakriya M et al.",
+"year": "2015",
+"title": "Store-Operated Calcium Channels.",
+"journal": "Physiol Rev",
+"db": "pubmed",
+"id": "26400989"
+}
+]
+},
+{
+"id": "dolf1ra1",
+"label": "",
+"class": "Process",
+"box": [
+451.0,
+547.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Ca2+"
+],
+"out": [
+"Ca2+"
+],
+"by": [
+"STIM1:ORAI1"
+]
+},
+"references": [
+{
+"authors": "Prakriya M et al.",
+"year": "2015",
+"title": "Store-Operated Calcium Channels.",
+"journal": "Physiol Rev",
+"db": "pubmed",
+"id": "26400989"
+},
+{
+"authors": "Lunz V et al.",
+"year": "2019",
+"title": "STIM1 activation of Orai1.",
+"journal": "Cell Calcium",
+"db": "pubmed",
+"id": "30530091"
+}
+]
+},
+{
+"id": "xwwv4p9t",
+"label": "",
+"class": "Process",
+"box": [
+611.0,
+747.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Ca2+",
+"ATP"
+],
+"out": [
+"Ca2+",
+"ADP"
+],
+"by": [
+"PMCA1"
+]
+},
+"references": [
+{
+"authors": "Brini M et al.",
+"year": "2013",
+"title": "The plasma membrane calcium pump in health and disease.",
+"journal": "FEBS J",
+"db": "pubmed",
+"id": "23413890"
+}
+]
+},
+{
+"label": "particle surface",
+"class": "UnspecifiedEntity",
+"box": [
+68.0,
+99.0,
+110.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"extracellular space"
+]
+]
+},
+{
+"label": "Ca2+",
+"class": "SimpleChemical",
+"box": [
+103.0,
+359.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"extracellular space"
+],
+[
+"Full name",
+"calcium(2+)"
+],
+[
+"Synonyms",
+"CALCIUM ION; Ca(2+); Ca2+; calcium(2+) ion; calcium(II) cation; calcium, doubly charged positive ion"
+],
+[
+"Formula",
+"Ca"
+],
+[
+"ChEBI",
+"CHEBI:29108"
+],
+[
+"KEGG",
+"C00076"
+],
+[
+"InChI",
+"InChI=1S/Ca/q+2"
+],
+[
+"InChIKey",
+"BHPQYMZQTOCNFJ-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "Ca2+",
+"class": "SimpleChemical",
+"box": [
+103.0,
+539.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"extracellular space"
+],
+[
+"Full name",
+"calcium(2+)"
+],
+[
+"Synonyms",
+"CALCIUM ION; Ca(2+); Ca2+; calcium(2+) ion; calcium(II) cation; calcium, doubly charged positive ion"
+],
+[
+"Formula",
+"Ca"
+],
+[
+"ChEBI",
+"CHEBI:29108"
+],
+[
+"KEGG",
+"C00076"
+],
+[
+"InChI",
+"InChI=1S/Ca/q+2"
+],
+[
+"InChIKey",
+"BHPQYMZQTOCNFJ-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "Ca2+",
+"class": "SimpleChemical",
+"box": [
+103.0,
+739.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"extracellular space"
+],
+[
+"Full name",
+"calcium(2+)"
+],
+[
+"Synonyms",
+"CALCIUM ION; Ca(2+); Ca2+; calcium(2+) ion; calcium(II) cation; calcium, doubly charged positive ion"
+],
+[
+"Formula",
+"Ca"
+],
+[
+"ChEBI",
+"CHEBI:29108"
+],
+[
+"KEGG",
+"C00076"
+],
+[
+"InChI",
+"InChI=1S/Ca/q+2"
+],
+[
+"InChIKey",
+"BHPQYMZQTOCNFJ-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "NFATC1",
+"class": "Macromolecule",
+"box": [
+2263.0,
+679.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+],
+[
+"HGNC",
+"HGNC:7775"
+],
+[
+"HGNC symbol",
+"NFATC1"
+],
+[
+"Alias symbols",
+"NF-ATC, NFATc, NFAT2"
+],
+[
+"Entrez",
+"4772"
+],
+[
+"Ensembl",
+"ENSG00000131196"
+],
+[
+"RefSeq",
+"NM_172390"
+],
+[
+"UniProt",
+"O95644"
+]
+]
+}
+]
+}

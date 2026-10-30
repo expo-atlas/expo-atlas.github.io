@@ -1,0 +1,3485 @@
+{
+"nodes": [
+{
+"label": "STAT1",
+"class": "Macromolecule",
+"box": [
+1111.0,
+443.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"PTM",
+" at Tyr701"
+],
+[
+"HGNC",
+"HGNC:11362"
+],
+[
+"HGNC symbol",
+"STAT1"
+],
+[
+"Alias symbols",
+"STAT91, ISGF-3"
+],
+[
+"Entrez",
+"6772"
+],
+[
+"Ensembl",
+"ENSG00000115415"
+],
+[
+"RefSeq",
+"NM_007315"
+],
+[
+"UniProt",
+"P42224"
+]
+]
+},
+{
+"label": "STAT1",
+"class": "Macromolecule",
+"box": [
+1391.0,
+443.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"PTM",
+"Phosphorylated at Tyr701"
+],
+[
+"HGNC",
+"HGNC:11362"
+],
+[
+"HGNC symbol",
+"STAT1"
+],
+[
+"Alias symbols",
+"STAT91, ISGF-3"
+],
+[
+"Entrez",
+"6772"
+],
+[
+"Ensembl",
+"ENSG00000115415"
+],
+[
+"RefSeq",
+"NM_007315"
+],
+[
+"UniProt",
+"P42224"
+]
+]
+},
+{
+"label": "STAT2",
+"class": "Macromolecule",
+"box": [
+1211.0,
+683.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"PTM",
+" at Tyr690"
+],
+[
+"Full name",
+"Signal transducer and activator of transcription 2"
+],
+[
+"Alternative names",
+"p113"
+],
+[
+"Function",
+"Signal transducer and activator of transcription that mediates signaling by type I interferons (IFN-alpha and IFN-beta). Following type I IFN binding to cell surface receptors, Jak kinases (TYK2 and JAK1) are activated, leading to tyrosine phosphorylation of STAT1 and STAT2."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:11363"
+],
+[
+"HGNC symbol",
+"STAT2"
+],
+[
+"Alias symbols",
+"STAT113"
+],
+[
+"Entrez",
+"6773"
+],
+[
+"Ensembl",
+"ENSG00000170581"
+],
+[
+"RefSeq",
+"NM_005419"
+],
+[
+"UniProt",
+"P52630"
+]
+]
+},
+{
+"label": "STAT2",
+"class": "Macromolecule",
+"box": [
+1491.0,
+683.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"PTM",
+"Phosphorylated at Tyr690, by JAK"
+],
+[
+"Full name",
+"Signal transducer and activator of transcription 2"
+],
+[
+"Alternative names",
+"p113"
+],
+[
+"Function",
+"Signal transducer and activator of transcription that mediates signaling by type I interferons (IFN-alpha and IFN-beta). Following type I IFN binding to cell surface receptors, Jak kinases (TYK2 and JAK1) are activated, leading to tyrosine phosphorylation of STAT1 and STAT2."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:11363"
+],
+[
+"HGNC symbol",
+"STAT2"
+],
+[
+"Alias symbols",
+"STAT113"
+],
+[
+"Entrez",
+"6773"
+],
+[
+"Ensembl",
+"ENSG00000170581"
+],
+[
+"RefSeq",
+"NM_005419"
+],
+[
+"UniProt",
+"P52630"
+]
+]
+},
+{
+"label": "IRF9",
+"class": "Macromolecule",
+"box": [
+1611.0,
+863.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"Interferon regulatory factor 9"
+],
+[
+"Alternative names",
+"IFN-alpha-responsive transcription factor subunit; ISGF3 p48 subunit; Interferon-stimulated gene factor 3 gamma; Transcriptional regulator ISGF3 subunit gamma"
+],
+[
+"Function",
+"Transcription factor that plays an essential role in anti-viral immunity. It mediates signaling by type I IFNs (IFN-alpha and IFN-beta)."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:6131"
+],
+[
+"HGNC symbol",
+"IRF9"
+],
+[
+"Previous symbols",
+"ISGF3G"
+],
+[
+"Entrez",
+"10379"
+],
+[
+"Ensembl",
+"ENSG00000213928"
+],
+[
+"RefSeq",
+"NM_001385400"
+],
+[
+"UniProt",
+"Q00978"
+]
+]
+},
+{
+"label": "ISGF3",
+"class": "Complex",
+"box": [
+1755.0,
+508.2,
+192.0,
+149.5
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
+"label": "STAT1",
+"class": "Macromolecule",
+"box": [
+1767.0,
+533.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"PTM",
+"Phosphorylated at Tyr701"
+],
+[
+"HGNC",
+"HGNC:11362"
+],
+[
+"HGNC symbol",
+"STAT1"
+],
+[
+"Alias symbols",
+"STAT91, ISGF-3"
+],
+[
+"Entrez",
+"6772"
+],
+[
+"Ensembl",
+"ENSG00000115415"
+],
+[
+"RefSeq",
+"NM_007315"
+],
+[
+"UniProt",
+"P42224"
+]
+]
+},
+{
+"label": "STAT2",
+"class": "Macromolecule",
+"box": [
+1855.0,
+533.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"PTM",
+"Phosphorylated at Tyr690, by JAK"
+],
+[
+"Full name",
+"Signal transducer and activator of transcription 2"
+],
+[
+"Alternative names",
+"p113"
+],
+[
+"Function",
+"Signal transducer and activator of transcription that mediates signaling by type I interferons (IFN-alpha and IFN-beta). Following type I IFN binding to cell surface receptors, Jak kinases (TYK2 and JAK1) are activated, leading to tyrosine phosphorylation of STAT1 and STAT2."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:11363"
+],
+[
+"HGNC symbol",
+"STAT2"
+],
+[
+"Alias symbols",
+"STAT113"
+],
+[
+"Entrez",
+"6773"
+],
+[
+"Ensembl",
+"ENSG00000170581"
+],
+[
+"RefSeq",
+"NM_005419"
+],
+[
+"UniProt",
+"P52630"
+]
+]
+},
+{
+"label": "IRF9",
+"class": "Macromolecule",
+"box": [
+1767.0,
+581.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"Full name",
+"Interferon regulatory factor 9"
+],
+[
+"Alternative names",
+"IFN-alpha-responsive transcription factor subunit; ISGF3 p48 subunit; Interferon-stimulated gene factor 3 gamma; Transcriptional regulator ISGF3 subunit gamma"
+],
+[
+"Function",
+"Transcription factor that plays an essential role in anti-viral immunity. It mediates signaling by type I IFNs (IFN-alpha and IFN-beta)."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:6131"
+],
+[
+"HGNC symbol",
+"IRF9"
+],
+[
+"Previous symbols",
+"ISGF3G"
+],
+[
+"Entrez",
+"10379"
+],
+[
+"Ensembl",
+"ENSG00000213928"
+],
+[
+"RefSeq",
+"NM_001385400"
+],
+[
+"UniProt",
+"Q00978"
+]
+]
+},
+{
+"label": "STAT3",
+"class": "Macromolecule",
+"box": [
+1111.0,
+1253.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"PTM",
+" at Tyr705"
+],
+[
+"HGNC",
+"HGNC:11364"
+],
+[
+"HGNC symbol",
+"STAT3"
+],
+[
+"Alias symbols",
+"APRF"
+],
+[
+"Entrez",
+"6774"
+],
+[
+"Ensembl",
+"ENSG00000168610"
+],
+[
+"RefSeq",
+"NM_139276, NM_003150"
+],
+[
+"UniProt",
+"P40763"
+]
+]
+},
+{
+"label": "STAT3",
+"class": "Macromolecule",
+"box": [
+1391.0,
+1253.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"PTM",
+"Phosphorylated at Tyr705"
+],
+[
+"HGNC",
+"HGNC:11364"
+],
+[
+"HGNC symbol",
+"STAT3"
+],
+[
+"Alias symbols",
+"APRF"
+],
+[
+"Entrez",
+"6774"
+],
+[
+"Ensembl",
+"ENSG00000168610"
+],
+[
+"RefSeq",
+"NM_139276, NM_003150"
+],
+[
+"UniProt",
+"P40763"
+]
+]
+},
+{
+"label": "STAT3 dimer",
+"class": "Complex",
+"box": [
+1686.0,
+1219.2,
+110.0,
+107.5
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
+"label": "STAT3",
+"class": "Macromolecule",
+"box": [
+1698.0,
+1244.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"PTM",
+"Phosphorylated at Tyr705"
+],
+[
+"HGNC",
+"HGNC:11364"
+],
+[
+"HGNC symbol",
+"STAT3"
+],
+[
+"Alias symbols",
+"APRF"
+],
+[
+"Entrez",
+"6774"
+],
+[
+"Ensembl",
+"ENSG00000168610"
+],
+[
+"RefSeq",
+"NM_139276, NM_003150"
+],
+[
+"UniProt",
+"P40763"
+]
+]
+},
+{
+"label": "SOCS1",
+"class": "Macromolecule",
+"box": [
+1251.0,
+63.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"HGNC",
+"HGNC:19383"
+],
+[
+"HGNC symbol",
+"SOCS1"
+],
+[
+"Alias symbols",
+"SOCS-1, SSI-1, JAB, TIP3, Cish1"
+],
+[
+"Entrez",
+"8651"
+],
+[
+"Ensembl",
+"ENSG00000185338"
+],
+[
+"RefSeq",
+"NM_003745"
+],
+[
+"UniProt",
+"O15524"
+]
+]
+},
+{
+"label": "SOCS3",
+"class": "Macromolecule",
+"box": [
+1251.0,
+1943.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"HGNC",
+"HGNC:19391"
+],
+[
+"HGNC symbol",
+"SOCS3"
+],
+[
+"Alias symbols",
+"SSI-3, CIS3, SOCS-3, Cish3"
+],
+[
+"Entrez",
+"9021"
+],
+[
+"Ensembl",
+"ENSG00000184557"
+],
+[
+"RefSeq",
+"NM_001378932"
+],
+[
+"UniProt",
+"O14543"
+]
+]
+},
+{
+"label": "SOCS1",
+"class": "NucleicAcidFeature",
+"box": [
+1463.0,
+63.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"HGNC",
+"HGNC:19383"
+],
+[
+"HGNC symbol",
+"SOCS1"
+],
+[
+"Alias symbols",
+"SOCS-1, SSI-1, JAB, TIP3, Cish1"
+],
+[
+"Entrez",
+"8651"
+],
+[
+"Ensembl",
+"ENSG00000185338"
+],
+[
+"RefSeq",
+"NM_003745"
+],
+[
+"UniProt",
+"O15524"
+]
+]
+},
+{
+"label": "",
+"class": "EmptySet",
+"box": [
+1382.0,
+148.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
+"label": "SOCS3",
+"class": "NucleicAcidFeature",
+"box": [
+1463.0,
+1943.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+],
+[
+"HGNC",
+"HGNC:19391"
+],
+[
+"HGNC symbol",
+"SOCS3"
+],
+[
+"Alias symbols",
+"SSI-3, CIS3, SOCS-3, Cish3"
+],
+[
+"Entrez",
+"9021"
+],
+[
+"Ensembl",
+"ENSG00000184557"
+],
+[
+"RefSeq",
+"NM_001378932"
+],
+[
+"UniProt",
+"O14543"
+]
+]
+},
+{
+"label": "",
+"class": "EmptySet",
+"box": [
+1382.0,
+1868.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"cytoplasm"
+]
+]
+},
+{
+"id": "m9zvdhap",
+"label": "",
+"class": "Process",
+"box": [
+1279.0,
+451.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"STAT1"
+],
+"out": [
+"STAT1"
+],
+"by": [
+"type I interferon:IFNAR:JAK1:TYK2",
+"SOCS1"
+]
+},
+"references": [
+{
+"authors": "Shuai K et al.",
+"journal": "Science",
+"title": "A single phosphotyrosine residue of Stat91 required for gene activation by interferon-gamma.",
+"year": "1993",
+"db": "pubmed",
+"id": "7690989"
+},
+{
+"authors": "Improta T et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Transcription factor ISGF-3 formation requires phosphorylated Stat91 protein, but Stat113 protein is phosphorylated independently of Stat91 protein.",
+"year": "1994",
+"db": "pubmed",
+"id": "8197134"
+},
+{
+"authors": "Yasukawa H et al.",
+"journal": "EMBO J",
+"title": "The JAK-binding protein JAB inhibits Janus tyrosine kinase activity through binding in the activation loop.",
+"year": "1999",
+"db": "pubmed",
+"id": "10064597"
+},
+{
+"authors": "Fenner JE et al.",
+"journal": "Nat Immunol",
+"title": "Suppressor of cytokine signaling 1 regulates the immune response to infection by a unique inhibition of type I interferon activity.",
+"year": "2006",
+"db": "pubmed",
+"id": "16311601"
+}
+]
+},
+{
+"id": "inzk8gun",
+"label": "",
+"class": "Process",
+"box": [
+1379.0,
+691.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"STAT2"
+],
+"out": [
+"STAT2"
+],
+"by": [
+"type I interferon:IFNAR:JAK1:TYK2",
+"SOCS1"
+]
+},
+"references": [
+{
+"authors": "Improta T et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Transcription factor ISGF-3 formation requires phosphorylated Stat91 protein, but Stat113 protein is phosphorylated independently of Stat91 protein.",
+"year": "1994",
+"db": "pubmed",
+"id": "8197134"
+},
+{
+"authors": "Stark GR et al.",
+"journal": "Immunity",
+"title": "The JAK-STAT pathway at twenty.",
+"year": "2012",
+"db": "pubmed",
+"id": "22520844"
+},
+{
+"authors": "Song MM et al.",
+"journal": "J Biol Chem",
+"title": "The suppressor of cytokine signaling (SOCS) 1 and SOCS3 but not SOCS2 proteins inhibit interferon-mediated antiviral and antiproliferative activities.",
+"year": "1998",
+"db": "pubmed",
+"id": "9857039"
+}
+]
+},
+{
+"id": "xct8hh9n",
+"label": "",
+"class": "Process",
+"box": [
+1659.0,
+571.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"STAT1",
+"STAT2",
+"IRF9"
+],
+"out": [
+"ISGF3"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Fu XY et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "ISGF3, the transcriptional activator induced by interferon alpha, consists of multiple interacting polypeptide chains.",
+"year": "1990",
+"db": "pubmed",
+"id": "2236065"
+},
+{
+"authors": "Improta T et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Transcription factor ISGF-3 formation requires phosphorylated Stat91 protein, but Stat113 protein is phosphorylated independently of Stat91 protein.",
+"year": "1994",
+"db": "pubmed",
+"id": "8197134"
+}
+]
+},
+{
+"id": "ycck0jw0",
+"label": "",
+"class": "Process",
+"box": [
+1279.0,
+1491.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"STAT3"
+],
+"out": [
+"STAT3"
+],
+"by": [
+"IL-6:IL6R:IL6ST:JAK1",
+"SOCS3"
+]
+},
+"references": [
+{
+"authors": "Guschin D et al.",
+"journal": "EMBO J",
+"title": "A major role for the protein tyrosine kinase JAK1 in the JAK/STAT signal transduction pathway in response to interleukin-6.",
+"year": "1995",
+"db": "pubmed",
+"id": "7537214"
+},
+{
+"authors": "Nicholson SE et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Suppressor of cytokine signaling-3 preferentially binds to the SHP-2-binding site on the shared cytokine receptor subunit gp130.",
+"year": "2000",
+"db": "pubmed",
+"id": "10829066"
+},
+{
+"authors": "Niemand C et al.",
+"journal": "J Immunol",
+"title": "Activation of STAT3 by IL-6 and IL-10 in primary human macrophages is differentially modulated by suppressor of cytokine signaling 3.",
+"year": "2003",
+"db": "pubmed",
+"id": "12626585"
+},
+{
+"authors": "Croker BA et al.",
+"journal": "Nat Immunol",
+"title": "SOCS3 negatively regulates IL-6 signaling in vivo.",
+"year": "2003",
+"db": "pubmed",
+"id": "12754505"
+}
+]
+},
+{
+"id": "nxy95urb",
+"label": "",
+"class": "Process",
+"box": [
+1279.0,
+1031.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"STAT3"
+],
+"out": [
+"STAT3"
+],
+"by": [
+"IL-10:IL10RA:IL10RB:JAK1:TYK2"
+]
+},
+"references": [
+{
+"authors": "Finbloom DS et al.",
+"journal": "J Immunol",
+"title": "IL-10 induces the tyrosine phosphorylation of tyk2 and Jak1 and the differential assembly of STAT1 alpha and STAT3 complexes in human T cells and monocytes.",
+"year": "1995",
+"db": "pubmed",
+"id": "7543512"
+},
+{
+"authors": "Niemand C et al.",
+"journal": "J Immunol",
+"title": "Activation of STAT3 by IL-6 and IL-10 in primary human macrophages is differentially modulated by suppressor of cytokine signaling 3.",
+"year": "2003",
+"db": "pubmed",
+"id": "12626585"
+},
+{
+"authors": "Takeda K et al.",
+"journal": "Immunity",
+"title": "Enhanced Th1 activity and development of chronic enterocolitis in mice devoid of Stat3 in macrophages and neutrophils.",
+"year": "1999",
+"db": "pubmed",
+"id": "10023769"
+}
+]
+},
+{
+"id": "dpvnoei0",
+"label": "",
+"class": "Process",
+"box": [
+1559.0,
+1261.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"STAT3"
+],
+"out": [
+"STAT3 dimer"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Becker S et al.",
+"journal": "Nature",
+"title": "Three-dimensional structure of the Stat3beta homodimer bound to DNA.",
+"year": "1998",
+"db": "pubmed",
+"id": "9671298"
+}
+]
+},
+{
+"id": "vzle8to4",
+"label": "",
+"class": "Process",
+"box": [
+1385.0,
+71.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+""
+],
+"out": [
+"SOCS1"
+],
+"by": [
+"SOCS1"
+]
+},
+"references": [
+{
+"authors": "Starr R et al.",
+"journal": "Nature",
+"title": "A family of cytokine-inducible inhibitors of signalling.",
+"year": "1997",
+"db": "pubmed",
+"id": "9202125"
+},
+{
+"authors": "Fenner JE et al.",
+"journal": "Nat Immunol",
+"title": "Suppressor of cytokine signaling 1 regulates the immune response to infection by a unique inhibition of type I interferon activity.",
+"year": "2006",
+"db": "pubmed",
+"id": "16311601"
+}
+]
+},
+{
+"id": "bdjds3kq",
+"label": "",
+"class": "Process",
+"box": [
+1385.0,
+1951.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+""
+],
+"out": [
+"SOCS3"
+],
+"by": [
+"SOCS3"
+]
+},
+"references": [
+{
+"authors": "Starr R et al.",
+"journal": "Nature",
+"title": "A family of cytokine-inducible inhibitors of signalling.",
+"year": "1997",
+"db": "pubmed",
+"id": "9202125"
+},
+{
+"authors": "Niemand C et al.",
+"journal": "J Immunol",
+"title": "Activation of STAT3 by IL-6 and IL-10 in primary human macrophages is differentially modulated by suppressor of cytokine signaling 3.",
+"year": "2003",
+"db": "pubmed",
+"id": "12626585"
+}
+]
+},
+{
+"id": "bruw5d6i",
+"label": "",
+"class": "Process",
+"box": [
+1999.0,
+571.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"ISGF3"
+],
+"out": [
+"ISGF3"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Banninger G et al.",
+"journal": "J Biol Chem",
+"title": "STAT2 nuclear trafficking.",
+"year": "2004",
+"db": "pubmed",
+"id": "15175343"
+}
+]
+},
+{
+"id": "kvo60pi2",
+"label": "",
+"class": "Process",
+"box": [
+1999.0,
+1261.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"STAT3 dimer"
+],
+"out": [
+"STAT3 dimer"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Stark GR et al.",
+"journal": "Immunity",
+"title": "The JAK-STAT pathway at twenty.",
+"year": "2012",
+"db": "pubmed",
+"id": "22520844"
+}
+]
+},
+{
+"label": "ISGF3",
+"class": "Complex",
+"box": [
+2135.0,
+508.2,
+192.0,
+149.5
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+]
+]
+},
+{
+"label": "STAT1",
+"class": "Macromolecule",
+"box": [
+2147.0,
+533.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+],
+[
+"PTM",
+"Phosphorylated at Tyr701"
+],
+[
+"HGNC",
+"HGNC:11362"
+],
+[
+"HGNC symbol",
+"STAT1"
+],
+[
+"Alias symbols",
+"STAT91, ISGF-3"
+],
+[
+"Entrez",
+"6772"
+],
+[
+"Ensembl",
+"ENSG00000115415"
+],
+[
+"RefSeq",
+"NM_007315"
+],
+[
+"UniProt",
+"P42224"
+]
+]
+},
+{
+"label": "STAT2",
+"class": "Macromolecule",
+"box": [
+2235.0,
+533.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+],
+[
+"PTM",
+"Phosphorylated at Tyr690, by JAK"
+],
+[
+"Full name",
+"Signal transducer and activator of transcription 2"
+],
+[
+"Alternative names",
+"p113"
+],
+[
+"Function",
+"Signal transducer and activator of transcription that mediates signaling by type I interferons (IFN-alpha and IFN-beta). Following type I IFN binding to cell surface receptors, Jak kinases (TYK2 and JAK1) are activated, leading to tyrosine phosphorylation of STAT1 and STAT2."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:11363"
+],
+[
+"HGNC symbol",
+"STAT2"
+],
+[
+"Alias symbols",
+"STAT113"
+],
+[
+"Entrez",
+"6773"
+],
+[
+"Ensembl",
+"ENSG00000170581"
+],
+[
+"RefSeq",
+"NM_005419"
+],
+[
+"UniProt",
+"P52630"
+]
+]
+},
+{
+"label": "IRF9",
+"class": "Macromolecule",
+"box": [
+2147.0,
+581.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+],
+[
+"Full name",
+"Interferon regulatory factor 9"
+],
+[
+"Alternative names",
+"IFN-alpha-responsive transcription factor subunit; ISGF3 p48 subunit; Interferon-stimulated gene factor 3 gamma; Transcriptional regulator ISGF3 subunit gamma"
+],
+[
+"Function",
+"Transcription factor that plays an essential role in anti-viral immunity. It mediates signaling by type I IFNs (IFN-alpha and IFN-beta)."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:6131"
+],
+[
+"HGNC symbol",
+"IRF9"
+],
+[
+"Previous symbols",
+"ISGF3G"
+],
+[
+"Entrez",
+"10379"
+],
+[
+"Ensembl",
+"ENSG00000213928"
+],
+[
+"RefSeq",
+"NM_001385400"
+],
+[
+"UniProt",
+"Q00978"
+]
+]
+},
+{
+"label": "STAT3 dimer",
+"class": "Complex",
+"box": [
+2176.0,
+1219.2,
+110.0,
+107.5
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+]
+]
+},
+{
+"label": "STAT3",
+"class": "Macromolecule",
+"box": [
+2188.0,
+1244.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+],
+[
+"PTM",
+"Phosphorylated at Tyr705"
+],
+[
+"HGNC",
+"HGNC:11364"
+],
+[
+"HGNC symbol",
+"STAT3"
+],
+[
+"Alias symbols",
+"APRF"
+],
+[
+"Entrez",
+"6774"
+],
+[
+"Ensembl",
+"ENSG00000168610"
+],
+[
+"RefSeq",
+"NM_139276, NM_003150"
+],
+[
+"UniProt",
+"P40763"
+]
+]
+},
+{
+"label": "SOCS1",
+"class": "NucleicAcidFeature",
+"box": [
+2691.0,
+133.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+],
+[
+"HGNC",
+"HGNC:19383"
+],
+[
+"HGNC symbol",
+"SOCS1"
+],
+[
+"Alias symbols",
+"SOCS-1, SSI-1, JAB, TIP3, Cish1"
+],
+[
+"Entrez",
+"8651"
+],
+[
+"Ensembl",
+"ENSG00000185338"
+],
+[
+"RefSeq",
+"NM_003745"
+],
+[
+"UniProt",
+"O15524"
+]
+]
+},
+{
+"label": "AND",
+"class": "Operator",
+"box": [
+2596.0,
+138.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+]
+]
+},
+{
+"label": "",
+"class": "EmptySet",
+"box": [
+2682.0,
+68.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+]
+]
+},
+{
+"label": "SOCS1",
+"class": "NucleicAcidFeature",
+"box": [
+2465.0,
+63.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+],
+[
+"HGNC",
+"HGNC:19383"
+],
+[
+"HGNC symbol",
+"SOCS1"
+],
+[
+"Alias symbols",
+"SOCS-1, SSI-1, JAB, TIP3, Cish1"
+],
+[
+"Entrez",
+"8651"
+],
+[
+"Ensembl",
+"ENSG00000185338"
+],
+[
+"RefSeq",
+"NM_003745"
+],
+[
+"UniProt",
+"O15524"
+]
+]
+},
+{
+"label": "SOCS3",
+"class": "NucleicAcidFeature",
+"box": [
+2691.0,
+1873.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+],
+[
+"HGNC",
+"HGNC:19391"
+],
+[
+"HGNC symbol",
+"SOCS3"
+],
+[
+"Alias symbols",
+"SSI-3, CIS3, SOCS-3, Cish3"
+],
+[
+"Entrez",
+"9021"
+],
+[
+"Ensembl",
+"ENSG00000184557"
+],
+[
+"RefSeq",
+"NM_001378932"
+],
+[
+"UniProt",
+"O14543"
+]
+]
+},
+{
+"label": "AND",
+"class": "Operator",
+"box": [
+2596.0,
+1878.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+]
+]
+},
+{
+"label": "",
+"class": "EmptySet",
+"box": [
+2682.0,
+1948.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+]
+]
+},
+{
+"label": "SOCS3",
+"class": "NucleicAcidFeature",
+"box": [
+2465.0,
+1943.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"nucleus"
+],
+[
+"HGNC",
+"HGNC:19391"
+],
+[
+"HGNC symbol",
+"SOCS3"
+],
+[
+"Alias symbols",
+"SSI-3, CIS3, SOCS-3, Cish3"
+],
+[
+"Entrez",
+"9021"
+],
+[
+"Ensembl",
+"ENSG00000184557"
+],
+[
+"RefSeq",
+"NM_001378932"
+],
+[
+"UniProt",
+"O14543"
+]
+]
+},
+{
+"id": "fualnnku",
+"label": "",
+"class": "Process",
+"box": [
+2599.0,
+71.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+""
+],
+"out": [
+"SOCS1"
+],
+"by": [
+"AND"
+]
+},
+"references": [
+{
+"authors": "Starr R et al.",
+"journal": "Nature",
+"title": "A family of cytokine-inducible inhibitors of signalling.",
+"year": "1997",
+"db": "pubmed",
+"id": "9202125"
+},
+{
+"authors": "Song MM et al.",
+"journal": "J Biol Chem",
+"title": "The suppressor of cytokine signaling (SOCS) 1 and SOCS3 but not SOCS2 proteins inhibit interferon-mediated antiviral and antiproliferative activities.",
+"year": "1998",
+"db": "pubmed",
+"id": "9857039"
+},
+{
+"authors": "Fenner JE et al.",
+"journal": "Nat Immunol",
+"title": "Suppressor of cytokine signaling 1 regulates the immune response to infection by a unique inhibition of type I interferon activity.",
+"year": "2006",
+"db": "pubmed",
+"id": "16311601"
+}
+]
+},
+{
+"id": "g4j5czxn",
+"label": "",
+"class": "Process",
+"box": [
+2599.0,
+1951.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+""
+],
+"out": [
+"SOCS3"
+],
+"by": [
+"AND"
+]
+},
+"references": [
+{
+"authors": "Starr R et al.",
+"journal": "Nature",
+"title": "A family of cytokine-inducible inhibitors of signalling.",
+"year": "1997",
+"db": "pubmed",
+"id": "9202125"
+},
+{
+"authors": "Croker BA et al.",
+"journal": "Nat Immunol",
+"title": "SOCS3 negatively regulates IL-6 signaling in vivo.",
+"year": "2003",
+"db": "pubmed",
+"id": "12754505"
+},
+{
+"authors": "Niemand C et al.",
+"journal": "J Immunol",
+"title": "Activation of STAT3 by IL-6 and IL-10 in primary human macrophages is differentially modulated by suppressor of cytokine signaling 3.",
+"year": "2003",
+"db": "pubmed",
+"id": "12626585"
+}
+]
+},
+{
+"label": "IFNAR:JAK1:TYK2",
+"class": "Complex",
+"box": [
+515.0,
+742.8,
+192.0,
+140.5
+],
+"props": [
+[
+"Compartment",
+"plasma membrane"
+]
+]
+},
+{
+"label": "IFNAR1",
+"class": "Macromolecule",
+"box": [
+527.0,
+758.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"plasma membrane"
+],
+[
+"HGNC",
+"HGNC:5432"
+],
+[
+"HGNC symbol",
+"IFNAR1"
+],
+[
+"Previous symbols",
+"IFNAR"
+],
+[
+"Alias symbols",
+"IFRC"
+],
+[
+"Entrez",
+"3454"
+],
+[
+"Ensembl",
+"ENSG00000142166"
+],
+[
+"RefSeq",
+"NM_000629"
+],
+[
+"UniProt",
+"P17181"
+]
+]
+},
+{
+"label": "IFNAR2",
+"class": "Macromolecule",
+"box": [
+615.0,
+758.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"plasma membrane"
+],
+[
+"HGNC",
+"HGNC:5433"
+],
+[
+"HGNC symbol",
+"IFNAR2"
+],
+[
+"Previous symbols",
+"IFNABR"
+],
+[
+"Entrez",
+"3455"
+],
+[
+"Ensembl",
+"ENSG00000159110"
+],
+[
+"RefSeq",
+"NM_000874"
+],
+[
+"UniProt",
+"P48551"
+]
+]
+},
+{
+"label": "JAK1",
+"class": "Macromolecule",
+"box": [
+527.0,
+806.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"plasma membrane"
+],
+[
+"HGNC",
+"HGNC:6190"
+],
+[
+"HGNC symbol",
+"JAK1"
+],
+[
+"Previous symbols",
+"JAK1B"
+],
+[
+"Alias symbols",
+"JAK1A, JTK3"
+],
+[
+"Entrez",
+"3716"
+],
+[
+"Ensembl",
+"ENSG00000162434"
+],
+[
+"RefSeq",
+"NM_002227"
+],
+[
+"UniProt",
+"P23458"
+]
+]
+},
+{
+"label": "TYK2",
+"class": "Macromolecule",
+"box": [
+615.0,
+806.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"plasma membrane"
+],
+[
+"HGNC",
+"HGNC:12440"
+],
+[
+"HGNC symbol",
+"TYK2"
+],
+[
+"Alias symbols",
+"JTK1"
+],
+[
+"Entrez",
+"7297"
+],
+[
+"Ensembl",
+"ENSG00000105397"
+],
+[
+"RefSeq",
+"NM_001385197"
+],
+[
+"UniProt",
+"P29597"
+]
+]
+},
+{
+"label": "type I interferon:IFNAR:JAK1:TYK2",
+"class": "Complex",
+"box": [
+754.2,
+488.8,
+273.5,
+188.5
+],
+"props": [
+[
+"Compartment",
+"plasma membrane"
+]
+]
+},
+{
+"label": "type I interferon",
+"class": "Macromolecule",
+"box": [
+779.0,
+504.8,
+136.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"plasma membrane"
+]
+]
+},
+{
+"label": "IFNAR1",
+"class": "Macromolecule",
+"box": [
+935.8,
+504.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"plasma membrane"
+],
+[
+"HGNC",
+"HGNC:5432"
+],
+[
+"HGNC symbol",
+"IFNAR1"
+],
+[
+"Previous symbols",
+"IFNAR"
+],
+[
+"Alias symbols",
+"IFRC"
+],
+[
+"Entrez",
+"3454"
+],
+[
+"Ensembl",
+"ENSG00000142166"
+],
+[
+"RefSeq",
+"NM_000629"
+],
+[
+"UniProt",
+"P17181"
+]
+]
+},
+{
+"label": "IFNAR2",
+"class": "Macromolecule",
+"box": [
+807.0,
+552.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"plasma membrane"
+],
+[
+"HGNC",
+"HGNC:5433"
+],
+[
+"HGNC symbol",
+"IFNAR2"
+],
+[
+"Previous symbols",
+"IFNABR"
+],
+[
+"Entrez",
+"3455"
+],
+[
+"Ensembl",
+"ENSG00000159110"
+],
+[
+"RefSeq",
+"NM_000874"
+],
+[
+"UniProt",
+"P48551"
+]
+]
+},
+{
+"label": "JAK1",
+"class": "Macromolecule",
+"box": [
+935.8,
+552.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"plasma membrane"
+],
+[
+"HGNC",
+"HGNC:6190"
+],
+[
+"HGNC symbol",
+"JAK1"
+],
+[
+"Previous symbols",
+"JAK1B"
+],
+[
+"Alias symbols",
+"JAK1A, JTK3"
+],
+[
+"Entrez",
+"3716"
+],
+[
+"Ensembl",
+"ENSG00000162434"
+],
+[
+"RefSeq",
+"NM_002227"
+],
+[
+"UniProt",
+"P23458"
+]
+]
+},
+{
+"label": "TYK2",
+"class": "Macromolecule",
+"box": [
+807.0,
+600.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"plasma membrane"
+],
+[
+"HGNC",
+"HGNC:12440"
+],
+[
+"HGNC symbol",
+"TYK2"
+],
+[
+"Alias symbols",
+"JTK1"
+],
+[
+"Entrez",
+"7297"
+],
+[
+"Ensembl",
+"ENSG00000105397"
+],
+[
+"RefSeq",
+"NM_001385197"
+],
+[
+"UniProt",
+"P29597"
+]
+]
+},
+{
+"label": "IL6R:IL6ST:JAK1",
+"class": "Complex",
+"box": [
+515.0,
+1662.8,
+192.0,
+140.5
+],
+"props": [
+[
+"Compartment",
+"plasma membrane"
+]
+]
+},
+{
+"label": "IL6R",
+"class": "Macromolecule",
+"box": [
+527.0,
+1678.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"plasma membrane"
+],
+[
+"HGNC",
+"HGNC:6019"
+],
+[
+"HGNC symbol",
+"IL6R"
+],
+[
+"Alias symbols",
+"CD126, IL-6R, IL-1Ra, IL6RA, gp80"
+],
+[
+"Entrez",
+"3570"
+],
+[
+"Ensembl",
+"ENSG00000160712"
+],
+[
+"RefSeq",
+"NM_000565"
+],
+[
+"UniProt",
+"P08887"
+]
+]
+},
+{
+"label": "IL6ST",
+"class": "Macromolecule",
+"box": [
+615.0,
+1678.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"plasma membrane"
+],
+[
+"HGNC",
+"HGNC:6021"
+],
+[
+"HGNC symbol",
+"IL6ST"
+],
+[
+"Alias symbols",
+"GP130, CD130, sGP130, IL-6RB"
+],
+[
+"Entrez",
+"3572"
+],
+[
+"Ensembl",
+"ENSG00000134352"
+],
+[
+"RefSeq",
+"NM_002184"
+],
+[
+"UniProt",
+"P40189"
+]
+]
+},
+{
+"label": "JAK1",
+"class": "Macromolecule",
+"box": [
+527.0,
+1726.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"plasma membrane"
+],
+[
+"HGNC",
+"HGNC:6190"
+],
+[
+"HGNC symbol",
+"JAK1"
+],
+[
+"Previous symbols",
+"JAK1B"
+],
+[
+"Alias symbols",
+"JAK1A, JTK3"
+],
+[
+"Entrez",
+"3716"
+],
+[
+"Ensembl",
+"ENSG00000162434"
+],
+[
+"RefSeq",
+"NM_002227"
+],
+[
+"UniProt",
+"P23458"
+]
+]
+},
+{
+"label": "IL-6:IL6R:IL6ST:JAK1",
+"class": "Complex",
+"box": [
+795.0,
+1432.8,
+192.0,
+140.5
+],
+"props": [
+[
+"Compartment",
+"plasma membrane"
+]
+]
+},
+{
+"label": "IL-6",
+"class": "Macromolecule",
+"box": [
+807.0,
+1448.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"plasma membrane"
+],
+[
+"Full name",
+"Interleukin-6"
+],
+[
+"Alternative names",
+"B-cell stimulatory factor 2; CTL differentiation factor; Hybridoma growth factor; Interferon beta-2"
+],
+[
+"Function",
+"Cytokine with a wide variety of biological functions in immunity, tissue regeneration, and metabolism. Binds to IL6R, then the complex associates to the signaling subunit IL6ST/gp130 to trigger the intracellular IL6-signaling pathway (Probable)."
+],
+[
+"Location",
+"Secreted"
+],
+[
+"HGNC",
+"HGNC:6018"
+],
+[
+"HGNC symbol",
+"IL6"
+],
+[
+"Previous symbols",
+"IFNB2"
+],
+[
+"Alias symbols",
+"IL-6, BSF2, HGF, HSF"
+],
+[
+"Entrez",
+"3569"
+],
+[
+"Ensembl",
+"ENSG00000136244"
+],
+[
+"RefSeq",
+"NM_000600"
+],
+[
+"UniProt",
+"P05231"
+]
+]
+},
+{
+"label": "IL6R",
+"class": "Macromolecule",
+"box": [
+895.0,
+1448.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"plasma membrane"
+],
+[
+"HGNC",
+"HGNC:6019"
+],
+[
+"HGNC symbol",
+"IL6R"
+],
+[
+"Alias symbols",
+"CD126, IL-6R, IL-1Ra, IL6RA, gp80"
+],
+[
+"Entrez",
+"3570"
+],
+[
+"Ensembl",
+"ENSG00000160712"
+],
+[
+"RefSeq",
+"NM_000565"
+],
+[
+"UniProt",
+"P08887"
+]
+]
+},
+{
+"label": "IL6ST",
+"class": "Macromolecule",
+"box": [
+807.0,
+1496.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"plasma membrane"
+],
+[
+"HGNC",
+"HGNC:6021"
+],
+[
+"HGNC symbol",
+"IL6ST"
+],
+[
+"Alias symbols",
+"GP130, CD130, sGP130, IL-6RB"
+],
+[
+"Entrez",
+"3572"
+],
+[
+"Ensembl",
+"ENSG00000134352"
+],
+[
+"RefSeq",
+"NM_002184"
+],
+[
+"UniProt",
+"P40189"
+]
+]
+},
+{
+"label": "JAK1",
+"class": "Macromolecule",
+"box": [
+895.0,
+1496.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"plasma membrane"
+],
+[
+"HGNC",
+"HGNC:6190"
+],
+[
+"HGNC symbol",
+"JAK1"
+],
+[
+"Previous symbols",
+"JAK1B"
+],
+[
+"Alias symbols",
+"JAK1A, JTK3"
+],
+[
+"Entrez",
+"3716"
+],
+[
+"Ensembl",
+"ENSG00000162434"
+],
+[
+"RefSeq",
+"NM_002227"
+],
+[
+"UniProt",
+"P23458"
+]
+]
+},
+{
+"label": "IL10RA:IL10RB:JAK1:TYK2",
+"class": "Complex",
+"box": [
+515.0,
+1202.8,
+192.0,
+140.5
+],
+"props": [
+[
+"Compartment",
+"plasma membrane"
+]
+]
+},
+{
+"label": "IL10RA",
+"class": "Macromolecule",
+"box": [
+527.0,
+1218.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"plasma membrane"
+],
+[
+"HGNC",
+"HGNC:5964"
+],
+[
+"HGNC symbol",
+"IL10RA"
+],
+[
+"Previous symbols",
+"IL10R"
+],
+[
+"Alias symbols",
+"HIL-10R, CDW210A, CD210a, CD210"
+],
+[
+"Entrez",
+"3587"
+],
+[
+"Ensembl",
+"ENSG00000110324"
+],
+[
+"RefSeq",
+"NM_001558"
+],
+[
+"UniProt",
+"Q13651"
+]
+]
+},
+{
+"label": "IL10RB",
+"class": "Macromolecule",
+"box": [
+615.0,
+1218.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"plasma membrane"
+],
+[
+"HGNC",
+"HGNC:5965"
+],
+[
+"HGNC symbol",
+"IL10RB"
+],
+[
+"Previous symbols",
+"CRFB4, D21S58, D21S66"
+],
+[
+"Alias symbols",
+"CRF2-4, CDW210B, IL-10R2"
+],
+[
+"Entrez",
+"3588"
+],
+[
+"Ensembl",
+"ENSG00000243646"
+],
+[
+"RefSeq",
+"NM_000628"
+],
+[
+"UniProt",
+"Q08334"
+]
+]
+},
+{
+"label": "JAK1",
+"class": "Macromolecule",
+"box": [
+527.0,
+1266.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"plasma membrane"
+],
+[
+"HGNC",
+"HGNC:6190"
+],
+[
+"HGNC symbol",
+"JAK1"
+],
+[
+"Previous symbols",
+"JAK1B"
+],
+[
+"Alias symbols",
+"JAK1A, JTK3"
+],
+[
+"Entrez",
+"3716"
+],
+[
+"Ensembl",
+"ENSG00000162434"
+],
+[
+"RefSeq",
+"NM_002227"
+],
+[
+"UniProt",
+"P23458"
+]
+]
+},
+{
+"label": "TYK2",
+"class": "Macromolecule",
+"box": [
+615.0,
+1266.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"plasma membrane"
+],
+[
+"HGNC",
+"HGNC:12440"
+],
+[
+"HGNC symbol",
+"TYK2"
+],
+[
+"Alias symbols",
+"JTK1"
+],
+[
+"Entrez",
+"7297"
+],
+[
+"Ensembl",
+"ENSG00000105397"
+],
+[
+"RefSeq",
+"NM_001385197"
+],
+[
+"UniProt",
+"P29597"
+]
+]
+},
+{
+"label": "IL-10:IL10RA:IL10RB:JAK1:TYK2",
+"class": "Complex",
+"box": [
+795.0,
+948.8,
+192.0,
+188.5
+],
+"props": [
+[
+"Compartment",
+"plasma membrane"
+]
+]
+},
+{
+"label": "IL-10",
+"class": "Macromolecule",
+"box": [
+807.0,
+964.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"plasma membrane"
+],
+[
+"HGNC",
+"HGNC:5962"
+],
+[
+"HGNC symbol",
+"IL10"
+],
+[
+"Alias symbols",
+"CSIF, TGIF, IL10A, IL-10"
+],
+[
+"Entrez",
+"3586"
+],
+[
+"Ensembl",
+"ENSG00000136634"
+],
+[
+"RefSeq",
+"NM_000572"
+],
+[
+"UniProt",
+"P22301"
+]
+]
+},
+{
+"label": "IL10RA",
+"class": "Macromolecule",
+"box": [
+895.0,
+964.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"plasma membrane"
+],
+[
+"HGNC",
+"HGNC:5964"
+],
+[
+"HGNC symbol",
+"IL10RA"
+],
+[
+"Previous symbols",
+"IL10R"
+],
+[
+"Alias symbols",
+"HIL-10R, CDW210A, CD210a, CD210"
+],
+[
+"Entrez",
+"3587"
+],
+[
+"Ensembl",
+"ENSG00000110324"
+],
+[
+"RefSeq",
+"NM_001558"
+],
+[
+"UniProt",
+"Q13651"
+]
+]
+},
+{
+"label": "IL10RB",
+"class": "Macromolecule",
+"box": [
+807.0,
+1012.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"plasma membrane"
+],
+[
+"HGNC",
+"HGNC:5965"
+],
+[
+"HGNC symbol",
+"IL10RB"
+],
+[
+"Previous symbols",
+"CRFB4, D21S58, D21S66"
+],
+[
+"Alias symbols",
+"CRF2-4, CDW210B, IL-10R2"
+],
+[
+"Entrez",
+"3588"
+],
+[
+"Ensembl",
+"ENSG00000243646"
+],
+[
+"RefSeq",
+"NM_000628"
+],
+[
+"UniProt",
+"Q08334"
+]
+]
+},
+{
+"label": "JAK1",
+"class": "Macromolecule",
+"box": [
+895.0,
+1012.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"plasma membrane"
+],
+[
+"HGNC",
+"HGNC:6190"
+],
+[
+"HGNC symbol",
+"JAK1"
+],
+[
+"Previous symbols",
+"JAK1B"
+],
+[
+"Alias symbols",
+"JAK1A, JTK3"
+],
+[
+"Entrez",
+"3716"
+],
+[
+"Ensembl",
+"ENSG00000162434"
+],
+[
+"RefSeq",
+"NM_002227"
+],
+[
+"UniProt",
+"P23458"
+]
+]
+},
+{
+"label": "TYK2",
+"class": "Macromolecule",
+"box": [
+807.0,
+1060.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"plasma membrane"
+],
+[
+"HGNC",
+"HGNC:12440"
+],
+[
+"HGNC symbol",
+"TYK2"
+],
+[
+"Alias symbols",
+"JTK1"
+],
+[
+"Entrez",
+"7297"
+],
+[
+"Ensembl",
+"ENSG00000105397"
+],
+[
+"RefSeq",
+"NM_001385197"
+],
+[
+"UniProt",
+"P29597"
+]
+]
+},
+{
+"id": "olikf53a",
+"label": "",
+"class": "Process",
+"box": [
+659.0,
+571.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"type I interferon",
+"IFNAR:JAK1:TYK2"
+],
+"out": [
+"type I interferon:IFNAR:JAK1:TYK2"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Thomas C et al.",
+"journal": "Cell",
+"title": "Structural linkage between ligand discrimination and receptor activation by type I interferons.",
+"year": "2011",
+"db": "pubmed",
+"id": "21854986"
+},
+{
+"authors": "Stark GR et al.",
+"journal": "Immunity",
+"title": "The JAK-STAT pathway at twenty.",
+"year": "2012",
+"db": "pubmed",
+"id": "22520844"
+}
+]
+},
+{
+"id": "rt9cenui",
+"label": "",
+"class": "Process",
+"box": [
+659.0,
+1491.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"IL-6",
+"IL6R:IL6ST:JAK1"
+],
+"out": [
+"IL-6:IL6R:IL6ST:JAK1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Boulanger MJ et al.",
+"journal": "Science",
+"title": "Hexameric structure and assembly of the interleukin-6/IL-6 alpha-receptor/gp130 complex.",
+"year": "2003",
+"db": "pubmed",
+"id": "12829785"
+},
+{
+"authors": "Heinrich PC et al.",
+"journal": "Biochem J",
+"title": "Principles of interleukin (IL)-6-type cytokine signalling and its regulation.",
+"year": "2003",
+"db": "pubmed",
+"id": "12773095"
+}
+]
+},
+{
+"id": "ohmncwbs",
+"label": "",
+"class": "Process",
+"box": [
+659.0,
+1031.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"IL-10",
+"IL10RA:IL10RB:JAK1:TYK2"
+],
+"out": [
+"IL-10:IL10RA:IL10RB:JAK1:TYK2"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Finbloom DS et al.",
+"journal": "J Immunol",
+"title": "IL-10 induces the tyrosine phosphorylation of tyk2 and Jak1 and the differential assembly of STAT1 alpha and STAT3 complexes in human T cells and monocytes.",
+"year": "1995",
+"db": "pubmed",
+"id": "7543512"
+},
+{
+"authors": "Riley JK et al.",
+"journal": "J Biol Chem",
+"title": "Interleukin-10 receptor signaling through the JAK-STAT pathway. Requirement for two distinct receptor-derived signals for anti-inflammatory action.",
+"year": "1999",
+"db": "pubmed",
+"id": "10347215"
+}
+]
+},
+{
+"label": "IFN-alpha",
+"class": "Macromolecule",
+"box": [
+51.0,
+443.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"extracellular space"
+],
+[
+"Full name",
+"Interferon alpha-1"
+],
+[
+"Alternative names",
+"Interferon alpha-D"
+],
+[
+"Function",
+"Produced by macrophages, IFN-alpha have antiviral activities. Interferon stimulates the production of two enzymes: a protein kinase and an oligoadenylate synthetase"
+],
+[
+"Location",
+"Secreted"
+],
+[
+"HGNC",
+"HGNC:5417"
+],
+[
+"HGNC symbol",
+"IFNA1"
+],
+[
+"Alias symbols",
+"IFNA@, IFL, IFN, IFN-ALPHA, IFNA13, IFN-alphaD"
+],
+[
+"Entrez",
+"3439"
+],
+[
+"Ensembl",
+"ENSG00000197919"
+],
+[
+"RefSeq",
+"NM_024013"
+],
+[
+"UniProt",
+"P0DY56"
+]
+]
+},
+{
+"label": "IFN-beta",
+"class": "Macromolecule",
+"box": [
+51.0,
+683.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"extracellular space"
+],
+[
+"Full name",
+"Interferon beta"
+],
+[
+"Alternative names",
+"Fibroblast interferon"
+],
+[
+"Function",
+"Type I interferon cytokine that plays a key role in the innate immune response to infection, developing tumors and other inflammatory stimuli. Signals via binding to high-affinity (IFNAR2) and low-affinity (IFNAR1) heterodimeric receptor, activating the canonical Jak-STAT signaling pathway resulting in transcriptional activation or repression of interferon-regulated genes that encode the effectors of the interferon response, such as antiviral proteins, regulators of cell proliferation and differentiation, and immunoregulatory proteins."
+],
+[
+"Location",
+"Secreted"
+],
+[
+"HGNC",
+"HGNC:5434"
+],
+[
+"HGNC symbol",
+"IFNB1"
+],
+[
+"Previous symbols",
+"IFNB"
+],
+[
+"Alias symbols",
+"IFB, IFF"
+],
+[
+"Entrez",
+"3456"
+],
+[
+"Ensembl",
+"ENSG00000171855"
+],
+[
+"RefSeq",
+"NM_002176"
+],
+[
+"UniProt",
+"P01574"
+]
+]
+},
+{
+"label": "≡",
+"class": "Operator",
+"box": [
+196.0,
+568.0,
+30.0,
+30.0
+],
+"props": [
+[
+"Compartment",
+"extracellular space"
+]
+]
+},
+{
+"label": "type I interferon",
+"class": "Macromolecule",
+"box": [
+263.0,
+563.0,
+136.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"extracellular space"
+]
+]
+},
+{
+"label": "IL-6",
+"class": "Macromolecule",
+"box": [
+291.0,
+1483.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"extracellular space"
+],
+[
+"Full name",
+"Interleukin-6"
+],
+[
+"Alternative names",
+"B-cell stimulatory factor 2; CTL differentiation factor; Hybridoma growth factor; Interferon beta-2"
+],
+[
+"Function",
+"Cytokine with a wide variety of biological functions in immunity, tissue regeneration, and metabolism. Binds to IL6R, then the complex associates to the signaling subunit IL6ST/gp130 to trigger the intracellular IL6-signaling pathway (Probable)."
+],
+[
+"Location",
+"Secreted"
+],
+[
+"HGNC",
+"HGNC:6018"
+],
+[
+"HGNC symbol",
+"IL6"
+],
+[
+"Previous symbols",
+"IFNB2"
+],
+[
+"Alias symbols",
+"IL-6, BSF2, HGF, HSF"
+],
+[
+"Entrez",
+"3569"
+],
+[
+"Ensembl",
+"ENSG00000136244"
+],
+[
+"RefSeq",
+"NM_000600"
+],
+[
+"UniProt",
+"P05231"
+]
+]
+},
+{
+"label": "IL-10",
+"class": "Macromolecule",
+"box": [
+291.0,
+1023.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"extracellular space"
+],
+[
+"HGNC",
+"HGNC:5962"
+],
+[
+"HGNC symbol",
+"IL10"
+],
+[
+"Alias symbols",
+"CSIF, TGIF, IL10A, IL-10"
+],
+[
+"Entrez",
+"3586"
+],
+[
+"Ensembl",
+"ENSG00000136634"
+],
+[
+"RefSeq",
+"NM_000572"
+],
+[
+"UniProt",
+"P22301"
+]
+]
+}
+]
+}
