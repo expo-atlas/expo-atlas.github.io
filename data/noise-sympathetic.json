@@ -1085,10 +1085,166 @@
 ]
 },
 {
-"label": "renin",
+"label": "ADCY6",
 "class": "Macromolecule",
 "box": [
 3023.0,
+1135.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"juxtaglomerular cell (plasma membrane)"
+],
+[
+"HGNC",
+"HGNC:237"
+],
+[
+"HGNC symbol",
+"ADCY6"
+],
+[
+"Alias symbols",
+"AC6"
+],
+[
+"Entrez",
+"112"
+],
+[
+"Ensembl",
+"ENSG00000174233"
+],
+[
+"RefSeq",
+"NM_020983"
+],
+[
+"UniProt",
+"O43306"
+]
+]
+},
+{
+"label": "ATP",
+"class": "SimpleChemical",
+"box": [
+2943.0,
+1135.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"juxtaglomerular cell"
+],
+[
+"Full name",
+"ATP(4-)"
+],
+[
+"Synonyms",
+"ATP; adenosine 5'-triphosphate(4-)"
+],
+[
+"Definition",
+"A nucleoside triphosphate(4−) obtained by global deprotonation of the triphosphate OH groups of ATP; major species present at pH 7.3."
+],
+[
+"Formula",
+"C10H12N5O13P3"
+],
+[
+"ChEBI",
+"CHEBI:30616"
+],
+[
+"InChI",
+"InChI=1S/C10H16N5O13P3/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(26-10)1-25-30(21,22)28-31(23,24)27-29(18,19)20/h2-4,6-7,10,16-17H,1H2,(H,21,22)(H,23,24)(H2,11,12,13)(H2,18,19,20)/p-4/t4-,6-,7-,10-/m1/s1"
+],
+[
+"InChIKey",
+"ZKHQWZAMYRWXGA-KQYNXXCUSA-J"
+]
+]
+},
+{
+"label": "cAMP",
+"class": "SimpleChemical",
+"box": [
+3223.0,
+975.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"juxtaglomerular cell"
+],
+[
+"Full name",
+"3',5'-cyclic AMP"
+],
+[
+"Synonyms",
+"ADENOSINE-3',5'-CYCLIC-MONOPHOSPHATE; Adenosine 3',5'-cyclic phosphate; Adenosine 3',5'-phosphate; Cyclic AMP; Cyclic adenylic acid; adenosine 3',5'-(hydrogen phosphate); adenosine 3',5'-cyclic monophosphate; cAMP"
+],
+[
+"Definition",
+"A 3',5'-cyclic purine nucleotide having having adenine as the nucleobase."
+],
+[
+"Formula",
+"C10H12N5O6P"
+],
+[
+"ChEBI",
+"CHEBI:17489"
+],
+[
+"KEGG",
+"C00575"
+],
+[
+"HMDB",
+"HMDB0000058"
+],
+[
+"InChI",
+"InChI=1S/C10H12N5O6P/c11-8-5-9(13-2-12-8)15(3-14-5)10-6(16)7-4(20-10)1-19-22(17,18)21-7/h2-4,6-7,10,16H,1H2,(H,17,18)(H2,11,12,13)/t4-,6-,7-,10-/m1/s1"
+],
+[
+"InChIKey",
+"IVOMOUWHDPKRLL-KQYNXXCUSA-N"
+]
+]
+},
+{
+"label": "PPi",
+"class": "SimpleChemical",
+"box": [
+3143.0,
+1135.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Compartment",
+"juxtaglomerular cell"
+]
+]
+},
+{
+"label": "renin",
+"class": "Macromolecule",
+"box": [
+3383.0,
 1135.0,
 80.0,
 40.0
@@ -1163,20 +1319,71 @@
 },
 "references": [
 {
-"authors": "DiBona GF et al.",
-"journal": "Physiol Rev",
-"title": "Neural control of renal function.",
-"year": "1997",
+"authors": "Milavec-Krizman M et al.",
+"year": "1985",
+"title": "Characterization of beta-adrenoceptor subtypes in rat kidney with new highly selective beta 1 blockers and their role in renin release.",
+"journal": "Biochem Pharmacol",
 "db": "pubmed",
-"id": "9016301"
+"id": "2865957"
 },
 {
-"authors": "Kurt B et al.",
-"journal": "Am J Physiol Renal Physiol",
-"title": "Control of renin secretion from kidneys with renin cell hyperplasia.",
-"year": "2014",
+"authors": "Johns EJ",
+"year": "1981",
+"title": "An investigation into the type of beta-adrenoceptor mediating sympathetically activated renin release in the cat.",
+"journal": "Br J Pharmacol",
 "db": "pubmed",
-"id": "24285498"
+"id": "6113867"
+},
+{
+"authors": "Himori N et al.",
+"year": "1980",
+"title": "Analysis of beta-adrenoceptors mediating renin release produced by isoproterenol in conscious dogs.",
+"journal": "Am J Physiol",
+"db": "pubmed",
+"id": "6103674"
+}
+]
+},
+{
+"id": "zyazychf",
+"label": "",
+"class": "Process",
+"box": [
+3051.0,
+983.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"ATP"
+],
+"out": [
+"cAMP",
+"PPi"
+],
+"by": [
+"ADCY6",
+"noradrenaline:ADRB1"
+]
+},
+"references": [
+{
+"authors": "Aldehni F et al.",
+"year": "2011",
+"title": "Stimulation of renin secretion by catecholamines is dependent on adenylyl cyclases 5 and 6.",
+"journal": "Hypertension",
+"db": "pubmed",
+"id": "21282557"
+},
+{
+"authors": "Kurtz A",
+"journal": "Am J Hypertens",
+"title": "Control of renin synthesis and secretion.",
+"year": "2012",
+"db": "pubmed",
+"id": "22237158"
 }
 ]
 },
@@ -1185,7 +1392,7 @@
 "label": "",
 "class": "Process",
 "box": [
-3051.0,
+3411.0,
 983.0,
 24.0,
 24.0
@@ -1199,10 +1406,26 @@
 "renin"
 ],
 "by": [
-"noradrenaline:ADRB1"
+"cAMP"
 ]
 },
 "references": [
+{
+"authors": "Friis UG et al.",
+"year": "1999",
+"title": "Direct demonstration of exocytosis and endocytosis in single mouse juxtaglomerular cells.",
+"journal": "Circ Res",
+"db": "pubmed",
+"id": "10222340"
+},
+{
+"authors": "Chen L et al.",
+"year": "2007",
+"title": "Regulation of renin in mice with Cre recombinase-mediated deletion of G protein Gsalpha in juxtaglomerular cells.",
+"journal": "Am J Physiol Renal Physiol",
+"db": "pubmed",
+"id": "16822937"
+},
 {
 "authors": "Kurtz A",
 "journal": "Am J Hypertens",
@@ -1210,14 +1433,6 @@
 "year": "2012",
 "db": "pubmed",
 "id": "22237158"
-},
-{
-"authors": "Kurt B et al.",
-"journal": "Am J Physiol Renal Physiol",
-"title": "Control of renin secretion from kidneys with renin cell hyperplasia.",
-"year": "2014",
-"db": "pubmed",
-"id": "24285498"
 }
 ]
 },
@@ -1429,7 +1644,7 @@
 "label": "renin",
 "class": "Macromolecule",
 "box": [
-3023.0,
+3383.0,
 55.0,
 80.0,
 40.0
@@ -1485,7 +1700,7 @@
 "label": "angiotensinogen",
 "class": "Macromolecule",
 "box": [
-3143.0,
+3503.0,
 195.0,
 120.0,
 40.0
@@ -1545,7 +1760,7 @@
 "label": "angiotensin I",
 "class": "Macromolecule",
 "box": [
-3291.0,
+3651.0,
 55.0,
 104.0,
 40.0
@@ -1581,7 +1796,7 @@
 "label": "ACE",
 "class": "Macromolecule",
 "box": [
-3443.0,
+3803.0,
 195.0,
 80.0,
 40.0
@@ -1645,7 +1860,7 @@
 "label": "angiotensin II",
 "class": "Macromolecule",
 "box": [
-3567.0,
+3927.0,
 55.0,
 112.0,
 40.0
@@ -1713,7 +1928,7 @@
 "label": "",
 "class": "Process",
 "box": [
-3191.0,
+3551.0,
 63.0,
 24.0,
 24.0
@@ -1746,7 +1961,7 @@
 "label": "",
 "class": "Process",
 "box": [
-3471.0,
+3831.0,
 63.0,
 24.0,
 24.0

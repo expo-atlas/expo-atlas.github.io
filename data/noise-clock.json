@@ -273,7 +273,7 @@
 ]
 },
 {
-"label": "ARNTL",
+"label": "CLOCK",
 "class": "NucleicAcidFeature",
 "box": [
 275.0,
@@ -287,8 +287,48 @@
 "nucleus"
 ],
 [
+"Full name",
+"Circadian locomoter output cycles protein kaput"
+],
+[
+"Alternative names",
+"Class E basic helix-loop-helix protein 8"
+],
+[
+"Function",
+"Transcriptional activator which forms a core component of the circadian clock. The circadian clock, an internal time-keeping system, regulates various physiological processes through the generation of approximately 24 hour circadian rhythms in gene expression, which are translated into rhythms in metabolism and behavior."
+],
+[
+"Location",
+"Nucleus, Cytoplasm, Cytoplasm, cytosol"
+],
+[
+"HGNC",
+"HGNC:2082"
+],
+[
 "HGNC symbol",
-"ARNTL"
+"CLOCK"
+],
+[
+"Alias symbols",
+"KIAA0334, KAT13D, bHLHe8"
+],
+[
+"Entrez",
+"9575"
+],
+[
+"Ensembl",
+"ENSG00000134852"
+],
+[
+"RefSeq",
+"NM_004898"
+],
+[
+"UniProt",
+"O15516"
 ]
 ]
 },
@@ -325,7 +365,7 @@
 ]
 },
 {
-"label": "ARNTL",
+"label": "CLOCK",
 "class": "NucleicAcidFeature",
 "box": [
 535.0,
@@ -339,8 +379,48 @@
 "nucleus"
 ],
 [
+"Full name",
+"Circadian locomoter output cycles protein kaput"
+],
+[
+"Alternative names",
+"Class E basic helix-loop-helix protein 8"
+],
+[
+"Function",
+"Transcriptional activator which forms a core component of the circadian clock. The circadian clock, an internal time-keeping system, regulates various physiological processes through the generation of approximately 24 hour circadian rhythms in gene expression, which are translated into rhythms in metabolism and behavior."
+],
+[
+"Location",
+"Nucleus, Cytoplasm, Cytoplasm, cytosol"
+],
+[
+"HGNC",
+"HGNC:2082"
+],
+[
 "HGNC symbol",
-"ARNTL"
+"CLOCK"
+],
+[
+"Alias symbols",
+"KIAA0334, KAT13D, bHLHe8"
+],
+[
+"Entrez",
+"9575"
+],
+[
+"Ensembl",
+"ENSG00000134852"
+],
+[
+"RefSeq",
+"NM_004898"
+],
+[
+"UniProt",
+"O15516"
 ]
 ]
 },
@@ -348,8 +428,8 @@
 "label": "ARNTL",
 "class": "Macromolecule",
 "box": [
-1435.0,
-1183.0,
+1275.0,
+1043.0,
 80.0,
 40.0
 ],
@@ -368,8 +448,8 @@
 "label": "CLOCK",
 "class": "Macromolecule",
 "box": [
-1275.0,
-1043.0,
+1435.0,
+1183.0,
 80.0,
 40.0
 ],
@@ -929,7 +1009,7 @@
 ]
 },
 {
-"id": "sl796sq7",
+"id": "y48b3uuj",
 "label": "",
 "class": "Process",
 "box": [
@@ -944,13 +1024,21 @@
 ""
 ],
 "out": [
-"ARNTL"
+"CLOCK"
 ],
 "by": [
 "AND"
 ]
 },
 "references": [
+{
+"authors": "Chaves I et al.",
+"year": "2014",
+"title": "Insulin-FOXO3 signaling modulates circadian rhythms via regulation of clock transcription.",
+"journal": "Curr Biol",
+"db": "pubmed",
+"id": "24856209"
+},
 {
 "authors": "Kröller-Schön S et al.",
 "journal": "Eur Heart J",
@@ -962,7 +1050,7 @@
 ]
 },
 {
-"id": "cx8vsw21",
+"id": "du460mqj",
 "label": "",
 "class": "Process",
 "box": [
@@ -974,21 +1062,21 @@
 "props": [],
 "reaction": {
 "in": [
-"ARNTL"
+"CLOCK"
 ],
 "out": [
-"ARNTL"
+"CLOCK"
 ],
 "by": []
 },
 "references": [
 {
-"authors": "Kröller-Schön S et al.",
-"journal": "Eur Heart J",
-"title": "Crucial role for Nox2 and sleep deprivation in aircraft noise-induced vascular and cerebral oxidative stress, inflammation, and gene regulation.",
-"year": "2018",
+"authors": "Chaves I et al.",
+"year": "2014",
+"title": "Insulin-FOXO3 signaling modulates circadian rhythms via regulation of clock transcription.",
+"journal": "Curr Biol",
 "db": "pubmed",
-"id": "29905797"
+"id": "24856209"
 }
 ]
 },
@@ -1678,7 +1766,7 @@
 ]
 },
 {
-"label": "ARNTL",
+"label": "CLOCK",
 "class": "NucleicAcidFeature",
 "box": [
 1155.0,
@@ -1692,8 +1780,48 @@
 "cytoplasm"
 ],
 [
+"Full name",
+"Circadian locomoter output cycles protein kaput"
+],
+[
+"Alternative names",
+"Class E basic helix-loop-helix protein 8"
+],
+[
+"Function",
+"Transcriptional activator which forms a core component of the circadian clock. The circadian clock, an internal time-keeping system, regulates various physiological processes through the generation of approximately 24 hour circadian rhythms in gene expression, which are translated into rhythms in metabolism and behavior."
+],
+[
+"Location",
+"Nucleus, Cytoplasm, Cytoplasm, cytosol"
+],
+[
+"HGNC",
+"HGNC:2082"
+],
+[
 "HGNC symbol",
-"ARNTL"
+"CLOCK"
+],
+[
+"Alias symbols",
+"KIAA0334, KAT13D, bHLHe8"
+],
+[
+"Entrez",
+"9575"
+],
+[
+"Ensembl",
+"ENSG00000134852"
+],
+[
+"RefSeq",
+"NM_004898"
+],
+[
+"UniProt",
+"O15516"
 ]
 ]
 },
@@ -1714,7 +1842,7 @@
 ]
 },
 {
-"label": "ARNTL",
+"label": "CLOCK",
 "class": "Macromolecule",
 "box": [
 1435.0,
@@ -1728,8 +1856,48 @@
 "cytoplasm"
 ],
 [
+"Full name",
+"Circadian locomoter output cycles protein kaput"
+],
+[
+"Alternative names",
+"Class E basic helix-loop-helix protein 8"
+],
+[
+"Function",
+"Transcriptional activator which forms a core component of the circadian clock. The circadian clock, an internal time-keeping system, regulates various physiological processes through the generation of approximately 24 hour circadian rhythms in gene expression, which are translated into rhythms in metabolism and behavior."
+],
+[
+"Location",
+"Nucleus, Cytoplasm, Cytoplasm, cytosol"
+],
+[
+"HGNC",
+"HGNC:2082"
+],
+[
 "HGNC symbol",
-"ARNTL"
+"CLOCK"
+],
+[
+"Alias symbols",
+"KIAA0334, KAT13D, bHLHe8"
+],
+[
+"Entrez",
+"9575"
+],
+[
+"Ensembl",
+"ENSG00000134852"
+],
+[
+"RefSeq",
+"NM_004898"
+],
+[
+"UniProt",
+"O15516"
 ]
 ]
 },
@@ -2233,7 +2401,7 @@
 ]
 },
 {
-"id": "i9bycd8u",
+"id": "r3gouoss",
 "label": "",
 "class": "Process",
 "box": [
@@ -2248,25 +2416,25 @@
 ""
 ],
 "out": [
-"ARNTL"
+"CLOCK"
 ],
 "by": [
-"ARNTL"
+"CLOCK"
 ]
 },
 "references": [
 {
-"authors": "Preitner N et al.",
-"journal": "Cell",
-"title": "The orphan nuclear receptor REV-ERBalpha controls circadian transcription within the positive limb of the mammalian circadian oscillator.",
-"year": "2002",
+"authors": "Chaves I et al.",
+"year": "2014",
+"title": "Insulin-FOXO3 signaling modulates circadian rhythms via regulation of clock transcription.",
+"journal": "Curr Biol",
 "db": "pubmed",
-"id": "12150932"
+"id": "24856209"
 }
 ]
 },
 {
-"id": "gvkh9e9u",
+"id": "uqn9jkks",
 "label": "",
 "class": "Process",
 "box": [
@@ -2278,21 +2446,21 @@
 "props": [],
 "reaction": {
 "in": [
-"ARNTL"
+"CLOCK"
 ],
 "out": [
-"ARNTL"
+"CLOCK"
 ],
 "by": []
 },
 "references": [
 {
-"authors": "Preitner N et al.",
-"journal": "Cell",
-"title": "The orphan nuclear receptor REV-ERBalpha controls circadian transcription within the positive limb of the mammalian circadian oscillator.",
-"year": "2002",
+"authors": "Chaves I et al.",
+"year": "2014",
+"title": "Insulin-FOXO3 signaling modulates circadian rhythms via regulation of clock transcription.",
+"journal": "Curr Biol",
 "db": "pubmed",
-"id": "12150932"
+"id": "24856209"
 }
 ]
 },
