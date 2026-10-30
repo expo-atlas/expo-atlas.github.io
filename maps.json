@@ -378,6 +378,33 @@
 "hasText": true
 },
 {
+"id": "interfaces-open",
+"title": "Open sockets: inputs no module provides",
+"topic": "Open sockets: inputs no module provides",
+"group": "Modules and interfaces",
+"kind": null,
+"tag": "draft",
+"tab": null,
+"image": "files/interfaces-open.svg",
+"width": 1549.0,
+"height": 1800.0,
+"scale": 1,
+"annotation": null,
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/interfaces-open.graphml"
+},
+{
+"label": "SVG",
+"url": "files/interfaces-open.svg"
+}
+],
+"data": "data/interfaces-open-text.json",
+"hasText": true
+},
+{
 "id": "pair-nfkb-ikk--inflammasome-nlrp3",
 "title": "NF-κB → Inflammasome (RELA:NFKB1)",
 "topic": "IKK and NF-κB with the IκBα and A20 loops → Particles to the NLRP3 inflammasome and IL-1beta",
