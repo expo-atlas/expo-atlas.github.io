@@ -71,15 +71,10 @@ html .m2-ctrl button:hover { background: var(--m2-accent); border-color: var(--m
    buttons (user, 2026-11-09: the button selected, not its text) */
 html #sp-chip:hover, html #sp.sp-open #sp-chip { background: var(--m2-accent); border-color: var(--m2-accent); color: var(--m2-on-accent, #fff); }
 
-/* the page's length is set by the map column alone: the map, its name, description and references (user, 2026-11-09).
-   The list on the left and the panel on the right never make the page longer (a list of thousands of maps, a long
-   annotation): they scroll inside and stay in sight while the page scrolls, as in Reactome Scroll, the search above
-   the list with them; at the page's end they stop 8 px before it, the room left under them as before (user) */
+/* scrolling as in Default (user, 2026-11-09, for Default Lines on 2026-11-10): the page moves as one, the list with
+   its search, the map and the panel together; the list and the panel still scroll inside. Pinned in sight until then. */
 @media (min-width: 941px) {
-  html .m2-nav { align-self: stretch; contain: size; }
-  html #m2-search { position: sticky; top: 8px; z-index: 2; }
-  html #m2-list { position: sticky; top: 38px; margin-bottom: 8px; }   /* its height the viewer's: down to the download buttons */
-  html .m2-info:not(.m2-over) { align-self: start; position: sticky; top: 8px; contain: size; height: calc(100vh / var(--zoom, 1) - 52px); max-height: none; margin-bottom: 8px; overflow-y: auto; }
+  html .m2-nav { align-self: stretch; }   /* the list's line on its right down to the end of the map column */
 }
 
 
@@ -95,15 +90,9 @@ html .m2-main, html .m2-list-shut .m2-main { margin-left: 0; }
 html #m2-view { border: 0; border-radius: 0; }
 html #m2-downloads, html #m2-title, html #m2-text { padding-left: 12px; padding-right: 12px; }
 html #m2-split { left: -4px; }   /* the list's separator on its line */
-/* the panel joined to the map by a line the whole height of the page: the line belongs to the map column, which
-   sets the page's length, while the panel stays in sight */
-html .m2-info:not(.m2-over) { margin-left: 0; width: var(--m2-info-w, 300px); box-sizing: border-box; padding: 12px 16px; }
+/* the panel joined to the map by a line the whole height of the map column: the line belongs to the map column */
+html .m2-info:not(.m2-over) { margin-left: 0; width: var(--m2-info-w, 240px); box-sizing: border-box; padding: 12px 16px; }   /* as wide as the list by default, 240 px (user, 2026-11-09; was 300) */
 html .m2:has(.m2-info:not(.m2-over):not(:empty)):not(.m2-info-shut) .m2-main { border-right: 1px solid var(--m2-frame); }
-@media (min-width: 941px) {
-  html #m2-search { top: 12px; }
-  html #m2-list { top: 42px; }
-  html .m2-info:not(.m2-over) { top: 0; height: calc(100vh / var(--zoom, 1) - 42px); margin-bottom: 0; }   /* to the window's bottom under the top bar (42 px) */
-}
 @media (max-width: 940px) {
   html .m2 { width: auto; }
   html .m2-nav { border-right: 0; padding-bottom: 12px; }
@@ -463,7 +452,7 @@ html .m2-list-shut #m2-split { left: 0; }
   var ERROR_ICON = '<span class="m2-draft m2-error"><span>image error</span></span>';
   var DL_ICON = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 4v11M7 10l5 5 5-5"/><path d="M4 15v5h16v-5"/></svg>';
   var EXT_ICON = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>';
-  var BUILD = '?v=1794239663';
+  var BUILD = '?v=1794264982';
   var STANDARD = 0.675, MIN = 0.08, MAX = 4, KEEP = 80; // KEEP: pixels of map kept in view
   // how a map opens: 'fit' (the default) or 'read' at the standard zoom. Set by the mode
   // button and remembered by the browser where it can
