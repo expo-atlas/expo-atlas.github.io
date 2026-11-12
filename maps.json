@@ -297,6 +297,33 @@
 "hasText": true
 },
 {
+"id": "trp",
+"title": "TRP-channel sensors: the particle opens TRPV1 and TRPA1",
+"topic": "TRP-channel sensors: the particle opens TRPV1 and TRPA1",
+"group": "ExposomeMap",
+"kind": null,
+"tag": "draft",
+"tab": null,
+"image": "files/trp.svg",
+"width": 1206.0,
+"height": 550.0,
+"scale": 1,
+"annotation": "data/trp.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/trp.graphml"
+},
+{
+"label": "SVG",
+"url": "files/trp.svg"
+}
+],
+"data": "data/trp-text.json",
+"hasText": true
+},
+{
 "id": "exposome-interfaces",
 "title": "ExposomeMap: all modules and the molecules that connect them",
 "topic": "ExposomeMap: all modules and the molecules that connect them",
