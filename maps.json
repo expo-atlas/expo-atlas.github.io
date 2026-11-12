@@ -324,6 +324,33 @@
 "hasText": true
 },
 {
+"id": "scavenger",
+"title": "Scavenger receptors: particle uptake and CD36 signalling",
+"topic": "Scavenger receptors: particle uptake and CD36 signalling",
+"group": "ExposomeMap",
+"kind": null,
+"tag": "draft",
+"tab": null,
+"image": "files/scavenger.svg",
+"width": 1794.0,
+"height": 806.0,
+"scale": 1,
+"annotation": "data/scavenger.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/scavenger.graphml"
+},
+{
+"label": "SVG",
+"url": "files/scavenger.svg"
+}
+],
+"data": "data/scavenger-text.json",
+"hasText": true
+},
+{
 "id": "exposome-interfaces",
 "title": "ExposomeMap: all modules and the molecules that connect them",
 "topic": "ExposomeMap: all modules and the molecules that connect them",
